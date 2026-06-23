@@ -1,0 +1,8 @@
+# Python dependencies for the OBR replication: data pipeline + model + notebooks.
+# Install into a virtual environment (see note below) to avoid the macOS PEP 668 block.
+requests
+openpyxl
+numpy
+pandas
+matplotlib
+odfpy        # read .ods (HMRC tax-receipts file) — needed by 14_fetch_hmrc_tax.py
