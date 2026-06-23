@@ -1,0 +1,10 @@
+# Large backups & raw source data — kept out of git (shared another way)
+archive/
+sources_new/raw_data/
+
+# Python / OS cruft
+__pycache__/
+*.pyc
+.DS_Store
+*.db-journal
+*.db.bak
