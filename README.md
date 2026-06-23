@@ -88,3 +88,4 @@ timestamped backup in `archive/`. Everything is reversible.
 `archive/timeseries_OLD.db` is the pristine pre-cleaning database. `archive/timeseries.db.bak_before_money2_…`
 is the most recent pre-change checkpoint. Every change is logged in `DATA_FIXES_CHANGELOG.md`. To undo
 everything, restore `timeseries_OLD.db`.
+# replication_clean
