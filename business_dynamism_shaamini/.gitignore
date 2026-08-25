@@ -1,0 +1,26 @@
+# ── Large database binaries (exceed GitHub's 100 MB file limit) ──
+database/*.duckdb
+database/*.duckdb.zst
+database/*.duckdb.wal
+database/*.wal
+
+# NOTE: source_inputs/ and reports/ are intentionally COMMITTED (kept in the repo).
+# Only the multi-GB database binaries above are excluded (GitHub's 100 MB limit).
+
+# ── Python ──
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+bd-venv/
+.ipynb_checkpoints/
+
+# ── OS / editor cruft ──
+.DS_Store
+Thumbs.db
+*.swp
+
+# ── Scratch renders ──
+gpage-*.jpg
+*.tmp

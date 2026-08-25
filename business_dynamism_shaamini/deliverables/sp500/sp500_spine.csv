@@ -1,0 +1,1050 @@
+symbol,company_name,cik,sector,sub_industry,hq,founded,sp_entry_date,sp_exit_date,entry_source_url,exit_source_url
+A,Agilent Technologies,1090872.0,Health Care,Life Sciences Tools & Services,"Santa Clara, California",1999,2000-06-05,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+AABA,,,,,,,1999-12-08,2017-06-19,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://press.spglobal.com/2017-06-09-Hilton-Worldwide-Align-Technology-ANSYS-Set-to-Join-S-P-500-Teradata-and-Ryder-System-to-Join-S-P-MidCap-400
+AAL,American Airlines Group Inc.,6201.0,"Air Transportation, Scheduled",,,,1996-01-02,2024-09-23,https://press.spglobal.com/2015-03-16-American-Airlines-Group-Set-to-Join-the-S-P-500,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+AAMRQ,,,,,,,1996-01-02,2003-03-14,,
+AAP,ADVANCE AUTO PARTS INC,1158449.0,Retail-Auto & Home Supply Stores,,,,2015-07-09,2023-08-25,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+AAPL,Apple Inc.,320193.0,Information Technology,"Technology Hardware, Storage & Peripherals","Cupertino, California",1977,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ABBV,AbbVie,1551152.0,Health Care,Biotechnology,"North Chicago, Illinois",2013 (1888),2013-01-02,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ABC,,,,,,,2001-08-30,2023-08-30,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ABI,,,,,,,1996-01-02,2008-11-24,,
+ABKFQ,,,,,,,2000-12-11,2008-06-11,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.aaii.com/journal/article/the-outcasts-stocks-removed-from-the-sp-500
+ABMD,,,,,,,2018-05-31,2022-12-22,,
+ABNB,Airbnb,1559720.0,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","San Francisco, California",2008,2023-09-18,,https://press.spglobal.com/2023-09-01-Blackstone-and-Airbnb-Set-to-Join-S-P-500-Others-to-Join-S-P-100%2C-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ABS,,,,,,,1996-01-02,2006-06-02,,
+ABT,Abbott Laboratories,1800.0,Health Care,Health Care Equipment,"North Chicago, Illinois",1888,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ABX,"Abacus Global Management, Inc.",1814287.0,Investment Advice,,,,1996-01-02,2002-07-22,,
+ACAS,,,,,,,2007-07-09,2009-03-04,,
+ACGL,Arch Capital Group,947484.0,Financials,Property & Casualty Insurance,"Hamilton, Bermuda",1995,2022-11-01,,https://press.spglobal.com/index.php?keywords=market+intelligence&kw=%257Bkeyword%7D&l=50&o=750&s=2429,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ACKH,,,,,,,1996-01-02,2000-11-17,,
+ACN,Accenture,1467373.0,Information Technology,IT Consulting & Other Services,"Dublin, Ireland",1989,2011-07-06,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ACS,,,,,,,2004-04-02,2010-02-08,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+ADBE,Adobe Inc.,796343.0,Information Technology,Application Software,"San Jose, California",1982,1997-05-06,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ADCT,ADC Therapeutics SA,1771910.0,Pharmaceutical Preparations,,,,1999-08-02,2007-07-02,,
+ADI,Analog Devices,6281.0,Information Technology,Semiconductors,"Wilmington, Massachusetts",1965,1999-10-12,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ADM,Archer Daniels Midland,7084.0,Consumer Staples,Agricultural Products & Services,"Chicago, Illinois",1902,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ADP,Automatic Data Processing,8670.0,Industrials,Human Resource & Employment Services,"Roseland, New Jersey",1949,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ADS,,,,,,,2013-12-23,2020-06-22,,
+ADSK,Autodesk,769397.0,Information Technology,Application Software,"San Francisco, California",1982,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ADT,ADT Inc.,1703056.0,"Services-Detective, Guard & Armored Car Services",,,,2012-10-02,2016-05-02,,
+AEE,Ameren,1002910.0,Utilities,Multi-Utilities,"St. Louis, Missouri",1902,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+AEP,American Electric Power,4904.0,Utilities,Electric Utilities,"Columbus, Ohio",1906,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+AES,AES Corporation,874761.0,Utilities,Independent Power Producers & Energy Traders,"Arlington, Virginia",1981,1998-10-02,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+AET,,,,,,,1996-01-02,2018-11-29,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+AFL,Aflac,4977.0,Financials,Life & Health Insurance,"Columbus, Georgia",1955,1999-05-28,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+AGN,,,,,,,1996-01-02,2020-05-12,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+AIG,American International Group,5272.0,Financials,Multi-line Insurance,"New York City, New York",1919,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+AIT,APPLIED INDUSTRIAL TECHNOLOGIES INC,109563.0,"Wholesale-Machinery, Equipment & Supplies",,,,1996-01-02,1999-10-11,,
+AIV,APARTMENT INVESTMENT & MANAGEMENT CO,922864.0,Real Estate Investment Trusts,,,,2003-03-14,2020-12-21,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+AIZ,Assurant,1267238.0,Financials,Multi-line Insurance,"Atlanta, Georgia",1892,2007-04-10,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+AJG,Arthur J. Gallagher & Co.,354190.0,Financials,Insurance Brokers,"Rolling Meadows, Illinois",1927,2016-05-31,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+AKAM,Akamai Technologies,1086222.0,Information Technology,Internet Services & Infrastructure,"Cambridge, Massachusetts",1998,2007-07-12,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+AKS,,,,,,,2008-07-01,2011-12-19,,
+AL,,,,,,,1996-01-02,2002-07-22,,
+ALB,Albemarle Corporation,915913.0,Materials,Specialty Chemicals,"Charlotte, North Carolina",1994,2016-07-01,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ALGN,Align Technology,1097149.0,Health Care,Health Care Supplies,"Tempe, Arizona",1997,2017-06-19,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ALK,"ALASKA AIR GROUP, INC.",766421.0,"Air Transportation, Scheduled",,,,2016-05-13,2023-10-18,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+ALL,Allstate,899051.0,Financials,Property & Casualty Insurance,"Northbrook, Illinois",1931,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ALLE,Allegion,1579241.0,Industrials,Building Products,"Dublin, Ireland",1908,2013-12-02,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ALTR,,,,,,,2000-04-18,2015-12-28,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+ALXN,,,,,,,2012-05-25,2021-07-21,,
+AM,Antero Midstream Corp,1623925.0,Natural Gas Transmission,,,,1996-01-02,2004-05-03,,
+AMAT,Applied Materials,6951.0,Information Technology,Semiconductor Materials & Equipment,"Santa Clara, California",1967,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+AMCC,,,,,,,2001-01-02,2006-05-18,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+AMCR,Amcor,1748790.0,Materials,Paper & Plastic Packaging Products & Materials,"Warmley, Bristol, United Kingdom",2019 (1860),2019-06-07,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+AMD,Advanced Micro Devices,2488.0,Information Technology,Semiconductors,"Santa Clara, California",1969,1996-01-02,2013-09-23,https://www.spglobal.com/spdji/en/documents/research/research-what-happened-to-the-index-effect.pdf,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+AME,Ametek,1037868.0,Industrials,Electrical Components & Equipment,"Berwyn, Pennsylvania",1930,2013-09-23,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+AMG,"AFFILIATED MANAGERS GROUP, INC.",1004434.0,Investment Advice,,,,2014-07-01,2019-12-23,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+AMGN,Amgen,318154.0,Health Care,Biotechnology,"Thousand Oaks, California",1980,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+AMH,American Homes 4 Rent,1562401.0,Real Estate Investment Trusts,,,,1996-01-02,1997-09-15,,
+AMP,Ameriprise Financial,820027.0,Financials,Asset Management & Custody Banks,"Minneapolis, Minnesota",1894,1996-01-02,1999-04-05,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+AMT,American Tower,1053507.0,Real Estate,Telecom Tower REITs,"Boston, Massachusetts",1995,2007-11-19,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+AMTM,"Amentum Holdings, Inc.",2011286.0,"Services-Business Services, NEC",,,,2024-09-30,2024-12-23,,
+AMZN,Amazon,1018724.0,Consumer Discretionary,Broadline Retail,"Seattle, Washington",1994,2005-11-21,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+AN,"AUTONATION, INC.",350698.0,Retail-Auto Dealers & Gasoline Stations,,,,1996-01-02,2017-08-08,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+ANDV,,,,,,,2007-09-27,2018-10-01,,
+ANDW,,,,,,,1996-01-02,2006-10-02,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+ANET,Arista Networks,1596532.0,Information Technology,Communications Equipment,"Santa Clara, California",2004,2018-08-28,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ANF,ABERCROMBIE & FITCH CO /DE/,1018840.0,Retail-Family Clothing Stores,,,,2007-03-29,2013-12-23,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+ANRZQ,,,,,,,2011-06-02,2012-10-02,,
+ANSS,,,,,,,2017-06-19,2025-07-18,,
+ANTM,,,,,,,2002-07-25,2022-06-28,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+AON,Aon plc,315293.0,Financials,Insurance Brokers,"London, United Kingdom",1982 (1919),1996-04-23,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+AOS,A. O. Smith,91142.0,Industrials,Building Products,"Milwaukee, Wisconsin",1916,2017-07-26,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+APA,APA Corporation,1841666.0,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1954,1997-07-28,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+APC,ARKO Petroleum Corp.,2080921.0,Wholesale-Petroleum & Petroleum Products (No Bulk Stations),,,,1997-07-28,2019-08-09,,
+APCC,,,,,,,2000-06-01,2007-02-15,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+APD,Air Products,2969.0,Materials,Industrial Gases,"Upper Macungie Township, Pennsylvania",1940,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+APH,Amphenol,820313.0,Information Technology,Electronic Components,"Wallingford, Connecticut",1932,2008-09-30,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+APO,Apollo Global Management,1858681.0,Financials,Asset Management & Custody Banks,"New York City, New York",1990,2024-12-23,,https://press.spglobal.com/2024-12-06-Apollo-Global-Management-and-Workday-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+APOL,,,,,,,2002-05-15,2013-07-01,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+APP,AppLovin,1751008.0,Information Technology,Application Software,"Palo Alto, California",2012,2025-09-22,,https://press.spglobal.com/2025-09-05-AppLovin%2C-Robinhood-Markets-and-Emcor-Group-Set-to-Join-S-P-500-Others-to-Join-S-P-100%2C-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+APTV,Aptiv,1521332.0,Consumer Discretionary,Automotive Parts & Equipment,"Schaffhausen, Switzerland",1994,2012-12-24,,https://press.spglobal.com/2012-12-18-Delphi-Automotive-Set-to-Join-S-P-500,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+AR,ANTERO RESOURCES Corp,1433270.0,Crude Petroleum & Natural Gas,,,,1996-01-02,1999-10-27,,
+ARE,Alexandria Real Estate Equities,1035443.0,Real Estate,Office REITs,"Pasadena, California",1994,2017-03-20,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ARES,Ares Management,1176948.0,Financials,Asset Management & Custody Banks,"Los Angeles, California",1977,2025-12-11,,https://press.spglobal.com/2025-12-08-Ares-Management-Set-to-Join-S-P-500-Sezzle-and-Vital-Farms-to-Join-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ARG,,,,,,,2009-09-09,2016-05-23,,
+ARNC,,,,,,,1996-01-02,2020-04-06,https://www.mdpi.com/1911-8074/15/2/95,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ASH,ASHLAND INC.,1674862.0,Wholesale-Chemicals & Allied Products,,,,1996-01-02,2008-11-14,,
+ASN,,,,,,,2004-12-20,2007-10-08,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+ASO,"Academy Sports & Outdoors, Inc.",1817358.0,Retail-Miscellaneous Shopping Goods Stores,,,,1999-03-10,2006-11-06,,
+AT,,,,,,,1996-01-02,2007-11-19,,
+ATGE,,,,,,,2009-06-09,2012-10-01,,
+ATI,ATI INC,1018963.0,Steel Pipe & Tubes,,,,1996-01-02,2015-07-02,,
+ATO,Atmos Energy,731802.0,Utilities,Gas Utilities,"Dallas, Texas",1906,2019-02-15,,https://press.spglobal.com/2019-02-08-Atmos-Energy-Set-to-Join-S-P-500-Spire-to-Join-S-P-MidCap-400-NorthStar-Realty-Europe-to-Join-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ATVI,,,,,,,2015-08-31,2023-10-18,,
+AV,,,,,,,2000-10-02,2007-10-26,,
+AVB,AvalonBay Communities,915912.0,Real Estate,Multi-Family Residential REITs,"Arlington, Virginia",1978,2007-01-10,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+AVGO,Broadcom,1730168.0,Information Technology,Semiconductors,"Palo Alto, California",1961,2014-05-08,,https://www.sec.gov/Archives/edgar/data/1649338/000164933816000019/avgo-01312016x10q.htm,https://www.sec.gov/Archives/edgar/data/1649338/000164933816000019/avgo-01312016x10q.htm
+AVP,,,,,,,1996-01-02,2015-03-23,,
+AVY,Avery Dennison,8818.0,Materials,Paper & Plastic Packaging Products & Materials,"Mentor, Ohio",1935,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+AW,,,,,,,1999-08-02,2008-12-05,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+AWE,,,,,,,2001-07-09,2004-10-27,,
+AWK,American Water Works,1410636.0,Utilities,Water Utilities,"Camden, New Jersey",1886,2016-03-04,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+AXON,Axon Enterprise,1069183.0,Industrials,Aerospace & Defense,"Scottsdale, Arizona",1993,2023-05-04,,https://press.spglobal.com/2023-05-01-Axon-Enterprise-Set-to-Join-S-P-500-STAG-Industrial-to-Join-S-P-MidCap-400,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+AXP,American Express,4962.0,Financials,Consumer Finance,"New York City, New York",1850,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+AYE,,,,,,,2000-12-11,2011-02-28,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+AYI,ACUITY INC. (DE),1144215.0,Electric Lighting & Wiring Equipment,,,,2016-05-03,2018-06-18,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+AZA.A,,,,,,,1996-01-02,2001-06-25,,
+AZO,AutoZone,866787.0,Consumer Discretionary,Automotive Retail,"Memphis, Tennessee",1979,1997-01-02,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+BA,Boeing,12927.0,Industrials,Aerospace & Defense,"Arlington, Virginia",1916,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+BAC,Bank of America,70858.0,Financials,Diversified Banks,"Charlotte, North Carolina",1998 (1923 / 1874),1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+BALL,Ball Corporation,9389.0,Materials,"Metal, Glass & Plastic Containers","Broomfield, Colorado",1880,2022-05-10,,,
+BAX,Baxter International,10456.0,Health Care,Health Care Equipment,"Deerfield, Illinois",1931,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+BBBY,"BED BATH & BEYOND, INC.",1130713.0,Retail-Catalog & Mail-Order Houses,,,,1999-10-01,2017-07-26,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+BBT,Beacon Financial Corp,1108134.0,"Savings Institutions, Not Federally Chartered",,,,1997-12-04,2019-12-09,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+BBWI,"Bath & Body Works, Inc.",701985.0,"Retail-Retail Stores, NEC",,,,2021-08-03,2024-10-01,,
+BBY,Best Buy,764478.0,Consumer Discretionary,Computer & Electronics Retail,"Richfield, Minnesota",1966,1999-06-30,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+BC,BRUNSWICK CORP,14930.0,Engines & Turbines,,,,1996-01-02,2008-06-23,,
+BCO,BRINKS CO,78890.0,Arrangement of  Transportation of  Freight & Cargo,,,,1996-01-02,1996-01-22,,
+BCR,,,,,,,1996-01-02,2017-12-29,,
+BDK,,,,,,,1996-01-02,2010-03-15,,
+BDX,Becton Dickinson,10795.0,Health Care,Health Care Equipment,"Franklin Lakes, New Jersey",1897,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+BEAM,Beam Therapeutics Inc.,1745999.0,"Biological Products, (No Diagnostic Substances)",,,,1996-01-02,2014-05-01,,
+BEN,Franklin Resources,38777.0,Financials,Asset Management & Custody Banks,"San Mateo, California",1947,1998-04-29,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+BF.B,Brown–Forman,14693.0,Consumer Staples,Distillers & Vintners,"Louisville, Kentucky",1870,1996-01-02,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+BG,Bunge Global,1996862.0,Consumer Staples,Agricultural Products & Services,"Chesterfield, Missouri",1818,2023-03-15,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+BGEN,,,,,,,2000-01-31,2003-11-13,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+BGG,,,,,,,1996-01-02,2001-04-03,,
+BHF,"Brighthouse Financial, Inc.",1685040.0,Life Insurance,,,,2017-08-07,2019-04-02,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+BHGE,,,,,,,1996-01-02,2019-10-18,,
+BIG,,,,,,,1998-01-20,2013-02-14,,
+BIIB,Biogen,875045.0,Health Care,Biotechnology,"Cambridge, Massachusetts",1978,2003-11-13,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+BIO,"BIO-RAD LABORATORIES, INC.",12208.0,Laboratory Analytical Instruments,,,,2020-06-22,2024-09-23,https://press.spglobal.com/2020-06-12-S-P-Dow-Jones-Indices-Announces-Tyler-Technologies-Bio-Rad-Laboratories-and-Teledyne-Technologies-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+BJS,,,,,,,2002-05-15,2010-04-29,,
+BK,,,,,,,1996-01-02,2026-05-21,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+BKNG,Booking Holdings,1075531.0,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Norwalk, Connecticut",1996,2009-11-06,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+BKR,Baker Hughes,1701605.0,Energy,Oil & Gas Equipment & Services,"Houston, Texas",2017,2019-10-18,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+BLDR,Builders FirstSource,1316835.0,Industrials,Building Products,"Irving, Texas",1998,2023-10-18,,https://press.spglobal.com/2023-12-01-Uber-Technologies%2C-Jabil-and-Builders-FirstSource-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+BLK,BlackRock,2012383.0,Financials,Asset Management & Custody Banks,"New York City, New York",1988,2011-04-04,,https://pineify.app/free-tools/historical-sp500,https://d18rn0p25nwr6d.cloudfront.net/CIK-0001364742/135b785d-80c5-4c09-bd98-94fd8c793033.pdf
+BLL,,,,,,,1996-01-02,2022-05-10,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+BLS,,,,,,,1996-01-02,2007-01-03,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+BMC,,,,,,,1998-10-01,2013-09-11,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+BMET,,,,,,,1996-01-02,2007-07-12,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+BMS,,,,,,,1996-01-02,2014-12-05,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+BMY,Bristol Myers Squibb,14272.0,Health Care,Pharmaceuticals,"New York City, New York",1989 (1887),1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+BNI,,,,,,,1996-01-02,2010-02-16,,
+BNL,"Broadstone Net Lease, Inc.",1424182.0,Real Estate Investment Trusts,,,,1996-01-02,1998-07-01,,
+BNY,BNY Mellon,1390777.0,Financials,Asset Management & Custody Banks,"New York City, New York",1784,2026-05-21,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+BOL,,,,,,,1996-01-02,2007-10-29,,
+BR,Broadridge Financial Solutions,1383312.0,Industrials,Data Processing & Outsourced Services,"Lake Success, New York",1962,1996-01-02,2006-04-03,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+BRCM,,,,,,,2000-07-03,2016-02-01,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+BRK.B,Berkshire Hathaway,1067983.0,Financials,Multi-Sector Holdings,"Omaha, Nebraska",1839,2010-02-16,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+BRL,,,,,,,2006-02-27,2008-12-23,,
+BRO,Brown & Brown,79282.0,Financials,Insurance Brokers,"Daytona Beach, Florida",1939,2021-09-20,,https://press.spglobal.com/2021-09-03-Match-Group%2C-Ceridian-HCM-and-Brown-Brown-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+BSC,,,,,,,1998-07-01,2008-06-02,,
+BSX,Boston Scientific,885725.0,Health Care,Health Care Equipment,"Marlborough, Massachusetts",1979,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+BTUUQ,,,,,,,2006-11-20,2014-09-22,,
+BVSN,,,,,,,2000-11-06,2001-09-04,,
+BWA,BORGWARNER INC,908255.0,Motor Vehicle Parts & Accessories,,,,2011-12-19,2025-03-24,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+BX,Blackstone Inc.,1393818.0,Financials,Asset Management & Custody Banks,"New York City, New York",1985,2023-09-18,,https://press.spglobal.com/2023-09-01-Blackstone-and-Airbnb-Set-to-Join-S-P-500-Others-to-Join-S-P-100%2C-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+BXLT,,,,,,,2015-07-01,2016-06-03,,
+BXP,"BXP, Inc.",1037540.0,Real Estate,Office REITs,"Boston, Massachusetts",1970,2006-04-03,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+C,Citigroup,831001.0,Financials,Diversified Banks,"New York City, New York",1998,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CA,,,,,,,1996-01-02,2018-11-06,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+CAG,Conagra Brands,23217.0,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",1919,1996-01-02,,,
+CAH,Cardinal Health,721371.0,Health Care,Health Care Distributors,"Dublin, Ohio",1971,1997-05-27,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CAL,CALERES INC,14707.0,"Footwear, (No Rubber)",,,,1996-01-02,1996-07-22,,
+CAM,,,,,,,2008-01-29,2016-04-04,,
+CAR,"AVIS BUDGET GROUP, INC.",723612.0,Services-Auto Rental & Leasing (No Drivers),,,,1996-01-02,2006-08-01,,
+CARR,Carrier Global,1783180.0,Industrials,Building Products,"Palm Beach Gardens, Florida","2020 (1915, United Technologies spinoff)",2020-04-03,,https://press.spglobal.com/2020-03-31-Otis-Worldwide-and-Carrier-Global-Set-to-Join-S-P-500-American-Tower-to-Join-S-P-100-and-Macys-to-Join-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CASY,Casey's,726958.0,Consumer Staples,Food Retail,"Ankeny, Iowa",1967,2026-04-09,,https://press.spglobal.com/2026-04-06-Caseys-General-Stores-Set-to-Join-S-P-500-DigitalOcean-Holdings-to-Join-S-P-MidCap-400-Broadstone-Net-Lease-to-Join-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CAT,Caterpillar Inc.,18230.0,Industrials,Construction Machinery & Heavy Transportation Equipment,"Irving, Texas",1925,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CB,Chubb Limited,896159.0,Financials,Property & Casualty Insurance,"Zurich, Switzerland",1985,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CBE,,,,,,,1996-01-02,2012-12-03,,
+CBH,,,,,,,2006-06-06,2008-03-31,,
+CBOE,Cboe Global Markets,1374310.0,Financials,Financial Exchanges & Data,"Chicago, Illinois",1973,2017-03-01,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CBRE,CBRE Group,1138118.0,Real Estate,Real Estate Services,"Dallas, Texas",1906,2006-11-10,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CBS,,,,,,,1996-01-02,2019-12-05,,
+CBSS,,,,,,,2004-12-20,2007-09-07,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+CCB,COASTAL FINANCIAL CORP,1437958.0,State Commercial Banks,,,,1996-01-02,1996-02-12,,
+CCE,,,,,,,1998-10-08,2016-05-31,,
+CCI,Crown Castle,1051470.0,Real Estate,Telecom Tower REITs,"Houston, Texas",1994,1996-01-02,1998-10-08,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CCK,"CROWN HOLDINGS, INC.",1219601.0,Metal Cans,,,,1996-01-02,2000-12-11,,
+CCL,Carnival Corporation,815097.0,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",1972,1998-12-22,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CCTYQ,,,,,,,1996-01-02,2008-03-31,https://www.spglobal.com/spdji/en/documents/research/research-what-happened-to-the-index-effect.pdf,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+CDAY,,,,,,,2021-09-20,2024-02-01,,
+CDNS,Cadence Design Systems,813672.0,Information Technology,Application Software,"San Jose, California",1988,2017-09-18,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CDW,CDW Corporation,1402057.0,Information Technology,Technology Distributors,"Vernon Hills, Illinois",1984,2019-09-23,,https://press.spglobal.com/2019-09-17-CDW-Set-to-Join-S-P-500,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CE,Celanese Corp,1306830.0,"Plastic Material, Synth Resin/Rubber, Cellulos (No Glass)",,,,2001-04-02,2025-03-24,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+CEG,Constellation Energy,1868275.0,Utilities,Electric Utilities,"Baltimore, Maryland",1999,1996-01-02,2012-03-13,https://press.spglobal.com/2022-01-26-Constellation-Energy-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CELG,,,,,,,2006-11-06,2019-11-21,https://www.advfn.com/stock-market/NYSE/ASO/stock-news/17466619/standard-poors-announces-changes-to-u-s-indices,https://press.spglobal.com/2019-11-19-Thermo-Fisher-Scientific-Set-to-Join-S-P-100-ServiceNow-to-Join-S-P-500
+CEN,,,,,,,1996-01-02,2001-04-02,,
+CEPH,,,,,,,2008-11-17,2011-10-14,,
+CERN,,,,,,,2010-04-30,2022-06-08,,
+CF,CF Industries,1324404.0,Materials,Fertilizers & Agricultural Chemicals,"Deerfield, Illinois",1946,2000-06-19,2004-09-01,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CFC,,,,,,,1997-06-18,2008-07-01,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+CFG,Citizens Financial Group,759944.0,Financials,Regional Banks,"Providence, Rhode Island",1828,2016-02-01,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CFN,,,,,,,2009-09-01,2015-03-17,,
+CG,Carlyle Group Inc.,1527166.0,Investment Advice,,,,1996-01-02,2000-11-02,,
+CGP,,,,,,,1996-01-02,2001-01-30,,
+CHD,Church & Dwight,313927.0,Consumer Staples,Household Products,"Ewing, New Jersey",1847,2015-12-29,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CHIR,,,,,,,2000-11-24,2006-04-20,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+CHK,,,,,,,2006-03-03,2018-03-19,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+CHRS,"Coherus Oncology, Inc.",1512762.0,"Biological Products, (No Diagnostic Substances)",,,,1996-01-02,1998-04-08,,
+CHRW,C.H. Robinson,1043277.0,Industrials,Air Freight & Logistics,"Eden Prairie, Minnesota",1905,2007-03-02,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CHTR,Charter Communications,1091667.0,Communication Services,Cable & Satellite,"Stamford, Connecticut",1993,2016-09-08,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CI,Cigna,1739940.0,Health Care,Health Care Services,"Bloomfield, Connecticut",1982,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CIEN,Ciena,936395.0,Information Technology,Communications Equipment,"Hanover, Maryland",1992,2001-08-30,2009-12-21,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+CIN,,,,,,,1996-01-02,2006-04-03,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+CINF,Cincinnati Financial,20286.0,Financials,Property & Casualty Insurance,"Fairfield, Ohio",1950,1997-12-18,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CIT.A,,,,,,,2000-07-17,2001-06-04,,
+CITGQ,,,,,,,2004-10-27,2009-07-27,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.sec.gov/Archives/edgar/data/1171825/000089882209000371/pressrelease0716.htm
+CL,Colgate-Palmolive,21665.0,Consumer Staples,Household Products,"New York City, New York",1806,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CLF,CLEVELAND-CLIFFS INC.,764065.0,Metal Mining,,,,2009-12-21,2014-04-02,,
+CLX,Clorox,21076.0,Consumer Staples,Household Products,"Oakland, California",1913,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CMA,,,,,,,1996-01-02,2024-06-24,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+CMCSA,Comcast,1166691.0,Communication Services,Cable & Satellite,"Philadelphia, Pennsylvania",1963,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CME,CME Group,1156375.0,Financials,Financial Exchanges & Data,"Chicago, Illinois",1848,2006-08-11,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CMG,Chipotle Mexican Grill,1058090.0,Consumer Discretionary,Restaurants,"Newport Beach, California",1993,2011-04-28,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CMI,Cummins,26172.0,Industrials,Construction Machinery & Heavy Transportation Equipment,"Columbus, Indiana",1919,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CMS,CMS Energy,811156.0,Utilities,Multi-Utilities,"Jackson, Michigan",1886,1999-05-03,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CMVT,,,,,,,1999-10-27,2007-02-01,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+CMX,,,,,,,2004-03-25,2007-03-23,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+CNC,Centene Corporation,1071739.0,Health Care,Managed Health Care,"St. Louis, Missouri",1984,1997-01-15,2002-07-25,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CNG,,,,,,,1996-01-02,2000-01-31,,
+CNP,CenterPoint Energy,1130310.0,Utilities,Multi-Utilities,"Houston, Texas",1882,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CNX,CNX Resources Corp,1070412.0,Crude Petroleum & Natural Gas,,,,2006-06-28,2016-03-04,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+CNXT,,,,,,,2000-01-31,2002-06-26,,
+COC.B,,,,,,,1999-08-09,2002-09-03,,
+COF,Capital One,927628.0,Financials,Consumer Finance,"Tysons Corner, Virginia",1994,1998-07-01,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+COG,,,,,,,2008-06-23,2021-10-04,,
+COHR,Coherent Corp.,820318.0,Information Technology,Electronic Components,"Saxonburg, Pennsylvania",1971,2026-03-23,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+COIN,Coinbase,1679788.0,Financials,Financial Exchanges & Data,"New York City, New York",2012,2025-05-19,,https://press.spglobal.com/2025-05-12-Coinbase-Global-Set-to-Join-S-P-500,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+COL,,,,,,,2001-07-02,2018-11-27,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+COMS,,,,,,,1996-01-02,2000-07-28,,
+COO,Cooper Companies (The),711404.0,Health Care,Health Care Supplies,"San Ramon, California",1958,2016-09-23,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+COP,ConocoPhillips,1163165.0,Energy,Oil & Gas Exploration & Production,"Houston, Texas",2002,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+COR,Cencora,1140859.0,Health Care,Health Care Distributors,"Conshohocken, Pennsylvania",1985,2023-08-30,,,
+COST,Costco,909832.0,Consumer Staples,Consumer Staples Merchandise Retail,"Issaquah, Washington",1976,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+COTY,COTY INC.,1024305.0,"Perfumes, Cosmetics & Other Toilet Preparations",,,,2016-10-03,2020-09-21,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+COV,,,,,,,1996-01-02,2015-01-27,,
+CPAY,Corpay,1175454.0,Financials,Transaction & Payment Processing Services,"Atlanta, Georgia",2000,2024-03-25,,https://press.spglobal.com/2018-06-15-NVIDIA-Set-to-Join-S-P-100-FleetCor-Technologies-to-Join-S-P-500-Penn-Virginia-to-Join-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CPB,Campbell's Company (The),16732.0,Consumer Staples,Packaged Foods & Meats,"Camden, New Jersey",1869,1996-01-02,,,
+CPGX,,,,,,,2015-07-02,2016-07-01,,
+CPNLQ,,,,,,,2000-12-01,2005-12-02,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://github.com/fja05680/sp500/blob/master/S%26P%20500%20Historical%20Components%20%26%20Changes(mm-dd-yyyy).csv
+CPQ,,,,,,,1996-01-02,2002-05-06,,
+CPRI,Capri Holdings Ltd,1530721.0,Leather & Leather Products,,,,2016-01-04,2020-05-12,,
+CPRT,Copart,900075.0,Industrials,Diversified Support Services,"Dallas, Texas",1982,2018-07-02,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CPT,Camden Property Trust,906345.0,Real Estate,Multi-Family Residential REITs,"Houston, Texas",1981,2022-04-04,,https://press.spglobal.com/2022-03-29-Camden-Property-Trust-Set-to-Join-S-P-500-Matador-Resources-to-Join-S-P-MidCap-400-Vir-Biotechnology-to-Join-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CPWR,Ocean Thermal Energy Corp,827099.0,Electric & Other Services Combined,,,,1999-01-04,2012-01-03,,
+CR,Crane Co,1944013.0,Miscellaneous Fabricated Metal Products,,,,1996-01-02,2004-12-20,,
+CRH,CRH plc,849395.0,Materials,Construction Materials,"Dublin, Ireland",1970,2025-12-22,,https://press.spglobal.com/2025-12-05-CRH%2C-Carvana-and-Comfort-Systems-USA-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CRL,Charles River Laboratories,1100682.0,Health Care,Life Sciences Tools & Services,"Wilmington, Massachusetts",1947,2021-05-14,,https://press.spglobal.com/2021-05-10-Charles-River-Laboratories-International-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CRM,Salesforce,1108524.0,Information Technology,Application Software,"San Francisco, California",1999,2008-09-15,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CRWD,CrowdStrike,1535527.0,Information Technology,Systems Software,"Austin, Texas",2011,2024-06-24,,https://press.spglobal.com/2024-06-07-KKR%2C-CrowdStrike-Holdings-and-GoDaddy-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CSCO,Cisco,858877.0,Information Technology,Communications Equipment,"San Jose, California",1984,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CSGP,CoStar Group,1057352.0,Real Estate,Real Estate Services,"Washington, D.C.",1987,2022-09-19,,https://press.spglobal.com/2022-09-02-CoStar-Group%2C-Invitation-Homes-Set-to-Join-S-P-500-Others-to-Join-S-P-100%2C-S-P-MidCap-400%2C-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CSR,CENTERSPACE,798359.0,Real Estate Investment Trusts,,,,1996-01-02,2000-06-16,,
+CSRA,,,,,,,2015-11-30,2018-04-04,,
+CSX,CSX Corporation,277948.0,Industrials,Rail Transportation,"Jacksonville, Florida",1980,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CTAS,Cintas,723254.0,Industrials,Diversified Support Services,"Mason, Ohio",1929,2001-03-01,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CTB,,,,,,,1996-01-02,2006-07-18,,
+CTL,,,,,,,1999-03-25,2020-09-18,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://press.spglobal.com/2023-03-03-Fair-Isaac-Co-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600
+CTLT,,,,,,,2020-09-21,2024-12-23,,
+CTRA,,,,,,,2021-10-04,2026-05-07,,
+CTSH,Cognizant,1058290.0,Information Technology,IT Consulting & Other Services,"Teaneck, New Jersey",1994,2006-11-17,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CTVA,Corteva,1755672.0,Materials,Fertilizers & Agricultural Chemicals,"Indianapolis, Indiana",2019,2019-06-03,,https://press.spglobal.com/2019-05-28-Corteva-Set-to-Join-S-P-500-Fluor-to-Join-S-P-MidCap-400-and-Realogy-and-Bloomin-Brands-to-Join-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CTX,,,,,,,1996-01-02,2009-08-19,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+CTXS,,,,,,,1999-12-01,2022-10-03,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+CVC,,,,,,,2010-12-20,2016-06-21,,
+CVG,,,,,,,2000-06-13,2009-12-21,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+CVH,,,,,,,2005-08-30,2013-05-07,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+CVNA,Carvana,1690820.0,Consumer Discretionary,Automotive Retail,"Tempe, Arizona",2012,2025-12-22,,https://press.spglobal.com/2025-12-05-CRH%2C-Carvana-and-Comfort-Systems-USA-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CVS,CVS Health,64803.0,Health Care,Health Care Services,"Woonsocket, Rhode Island",1996,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CVX,Chevron Corporation,93410.0,Energy,Integrated Oil & Gas,"Houston, Texas",1879,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+CXO,,,,,,,2016-02-22,2021-01-21,,
+CZR,"Caesars Entertainment, Inc.",1590895.0,Hotels & Motels,,,,2021-03-22,2025-09-22,https://press.spglobal.com/2021-03-12-NXP-Semiconductors-Penn-National-Gaming-Generac-Holdings-and-Caesars-Entertainment-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-S-P-SmallCap-600-and-S-P-100,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+D,Dominion Energy,715957.0,Utilities,Multi-Utilities,"Richmond, Virginia",1983,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+DAL,Delta Air Lines,27904.0,Industrials,Passenger Airlines,"Atlanta, Georgia",1929,2013-09-11,,https://press.spglobal.com/2013-09-06-Delta-Air-Lines-Set-to-Join-the-S-P-500,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+DALRQ,,,,,,,1996-01-02,2005-08-19,,
+DASH,DoorDash,1792789.0,Consumer Discretionary,Specialized Consumer Services,"San Francisco, California",2012,2025-03-24,,https://press.spglobal.com/2025-03-07-DoorDash%2C-TKO-Group-Holdings%2C-Williams-Sonoma-and-Expand-Energy-Set-to-Join-S-P-500-Others-to-Join-S-P-100%2C-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+DCNAQ,,,,,,,1996-01-02,2006-03-03,,
+DD,DuPont,1666700.0,Materials,Specialty Chemicals,"Wilmington, Delaware",2017 (1802),1996-01-02,2017-09-01,,
+DDOG,Datadog,1561550.0,Information Technology,Application Software,"New York City, New York",2010,2025-07-09,,https://press.spglobal.com/index.php?l=100&o=200&s=2429,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+DDR,,,,,,,2007-03-23,2009-03-30,,
+DDS,"DILLARD'S, INC.",28917.0,Retail-Department Stores,,,,1996-01-02,2008-10-22,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+DE,Deere & Company,315189.0,Industrials,Agricultural & Farm Machinery,"Moline, Illinois",1837,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+DEC,Diversified Energy Co,1922446.0,Crude Petroleum & Natural Gas,,,,1996-01-02,1998-06-12,,
+DECK,Deckers Brands,910521.0,Consumer Discretionary,Footwear,"Goleta, California",1973,2024-03-18,,https://press.spglobal.com/2024-03-01-Super-Micro-Computer-and-Deckers-Outdoor-Set-to-Join-S-P-500-Others-to-Join-S-P-100%2C-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+DELL,Dell Technologies,1571996.0,Information Technology,"Technology Hardware, Storage & Peripherals","Round Rock, Texas",2016,1996-09-06,2013-10-29,https://press.spglobal.com/2024-09-06-Palantir-Technologies%2C-Dell-Technologies%2C-and-Erie-Indemnity-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+DF,,,,,,,2006-04-03,2013-05-24,,
+DFS,,,,,,,2007-07-02,2025-05-19,,
+DG,Dollar General,29534.0,Consumer Staples,Consumer Staples Merchandise Retail,"Goodlettsville, Tennessee",1939,1998-07-16,2007-07-09,https://www.marketwatch.com/story/dollar-general-rings-in-to-sp-500-07-10-98,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+DGX,Quest Diagnostics,1022079.0,Health Care,Health Care Services,"Secaucus, New Jersey",1967,2002-12-12,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+DHI,D. R. Horton,882184.0,Consumer Discretionary,Homebuilding,"Arlington, Texas",1978,2005-07-05,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+DHR,Danaher Corporation,313616.0,Health Care,Life Sciences Tools & Services,"Washington, D.C.",1969,1998-11-18,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+DIS,Walt Disney Company (The),1744489.0,Communication Services,Movies & Entertainment,"Burbank, California",1923,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+DISH,,,,,,,2017-03-13,2023-06-20,,
+DJ,,,,,,,1996-01-02,2007-12-14,,
+DLR,Digital Realty,1297996.0,Real Estate,Data Center REITs,"Austin, Texas",2004,2016-05-18,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+DLTR,Dollar Tree,935703.0,Consumer Staples,Consumer Staples Merchandise Retail,"Chesapeake, Virginia",1986,2011-12-19,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+DLX,DELUXE CORP,27996.0,"Blankbooks, Looseleaf Binders & Bookbindg & Relatd Work",,,,1996-01-02,2004-12-20,,
+DNB,,,,,,,2008-12-02,2017-04-05,,
+DNR,,,,,,,2009-04-02,2015-03-23,,
+DO,,,,,,,2009-02-26,2016-10-03,,
+DOC,Healthpeak Properties,765880.0,Real Estate,Health Care REITs,"Denver, Colorado",1985,2024-03-04,,,
+DOV,Dover Corporation,29905.0,Industrials,Industrial Machinery & Supplies & Components,"Downers Grove, Illinois",1955,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+DOW,Dow Inc.,1751788.0,Materials,Commodity Chemicals,"Midland, Michigan",2019 (1897),1996-01-02,2017-09-01,https://press.spglobal.com/2019-03-26-Dow-Set-to-Join-S-P-500-and-S-P-100-Brighthouse-Financial-and-Trex-Company-to-Join-S-P-MidCap-400-Pitney-Bowes-and-Xenia-Hotels-Resorts-to-Join-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+DPHIQ,,,,,,,1999-05-28,2005-10-11,,
+DPZ,Domino's,1286681.0,Consumer Discretionary,Restaurants,"Ann Arbor, Michigan",1960,2020-05-12,,https://press.spglobal.com/2020-05-06-DexCom-Dominos-Pizza-Set-to-Join-S-P-500-Salesforce-com-to-Join-S-P-100-STORE-Capital-to-Join-S-P-MidCap-400-Capri-Holdings-to-Join-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+DRE,,,,,,,2017-07-26,2022-10-03,,
+DRI,Darden Restaurants,940944.0,Consumer Discretionary,Restaurants,"Orlando, Florida",1938,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+DTE,DTE Energy,936340.0,Utilities,Multi-Utilities,"Detroit, Michigan",1995,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+DTV,,,,,,,2006-12-04,2015-07-27,,
+DUK,Duke Energy,1326160.0,Utilities,Electric Utilities,"Charlotte, North Carolina",1904,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+DVA,DaVita,927066.0,Health Care,Health Care Services,"Denver, Colorado",1979,2008-07-31,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+DVN,Devon Energy,1090012.0,Energy,Oil & Gas Exploration & Production,"Oklahoma City, Oklahoma",1971,2000-08-30,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+DXC,DXC Technology Co,1688568.0,Services-Computer Processing & Data Preparation,,,,1996-01-02,2023-10-02,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+DXCM,Dexcom,1093557.0,Health Care,Health Care Equipment,"San Diego, California",1999,2020-05-12,,https://press.spglobal.com/2020-05-06-DexCom-Dominos-Pizza-Set-to-Join-S-P-500-Salesforce-com-to-Join-S-P-100-STORE-Capital-to-Join-S-P-MidCap-400-Capri-Holdings-to-Join-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+DYN,"Dyne Therapeutics, Inc.",1818794.0,Pharmaceutical Preparations,,,,2000-10-03,2009-12-21,,
+EA,Electronic Arts,712515.0,Communication Services,Interactive Home Entertainment,"Redwood City, California",1982,2002-07-22,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://press.spglobal.com/2026-07-31-Ferguson-Enterprises-Set-to-Join-S-P-500-and-ADI-Global-Distribution-to-Join-S-P-SmallCap-600
+EBAY,eBay Inc.,1065088.0,Consumer Discretionary,Broadline Retail,"San Jose, California",1995,2002-07-22,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ECL,Ecolab,31462.0,Materials,Specialty Chemicals,"Saint Paul, Minnesota",1923,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ED,Consolidated Edison,1047862.0,Utilities,Multi-Utilities,"New York City, New York",1823,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+EDS,,,,,,,1998-08-11,2008-08-26,,
+EFX,Equifax,33185.0,Industrials,Research & Consulting Services,"Atlanta, Georgia",1899,1997-06-19,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+EG,Everest Group,1095073.0,Financials,Reinsurance,"Hamilton, Bermuda",1973,2023-07-10,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+EHC,Encompass Health Corp,785161.0,Services-Hospitals,,,,1997-01-08,2003-03-21,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+EIX,Edison International,827052.0,Utilities,Electric Utilities,"Rosemead, California",1886,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+EKDKQ,,,,,,,1996-01-02,2010-12-20,,
+EL,Estée Lauder Companies (The),1001250.0,Consumer Staples,Personal Care Products,"New York City, New York",1946,2006-01-05,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ELV,Elevance Health,1156039.0,Health Care,Managed Health Care,"Indianapolis, Indiana",2014 (1946),2022-06-28,,,
+EMC,,,,,,,1996-03-28,2016-09-07,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+EME,Emcor,105634.0,Industrials,Construction & Engineering,"Norwalk, Connecticut",1994,2025-09-22,,https://press.spglobal.com/2025-09-05-AppLovin%2C-Robinhood-Markets-and-Emcor-Group-Set-to-Join-S-P-500-Others-to-Join-S-P-100%2C-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+EMN,EASTMAN CHEMICAL CO,915389.0,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",,,,1996-01-02,2025-11-04,,
+EMR,Emerson Electric,32604.0,Industrials,Electrical Components & Equipment,"Ferguson, Missouri",1890,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ENDP,,,,,,,2015-01-27,2017-03-02,,
+ENPH,"Enphase Energy, Inc.",1463101.0,Semiconductors & Related Devices,,,,2021-01-07,2025-09-22,https://press.spglobal.com/2020-12-30-Enphase-Energy-Set-to-Join-S-P-500-Capri-Holdings-Brooks-Automation-to-Join-S-P-MidCap-400-Celsius-Holdings-e-l-f-Beauty-to-Join-S-P-SmallCap-600,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+ENRNQ,,,,,,,1996-01-02,2001-11-30,,
+ENS,EnerSys,1289308.0,"Miscellaneous Electrical Machinery, Equipment & Supplies",,,,1996-01-02,1997-08-06,,
+EOG,EOG Resources,821189.0,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1999,2000-11-02,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+EOP,,,,,,,2001-10-10,2007-02-12,,
+EP,EMPIRE PETROLEUM CORP,887396.0,Crude Petroleum & Natural Gas,,,,1999-10-26,2012-05-25,,
+EPAM,"EPAM Systems, Inc.",1352010.0,Services-Computer Programming Services,,,,2021-12-14,2026-06-02,https://press.spglobal.com/2021-12-07-EPAM-Systems-Set-to-Join-S-P-500,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+EQ,"Equillium, Inc.",1746466.0,Pharmaceutical Preparations,,,,2006-05-18,2009-07-01,,
+EQIX,Equinix,1101239.0,Real Estate,Data Center REITs,"Redwood City, California",1998,2015-03-23,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+EQR,Equity Residential,906107.0,Real Estate,Multi-Family Residential REITs,"Chicago, Illinois",1969,2001-12-03,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+EQT,EQT Corporation,33213.0,Energy,Oil & Gas Exploration & Production,"Pittsburgh, Pennsylvania",1888,2008-12-19,2018-11-13,https://corporate.lowes.com/newsroom/press-releases/standard-poors-announces-changes-us-indices-12-12-08,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+ERIE,Erie Indemnity,922621.0,Financials,Insurance Brokers,"Erie, Pennsylvania",1925,2024-09-23,,https://press.spglobal.com/2024-09-06-Palantir-Technologies%2C-Dell-Technologies%2C-and-Erie-Indemnity-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ES,Eversource Energy,72741.0,Utilities,Electric Utilities,"Hartford, Connecticut",1966,2009-03-17,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ESRX,,,,,,,2003-09-26,2018-12-21,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+ESS,Essex Property Trust,920522.0,Real Estate,Multi-Family Residential REITs,"San Mateo, California",1971,2014-04-02,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ESV,,,,,,,2007-01-04,2016-03-30,,
+ETFC,,,,,,,2004-04-01,2020-10-07,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+ETN,Eaton Corporation,1551182.0,Industrials,Electrical Components & Equipment,"Dublin, Ireland",1911,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ETR,Entergy,65984.0,Utilities,Electric Utilities,"New Orleans, Louisiana",1913,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ETS,Elite Express Holding Inc.,2053641.0,Trucking & Courier Services (No Air),,,,1996-01-02,2001-08-06,,
+ETSY,ETSY INC,1370637.0,"Services-Business Services, NEC",,,,2020-09-21,2024-09-23,https://press.spglobal.com/2020-09-04-Etsy-Teradyne-and-Catalent-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+EVHC,,,,,,,2016-12-02,2018-10-11,,
+EVRG,Evergy,1711269.0,Utilities,Electric Utilities,"Kansas City, Missouri",1909,2018-06-05,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+EW,Edwards Lifesciences,1099800.0,Health Care,Health Care Equipment,"Irvine, California",1958,2011-04-01,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+EXC,Exelon,1109357.0,Utilities,Electric Utilities,"Chicago, Illinois",2000,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+EXE,Expand Energy,895126.0,Energy,Oil & Gas Exploration & Production,"Oklahoma City, Oklahoma",1989,2025-03-24,,https://press.spglobal.com/2025-03-07-DoorDash%2C-TKO-Group-Holdings%2C-Williams-Sonoma-and-Expand-Energy-Set-to-Join-S-P-500-Others-to-Join-S-P-100%2C-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+EXPD,Expeditors International,746515.0,Industrials,Air Freight & Logistics,"Seattle, Washington",1979,2007-10-10,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+EXPE,Expedia Group,1324424.0,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Seattle, Washington",1996,2007-10-02,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+EXR,Extra Space Storage,1289490.0,Real Estate,Self-Storage REITs,"Salt Lake City, Utah",1977,2016-01-19,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+F,Ford Motor Company,37996.0,Consumer Discretionary,Automobile Manufacturers,"Dearborn, Michigan",1903,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+FANG,Diamondback Energy,1539838.0,Energy,Oil & Gas Exploration & Production,"Midland, Texas",2007,2018-12-03,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+FAST,Fastenal,815556.0,Industrials,Trading Companies & Distributors,"Winona, Minnesota",1967,2008-09-15,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+FBF,,,,,,,1996-01-02,2004-04-01,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+FBHS,,,,,,,2016-06-24,2022-12-19,,
+FCN,"FTI CONSULTING, INC",887936.0,Services-Management Consulting Services,,,,1996-01-02,1998-10-02,,
+FCPT,"Four Corners Property Trust, Inc.",1650132.0,Real Estate Investment Trusts,,,,2015-11-10,2015-11-17,,
+FCX,Freeport-McMoRan,831259.0,Materials,Copper,"Phoenix, Arizona",1912,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+FD,,,,,,,,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+FDC,,,,,,,1996-01-02,2007-09-25,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+FDO,,,,,,,2001-08-06,2015-07-07,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+FDS,FactSet,1013237.0,Financials,Financial Exchanges & Data,"Norwalk, Connecticut",1978,2021-12-20,,https://press.spglobal.com/2021-12-03-Signature-Bank%2C-SolarEdge-Technologies-and-FactSet-Research-Systems-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+FDX,FedEx,1048911.0,Industrials,Air Freight & Logistics,"Memphis, Tennessee",1971,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+FE,FirstEnergy,1031296.0,Utilities,Electric Utilities,"Akron, Ohio",1997,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+FFIV,"F5, Inc.",1048695.0,Information Technology,Communications Equipment,"Seattle, Washington",1996,2010-12-20,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+FG,"F&G Annuities & Life, Inc.",1934850.0,Life Insurance,,,,1996-01-02,1998-04-27,,
+FHN,FIRST HORIZON CORP,36966.0,National Commercial Banks,,,,2002-05-06,2013-06-24,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+FICO,Fair Isaac,814547.0,Information Technology,Application Software,"Bozeman, Montana",1956,2023-03-20,,https://press.spglobal.com/2023-03-03-Fair-Isaac-Co-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+FII,,,,,,,2003-04-16,2013-01-02,https://www.federatedhermes.com/us/about/our-history.do,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+FIS,Fidelity National Information Services,1136893.0,Financials,Transaction & Payment Processing Services,"Jacksonville, Florida",1968,2006-11-10,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+FISV,Fiserv,798354.0,Financials,Transaction & Payment Processing Services,"Brookfield, Wisconsin",1984,2001-04-02,2023-06-07,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+FITB,Fifth Third Bancorp,35527.0,Financials,Regional Banks,"Cincinnati, Ohio",1858,1996-03-08,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+FIX,Comfort Systems USA,1035983.0,Industrials,Construction & Engineering,"Houston, Texas",1997,2025-12-22,,https://press.spglobal.com/2025-12-05-CRH%2C-Carvana-and-Comfort-Systems-USA-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+FL,,,,,,,1996-01-02,2019-08-09,,
+FLIR,,,,,,,2009-01-02,2021-05-14,,
+FLR,FLUOR CORP,1124198.0,Heavy Construction Other Than Bldg Const - Contractors,,,,2000-12-22,2019-06-03,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+FLS,FLOWSERVE CORP,30625.0,Pumps & Pumping Equipment,,,,2008-10-02,2021-03-22,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+FLTWQ,,,,,,,1996-01-02,2000-01-31,,
+FMC,FMC CORP,37785.0,Chemicals & Allied Products,,,,1996-01-02,2025-03-24,https://www.sec.gov/Archives/edgar/data/37785/000119312510036348/d10k.htm,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+FMCC,FEDERAL HOME LOAN MORTGAGE CORP,1026214.0,Federal & Federally-Sponsored Credit Agencies,,,,1996-01-02,2008-09-11,,
+FNMA,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,310522.0,Federal & Federally-Sponsored Credit Agencies,,,,1996-01-02,2008-09-11,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+FOSL,"Fossil Group, Inc.",883569.0,"Watches, Clocks, Clockwork Operated Devices/Parts",,,,2012-04-04,2016-01-05,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+FOXA,Fox Corporation (Class A),1754301.0,Communication Services,Broadcasting,"New York City, New York",2019,2004-12-20,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+FRT,Federal Realty Investment Trust,34903.0,Real Estate,Retail REITs,"Rockville, Maryland",1962,2016-02-01,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+FRX,,,,,,,2000-11-22,2014-07-01,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+FSH,,,,,,,2004-08-03,2006-11-10,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+FSL,,,,,,,2004-12-03,2006-12-04,,
+FSLR,First Solar,1274494.0,Information Technology,Semiconductors,"Tempe, Arizona",1999,2009-10-16,2017-03-20,https://s202.q4cdn.com/499595574/files/doc_news/2009/10/1/0c80a6a5-4d2a-48b6-95b6-bab3f0d9dbbf.pdf,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+FTI,TechnipFMC plc,1681459.0,Oil & Gas Field Machinery & Equipment,,,,2009-06-05,2021-02-12,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+FTNT,Fortinet,1262039.0,Information Technology,Systems Software,"Sunnyvale, California",2000,2018-10-11,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+FTR,,,,,,,2001-02-27,2017-03-20,,
+FTV,Fortive,1659166.0,Industrials,Industrial Machinery & Supplies & Components,"Everett, Washington",2016,2016-07-05,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+FWLT,,,,,,,1996-01-02,2000-01-31,,
+G,Genpact LTD,1398659.0,Services-Management Consulting Services,,,,1996-01-02,2005-10-03,,
+GAPTQ,,,,,,,1996-01-02,2000-08-30,,
+GAS,,,,,,,1996-01-02,2016-07-01,,
+GD,General Dynamics,40533.0,Industrials,Aerospace & Defense,"Reston, Virginia",1899,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+GDDY,GoDaddy,1609711.0,Information Technology,Internet Services & Infrastructure,"Tempe, Arizona",1997,2024-06-24,,https://press.spglobal.com/2024-06-07-KKR%2C-CrowdStrike-Holdings-and-GoDaddy-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+GDT,,,,,,,1996-12-19,2006-04-24,,
+GDW,,,,,,,1996-01-02,2006-10-02,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+GE,GE Aerospace,40545.0,Industrials,Aerospace & Defense,"Evendale, Ohio",1892,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+GEHC,GE HealthCare,1932393.0,Health Care,Health Care Equipment,"Chicago, Illinois",1994,2023-01-04,,https://press.spglobal.com/2022-12-28-GE-HealthCare-Technologies-Set-to-Join-S-P-500-Vornado-Realty-Trust-to-Join-S-P-MidCap-400-RXO-to-Join-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+GEN,Gen Digital,849399.0,Information Technology,Systems Software,"Tempe, Arizona",1982,2022-11-08,,,
+GENZ,,,,,,,2001-12-14,2011-04-04,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+GEV,GE Vernova,1996810.0,Industrials,Heavy Electrical Equipment,"Cambridge, Massachusetts",2024,2024-04-03,,https://press.spglobal.com/2024-03-27-GE-Vernova-and-Solventum-Set-to-Join-S-P-500-Dentsply-Sirona-to-Join-S-P-MidCap-400-Others-to-Join-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+GGP,,,,,,,2007-07-02,2018-08-28,,
+GHC,Graham Holdings Co,104889.0,Services-Educational Services,,,,2007-12-31,2014-09-22,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+GILD,Gilead Sciences,882095.0,Health Care,Biotechnology,"Foster City, California",1987,2004-07-01,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+GIS,General Mills,40704.0,Consumer Staples,Packaged Foods & Meats,"Golden Valley, Minnesota",1856,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+GL,Globe Life,320335.0,Financials,Life & Health Insurance,"McKinney, Texas",1900,2019-08-08,,,
+GLD,SPDR GOLD TRUST,1222333.0,Commodity Contracts Brokers & Dealers,,,,1996-01-02,1997-05-06,,
+GLK,,,,,,,1996-01-02,2005-07-05,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+GLW,Corning Inc.,24741.0,Information Technology,Electronic Components,"Corning, New York",1851,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+GM,General Motors,1467858.0,Consumer Discretionary,Automobile Manufacturers,"Detroit, Michigan",1908,2013-06-07,,https://press.spglobal.com/2013-06-03-General-Motors-Set-to-Join-S-P-100-500-American-International-Group-to-Join-S-P-100,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+GMCR,,,,,,,2014-03-24,2016-03-03,,
+GME,GameStop Corp.,1326380.0,Retail-Computer & Computer Software Stores,,,,2007-12-14,2016-04-25,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+GNRC,Generac,1474735.0,Industrials,Electrical Components & Equipment,"Waukesha, Wisconsin",1959,2021-03-22,,https://press.spglobal.com/2021-03-12-NXP-Semiconductors-Penn-National-Gaming-Generac-Holdings-and-Caesars-Entertainment-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-S-P-SmallCap-600-and-S-P-100,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+GNW,GENWORTH FINANCIAL INC,1276520.0,Life Insurance,,,,2005-12-02,2015-11-18,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+GOOG,Alphabet Inc. (Class C),1652044.0,Communication Services,Interactive Media & Services,"Mountain View, California",1998,2014-04-03,,,
+GPC,Genuine Parts Company,40987.0,Consumer Discretionary,Distributors,"Atlanta, Georgia",1925,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+GPN,Global Payments,1123360.0,Financials,Transaction & Payment Processing Services,"Atlanta, Georgia",2000,2016-04-25,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+GPS,,,,,,,1996-01-02,2022-02-02,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+GPU,,,,,,,1996-01-02,2001-11-07,,
+GR,,,,,,,1996-01-02,2012-07-27,,
+GRA,,,,,,,1996-01-02,2000-12-11,,
+GRMN,Garmin,1121788.0,Consumer Discretionary,Consumer Electronics,"Schaffhausen, Switzerland",1989,2012-12-12,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+GS,Goldman Sachs,886982.0,Financials,Investment Banking & Brokerage,"New York City, New York",1869,2002-07-22,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+GT,GOODYEAR TIRE & RUBBER CO /OH/,42582.0,Tires & Inner Tubes,,,,1996-01-02,2019-02-27,https://pineify.app/free-tools/historical-sp500,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+GTE,GRAN TIERRA ENERGY INC.,1273441.0,Crude Petroleum & Natural Gas,,,,1996-01-02,2000-07-03,,
+GTW,,,,,,,1998-04-27,2006-08-01,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+GWW,W. W. Grainger,277135.0,Industrials,Industrial Machinery & Supplies & Components,"Lake Forest, Illinois",1927,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+GX,,,,,,,1999-09-29,2001-10-10,,
+H,Hyatt Hotels Corp,1468174.0,Hotels & Motels,,,,1996-01-02,2007-04-10,,
+HAL,Halliburton,45012.0,Energy,Oil & Gas Equipment & Services,"Houston, Texas",1919,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+HAR,,,,,,,2006-02-01,2017-03-13,,
+HAS,Hasbro,46080.0,Consumer Discretionary,Leisure Products,"Pawtucket, Rhode Island",1923,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+HBAN,Huntington Bancshares,49196.0,Financials,Regional Banks,"Columbus, Ohio; Detroit, Michigan",1866,1997-08-06,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+HBI,,,,,,,2015-03-23,2021-12-20,,
+HCA,HCA Healthcare,860730.0,Health Care,Health Care Facilities,"Nashville, Tennessee",1968,1996-01-02,2006-11-20,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+HCBK,,,,,,,2007-02-15,2015-11-02,,
+HCP,,,,,,,2008-03-31,2019-11-05,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+HCR,,,,,,,1998-09-28,2007-11-09,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+HD,Home Depot (The),354950.0,Consumer Discretionary,Home Improvement Retail,"Atlanta, Georgia",1978,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+HES,,,,,,,1996-01-02,2025-07-23,,
+HET,,,,,,,1996-01-02,2008-01-29,https://www.spglobal.com/spdji/en/documents/research/research-what-happened-to-the-index-effect.pdf,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+HFC,,,,,,,2018-06-18,2021-06-04,,
+HI,,,,,,,1996-01-02,2003-03-31,,
+HIG,Hartford (The),874766.0,Financials,Property & Casualty Insurance,"Hartford, Connecticut",1810,1996-01-02,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+HII,Huntington Ingalls Industries,1501585.0,Industrials,Aerospace & Defense,"Newport News, Virginia",2011,2018-01-03,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+HLT,Hilton Worldwide,1585689.0,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Tysons Corner, Virginia",1919,1996-01-02,2007-10-25,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+HM,,,,,,,1996-01-02,2001-12-17,,
+HMA,,,,,,,2001-11-07,2007-03-02,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+HNZ,,,,,,,1996-01-02,2013-06-07,,
+HOG,"HARLEY-DAVIDSON, INC.",793952.0,"Motorcycles, Bicycles & Parts",,,,2000-01-31,2020-06-22,,
+HOLX,,,,,,,2016-03-30,2026-04-09,,
+HON,Honeywell,773840.0,Industrials,Industrial Conglomerates,"Charlotte, North Carolina",1906,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+HOOD,Robinhood Markets,1783879.0,Financials,Investment Banking & Brokerage,"Menlo Park, California",2013,2025-09-22,,https://press.spglobal.com/2025-09-05-AppLovin%2C-Robinhood-Markets-and-Emcor-Group-Set-to-Join-S-P-500-Others-to-Join-S-P-100%2C-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+HOT,,,,,,,2000-11-17,2016-09-23,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+HP,"Helmerich & Payne, Inc.",46765.0,Drilling Oil & Gas Wells,,,,1996-01-02,2020-05-22,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+HPC,,,,,,,1996-01-02,2008-11-14,,
+HPE,Hewlett Packard Enterprise,1645590.0,Information Technology,"Technology Hardware, Storage & Peripherals","Houston, Texas",2015,2015-11-02,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+HPQ,HP Inc.,47217.0,Information Technology,"Technology Hardware, Storage & Peripherals","Palo Alto, California",1939 (2015),1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+HRB,H&R BLOCK INC,12659.0,Services-Personal Services,,,,1996-01-02,2020-09-21,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+HRL,Hormel Foods,48465.0,Consumer Staples,Packaged Foods & Meats,"Austin, Minnesota",1891,2009-03-04,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+HRS,,,,,,,1996-01-02,2019-06-01,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+HSH,,,,,,,1996-01-02,2012-06-29,,
+HSIC,Henry Schein,1000228.0,Health Care,Health Care Distributors,"Melville, New York",1932,2015-03-18,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+HSP,,,,,,,2004-05-03,2015-09-03,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+HST,Host Hotels & Resorts,1070750.0,Real Estate,Hotel & Resort REITs,"Bethesda, Maryland",1993,2007-03-20,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+HSY,Hershey Company (The),47111.0,Consumer Staples,Packaged Foods & Meats,"Hershey, Pennsylvania",1894,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+HUBB,Hubbell Incorporated,48898.0,Industrials,Industrial Machinery & Supplies & Components,"Shelton, Connecticut",1888,2023-10-18,,https://press.spglobal.com/index.php?l=100&o=700&s=2429,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+HUM,Humana,49071.0,Health Care,Managed Health Care,"Louisville, Kentucky",1961,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+HWM,Howmet Aerospace,4281.0,Industrials,Aerospace & Defense,"Pittsburgh, Pennsylvania",1888,2020-04-06,,,
+IAC,People Inc,1800227.0,"Services-Computer Programming, Data Processing, Etc.",,,,2006-12-01,2008-08-21,,
+IBKR,Interactive Brokers,1381197.0,Financials,Investment Banking & Brokerage,"Greenwich, Connecticut",1977,2025-08-28,,https://press.spglobal.com/2025-08-25-Interactive-Brokers-Group-Set-to-Join-S-P-500%2C-Talen-Energy-to-Join-S-P-MidCap-400-and-Kinetik-Holdings-to-Join-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+IBM,IBM,51143.0,Information Technology,IT Consulting & Other Services,"Armonk, New York",1911,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ICE,Intercontinental Exchange,1571949.0,Financials,Financial Exchanges & Data,"Atlanta, Georgia",2000,2007-09-26,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+IDXX,Idexx Laboratories,874716.0,Health Care,Health Care Equipment,"Westbrook, Maine",1983,2017-01-05,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+IEX,IDEX Corporation,832101.0,Industrials,Industrial Machinery & Supplies & Components,"Northbrook, Illinois",1988,2019-08-09,,https://press.spglobal.com/2019-08-01-Leidos-Holdings-IDEX-Set-to-Join-S-P-500-Grubhub-Foot-Locker-to-Join-S-P-MidCap-400-National-Beverage-to-Join-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+IFF,International Flavors & Fragrances,51253.0,Materials,Specialty Chemicals,"New York City, New York",1958 (1889),1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+IGT,,,,,,,2001-09-04,2014-06-20,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+IKN,,,,,,,1996-01-02,2000-06-29,,
+ILMN,"ILLUMINA, INC.",1110803.0,Laboratory Analytical Instruments,,,,2015-11-19,2024-06-24,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+IMNX,,,,,,,2001-09-21,2002-07-16,,
+INCLF,,,,,,,1996-01-02,2002-07-22,,
+INCY,Incyte,879169.0,Health Care,Biotechnology,"Wilmington, Delaware",1991,2017-02-28,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+INFO,,,,,,,2017-06-02,2022-03-02,,
+INGR,Ingredion Inc,1046257.0,Grain Mill Products,,,,1996-01-02,1997-07-28,,
+INTC,Intel,50863.0,Information Technology,Semiconductors,"Santa Clara, California",1968,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+INTU,Intuit,896878.0,Information Technology,Application Software,"Mountain View, California",1983,2000-12-11,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+INVH,Invitation Homes,1687229.0,Real Estate,Single-Family Residential REITs,"Dallas, Texas",2012,2022-09-19,,https://press.spglobal.com/2022-09-02-CoStar-Group%2C-Invitation-Homes-Set-to-Join-S-P-500-Others-to-Join-S-P-100%2C-S-P-MidCap-400%2C-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+IP,International Paper,51434.0,Materials,Paper & Plastic Packaging Products & Materials,"Memphis, Tennessee",1898,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+IPG,,,,,,,1996-01-02,2025-11-28,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+IPGP,IPG PHOTONICS CORP,1111928.0,Semiconductors & Related Devices,,,,2018-03-07,2022-06-21,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+IQV,IQVIA,1478242.0,Health Care,Life Sciences Tools & Services,"Durham, North Carolina",1982,2017-08-29,,https://press.spglobal.com/2017-08-24-Charter-Communications-Set-to-Join-S-P-100-Quintiles-IMS-Holdings-and-SBA-Communications-to-Join-S-P-500,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+IR,Ingersoll Rand,1699150.0,Industrials,Industrial Machinery & Supplies & Components,"Davidson, North Carolina",1859,1996-01-02,2009-07-01,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+IRM,Iron Mountain,1020569.0,Real Estate,Other Specialized REITs,"Portsmouth, New Hampshire",1951,2009-01-06,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ISRG,Intuitive Surgical,1035267.0,Health Care,Health Care Equipment,"Sunnyvale, California",1995,2008-06-02,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+IT,Gartner,749251.0,Information Technology,IT Consulting & Other Services,"Stamford, Connecticut",1979,2017-04-05,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ITT,ITT INC.,216228.0,Pumps & Pumping Equipment,,,,1996-01-02,2011-11-01,,
+ITW,Illinois Tool Works,49826.0,Industrials,Industrial Machinery & Supplies & Components,"Glenview, Illinois",1912,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+IVZ,Invesco,914208.0,Financials,Asset Management & Custody Banks,"Atlanta, Georgia",1935,2008-08-21,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+J,Jacobs Solutions,52988.0,Industrials,Construction & Engineering,"Dallas, Texas",1947,2019-12-10,,,
+JAVA,,,,,,,1996-01-02,2010-01-27,,
+JBHT,J.B. Hunt,728535.0,Industrials,Cargo Ground Transportation,"Lowell, Arkansas",1961,2015-07-01,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+JBL,Jabil,898293.0,Information Technology,Electronic Manufacturing Services,"St. Petersburg, Florida",1966,2001-01-30,2014-11-05,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+JCI,Johnson Controls,833444.0,Industrials,Building Products,"Cork, Ireland",1885,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+JCP,,,,,,,1996-01-02,2013-12-02,,
+JEC,,,,,,,2007-10-26,2019-12-10,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+JEF,Jefferies Financial Group Inc.,96223.0,"Security Brokers, Dealers & Flotation Companies",,,,2007-08-27,2019-09-26,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+JHF,,,,,,,2001-06-29,2004-04-29,,
+JKHY,Jack Henry & Associates,779152.0,Financials,Transaction & Payment Processing Services,"Monett, Missouri",1976,2018-11-13,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+JNJ,Johnson & Johnson,200406.0,Health Care,Pharmaceuticals,"New Brunswick, New Jersey",1886,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+JNPR,,,,,,,2006-06-02,2025-07-09,,
+JNS,,,,,,,2000-07-13,2011-11-23,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+JNY,,,,,,,2001-12-17,2009-03-04,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+JOS,,,,,,,1996-01-02,2000-05-10,,
+JOY,,,,,,,2011-02-28,2015-10-08,,
+JP,,,,,,,1996-01-02,2006-04-03,,
+JPM,JPMorgan Chase,19617.0,Financials,Diversified Banks,"New York City, New York",2000 (1799 / 1871),1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+JWN,,,,,,,1996-01-02,2020-06-22,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+K,,,,,,,1996-01-02,2025-12-11,,
+KATE,,,,,,,1996-01-02,2008-12-02,,
+KBH,KB HOME,795266.0,Operative Builders,,,,1996-01-02,2009-12-21,,
+KDP,Keurig Dr Pepper,1418135.0,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,"Burlington, Massachusetts",1981,2008-10-07,2018-07-02,https://press.spglobal.com/2022-06-03-Keurig-Dr-Pepper%2C-VICI-Properties-and-ON-Semiconductor-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400%2C-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+KEY,KeyCorp,91576.0,Financials,Regional Banks,"Cleveland, Ohio",1825,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+KEYS,Keysight Technologies,1601046.0,Information Technology,Electronic Equipment & Instruments,"Santa Rosa, California",2014 (1939),2018-11-06,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+KG,Kestrel Group Ltd,2055116.0,"Fire, Marine & Casualty Insurance",,,,2000-10-03,2010-12-20,,
+KHC,Kraft Heinz,1637459.0,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois; Pittsburgh, Pennsylvania",2015 (1869),2015-07-06,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+KIM,Kimco Realty,879101.0,Real Estate,Retail REITs,"Jericho, New York",1958,2006-04-03,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+KKR,KKR & Co.,1404912.0,Financials,Asset Management & Custody Banks,"New York City, New York",1976,2024-06-24,,https://press.spglobal.com/2024-06-07-KKR%2C-CrowdStrike-Holdings-and-GoDaddy-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+KLAC,KLA Corporation,319201.0,Information Technology,Semiconductor Materials & Equipment,"Milpitas, California",1975/1977 (1997),1997-09-15,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+KM,,,,,,,1996-01-02,2002-01-17,,
+KMB,Kimberly-Clark,55785.0,Consumer Staples,Household Products,"Irving, Texas",1872,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+KMG,,,,,,,1996-01-02,2006-08-11,https://www.spglobal.com/spdji/en/documents/research/research-what-happened-to-the-index-effect.pdf,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+KMG_B,,,,,,,,,,
+KMI,Kinder Morgan,1506307.0,Energy,Oil & Gas Storage & Transportation,"Houston, Texas",1997,2000-12-12,2007-05-31,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+KMX,CARMAX INC,1170010.0,Retail-Auto Dealers & Gasoline Stations,,,,2010-06-28,2025-10-31,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+KO,Coca-Cola Company (The),21344.0,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,"Atlanta, Georgia",1886,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+KR,Kroger,56873.0,Consumer Staples,Food Retail,"Cincinnati, Ohio",1883,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+KRB,,,,,,,1996-01-02,2006-01-03,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+KRFT,,,,,,,2012-10-02,2015-07-06,,
+KRI,,,,,,,1996-01-02,2006-06-28,,
+KSE,,,,,,,2000-08-21,2007-08-27,,
+KSS,KOHLS Corp,885639.0,Retail-Department Stores,,,,1998-08-14,2020-09-21,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+KSU,,,,,,,1999-04-05,2021-12-14,,
+KVUE,Kenvue,1944048.0,Consumer Staples,Personal Care Products,"Skillman, New Jersey",2022 (Johnson & Johnson spinoff),2023-08-25,,https://press.spglobal.com/2023-08-21-Kenvue-Set-to-Join-S-P-500-Advance-Auto-Parts-to-Join-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+L,Loews Corporation,60086.0,Financials,Multi-line Insurance,"New York City, New York",1959,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+LB,LandBridge Co LLC,1995807.0,Oil Royalty Traders,,,,1996-01-02,2021-08-03,,
+LDG,,,,,,,1996-01-02,2001-07-02,,
+LDOS,Leidos,1336920.0,Industrials,Diversified Support Services,"Reston, Virginia",1969,2009-12-21,2013-09-23,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+LEG,LEGGETT & PLATT INC,58492.0,Household Furniture,,,,1999-10-18,2021-12-20,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+LEHMQ,,,,,,,1998-01-12,2008-09-17,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://github.com/fja05680/sp500/blob/master/S%26P%20500%20Historical%20Components%20%26%20Changes(mm-dd-yyyy).csv
+LEN,Lennar,920760.0,Consumer Discretionary,Homebuilding,"Miami, Florida",1954,2005-10-04,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+LH,Labcorp,920148.0,Health Care,Health Care Services,"Burlington, North Carolina",1978,2004-11-01,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+LHX,L3Harris,202058.0,Industrials,Aerospace & Defense,"Melbourne, Florida","2019 (L3 1997, Harris 1895)",2019-06-01,,,
+LIFE,Ethos Technologies Inc.,1788451.0,"Insurance Agents, Brokers & Service",,,,2008-11-24,2014-01-24,,
+LII,Lennox International,1069202.0,Industrials,Building Products,"Richardson, Texas",1895,2024-12-23,,https://press.spglobal.com/2024-12-06-Apollo-Global-Management-and-Workday-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+LIN,Linde plc,1707925.0,Materials,Industrial Gases,"Guildford, United Kingdom",1879,2018-11-06,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+LITE,Lumentum,1633978.0,Information Technology,Communications Equipment,"San Jose, California",2015,2026-03-23,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+LKQ,LKQ CORP,1065696.0,Wholesale-Motor Vehicles & Motor Vehicle Parts & Supplies,,,,2016-05-23,2025-12-22,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+LLL,,,,,,,2004-12-01,2019-07-01,,
+LLTC,,,,,,,2000-04-03,2017-03-13,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+LLY,Lilly (Eli),59478.0,Health Care,Pharmaceuticals,"Indianapolis, Indiana",1876,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+LM,,,,,,,2006-04-24,2016-12-02,,
+LMT,Lockheed Martin,936468.0,Industrials,Aerospace & Defense,"Bethesda, Maryland",1995,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+LNC,LINCOLN NATIONAL CORP,59558.0,Life Insurance,,,,1996-01-02,2023-09-18,https://pineify.app/free-tools/historical-sp500,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+LNT,Alliant Energy,352541.0,Utilities,Electric Utilities,"Madison, Wisconsin",1917,2016-07-01,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+LO,,,,,,,2008-06-11,2015-06-12,https://en.wikipedia.org/wiki/List_of_S%26P_500_companies,https://press.spglobal.com/2015-06-09-Qorvo-Set-to-Join-the-S-P-500-WisdomTree-Investments-to-be-Added-to-the-S-P-MidCap-400
+LOW,Lowe's,60667.0,Consumer Discretionary,Home Improvement Retail,"Mooresville, North Carolina",1904/1946/1959,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+LPX,LOUISIANA-PACIFIC CORP,60519.0,Lumber & Wood Products (No Furniture),,,,1996-01-02,2006-11-10,,
+LRCX,Lam Research,707549.0,Information Technology,Semiconductor Materials & Equipment,"Fremont, California",1980,2012-06-05,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+LSI,,,,,,,1996-01-02,2014-05-07,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+LULU,Lululemon Athletica,1397187.0,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Vancouver, Canada",1998,2023-10-18,,https://press.spglobal.com/index.php?l=100&o=700&s=2429,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+LUMN,"Lumen Technologies, Inc.",18926.0,Telephone Communications (No Radiotelephone),,,,2020-09-18,2023-03-20,,
+LUV,Southwest Airlines,92380.0,Industrials,Passenger Airlines,"Dallas, Texas",1967,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+LVLT,,,,,,,2014-11-05,2017-10-13,,
+LVS,Las Vegas Sands,1300514.0,Consumer Discretionary,Casinos & Gaming,"Las Vegas, Nevada",1988,2019-10-03,,https://press.spglobal.com/2019-09-26-Las-Vegas-Sands-Set-to-Join-S-P-500-Nektar-Therapeutics-to-Join-S-P-MidCap-400-The-Pennant-Group-to-Join-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+LW,"Lamb Weston Holdings, Inc.",1679273.0,"Canned, Frozen & Preservd Fruit, Veg & Food Specialties",,,,2018-12-03,2026-03-23,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+LXK,,,,,,,1999-08-13,2012-10-01,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+LYB,LyondellBasell,1489393.0,Materials,Specialty Chemicals,"Rotterdam, Netherlands",2007,2012-09-05,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+LYV,Live Nation Entertainment,1335258.0,Communication Services,Movies & Entertainment,"Beverly Hills, California",2010,2019-12-23,,https://press.spglobal.com/2019-12-13-Live-Nation-Entertainment-Zebra-Technologies-STERIS-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+M,"Macy's, Inc.",794367.0,Retail-Department Stores,,,,1996-01-02,2020-04-06,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+MA,Mastercard,1141391.0,Financials,Transaction & Payment Processing Services,"Harrison, New York",1966,2008-07-18,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+MAA,Mid-America Apartment Communities,912595.0,Real Estate,Multi-Family Residential REITs,"Memphis, Tennessee",1977,2016-12-02,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+MAC,MACERICH CO,912242.0,Real Estate Investment Trusts,,,,2013-05-09,2019-12-23,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+MAR,Marriott International,1048286.0,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Bethesda, Maryland",1927,1998-05-21,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+MAS,Masco,62996.0,Industrials,Building Products,"Livonia, Michigan",1929,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+MAT,MATTEL INC /DE/,63276.0,Dolls & Stuffed Toys,,,,1996-01-02,2019-06-07,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+MAY,,,,,,,1996-01-02,2005-08-29,,
+MBI,MBIA INC,814585.0,Surety Insurance,,,,1996-12-03,2009-12-21,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+MCD,McDonald's,63908.0,Consumer Discretionary,Restaurants,"Chicago, Illinois",1940,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+MCHP,Microchip Technology,827054.0,Information Technology,Semiconductors,"Chandler, Arizona",1989,2007-09-07,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+MCK,McKesson Corporation,927653.0,Health Care,Health Care Distributors,"Irving, Texas",1833,1999-01-13,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+MCO,Moody's Corporation,1059556.0,Financials,Financial Exchanges & Data,"New York City, New York",1909,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+MD,"Pediatrix Medical Group, Inc.",893949.0,Services-Hospitals,,,,1996-01-02,1997-08-01,,
+MDLZ,Mondelez International,1103982.0,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",2012,2007-04-02,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+MDP,,,,,,,1996-01-02,2011-01-04,,
+MDR,,,,,,,1996-01-02,2003-08-20,,
+MDT,Medtronic,1613103.0,Health Care,Health Care Equipment,"Galway, Ireland",1949,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+MEA,,,,,,,1996-01-02,2002-01-30,,
+MEDI,,,,,,,2000-06-16,2007-06-01,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+MEE,,,,,,,1996-01-02,2011-06-02,,
+MEL,,,,,,,1996-01-02,2007-07-02,,
+MER,,,,,,,1996-01-02,2009-01-02,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+MERQ,,,,,,,2000-06-29,2006-01-04,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+MET,MetLife,1099219.0,Financials,Life & Health Insurance,"New York City, New York",1868,2000-12-11,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+META,Meta Platforms,1326801.0,Communication Services,Interactive Media & Services,"Menlo Park, California",2004,2022-06-09,,https://press.spglobal.com/2013-12-11-Facebook-Set-to-Join-the-S-P-100-500-Alliance-Data-Systems-and-Mohawk-to-Join-the-S-P-500-Changes-to-the-S-P-MidCap-400-and-the-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+MFE,,,,,,,2008-12-23,2011-03-01,,
+MGM,MGM Resorts,789570.0,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",1986,2017-07-26,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+MHK,MOHAWK INDUSTRIES INC,851968.0,Carpets & Rugs,,,,2013-12-23,2025-12-22,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+MHS,,,,,,,2003-08-20,2012-04-02,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+MI,NFT Ltd,1958713.0,Finance Services,,,,2002-02-11,2011-07-06,,
+MIL,,,,,,,1996-01-02,2010-07-15,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+MIR,"Mirion Technologies, Inc.",1809987.0,"Measuring & Controlling Devices, NEC",,,,1997-08-07,2003-07-17,,
+MJN,,,,,,,2009-12-21,2017-06-15,,
+MKC,McCormick & Company,63754.0,Consumer Staples,Packaged Foods & Meats,"Hunt Valley, Maryland",1889,2003-03-21,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+MKG,,,,,,,1996-01-02,2000-10-18,,
+MKTX,MARKETAXESS HOLDINGS INC,1278021.0,"Security Brokers, Dealers & Flotation Companies",,,,2019-07-01,2025-09-22,https://press.spglobal.com/2019-06-24-MarketAxess-Holdings-Set-to-Join-S-P-500-Axon-Enterprise-to-Join-S-P-MidCap-400-Others-to-Join-S-P-SmallCap-600,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+MLM,Martin Marietta Materials,916076.0,Materials,Construction Materials,"Raleigh, North Carolina",1993,2014-07-02,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+MMC,,,,,,,1996-01-02,2026-01-14,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+MMI,"Marcus & Millichap, Inc.",1578732.0,Real Estate Agents & Managers (For Others),,,,2011-01-04,2012-05-22,,
+MMM,3M,66740.0,Industrials,Industrial Conglomerates,"Saint Paul, Minnesota",1902,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+MNK,,,,,,,2014-08-19,2017-07-26,,
+MNR,MACH NATURAL RESOURCES LP,1980088.0,Crude Petroleum & Natural Gas,,,,1996-01-02,1998-09-28,,
+MNST,Monster Beverage,865752.0,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,"Corona, California",2012 (1935),2012-06-29,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+MO,Altria,764180.0,Consumer Staples,Tobacco,"Richmond, Virginia",1985,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+MOH,"MOLINA HEALTHCARE, INC.",1179929.0,Hospital & Medical Service Plans,,,,2022-03-02,2026-03-23,https://press.spglobal.com/2022-02-25-Molina-Healthcare-Set-to-Join-S-P-500-Range-Resources-to-Join-S-P-MidCap-400-Golden-Entertainment-to-Join-S-P-SmallCap-600,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+MOLX,,,,,,,1999-12-01,2013-12-09,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+MON,,,,,,,2002-08-14,2018-06-07,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+MOS,Mosaic Company (The),1285785.0,Materials,Fertilizers & Agricultural Chemicals,"Tampa, Florida",2004 (1865 / 1909),2011-09-26,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+MPC,Marathon Petroleum,1510295.0,Energy,Oil & Gas Refining & Marketing,"Findlay, Ohio",2009 (1887),2011-07-01,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+MPWR,Monolithic Power Systems,1280452.0,Information Technology,Semiconductors,"Kirkland, Washington",1997,2021-02-12,,https://press.spglobal.com/2021-02-08-Monolithic-Power-Systems-Set-to-Join-S-P-500-Iridium-Communications-to-Join-S-P-MidCap-400-Collegium-Pharmaceutical-to-Join-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+MRK,Merck & Co.,310158.0,Health Care,Pharmaceuticals,"Kenilworth, New Jersey",1891,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+MRNA,Moderna,1682852.0,Health Care,Biotechnology,"Cambridge, Massachusetts",2010,2021-07-21,,https://press.spglobal.com/2021-07-15-Moderna-Set-to-Join-S-P-500,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+MRO,,,,,,,1996-01-02,2024-11-26,,
+MRSH,Marsh McLennan,62709.0,Financials,Insurance Brokers,"New York City, New York",1905,2026-01-14,,,
+MS,Morgan Stanley,895421.0,Financials,Investment Banking & Brokerage,"New York City, New York",1935,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+MSCI,MSCI Inc.,1408198.0,Financials,Financial Exchanges & Data,"New York City, New York",1969,2018-04-04,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+MSFT,Microsoft,789019.0,Information Technology,Systems Software,"Redmond, Washington",1975,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+MSI,Motorola Solutions,68505.0,Information Technology,Communications Equipment,"Chicago, Illinois",1928 (2011),1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+MTB,M&T Bank,36270.0,Financials,Regional Banks,"Buffalo, New York",1856,2004-02-27,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+MTCH,"Match Group, Inc.",891103.0,"Services-Computer Programming, Data Processing, Etc.",,,,2021-09-20,2026-03-23,https://press.spglobal.com/2021-09-03-Match-Group%2C-Ceridian-HCM-and-Brown-Brown-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+MTD,Mettler Toledo,1037646.0,Health Care,Life Sciences Tools & Services,"Columbus, Ohio",1945,2016-09-06,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+MTG,MGIC INVESTMENT CORP,876437.0,Surety Insurance,,,,1996-07-19,2008-10-31,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+MTLQQ,,,,,,,1996-01-02,2009-06-03,,
+MTW,MANITOWOC CO INC,61986.0,Construction Machinery & Equip,,,,2007-11-16,2009-09-01,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+MU,Micron Technology,723125.0,Information Technology,Semiconductors,"Boise, Idaho",1978,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+MUR,MURPHY OIL CORP,717423.0,Crude Petroleum & Natural Gas,,,,2005-08-15,2017-07-26,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+MWV,,,,,,,1996-01-02,2015-07-02,,
+MWW,,,,,,,2001-06-04,2011-12-19,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+MXIM,,,,,,,2000-05-10,2021-08-30,,
+MYG,,,,,,,1996-01-02,2006-04-03,,
+MYL,,,,,,,2004-04-23,2020-11-17,,
+MZIAQ,,,,,,,1996-01-02,2000-06-29,,
+NAV,,,,,,,1996-01-02,2006-12-20,,
+NAVI,NAVIENT CORP,1593538.0,"Security Brokers, Dealers & Flotation Companies",,,,2014-05-01,2018-06-05,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+NBL,,,,,,,2007-10-08,2020-10-12,,
+NBR,NABORS INDUSTRIES LTD,1163739.0,Drilling Oil & Gas Wells,,,,2000-10-18,2015-03-23,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+NC,NACCO INDUSTRIES INC,789933.0,Bituminous Coal & Lignite Surface Mining,,,,1996-01-02,2000-06-05,,
+NCC,,,,,,,1996-01-02,2009-01-02,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+NCLH,Norwegian Cruise Line Holdings,1513761.0,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami-Dade County, Florida[4]",2011 (1966),2017-10-13,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+NCR,,,,,,,2000-01-04,2007-10-01,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+NDAQ,"Nasdaq, Inc.",1120193.0,Financials,Financial Exchanges & Data,"New York City, New York",1971,2008-10-22,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+NDSN,Nordson Corporation,72331.0,Industrials,Industrial Machinery & Supplies & Components,"Westlake, Ohio",1935,2022-02-15,,https://press.spglobal.com/2022-02-10-Nordson-Set-to-Join-S-P-500-PDC-Energy-to-Join-S-P-MidCap-400-XPEL-to-Join-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+NE,Noble Corp plc,1895262.0,Drilling Oil & Gas Wells,,,,2001-01-16,2015-07-20,,
+NEE,NextEra Energy,753308.0,Utilities,Multi-Utilities,"Juno Beach, Florida",1984 (1925),1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+NEM,Newmont,1164727.0,Materials,Gold,"Denver, Colorado",1921,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+NFB,,,,,,,2002-07-17,2006-12-01,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+NFLX,Netflix,1065280.0,Communication Services,Movies & Entertainment,"Los Gatos, California",1997,2010-12-20,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+NFX,,,,,,,2010-12-20,2019-02-15,,
+NI,NiSource,1111711.0,Utilities,Multi-Utilities,"Merrillville, Indiana",1912,2000-11-02,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+NKE,"Nike, Inc.",320187.0,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Washington County, Oregon",1964,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+NKTR,NEKTAR THERAPEUTICS,906709.0,Pharmaceutical Preparations,,,,2018-03-19,2019-10-03,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+NLSN,,,,,,,2013-07-09,2022-10-12,,
+NMK,,,,,,,1996-01-02,2002-02-01,,
+NOC,Northrop Grumman,1133421.0,Industrials,Aerospace & Defense,"West Falls Church, Virginia[3]","1994 (Northrop 1939, Grumman 1930)",1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+NOV,NOV Inc.,1021860.0,Oil & Gas Field Machinery & Equipment,,,,2005-03-14,2021-09-20,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+NOVL,,,,,,,1996-01-02,2011-04-28,,
+NOW,ServiceNow,1373715.0,Information Technology,Systems Software,"Santa Clara, California",2003,2019-11-21,,https://press.spglobal.com/2019-11-19-Thermo-Fisher-Scientific-Set-to-Join-S-P-100-ServiceNow-to-Join-S-P-500,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+NRG,NRG Energy,1013871.0,Utilities,Independent Power Producers & Energy Traders,"Houston, Texas",1992,2010-01-29,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+NRTLQ,,,,,,,1996-01-02,2002-07-22,,
+NSC,Norfolk Southern,702165.0,Industrials,Rail Transportation,"Atlanta, Georgia",1881/1894 (1980),1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+NSI,,,,,,,1996-01-02,2001-12-03,,
+NSM,,,,,,,1996-01-02,2011-09-26,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+NTAP,NetApp,1002047.0,Information Technology,"Technology Hardware, Storage & Peripherals","San Jose, California",1992,1999-06-25,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+NTRS,Northern Trust,73124.0,Financials,Asset Management & Custody Banks,"Chicago, Illinois",1889,1998-01-30,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+NUE,Nucor,73309.0,Materials,Steel,"Charlotte, North Carolina",1940,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+NVDA,Nvidia,1045810.0,Information Technology,Semiconductors,"Santa Clara, California",1993,2001-11-30,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+NVLS,,,,,,,2000-06-19,2012-06-05,,
+NVR,"NVR, Inc.",906163.0,Consumer Discretionary,Homebuilding,"Reston, Virginia",1980,2019-09-26,,https://press.spglobal.com/2019-09-20-NVR-Set-to-Join-S-P-500-Jefferies-Financial-Group-II-VI-to-Join-S-P-MidCap-400-Callon-Petroleum-PriceSmart-to-Join-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+NWL,NEWELL BRANDS INC.,814453.0,"Plastics Products, NEC",,,,1996-01-02,2023-09-18,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+NWSA,News Corp (Class A),1564708.0,Communication Services,Publishing,"New York City, New York",2013 (News Corporation 1980),2013-07-01,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+NXPI,NXP Semiconductors,1413447.0,Information Technology,Semiconductors,"Eindhoven, Netherlands",1953,2021-03-22,,https://press.spglobal.com/2021-03-12-NXP-Semiconductors-Penn-National-Gaming-Generac-Holdings-and-Caesars-Entertainment-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-S-P-SmallCap-600-and-S-P-100,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+NXTL,,,,,,,1998-04-01,2005-08-15,,
+NYT,NEW YORK TIMES CO,71691.0,Newspapers: Publishing or  Publishing & Printing,,,,1996-01-02,2010-12-20,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+NYX,,,,,,,2007-10-25,2013-11-13,,
+O,Realty Income,726728.0,Real Estate,Retail REITs,"San Diego, California",1969,2015-04-07,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ODFL,Old Dominion,878927.0,Industrials,Cargo Ground Transportation,"Thomasville, North Carolina",1934,2019-12-09,,https://press.spglobal.com/2019-12-02-Old-Dominion-Freight-Line-Set-to-Join-S-P-500-Cabot-Microelectronics-to-Join-S-P-MidCap-400-Ready-Capital-and-Industrial-Logistics-Properties-Trust-to-Join-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ODP,,,,,,,1999-06-24,2010-12-20,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+OGN,Organon & Co.,1821825.0,Pharmaceutical Preparations,,,,2021-06-04,2023-10-18,https://press.spglobal.com/2021-05-27-Organon-Set-to-Join-S-P-500-HollyFrontier-to-Join-S-P-MidCap-400-Service-Properties-Trust-to-Join-S-P-SmallCap-600,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+OI,"O-I Glass, Inc. /DE/",812074.0,Glass Containers,,,,1997-08-04,2016-12-02,,
+OKE,Oneok,1039684.0,Energy,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",1906,1996-01-02,2001-08-30,https://insurancenewsnet.com/oarticle/Briefingcom-Hourly-In-Play-R-1900-ET-a-171352,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+OM,"Outset Medical, Inc.",1484612.0,,,,,1996-01-02,1996-10-01,,
+OMC,Omnicom Group,29989.0,Communication Services,Advertising,"New York City, New York",1986,1997-12-24,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+OMX,,,,,,,1996-01-02,2008-06-23,,
+ON,ON Semiconductor,1097864.0,Information Technology,Semiconductors,"Phoenix, Arizona",1999,2022-06-21,,https://press.spglobal.com/2022-06-03-Keurig-Dr-Pepper%2C-VICI-Properties-and-ON-Semiconductor-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400%2C-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ONE,,,,,,,1996-01-02,2004-07-01,,
+ORCL,Oracle Corporation,1341439.0,Information Technology,Application Software,"Austin, Texas",1977,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ORLY,O’Reilly Automotive,898173.0,Consumer Discretionary,Automotive Retail,"Springfield, Missouri",1957,2009-03-27,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+OTIS,Otis Worldwide,1781335.0,Industrials,Industrial Machinery & Supplies & Components,"Farmington, Connecticut","2020 (1853, United Technologies spinoff)",2020-04-03,,https://press.spglobal.com/2020-03-31-Otis-Worldwide-and-Carrier-Global-Set-to-Join-S-P-500-American-Tower-to-Join-S-P-100-and-Macys-to-Join-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+OWENQ,,,,,,,1996-01-02,2000-10-02,,
+OXY,Occidental Petroleum,797468.0,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1920,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+PALM,,,,,,,2000-07-28,2002-08-14,,
+PANW,Palo Alto Networks,1327567.0,Information Technology,Systems Software,"Santa Clara, California",2005,2023-06-20,,https://press.spglobal.com/2023-06-02-Palo-Alto-Networks-Set-to-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+PARA,,,,,,,2022-02-17,2025-08-08,,
+PAYC,"Paycom Software, Inc.",1590955.0,,,,,2020-01-28,2026-03-23,,
+PAYX,Paychex,723531.0,Industrials,Human Resource & Employment Services,"Penfield, New York",1971,1998-10-01,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+PBCT,,,,,,,2008-11-13,2022-04-04,https://www.reuters.com/article/markets/stocks/peoples-united-to-replace-unisys-on-sp-500-index-idUSTRE4A9510/,https://press.spglobal.com/2022-03-29-Camden-Property-Trust-Set-to-Join-S-P-500-Matador-Resources-to-Join-S-P-MidCap-400-Vir-Biotechnology-to-Join-S-P-SmallCap-600
+PBG,,,,,,,2001-05-14,2010-03-01,,
+PBI,PITNEY BOWES INC /DE/,78814.0,,,,,1996-01-02,2017-03-01,https://pineify.app/free-tools/historical-sp500,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+PBY,,,,,,,1996-01-02,2000-04-03,,
+PCAR,Paccar,75362.0,Industrials,Construction Machinery & Heavy Transportation Equipment,"Bellevue, Washington",1905,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+PCG,PG&E Corporation,1004980.0,Utilities,Multi-Utilities,"Oakland, California",1905,1996-01-02,2019-01-18,https://press.spglobal.com/2022-09-23-PG-E-and-EQT-Set-to-Join-S-P-500-ExlService-to-Join-S-P-MidCap-400-Others-to-Join-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+PCH,,,,,,,1996-01-02,2001-07-09,,
+PCL,,,,,,,2002-01-17,2016-02-22,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+PCP,,,,,,,2007-06-01,2016-02-01,https://wrds-www.wharton.upenn.edu/classroom/sp500-introduction/over-time/,https://press.spglobal.com/2016-01-26-Citizens-Financial-Group-Set-to-Join-the-S-P-500-ZELTIQ-Aesthetics-RE-MAX-to-Join-S-P-SmallCap-600
+PCS,,,,,,,1998-11-24,2004-04-23,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+PD,"PagerDuty, Inc.",1568100.0,,,,,1996-01-02,2007-03-20,,
+PDCO,,,,,,,2005-10-11,2018-03-19,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+PEG,Public Service Enterprise Group,788784.0,Utilities,Electric Utilities,"Newark, New Jersey",1903,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+PENN,"PENN Entertainment, Inc.",921738.0,,,,,2021-03-22,2022-09-19,https://press.spglobal.com/2021-03-12-NXP-Semiconductors-Penn-National-Gaming-Generac-Holdings-and-Caesars-Entertainment-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-S-P-SmallCap-600-and-S-P-100,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+PEP,PepsiCo,77476.0,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,"Purchase, New York",1898,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+PETM,,,,,,,2012-10-05,2015-03-12,,
+PFE,Pfizer,78003.0,Health Care,Pharmaceuticals,"New York City, New York",1849,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+PFG,Principal Financial Group,1126328.0,Financials,Life & Health Insurance,"Des Moines, Iowa",1879,2002-07-22,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+PG,Procter & Gamble,80424.0,Consumer Staples,Personal Care Products,"Cincinnati, Ohio",1837,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+PGL,,,,,,,1996-01-02,2007-02-22,,
+PGN,,,,,,,1996-01-02,2012-07-02,,
+PGR,Progressive Corporation,80661.0,Financials,Property & Casualty Insurance,"Mayfield Village, Ohio",1937,1997-08-04,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+PH,Parker Hannifin,76334.0,Industrials,Industrial Machinery & Supplies & Components,"Cleveland, Ohio",1917,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+PHA,,,,,,,1996-01-02,2003-04-16,,
+PHM,PulteGroup,822416.0,Consumer Discretionary,Homebuilding,"Atlanta, Georgia",1956,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+PKG,Packaging Corporation of America,75677.0,Materials,Paper & Plastic Packaging Products & Materials,"Lake Forest, Illinois",1959,2017-07-26,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+PKI,,,,,,,1996-01-02,2023-05-16,https://pineify.app/free-tools/historical-sp500,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+PLD,Prologis,1045609.0,Real Estate,Industrial REITs,"San Francisco, California",1983,2003-07-17,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+PLL,,,,,,,1996-01-02,2015-08-31,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+PLTR,Palantir Technologies,1321655.0,Information Technology,Application Software,"Aventura, Florida",2003,2024-09-23,,https://press.spglobal.com/2024-09-06-Palantir-Technologies%2C-Dell-Technologies%2C-and-Erie-Indemnity-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+PM,Philip Morris International,1413329.0,Consumer Staples,Tobacco,"New York City, New York",2008 (1847),2008-03-31,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+PMCS,,,,,,,2001-08-03,2007-07-02,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+PMI,"Picard Medical, Inc.",2030617.0,,,,,1996-01-02,1996-05-31,,
+PNC,PNC Financial Services,713676.0,Financials,Diversified Banks,"Pittsburgh, Pennsylvania",1845,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+PNR,Pentair,77360.0,Industrials,Industrial Machinery & Supplies & Components,"Worsley, United Kingdom",1966,2012-10-01,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+PNW,Pinnacle West Capital,764622.0,Utilities,Multi-Utilities,"Phoenix, Arizona",1985,1999-10-04,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+PODD,Insulet Corporation,1145197.0,Health Care,Health Care Equipment,"Acton, Massachusetts",2000,2023-03-15,,https://press.spglobal.com/2023-03-13-Bunge-Set-to-Join-S-P-500,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+POM,POMDOCTOR Ltd,1877971.0,,,,,2007-11-09,2016-03-24,,
+POOL,Pool Corporation,945841.0,Consumer Discretionary,Distributors,"Covington, Louisiana",1993,2020-10-07,,https://press.spglobal.com/2020-10-01-Pool-Set-to-Join-S-P-500-Neogen-Simpson-Manufacturing-to-Join-S-P-MidCap-400-Others-to-Join-S-P-SmallCap-600,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+PPG,PPG Industries,79879.0,Materials,Specialty Chemicals,"Pittsburgh, Pennsylvania",1883,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+PPL,PPL Corporation,922224.0,Utilities,Electric Utilities,"Allentown, Pennsylvania",1920,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+PRD,,,,,,,1996-01-02,2000-12-12,,
+PRGO,PERRIGO Co plc,1585364.0,,,,,2011-12-19,2021-09-20,,
+PRU,Prudential Financial,1137774.0,Financials,Life & Health Insurance,"Newark, New Jersey",1875,2002-07-22,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+PSA,Public Storage,1393311.0,Real Estate,Self-Storage REITs,"Glendale, California",1972,2005-08-19,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+PSFT,,,,,,,1998-10-02,2004-12-29,,
+PSKY,Paramount Skydance Corporation,2041610.0,Communication Services,Movies & Entertainment,"Los Angeles, California",2025 (Paramount Pictures 1912),2025-08-08,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+PSX,Phillips 66,1534701.0,Energy,Oil & Gas Refining & Marketing,"Houston, Texas",2012 (1917),2012-05-01,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+PTC,PTC Inc.,857005.0,Information Technology,Application Software,"Boston, Massachusetts",1985,1997-04-03,2007-01-03,https://press.spglobal.com/2021-04-15-PTC-Set-to-Join-S-P-500-Lattice-Semiconductor-Progyny-to-Join-S-P-MidCap-400-Domtar-to-Join-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+PTV,,,,,,,1999-11-05,2010-11-17,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+PVH,PVH CORP. /DE/,78239.0,,,,,2013-02-14,2022-09-19,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+PVN,,,,,,,1996-01-02,2005-10-03,,
+PWER,,,,,,,2000-10-23,2005-03-14,,
+PWR,Quanta Services,1050915.0,Industrials,Construction & Engineering,"Houston, Texas",1997,2009-07-01,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+PX,,,,,,,1996-01-02,2018-10-31,,
+PXD,,,,,,,2008-09-24,2024-05-08,,
+PYPL,PayPal,1633917.0,Financials,Transaction & Payment Processing Services,"San Jose, California",1998,2015-07-20,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+Q,Qnity Electronics,2058873.0,Information Technology,Semiconductor Materials & Equipment,"Wilmington, Delaware",2025,2000-07-06,2011-04-01,https://press.spglobal.com/2025-10-27-Solstice-Advance-Materials-and-Qnity-Electronics-Set-to-Join-S-P-500-Others-to-Join-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+QCOM,Qualcomm,804328.0,Information Technology,Semiconductors,"San Diego, California",1985,1999-07-22,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+QEP,,,,,,,2010-07-01,2015-07-01,,
+QLGC,,,,,,,2000-12-12,2011-01-18,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+QRVO,"Qorvo, Inc.",1604778.0,,,,,2015-06-12,2024-12-23,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+QTRN,,,,,,,1999-11-16,2003-09-26,,
+R,RYDER SYSTEM INC,85961.0,,,,,1996-01-02,2017-06-19,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+RAD,,,,,,,1996-01-02,2000-07-27,,
+RAI,,,,,,,2002-09-04,2017-07-25,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+RAI_B,,,,,,,,,,
+RAL,Ralliant Corp,2041385.0,,,,,1996-01-02,2001-12-13,,
+RATL,,,,,,,2002-02-01,2003-02-21,,
+RBK,,,,,,,1996-01-02,2006-02-01,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+RCL,Royal Caribbean Group,884887.0,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",1997,2014-12-05,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+RDC,,,,,,,1996-01-02,2014-08-19,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+REG,Regency Centers,910606.0,Real Estate,Retail REITs,"Jacksonville, Florida",1963,2017-03-02,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+REGN,Regeneron Pharmaceuticals,872589.0,Health Care,Biotechnology,"Tarrytown, New York",1988,2013-05-01,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+RF,Regions Financial Corporation,1281761.0,Financials,Regional Banks,"Birmingham, Alabama",1971,1998-08-28,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+RHI,ROBERT HALF INC.,315213.0,,,,,2000-12-05,2024-06-24,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+RHT,,,,,,,2009-07-27,2019-07-15,,
+RIG,Transocean Ltd.,1451505.0,,,,,1999-12-31,2017-07-26,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+RJF,Raymond James Financial,720005.0,Financials,Investment Banking & Brokerage,"St. Petersburg, Florida",1962,2017-03-20,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+RL,Ralph Lauren Corporation,1037038.0,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York City, New York",1967,2007-02-02,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+RMD,ResMed,943819.0,Health Care,Health Care Equipment,"San Diego, California",1989,2017-07-26,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.sec.gov/files/company_tickers.json
+RML,,,,,,,1996-01-02,2000-12-12,,
+ROH,,,,,,,1996-01-02,2009-04-02,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+ROK,Rockwell Automation,1024478.0,Industrials,Electrical Components & Equipment,"Milwaukee, Wisconsin",1903,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ROL,"Rollins, Inc.",84839.0,Industrials,Environmental & Facilities Services,"Atlanta, Georgia",1948,2018-10-01,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ROP,Roper Technologies,882835.0,Information Technology,Electronic Equipment & Instruments,"Sarasota, Florida",1981,2009-12-23,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ROST,Ross Stores,745732.0,Consumer Discretionary,Apparel Retail,"Dublin, California",1982,2009-12-21,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+RRC,RANGE RESOURCES CORP,315852.0,,,,,2007-12-21,2018-06-18,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+RRD,,,,,,,1996-01-02,2012-12-12,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+RSG,Republic Services,1060391.0,Industrials,Environmental & Facilities Services,"Phoenix, Arizona",1998 (1981),2008-12-05,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+RSHCQ,,,,,,,1996-01-02,2011-07-01,,
+RTN,,,,,,,1996-01-02,2020-04-06,,
+RTX,RTX Corporation,101829.0,Industrials,Aerospace & Defense,"Waltham, Massachusetts",1922,2020-04-03,,,
+RVTY,Revvity,31791.0,Health Care,Health Care Equipment,"Waltham, Massachusetts",1937,2023-05-16,,,
+RX,,,,,,,1996-11-04,2010-02-26,https://wrds-www.wharton.upenn.edu/classroom/sp500-introduction/over-time/,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+RYAN,"RYAN SPECIALTY HOLDINGS, INC.",1849253.0,,,,,1996-01-02,1997-01-02,,
+S,"SentinelOne, Inc.",1583708.0,,,,,1996-01-02,2013-07-09,,
+SAF,,,,,,,1996-01-02,2008-09-23,,
+SANM,SANMINA CORP,897723.0,,,,,2000-06-21,2007-07-02,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+SAPE,,,,,,,2000-05-05,2002-05-13,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+SATS,EchoStar,1415404.0,Communication Services,Wireless Telecommunication Services,"Englewood, Colorado",2008,2026-03-23,,,
+SBAC,SBA Communications,1034054.0,Real Estate,Telecom Tower REITs,"Boca Raton, Florida",1989,2017-09-01,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+SBL,,,,,,,2000-12-11,2007-01-10,,
+SBUX,Starbucks,829224.0,Consumer Discretionary,Restaurants,"Seattle, Washington",1971,2000-06-08,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+SCG,,,,,,,2009-01-02,2019-01-02,,
+SCHW,Charles Schwab Corporation,316709.0,Financials,Investment Banking & Brokerage,"Westlake, Texas",1971,1997-06-02,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+SCI,SERVICE CORP INTERNATIONAL,89089.0,,,,,1996-01-02,2000-03-16,,
+SDS,,,,,,,2002-07-22,2005-08-12,,
+SE,Sea Ltd,1703399.0,,,,,2007-01-03,2017-02-27,,
+SEDG,"SOLAREDGE TECHNOLOGIES, INC.",1419612.0,,,,,2021-12-20,2023-10-18,https://press.spglobal.com/2021-12-03-Signature-Bank%2C-SolarEdge-Technologies-and-FactSet-Research-Systems-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+SEE,,,,,,,1998-04-01,2023-10-18,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+SEG,Seaport Entertainment Group Inc.,2009684.0,,,,,1996-08-16,2000-11-22,,
+SFA,,,,,,,1996-01-02,2006-02-27,,
+SGID,,,,,,,1996-01-02,2000-06-21,,
+SGP,"SpyGlass Pharma, Inc.",1778922.0,,,,,1996-01-02,2009-11-04,,
+SHLD,,,,,,,2005-03-28,2012-09-05,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+SHW,Sherwin-Williams,89800.0,Materials,Specialty Chemicals,"Cleveland, Ohio",1866,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+SIAL,,,,,,,1996-01-02,2015-11-18,https://www.spglobal.com/spdji/en/documents/research/research-what-happened-to-the-index-effect.pdf,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+SIG,SIGNET JEWELERS LTD,832988.0,,,,,2015-07-29,2018-03-19,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+SII,SPROTT INC.,1512920.0,,,,,2006-10-02,2010-08-27,,
+SIVB,,,,,,,2018-03-19,2023-03-15,,
+SJM,J.M. Smucker Company (The),91419.0,Consumer Staples,Packaged Foods & Meats,"Orrville, Ohio",1897,2008-11-06,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+SLB,Schlumberger,87347.0,Energy,Oil & Gas Equipment & Services,"Houston, Texas",1926,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+SLG,SL GREEN REALTY CORP,1040971.0,,,,,2015-03-23,2021-03-22,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+SLM,SLM Corp,1032033.0,,,,,1998-07-01,2014-05-01,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+SLR,,,,,,,1998-12-31,2007-10-02,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+SMCI,Supermicro,1375365.0,Information Technology,"Technology Hardware, Storage & Peripherals","San Jose, California",1993,2024-03-18,,https://press.spglobal.com/2024-03-01-Super-Micro-Computer-and-Deckers-Outdoor-Set-to-Join-S-P-500-Others-to-Join-S-P-100%2C-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+SMI,,,,,,,1996-01-02,2000-12-12,,
+SNA,Snap-on,91440.0,Industrials,Industrial Machinery & Supplies & Components,"Kenosha, Wisconsin",1920,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+SNDK,Sandisk,2023554.0,Information Technology,"Technology Hardware, Storage & Peripherals","Milpitas, California",1988,2006-04-20,2016-05-12,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+SNI,,,,,,,2008-07-01,2018-03-07,,
+SNPS,Synopsys,883241.0,Information Technology,Application Software,"Sunnyvale, California",1986,2017-03-16,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+SNV,,,,,,,1997-12-01,2008-01-02,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+SO,Southern Company,92122.0,Utilities,Electric Utilities,"Atlanta, Georgia",1945,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+SOLS,Solstice Advanced Materials Inc.,2064953.0,,,,,2025-10-30,2025-12-22,,
+SOLV,Solventum,1964738.0,Health Care,Health Care Technology,"Saint Paul, Minnesota",2023,2024-04-03,,https://press.spglobal.com/2024-03-27-GE-Vernova-and-Solventum-Set-to-Join-S-P-500-Dentsply-Sirona-to-Join-S-P-MidCap-400-Others-to-Join-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+SOV,,,,,,,2004-07-01,2009-01-30,,
+SPG,Simon Property Group,1063761.0,Real Estate,Retail REITs,"Indianapolis, Indiana",2003,2002-06-26,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+SPGI,S&P Global,64040.0,Financials,Financial Exchanges & Data,"New York City, New York",1917,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+SPLS,,,,,,,1998-10-07,2017-09-13,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+SRCL,,,,,,,2008-11-19,2018-12-03,,
+SRE,Sempra,1032208.0,Utilities,Multi-Utilities,"San Diego, California",1998,1998-06-29,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+SSP,E.W. SCRIPPS Co,832428.0,,,,,2005-12-20,2008-07-01,,
+STE,Steris,1757898.0,Health Care,Health Care Equipment,"Dublin, Ireland",1985,2019-12-23,,https://press.spglobal.com/2019-12-13-Live-Nation-Entertainment-Zebra-Technologies-STERIS-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+STI,Solidion Technology Inc.,1881551.0,,,,,1996-01-02,2019-12-09,,
+STJ,,,,,,,1996-01-02,2017-01-05,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+STLD,Steel Dynamics,1022671.0,Materials,Steel,"Fort Wayne, Indiana",1993,2022-12-22,,https://press.spglobal.com/2022-12-19-Steel-Dynamics-Set-to-Join-S-P-500-Super-Micro-Computer-to-Join-S-P-MidCap-400,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+STR,,,,,,,2006-12-01,2010-07-01,,
+STT,State Street Corporation,93751.0,Financials,Asset Management & Custody Banks,"Boston, Massachusetts",1792,1997-08-18,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+STX,Seagate Technology,1137789.0,Information Technology,"Technology Hardware, Storage & Peripherals","Dublin, Ireland",1979,2012-07-02,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+STZ,Constellation Brands,16918.0,Consumer Staples,Distillers & Vintners,"Rochester, New York",1945,2005-07-05,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+SUN,Sunoco LP,1552275.0,,,,,1996-01-02,2012-10-05,,
+SUNEQ,,,,,,,2007-05-31,2011-12-19,,
+SVU,,,,,,,1996-01-02,2012-05-01,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+SW,Smurfit Westrock,2005951.0,Materials,Paper & Plastic Packaging Products & Materials,"Dublin, Ireland",1934,2024-07-08,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+SWK,Stanley Black & Decker,93556.0,Industrials,Industrial Machinery & Supplies & Components,"New Britain, Connecticut",1843,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+SWKS,Skyworks Solutions,4127.0,Information Technology,Semiconductors,"Irvine, California",2002,2015-03-12,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+SWN,,,,,,,2008-06-06,2017-04-04,https://www.sec.gov/Archives/edgar/data/7332/000000733209000004/swn123108form10k.htm,https://press.spglobal.com/2017-03-28-Computer-Sciences-Set-to-Join-S-P-500-Southwestern-Energy-to-Join-S-P-MidCap-400
+SWY,,,,,,,1998-11-13,2015-01-27,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+SXCL,,,,,,,1999-10-01,2001-05-14,,
+SYF,Synchrony Financial,1601712.0,Financials,Consumer Finance,"Stamford, Connecticut",2003,2015-11-18,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+SYK,Stryker Corporation,310764.0,Health Care,Health Care Equipment,"Kalamazoo, Michigan",1941,2000-12-12,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+SYMC,,,,,,,2003-03-31,2019-11-05,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+SYY,Sysco,96021.0,Consumer Staples,Food Distributors,"Houston, Texas",1969,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+T,AT&T,732717.0,Communication Services,Integrated Telecommunication Services,"Dallas, Texas",1983 (1885),1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+TAP,Molson Coors Beverage Company,24545.0,Consumer Staples,Brewers,"Chicago, Illinois","2005 (Molson 1786, Coors 1873)",1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+TDC,TERADATA CORP /DE/,816761.0,,,,,2007-10-01,2017-06-19,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+TDG,TransDigm Group,1260221.0,Industrials,Aerospace & Defense,"Cleveland, Ohio",1993,2016-06-03,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+TDY,Teledyne Technologies,1094285.0,Information Technology,Electronic Equipment & Instruments,"Thousand Oaks, California",1960,2020-06-22,,https://press.spglobal.com/2020-06-12-S-P-Dow-Jones-Indices-Announces-Tyler-Technologies-Bio-Rad-Laboratories-and-Teledyne-Technologies-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+TE,T1 Energy Inc.,1992243.0,,,,,2001-10-10,2016-07-01,,
+TECH,Bio-Techne,842023.0,Health Care,Life Sciences Tools & Services,"Minneapolis, Minnesota",1976,2021-08-30,,https://press.spglobal.com/2021-08-24-Bio-Techne-Set-to-Join-S-P-500-Saia%2C-Mimecast-Option-Care-Health-to-Join-S-P-MidCap-400-Others-to-Join-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+TEG,,,,,,,2007-02-22,2015-06-30,,
+TEK,,,,,,,1996-01-02,2007-11-16,,
+TEL,TE Connectivity,1385157.0,Information Technology,Electronic Manufacturing Services,"Galway, Ireland",2007,2007-07-02,2009-06-26,https://www.forbes.com/2011/10/12/te-connectivity-to-replace-cephalon-in-sp-500-marketnewsvideo.html,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+TER,Teradyne,97210.0,Information Technology,Semiconductor Materials & Equipment,"North Reading, Massachusetts",1960,1999-11-15,2013-12-23,https://wrds-www.wharton.upenn.edu/classroom/sp500-introduction/over-time/,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+TEX,TEREX CORP,97216.0,,,,,2006-12-20,2008-11-06,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+TFC,Truist Financial,92230.0,Financials,Diversified Banks,"Charlotte, North Carolina",1872,2019-12-09,,,
+TFX,TELEFLEX INC,96943.0,,,,,2019-01-18,2025-03-24,https://press.spglobal.com/2019-01-15-Teleflex-Set-to-Join-S-P-500-Green-Dot-to-Join-S-P-MidCap-400-Mercer-International-to-Join-S-P-SmallCap-600,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+TGNA,,,,,,,1996-01-02,2017-06-02,,
+TGT,Target Corporation,27419.0,Consumer Staples,Consumer Staples Merchandise Retail,"Minneapolis, Minnesota",1902,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+THC,TENET HEALTHCARE CORP,70318.0,,,,,1996-01-02,2016-04-18,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+TIE,,,,,,,2007-10-29,2012-12-24,,
+TIF,,,,,,,2000-06-21,2021-01-07,,
+TIN,,,,,,,1996-01-02,2007-12-31,https://www.spglobal.com/spdji/en/documents/research/research-what-happened-to-the-index-effect.pdf,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+TJX,TJX Companies,109198.0,Consumer Discretionary,Apparel Retail,"Framingham, Massachusetts",1987,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+TKO,TKO Group Holdings,1973266.0,Communication Services,Movies & Entertainment,"New York City, New York",2023,2025-03-24,,https://press.spglobal.com/2025-03-07-DoorDash%2C-TKO-Group-Holdings%2C-Williams-Sonoma-and-Expand-Energy-Set-to-Join-S-P-500-Others-to-Join-S-P-100%2C-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+TKR,TIMKEN CO,98362.0,,,,,1996-01-02,2001-08-07,,
+TLAB,,,,,,,1996-01-02,2011-12-21,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+TMC,TMC the metals Co Inc.,1798562.0,,,,,1996-01-02,2000-06-13,,
+TMK,,,,,,,1996-01-02,2019-08-08,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+TMO,Thermo Fisher Scientific,97745.0,Health Care,Life Sciences Tools & Services,"Waltham, Massachusetts",2006 (1902),1997-01-02,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+TMUS,T-Mobile US,1283699.0,Communication Services,Wireless Telecommunication Services,"Bellevue, Washington",1994,2009-06-30,2013-05-01,https://press.spglobal.com/2019-07-09-T-Mobile-US-Set-to-Join-S-P-500,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+TNB,,,,,,,1996-01-02,2004-08-03,,
+TOS,,,,,,,1999-09-20,2001-09-17,,
+TOY,,,,,,,1996-01-02,2005-07-22,,
+TPL,Texas Pacific Land Corporation,1811074.0,Energy,Oil & Gas Exploration & Production,"Dallas, Texas",1888,2024-11-26,,https://press.spglobal.com/2024-11-21-Texas-Pacific-Land-Set-to-Join-S-P-500%2C-Mueller-Industries-to-Join-S-P-MidCap-400-and-Atlas-Energy-Solutions-to-Join-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+TPR,"Tapestry, Inc.",1116132.0,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York City, New York",2017,2004-09-01,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+TRB,,,,,,,1996-01-02,2007-12-21,https://www.spglobal.com/spdji/en/documents/research/research-what-happened-to-the-index-effect.pdf,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+TRGP,Targa Resources,1389170.0,Energy,Oil & Gas Storage & Transportation,"Houston, Texas",2005,2022-10-12,,https://press.spglobal.com/index.php?keywords=market+intelligence&kw=%257Bkeyword%7D&l=50&o=750&s=2429,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+TRIP,"TripAdvisor, Inc.",1526520.0,,,,,2011-12-21,2019-12-23,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+TRMB,Trimble Inc.,864749.0,Information Technology,Application Software,"Westminster, Colorado",1978,2021-01-21,,https://press.spglobal.com/2021-01-15-Trimble-Set-to-Join-S-P-500-YETI-Holdings-to-Join-S-P-MidCap-400-Hilltop-Holdings-to-Join-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+TROW,T. Rowe Price,1113169.0,Financials,Asset Management & Custody Banks,"Baltimore, Maryland",1937,1999-10-13,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+TRV,Travelers Companies (The),86312.0,Financials,Property & Casualty Insurance,"New York City, New York",1853,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+TRW,,,,,,,1996-01-02,2002-12-12,,
+TSCO,Tractor Supply,916365.0,Consumer Discretionary,Other Specialty Retail,"Brentwood, Tennessee",1938,2014-01-24,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+TSG,,,,,,,2000-03-16,2007-04-02,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+TSLA,"Tesla, Inc.",1318605.0,Consumer Discretionary,Automobile Manufacturers,"Austin, Texas",2003,2020-12-21,,https://press.spglobal.com/2020-11-16-Tesla-Set-to-Join-S-P-500,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+TSN,Tyson Foods,100493.0,Consumer Staples,Packaged Foods & Meats,"Springdale, Arkansas",1935,2005-08-11,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+TSS,,,,,,,2008-01-02,2019-09-23,,
+TT,Trane Technologies,1466258.0,Industrials,Building Products,"Dublin, Ireland",1871,2002-05-13,2008-06-06,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+TTD,Trade Desk (The),1671933.0,Communication Services,Advertising,"Ventura, California",2009,2025-07-18,,https://press.spglobal.com/index.php?l=100&o=200&s=2429,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+TTWO,Take-Two Interactive,946581.0,Communication Services,Interactive Home Entertainment,"New York City, New York",1993,2018-03-19,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+TUP,,,,,,,1996-05-31,2004-03-25,,
+TWC,,,,,,,2009-03-30,2016-05-18,,
+TWTR,,,,,,,2018-06-07,2022-11-01,,
+TWX,,,,,,,1996-01-02,2018-06-15,,
+TXN,Texas Instruments,97476.0,Information Technology,Semiconductors,"Dallas, Texas",1930,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+TXT,Textron,217346.0,Industrials,Aerospace & Defense,"Providence, Rhode Island",1923,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+TXU,,,,,,,1996-01-02,2007-10-10,,
+TYL,Tyler Technologies,860731.0,Information Technology,Application Software,"Plano, Texas",1966,2020-06-22,,https://press.spglobal.com/2020-06-12-S-P-Dow-Jones-Indices-Announces-Tyler-Technologies-Bio-Rad-Laboratories-and-Teledyne-Technologies-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+UAA,"Under Armour, Inc.",1336917.0,,,,,2014-05-01,2022-06-21,,
+UAL,United Airlines Holdings,100517.0,Industrials,Passenger Airlines,"Chicago, Illinois",1967,2015-09-03,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+UAWGQ,,,,,,,1996-01-02,2002-05-15,,
+UBER,Uber,1543151.0,Industrials,Passenger Ground Transportation,"San Francisco, California",2009,2023-10-18,,https://press.spglobal.com/2023-12-01-Uber-Technologies%2C-Jabil-and-Builders-FirstSource-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+UDR,"UDR, Inc.",74208.0,Real Estate,Multi-Family Residential REITs,"Highlands Ranch, Colorado",1972,2016-03-07,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+UHS,Universal Health Services,352915.0,Health Care,Health Care Facilities,"King of Prussia, Pennsylvania",1979,2014-09-22,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+UIS,UNISYS CORP,746838.0,,,,,1996-01-02,2008-11-11,,
+ULTA,Ulta Beauty,1403568.0,Consumer Discretionary,Other Specialty Retail,"Bolingbrook, Illinois",1990,2016-04-18,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+UNH,UnitedHealth Group,731766.0,Health Care,Managed Health Care,"Eden Prairie, Minnesota",1977,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+UNM,Unum Group,5513.0,,,,,1996-01-02,2021-09-20,https://pineify.app/free-tools/historical-sp500,https://press.spglobal.com/2021-09-03-Match-Group%2C-Ceridian-HCM-and-Brown-Brown-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600
+UNP,Union Pacific Corporation,100885.0,Industrials,Rail Transportation,"Omaha, Nebraska",1862,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+UPS,United Parcel Service,1090727.0,Industrials,Air Freight & Logistics,"Sandy Springs, Georgia",1907,2002-07-22,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+URBN,URBAN OUTFITTERS INC,912615.0,,,,,2010-02-08,2017-03-20,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+URI,United Rentals,1067701.0,Industrials,Trading Companies & Distributors,"Stamford, Connecticut",1997,2014-09-22,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+USB,U.S. Bancorp,36104.0,Financials,Diversified Banks,"Minneapolis, Minnesota",1968,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+USBC,"USBC, Inc.",1074828.0,,,,,1996-01-02,1997-08-04,,
+UST,,,,,,,1996-01-02,2009-01-06,,
+USW,,,,,,,1996-01-02,2000-07-03,,
+UTX,,,,,,,1996-01-02,2020-04-03,https://pineify.app/free-tools/historical-sp500,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+UVN,,,,,,,2001-02-07,2007-03-29,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+V,Visa Inc.,1403161.0,Financials,Transaction & Payment Processing Services,"San Francisco, California",1958,2009-12-21,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+VAR,,,,,,,2007-02-12,2021-04-20,,
+VEEV,Veeva Systems,1393052.0,Health Care,Health Care Technology,"Pleasanton, California",2007,2026-05-07,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+VFC,V F CORP,103379.0,,,,,1996-01-02,2024-04-03,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+VIAB,,,,,,,2006-01-03,2019-12-05,,
+VIAC,,,,,,,2019-12-05,2022-02-17,,
+VIAV,VIAVI SOLUTIONS INC.,912093.0,,,,,2000-07-27,2013-12-23,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+VICI,Vici Properties,1705696.0,Real Estate,Hotel & Resort REITs,"New York City, New York",2017,2022-06-08,,https://press.spglobal.com/2022-06-03-Keurig-Dr-Pepper%2C-VICI-Properties-and-ON-Semiconductor-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400%2C-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+VLO,Valero Energy,1035002.0,Energy,Oil & Gas Refining & Marketing,"San Antonio, Texas",1980,2004-04-29,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+VLTO,Veralto,1967680.0,Industrials,Environmental & Facilities Services,"Waltham, Massachusetts",2023,2023-10-02,,https://press.spglobal.com/index.php?l=100&o=700&s=2429,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+VMC,Vulcan Materials Company,1396009.0,Materials,Construction Materials,"Birmingham, Alabama",1909,1999-07-01,,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+VNO,VORNADO REALTY TRUST,899689.0,,,,,2005-08-12,2023-01-04,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+VNT,Vontier Corp,1786842.0,,,,,2020-10-12,2021-03-22,https://press.spglobal.com/2020-10-05-Vontier-Set-to-Join-S-P-500,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+VRSK,Verisk Analytics,1442145.0,Industrials,Research & Consulting Services,"Jersey City, New Jersey",1971,2015-10-08,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+VRSN,Verisign,1014473.0,Information Technology,Internet Services & Infrastructure,"Reston, Virginia",1995,2006-02-01,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+VRT,Vertiv,1674101.0,Industrials,Electrical Components & Equipment,"Westerville, Ohio",2016,2026-03-23,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+VRTS,"VIRTUS INVESTMENT PARTNERS, INC.",883237.0,,,,,2000-04-03,2005-07-05,,
+VRTX,Vertex Pharmaceuticals,875320.0,Health Care,Biotechnology,"Boston, Massachusetts",1989,2013-09-23,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+VST,Vistra Corp.,1692819.0,Utilities,Electric Utilities,"Irving, Texas",2016,2024-05-08,,https://press.spglobal.com/2024-05-03-Vistra-Set-to-Join-S-P-500-Aaon-to-Join-S-P-MidCap-400-Marathon-Digital-Holdings-to-Join-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+VSTNQ,,,,,,,2000-06-29,2006-01-03,,
+VTR,Ventas,740260.0,Real Estate,Health Care REITs,"Chicago, Illinois",1998,2009-03-04,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+VTRS,Viatris,1792044.0,Health Care,Pharmaceuticals,"Pittsburgh, Pennsylvania",1961,2020-11-17,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+VTSS,,,,,,,2000-12-12,2002-08-21,,
+VZ,Verizon,732712.0,Communication Services,Integrated Telecommunication Services,"New York City, New York",1983 (1877),1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+WAB,Wabtec,943452.0,Industrials,Construction Machinery & Heavy Transportation Equipment,"Pittsburgh, Pennsylvania",1999 (1869),2019-02-27,,https://press.spglobal.com/2019-02-21-Wabtec-Set-to-Join-S-P-500-and-The-Goodyear-Tire-Rubber-to-Join-S-P-MidCap-400,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+WAMUQ,,,,,,,1997-07-02,2008-09-30,https://www.wsj.com/articles/SB867769073609878500,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+WAT,Waters Corporation,1000697.0,Health Care,Life Sciences Tools & Services,"Milford, Massachusetts",1958,2002-01-02,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+WBA,,,,,,,1996-01-02,2025-08-28,,
+WBD,Warner Bros. Discovery,1437107.0,Communication Services,Broadcasting,"New York City, New York",2022 (Warner Bros. 1923),2022-04-11,,https://www.sec.gov/Archives/edgar/data/1437107/0001437107-22-000225.txt,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+WCG,,,,,,,2018-09-17,2020-01-28,,
+WCOEQ,,,,,,,1996-04-01,2002-05-15,,
+WDAY,"Workday, Inc.",1327811.0,Information Technology,Application Software,"Pleasanton, California",2005,2024-12-23,,https://press.spglobal.com/2024-12-06-Apollo-Global-Management-and-Workday-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+WDC,Western Digital,106040.0,Information Technology,"Technology Hardware, Storage & Peripherals","San Jose, California",1970,2009-07-01,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+WEC,WEC Energy Group,783325.0,Utilities,Electric Utilities,"Milwaukee, Wisconsin",1896,2008-10-31,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+WELL,Welltower,766704.0,Real Estate,Health Care REITs,"Toledo, Ohio",1970,2009-01-30,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+WEN,Wendy's Co,30697.0,,,,,1996-01-02,2008-09-30,,
+WFC,Wells Fargo,72971.0,Financials,Diversified Banks,"San Francisco, California",1852,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+WFM,,,,,,,2006-01-03,2017-08-28,,
+WFT,,,,,,,2005-07-22,2009-02-26,,
+WHR,WHIRLPOOL CORP /DE/,106640.0,,,,,1996-01-02,2024-03-18,https://infocloud.lt/sp-500-kompanijos/,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+WIN,,,,,,,2006-07-18,2015-04-07,,
+WLL,,,,,,,1996-01-02,2002-02-11,,
+WLP,,,,,,,1999-06-09,2004-12-01,,
+WM,Waste Management,823768.0,Industrials,Environmental & Facilities Services,"Houston, Texas",1968,1998-07-17,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+WMB,Williams Companies,107263.0,Energy,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",1908,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+WMT,Walmart,104169.0,Consumer Staples,Consumer Staples Merchandise Retail,"Bentonville, Arkansas",1962,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+WNDXQ,,,,,,,1996-01-02,2004-12-03,,
+WOR,"WORTHINGTON ENTERPRISES, INC.",108516.0,,,,,1996-01-02,2004-12-20,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+WPX,,,,,,,2012-01-03,2014-03-24,,
+WRB,W. R. Berkley Corporation,11544.0,Financials,Property & Casualty Insurance,"Greenwich, Connecticut",1967,2019-12-05,,https://press.spglobal.com/2019-11-27-W-R-Berkley-Set-to-Join-S-P-500-RLI-to-Join-S-P-MidCap-400-The-St-Joe-Company-to-Join-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+WRK,,,,,,,2015-07-02,2024-07-08,,
+WSM,"Williams-Sonoma, Inc.",719955.0,Consumer Discretionary,Homefurnishing Retail,"San Francisco, California",1956,2025-03-24,,https://press.spglobal.com/2025-03-07-DoorDash%2C-TKO-Group-Holdings%2C-Williams-Sonoma-and-Expand-Energy-Set-to-Join-S-P-500-Others-to-Join-S-P-100%2C-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+WST,West Pharmaceutical Services,105770.0,Health Care,Health Care Supplies,"Exton, Pennsylvania",1923,2020-05-22,,https://press.spglobal.com/2020-05-18-West-Pharmaceutical-Services-Set-to-Join-S-P-500-Physicians-Realty-Trust-to-Join-S-P-MidCap-400-Helmerich-Payne-to-Join-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+WTW,Willis Towers Watson,1140536.0,Financials,Insurance Brokers,"London, United Kingdom",2016,2022-01-10,,,
+WU,Western Union CO,1365135.0,,,,,2006-10-02,2021-12-20,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+WWY,,,,,,,1996-01-02,2008-10-07,,
+WY,Weyerhaeuser,106535.0,Real Estate,Timber REITs,"Seattle, Washington",1900,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+WYE,,,,,,,1996-01-02,2009-10-16,,
+WYND,,,,,,,2006-08-01,2018-05-31,,
+WYNN,Wynn Resorts,1174922.0,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",2002,2008-11-14,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+X,,,,,,,1996-01-02,2014-07-02,,
+XEC,,,,,,,2014-06-20,2020-03-03,,
+XEL,Xcel Energy,72903.0,Utilities,Multi-Utilities,"Minneapolis, Minnesota",1909,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+XL,,,,,,,2001-09-04,2018-09-12,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+XLNX,,,,,,,1999-11-08,2022-02-15,https://pages.stern.nyu.edu/~jwurgler/data/sp500%20changes.xls,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+XOM,ExxonMobil,34088.0,Energy,Integrated Oil & Gas,"Irving, Texas",1999,1996-01-02,,https://www.spglobal.com/spdji/en/indices/equity/sp-500/,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+XRAY,DENTSPLY SIRONA Inc.,818479.0,,,,,2008-11-14,2024-04-03,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+XRX,Xerox Holdings Corp,1770450.0,,,,,1996-01-02,2021-03-22,https://www.sec.gov/Archives/edgar/data/108772/000119312519208952/d781319d8k.htm,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+XTO,,,,,,,2004-12-29,2010-06-28,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+XYL,Xylem Inc.,1524472.0,Industrials,Industrial Machinery & Supplies & Components,"White Plains, New York",2011,2011-11-01,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+XYZ,"Block, Inc.",1512673.0,Financials,Transaction & Payment Processing Services,none,2009,2025-07-23,,https://press.spglobal.com/index.php?l=100&o=200&s=2429,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+YUM,Yum! Brands,1041061.0,Consumer Discretionary,Restaurants,"Louisville, Kentucky",1997,1997-10-07,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ZBH,Zimmer Biomet,1136869.0,Health Care,Health Care Equipment,"Warsaw, Indiana",1927,2001-08-07,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ZBRA,Zebra Technologies,877212.0,Information Technology,Electronic Equipment & Instruments,"Lincolnshire, Illinois",1969,2019-12-23,,https://press.spglobal.com/2019-12-13-Live-Nation-Entertainment-Zebra-Technologies-STERIS-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600,https://www.spglobal.com/spdji/en/indices/equity/sp-500/
+ZION,"ZIONS BANCORPORATION, NATIONAL ASSOCIATION /UT/",109380.0,,,,,2001-06-25,2024-03-18,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://raw.githubusercontent.com/fja05680/sp500/refs/heads/master/sp500_ticker_start_end.csv
+ZTS,Zoetis,1555280.0,Health Care,Pharmaceuticals,"Parsippany, New Jersey",1952,2013-06-24,,https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes.csv,https://www.spglobal.com/spdji/en/indices/equity/sp-500/

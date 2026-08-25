@@ -1,0 +1,442 @@
+company_number,composition_name,ticker,year,need_price,need_shares,need_marketcap,need_dividend
+00029846,Wolseley,,2001,True,True,True,True
+00029846,Wolseley,,2002,True,True,True,True
+00029846,Wolseley,,2003,True,True,True,True
+00029846,Wolseley,,2004,True,True,True,True
+00029846,Wolseley,,2005,True,True,True,True
+00029846,Wolseley,,2006,True,True,True,True
+00029846,Wolseley,,2007,True,True,True,True
+00029846,Wolseley,,2008,True,True,True,True
+00029846,Wolseley,,2009,True,True,True,True
+00029846,Wolseley,,2010,True,True,True,True
+00029846,Wolseley,,2011,True,True,True,True
+00029846,Wolseley,,2012,True,True,True,True
+00029846,Wolseley,,2013,True,True,True,True
+00029846,Wolseley,,2014,True,True,True,True
+00029846,Wolseley,,2015,True,True,True,True
+00030470,Cobham,,2008,True,True,True,True
+00030470,Cobham,,2009,True,True,True,True
+00073800,Imperial Tobacco Group,,2001,True,True,True,True
+00073800,Imperial Tobacco Group,,2002,True,True,True,True
+00073800,Imperial Tobacco Group,,2003,True,True,True,True
+00073800,Imperial Tobacco Group,,2004,True,True,True,True
+00073800,Imperial Tobacco Group,,2005,True,True,True,True
+00073800,Imperial Tobacco Group,,2006,True,True,True,True
+00073800,Imperial Tobacco Group,,2007,True,True,True,True
+00073800,Imperial Tobacco Group,,2008,True,True,True,True
+00073800,Imperial Tobacco Group,,2009,True,True,True,True
+00073800,Imperial Tobacco Group,,2010,True,True,True,True
+00073800,Imperial Tobacco Group,,2011,True,True,True,True
+00073800,Imperial Tobacco Group,,2012,True,True,True,True
+00073800,Imperial Tobacco Group,,2013,True,True,True,True
+00073800,Imperial Tobacco Group,,2014,True,True,True,True
+00073800,Imperial Tobacco Group,,2015,True,True,True,True
+00073975,Exel,,2002,True,True,True,True
+00073975,Exel,,2003,True,True,True,True
+00073975,Exel,,2004,True,True,True,True
+00077536,RELX PLC,REL,2015,True,True,True,True
+00100097,Royal & Sun Alliance Insurance Group,,2001,True,True,True,True
+00100097,Royal & Sun Alliance Insurance Group,,2002,True,True,True,True
+00100097,Royal & Sun Alliance Insurance Group,,2003,True,True,True,True
+00100097,Royal & Sun Alliance Insurance Group,,2004,True,True,True,True
+00100097,Royal & Sun Alliance Insurance Group,,2005,True,True,True,True
+00100097,Royal & Sun Alliance Insurance Group,,2006,True,True,True,True
+00100097,Royal & Sun Alliance Insurance Group,,2007,True,True,True,True
+00166023,Invensys,,2001,True,True,True,True
+00166023,Invensys,,2002,True,True,True,True
+00166023,Invensys,,2008,True,True,True,True
+00166023,Invensys,,2009,True,True,True,True
+00166023,Invensys,,2010,True,True,True,True
+00184594,Daily Mail & General Trust,,2001,True,True,True,True
+00184594,Daily Mail & General Trust,,2002,True,True,True,True
+00184594,Daily Mail & General Trust,,2003,True,True,True,True
+00184594,Daily Mail & General Trust,,2004,True,True,True,True
+00184594,Daily Mail & General Trust,,2005,True,True,True,True
+00191285,Rexam,,2002,True,True,True,True
+00191285,Rexam,,2003,True,True,True,True
+00191285,Rexam,,2004,True,True,True,True
+00191285,Rexam,,2005,True,True,True,True
+00191285,Rexam,,2006,True,True,True,True
+00191285,Rexam,,2007,True,True,True,True
+00191285,Rexam,,2008,True,True,True,True
+00191285,Rexam,,2009,True,True,True,True
+00191285,Rexam,,2010,True,True,True,True
+00191285,Rexam,,2011,True,True,True,True
+00191285,Rexam,,2012,True,True,True,True
+00191285,Rexam,,2013,True,True,True,True
+00218019,Imperial Chemical Industries,,2001,True,True,True,True
+00218019,Imperial Chemical Industries,,2002,True,True,True,True
+00218019,Imperial Chemical Industries,,2003,True,True,True,True
+00218019,Imperial Chemical Industries,,2004,True,True,True,True
+00218019,Imperial Chemical Industries,,2005,True,True,True,True
+00218019,Imperial Chemical Industries,,2006,True,True,True,True
+00229231,EMI Group,,2001,True,True,True,True
+00238525,Cable & Wireless,,2001,True,True,True,True
+00238525,Cable & Wireless,,2003,True,True,True,True
+00238525,Cable & Wireless,,2004,True,True,True,True
+00238525,Cable & Wireless,,2005,True,True,True,True
+00238525,Cable and Wireless,,2006,True,True,True,True
+00238525,Cable and Wireless,,2007,True,True,True,True
+00238525,Cable and Wireless,,2008,True,True,True,True
+00238525,Cable and Wireless,,2009,True,True,True,True
+00308372,Amvescap,,2001,True,True,True,True
+00308372,Amvescap,,2002,True,True,True,True
+00308372,Amvescap,,2003,True,True,True,True
+00308372,Amvescap,,2004,True,True,True,True
+00308372,Amvescap,,2005,True,True,True,True
+00308372,Amvescap,,2006,True,True,True,True
+00337663,BOC,,2001,True,True,True,True
+00337663,BOC,,2002,True,True,True,True
+00337663,BOC,,2003,True,True,True,True
+00337663,BOC,,2004,True,True,True,True
+00337663,BOC,,2005,True,True,True,True
+00358949,Morrison Supermarkets,,2001,True,True,True,True
+00358949,Morrison Supermarkets,,2002,True,True,True,True
+00358949,Morrison Supermarkets,,2003,True,True,True,True
+00358949,Morrison Supermarkets,,2004,True,True,True,True
+00358949,Morrison Supermarkets,,2005,True,True,True,True
+00358949,Morrison Supermarkets,,2006,True,True,True,True
+00358949,Morrison Supermarkets,,2007,True,True,True,True
+00358949,Morrison Supermarkets,,2008,True,True,True,True
+00358949,Morrison Supermarkets,,2009,True,True,True,True
+00358949,Morrison Supermarkets,,2010,True,True,True,True
+00358949,Morrison Supermarkets,,2011,True,True,True,True
+00358949,Morrison Supermarkets,,2012,True,True,True,True
+00358949,Morrison Supermarkets,,2013,True,True,True,True
+00358949,Morrison Supermarkets,,2014,True,True,True,True
+00432989,Meggitt,,2011,True,True,True,True
+00432989,Meggitt,,2012,True,True,True,True
+00432989,Meggitt,,2013,True,True,True,True
+00432989,Meggitt,,2014,True,True,True,True
+01299733,Safeway,,2001,True,True,True,True
+01299733,Safeway,,2002,True,True,True,True
+01299733,Safeway,,2003,True,True,True,True
+01631639,Logica,,2001,False,True,True,False
+01682048,Enterprise Oil,,2001,True,True,True,True
+01777777,British Airways,,2001,True,True,True,True
+01777777,British Airways,,2002,True,True,True,True
+01777777,British Airways,,2003,True,True,True,True
+01777777,British Airways,,2004,True,True,True,True
+01777777,British Airways,,2005,True,True,True,True
+01777777,British Airways,,2006,True,True,True,True
+01777777,British Airways,,2007,True,True,True,True
+01777777,British Airways,,2008,True,True,True,True
+01777777,British Airways,,2009,True,True,True,True
+01777777,British Airways,,2010,True,True,True,True
+02122142,Hargreaves Lansdown,,2011,True,True,True,True
+02122142,Hargreaves Lansdown,,2012,True,True,True,True
+02122142,Hargreaves Lansdown,,2013,True,True,True,True
+02122142,Hargreaves Lansdown,,2014,True,True,True,True
+02122142,Hargreaves Lansdown,,2015,True,True,True,True
+02159282,Celltech Group,,2001,True,True,True,True
+02247735,British Sky Broadcasting Group,,2001,True,True,True,True
+02247735,British Sky Broadcasting Group,,2002,True,True,True,True
+02247735,British Sky Broadcasting Group,,2003,True,True,True,True
+02247735,British Sky Broadcasting Group,,2004,True,True,True,True
+02247735,British Sky Broadcasting Group,,2005,True,True,True,True
+02247735,British Sky Broadcasting Group,,2006,True,True,True,True
+02247735,British Sky Broadcasting Group,,2007,True,True,True,True
+02247735,British Sky Broadcasting Group,,2008,True,True,True,True
+02247735,British Sky Broadcasting Group,,2009,True,True,True,True
+02247735,British Sky Broadcasting Group,,2010,True,True,True,True
+02247735,British Sky Broadcasting Group,,2011,True,True,True,True
+02247735,British Sky Broadcasting Group,,2012,True,True,True,True
+02247735,British Sky Broadcasting Group,,2013,True,True,True,True
+02247735,Sky,,2014,True,True,True,True
+02247735,Sky,,2015,True,True,True,True
+02280426,Direct Line Insurance Group,,2014,True,True,True,True
+02280426,Direct Line Insurance Group,,2015,True,True,True,True
+02294747,Abbey National,,2001,True,True,True,True
+02294747,Abbey National,,2002,True,True,True,True
+02294747,Abbey National,,2003,True,True,True,True
+02339826,RSA Insurance Group,,2008,True,True,True,True
+02339826,RSA Insurance Group,,2009,True,True,True,True
+02339826,RSA Insurance Group,,2010,True,True,True,True
+02339826,RSA Insurance Group,,2011,True,True,True,True
+02339826,RSA Insurance Group,,2012,True,True,True,True
+02339826,RSA Insurance Group,,2013,True,True,True,True
+02339826,RSA Insurance Group,,2014,True,True,True,True
+02339826,RSA Insurance Group,,2015,True,True,True,True
+02366627,Kelda Group,,2005,True,True,True,True
+02366627,Kelda Group,,2006,True,True,True,True
+02366627,Kelda Group,,2007,True,True,True,True
+03263713,Alliance & Leicester,,2001,True,True,True,True
+03263713,Alliance & Leicester,,2002,True,True,True,True
+03263713,Alliance & Leicester,,2003,True,True,True,True
+03263713,Alliance & Leicester,,2004,True,True,True,True
+03263713,Alliance & Leicester,,2005,True,True,True,True
+03263713,Alliance & Leicester,,2006,True,True,True,True
+03263713,Alliance & Leicester,,2007,True,True,True,True
+03299793,Gallaher Group,,2001,True,True,True,True
+03299793,Gallaher Group,,2002,True,True,True,True
+03299793,Gallaher Group,,2003,True,True,True,True
+03299793,Gallaher Group,,2004,True,True,True,True
+03299793,Gallaher Group,,2005,True,True,True,True
+03299793,Gallaher Group,,2006,True,True,True,True
+03477402,Reuters,,2001,True,True,True,True
+03477402,Reuters,,2002,True,True,True,True
+03477402,Reuters,,2003,True,True,True,True
+03477402,Reuters,,2004,True,True,True,True
+03477402,Reuters,,2005,True,True,True,True
+03477402,Reuters,,2006,True,True,True,True
+03477402,Reuters,,2007,True,True,True,True
+03586615,Powergen,,2001,True,True,True,True
+03685527,Intu Properties,,2014,True,True,True,True
+03685527,Intu Properties,,2015,True,True,True,True
+03690065,BG Group,,2001,True,True,True,True
+03690065,BG Group,,2002,True,True,True,True
+03690065,BG Group,,2003,True,True,True,True
+03690065,BG Group,,2004,True,True,True,True
+03690065,BG Group,,2005,True,True,True,True
+03690065,BG Group,,2006,True,True,True,True
+03690065,BG Group,,2007,True,True,True,True
+03690065,BG Group,,2008,True,True,True,True
+03690065,BG Group,,2009,True,True,True,True
+03690065,BG Group,,2010,True,True,True,True
+03690065,BG Group,,2011,True,True,True,True
+03690065,BG Group,,2012,True,True,True,True
+03690065,BG Group,,2013,True,True,True,True
+03690065,BG Group,,2014,True,True,True,True
+03690065,BG Group,,2015,True,True,True,True
+03771147,Allied Domecq,,2001,True,True,True,True
+03771147,Allied Domecq,,2002,True,True,True,True
+03771147,Allied Domecq,,2003,True,True,True,True
+03771147,Allied Domecq,,2004,True,True,True,True
+03811373,Corus Group,,2004,True,True,True,True
+03811373,Corus Group,,2006,True,True,True,True
+03900804,Lattice Group,,2001,True,True,True,True
+03902746,P&O Princess Cruises,,2001,True,True,True,True
+03902746,P&O Princess Cruises,,2002,True,True,True,True
+03962410,Granada,,2001,True,True,True,True
+03962410,Granada,,2002,True,True,True,True
+03962410,Granada,,2003,True,True,True,True
+04190816,BT GROUP PLC,BT.A,2001,True,True,True,True
+04190816,BT GROUP PLC,BT.A,2002,True,True,True,True
+04190816,BT GROUP PLC,BT.A,2003,True,True,True,True
+04190816,BT GROUP PLC,BT.A,2004,True,True,True,True
+04190816,BT GROUP PLC,BT.A,2005,True,True,True,True
+04190816,BT GROUP PLC,BT.A,2006,True,True,True,True
+04190816,BT GROUP PLC,BT.A,2007,True,True,True,True
+04190816,BT GROUP PLC,BT.A,2008,True,True,True,True
+04190816,BT GROUP PLC,BT.A,2009,True,True,True,True
+04190816,BT GROUP PLC,BT.A,2010,True,True,True,True
+04190816,BT GROUP PLC,BT.A,2011,True,True,True,True
+04190816,BT GROUP PLC,BT.A,2012,True,True,True,True
+04190816,BT GROUP PLC,BT.A,2013,True,True,True,True
+04190816,BT GROUP PLC,BT.A,2014,True,True,True,True
+04190816,BT GROUP PLC,BT.A,2015,True,True,True,True
+04190833,O2,,2001,True,True,True,True
+04190833,O2,,2002,True,True,True,True
+04190833,O2,,2003,True,True,True,True
+04190833,O2,,2004,True,True,True,True
+04190833,O2,,2005,True,True,True,True
+04191106,GKN,,2002,True,True,True,True
+04191106,GKN,,2003,True,True,True,True
+04191106,GKN,,2010,True,True,True,True
+04191106,GKN,,2011,True,True,True,True
+04191106,GKN,,2012,True,True,True,True
+04191106,GKN,,2013,True,True,True,True
+04191106,GKN,,2014,True,True,True,True
+04191106,GKN,,2015,True,True,True,True
+04191122,Canary Wharf Group,,2001,True,True,True,True
+04191122,Canary Wharf Group,,2002,True,True,True,True
+04212563,William Hill,,2004,True,True,True,True
+04212563,William Hill,,2013,True,True,True,True
+04345939,Xstrata,,2002,True,True,True,True
+04345939,Xstrata,,2003,True,True,True,True
+04345939,Xstrata,,2004,True,True,True,True
+04345939,Xstrata,,2005,True,True,True,True
+04345939,Xstrata,,2006,True,True,True,True
+04345939,Xstrata,,2007,True,True,True,True
+04345939,Xstrata,,2008,True,True,True,True
+04345939,Xstrata,,2009,True,True,True,True
+04345939,Xstrata,,2010,True,True,True,True
+04345939,Xstrata,,2011,True,True,True,True
+04345939,Xstrata,,2012,True,True,True,True
+04452715,Alliance Boots,,2006,True,True,True,True
+04740415,Vedanta Resources,,2006,True,True,True,True
+04740415,Vedanta Resources,,2007,True,True,True,True
+04740415,Vedanta Resources,,2008,True,True,True,True
+04740415,Vedanta Resources,,2009,True,True,True,True
+04740415,Vedanta Resources,,2010,True,True,True,True
+04740415,Vedanta Resources,,2011,True,True,True,True
+04740415,Vedanta Resources,,2012,True,True,True,True
+04886115,Inmarsat,,2008,True,True,True,True
+04886115,Inmarsat,,2009,True,True,True,True
+04886115,Inmarsat,,2010,True,True,True,True
+04886115,Inmarsat,,2015,True,True,True,True
+04992207,G4S,,2007,True,True,True,True
+04992207,G4S,,2008,True,True,True,True
+04992207,G4S,,2009,True,True,True,True
+04992207,G4S,,2010,True,True,True,True
+04992207,G4S,,2011,True,True,True,True
+04992207,G4S,,2012,True,True,True,True
+04992207,G4S,,2013,True,True,True,True
+04992207,G4S,,2014,True,True,True,True
+05186841,International Power,,2001,True,True,True,True
+05186841,International Power,,2005,True,True,True,True
+05186841,International Power,,2006,True,True,True,True
+05186841,International Power,,2007,True,True,True,True
+05186841,International Power,,2008,True,True,True,True
+05186841,International Power,,2009,True,True,True,True
+05186841,International Power,,2010,True,True,True,True
+05186841,International Power,,2011,True,True,True,True
+05757208,BAA,,2001,True,True,True,True
+05757208,BAA,,2002,True,True,True,True
+05757208,BAA,,2003,True,True,True,True
+05757208,BAA,,2004,True,True,True,True
+05757208,BAA,,2005,True,True,True,True
+05863533,Home Retail Group,,2006,True,True,True,True
+05863533,Home Retail Group,,2007,True,True,True,True
+05863533,Home Retail Group,,2008,True,True,True,True
+05863533,Home Retail Group,,2009,True,True,True,True
+06023510,Eurasian Natural Resources Corporation,,2008,False,True,True,False
+06023510,Eurasian Natural Resources Corporation,,2009,False,True,True,False
+06023510,Eurasian Natural Resources Corporation,,2010,False,True,True,False
+06023510,Eurasian Natural Resources Corporation,,2011,False,True,True,False
+06023510,Eurasian Natural Resources Corporation,,2012,False,True,True,False
+06072876,TUI Travel,,2007,True,True,True,True
+06072876,TUI Travel,,2008,True,True,True,True
+06072876,TUI Travel,,2009,True,True,True,True
+06072876,TUI Travel,,2010,True,True,True,True
+06072876,TUI Travel,,2012,True,True,True,True
+06072876,TUI Travel,,2013,True,True,True,True
+06091951,Thomas Cook Group,,2007,True,True,True,True
+06091951,Thomas Cook Group,,2008,True,True,True,True
+06091951,Thomas Cook Group,,2009,True,True,True,True
+06497379,Cadbury Plc,,2008,True,True,True,True
+06497379,Cadbury Plc,,2009,True,True,True,True
+06534088,Carphone Warehouse Group,,2007,True,True,True,True
+06722436,Resolution Limited,,2008,False,True,True,False
+06722436,Resolution Limited,,2009,False,True,True,False
+06722436,Resolution Limited,,2010,False,True,True,False
+06722436,Resolution Limited,,2011,False,True,True,False
+06722436,Resolution Limited,,2012,False,True,True,False
+06722436,Resolution Limited,,2013,False,True,True,False
+07108619,Essar Energy,,2010,True,True,True,True
+07108619,Essar Energy,,2011,True,True,True,True
+08577185,Slough Estates,,2006,True,True,True,True
+08700412,Merlin Entertainments,,2015,True,True,True,True
+08762327,Worldpay Group,,2015,True,True,True,True
+08815102,Yell Group,,2003,True,True,True,True
+08815102,Yell Group,,2004,True,True,True,True
+08815102,Yell Group,,2005,True,True,True,True
+08815102,Yell Group,,2006,True,True,True,True
+08815102,Yell Group,,2007,True,True,True,True
+09132358,Kazakhmys,,2005,True,True,True,True
+09132358,Kazakhmys,,2006,True,True,True,True
+09132358,Kazakhmys,,2007,True,True,True,True
+09132358,Kazakhmys,,2008,True,True,True,True
+09132358,Kazakhmys,,2009,True,True,True,True
+09132358,Kazakhmys,,2010,True,True,True,True
+09132358,Kazakhmys,,2011,True,True,True,True
+09132358,Kazakhmys,,2012,True,True,True,True
+09406669,Amersham,,2001,True,True,True,True
+09406669,Amersham,,2002,True,True,True,True
+09406669,Amersham,,2003,True,True,True,True
+09496208,Amec,,2007,True,True,True,True
+09496208,Amec,,2008,True,True,True,True
+09496208,Amec,,2009,True,True,True,True
+09496208,Amec,,2010,True,True,True,True
+09496208,Amec,,2011,True,True,True,True
+09496208,Amec,,2012,True,True,True,True
+09496208,Amec,,2013,True,True,True,True
+10517727,Enterprise Inns,,2004,True,True,True,True
+10517727,Enterprise Inns,,2005,True,True,True,True
+10517727,Enterprise Inns,,2006,True,True,True,True
+10517727,Enterprise Inns,,2007,True,True,True,True
+11299879,ARM Holdings,,2001,True,True,True,True
+11299879,ARM Holdings,,2010,True,True,True,True
+11299879,ARM Holdings,,2011,True,True,True,True
+11299879,ARM Holdings,,2012,True,True,True,True
+11299879,ARM Holdings,,2013,True,True,True,True
+11299879,ARM Holdings,,2014,True,True,True,True
+11299879,ARM Holdings,,2015,True,True,True,True
+11606773,Standard Life,SDLF,2006,True,True,True,True
+11606773,Standard Life,SDLF,2007,True,True,True,True
+11606773,Standard Life,SDLF,2008,True,True,True,True
+11606773,Standard Life,SDLF,2009,True,True,True,True
+11606773,Standard Life,SDLF,2010,True,True,True,True
+11606773,Standard Life,SDLF,2011,True,True,True,True
+11606773,Standard Life,SDLF,2012,True,True,True,True
+11606773,Standard Life,SDLF,2013,True,True,True,True
+11606773,Standard Life,SDLF,2014,True,True,True,True
+11606773,Standard Life,SDLF,2015,True,True,True,True
+12620781,Dixons Group,,2001,True,True,True,True
+12620781,Dixons Group,,2002,True,True,True,True
+12620781,Dixons Group,,2003,True,True,True,True
+12620781,Dixons Group,,2004,True,True,True,True
+12664251,Tomkins,,2002,True,True,True,True
+12664251,Tomkins,,2003,True,True,True,True
+14236527,Liberty International,,2002,True,True,True,True
+14236527,Liberty International,,2003,True,True,True,True
+14236527,Liberty International,,2004,True,True,True,True
+14236527,Liberty International,,2005,True,True,True,True
+14236527,Liberty International,,2006,True,True,True,True
+14236527,Liberty International,,2007,True,True,True,True
+14236527,Liberty International,,2008,True,True,True,True
+14236527,Liberty International,,2009,True,True,True,True
+14240638,Royal Mail,,2013,True,True,True,True
+14240638,Royal Mail,,2014,True,True,True,True
+14240638,Royal Mail,,2015,True,True,True,True
+14696069,Emap,,2002,True,True,True,True
+14696069,Emap,,2003,True,True,True,True
+14696069,Emap,,2004,True,True,True,True
+15998687,Barratt Developments,BTRW,2014,True,True,True,True
+15998687,Barratt Developments,,2015,True,True,True,True
+16051356,Petrofac,,2009,True,True,True,True
+16051356,Petrofac,,2010,True,True,True,True
+16051356,Petrofac,,2011,True,True,True,True
+16051356,Petrofac,,2012,True,True,True,True
+16051356,Petrofac,,2013,True,True,True,True
+16133984,Aberdeen Asset Management,ABDN,2012,True,True,True,True
+16133984,Aberdeen Asset Management,ABDN,2013,True,True,True,True
+16133984,Aberdeen Asset Management,ABDN,2014,True,True,True,True
+16133984,Aberdeen Asset Management,ABDN,2015,True,True,True,True
+16351760,Northern Rock,,2001,True,True,True,True
+16351760,Northern Rock,,2002,True,True,True,True
+16351760,Northern Rock,,2003,True,True,True,True
+16351760,Northern Rock,,2004,True,True,True,True
+16351760,Northern Rock,,2005,True,True,True,True
+16351760,Northern Rock,,2006,True,True,True,True
+RC000404,P&O,,2005,True,True,True,True
+SC001731,Alliance Trust,ALW,2008,True,True,True,True
+SC001731,Alliance Trust,ALW,2009,True,True,True,True
+SC001731,Alliance Trust,,2010,True,True,True,True
+SC117120,Scottish Power,,2001,True,True,True,True
+SC117120,Scottish Power,,2002,True,True,True,True
+SC117120,Scottish Power,,2003,True,True,True,True
+SC117120,Scottish Power,,2004,True,True,True,True
+SC117120,Scottish Power,,2005,True,True,True,True
+SC117120,Scottish Power,,2006,True,True,True,True
+SC177553,Aggreko,,2009,True,True,True,True
+SC177553,Aggreko,,2010,True,True,True,True
+SC177553,Aggreko,,2011,True,True,True,True
+SC177553,Aggreko,,2012,True,True,True,True
+SC177553,Aggreko,,2013,True,True,True,True
+SC177553,Aggreko,,2014,True,True,True,True
+SC218813,HBOS,,2001,True,True,True,True
+SC218813,HBOS,,2002,True,True,True,True
+SC218813,HBOS,,2003,True,True,True,True
+SC218813,HBOS,,2004,True,True,True,True
+SC218813,HBOS,,2005,True,True,True,True
+SC218813,HBOS,,2006,True,True,True,True
+SC218813,HBOS,,2007,True,True,True,True
+SC218813,HBOS,,2008,True,True,True,True
+SC270184,British Energy Group,,2007,True,True,True,True
+SC270184,British Energy Group,,2008,True,True,True,True
+,South African Breweries,,2001,True,True,True,True
+,Hilton Group,,2002,True,True,True,True
+,Hanson,,2003,True,True,True,True
+,Friends Provident,,2004,True,True,True,True
+,Brambles Industries,,2005,True,True,True,True
+,SABMiller,,2006,True,True,True,True
+,ICAP,,2007,True,True,True,True
+,Amlin,,2008,True,True,True,True
+,Lonmin,,2009,True,True,True,True
+,African Barrick Gold,,2010,True,True,True,True
+,Old Mutual,,2011,True,True,True,True
+,Capital Shopping Centres Group,,2012,True,True,True,True
+,Old Mutual,,2013,True,True,True,True
+,Old Mutual,,2014,True,True,True,True
+,Shire,,2015,True,True,True,True

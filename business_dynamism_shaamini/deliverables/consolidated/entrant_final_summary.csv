@@ -1,0 +1,15 @@
+index,coarse_class,n
+FTSE100,corporate_action,30
+FTSE100,established,47
+FTSE100,founding_member,111
+FTSE100,genuinely_new_verified,7
+FTSE100,historical_no_ch_number,51
+FTSE100,re_entry,50
+FTSE100,unknown_age,31
+S&P500,corporate_action,94
+S&P500,established,527
+S&P500,founding_member,506
+S&P500,genuinely_new_verified,31
+S&P500,historical_no_ch_number,20
+S&P500,re_entry,17
+S&P500,unknown_age,7

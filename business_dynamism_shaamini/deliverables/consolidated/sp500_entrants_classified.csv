@@ -1,0 +1,1203 @@
+index,id,company_name,entry_date,entry_year,founded_year,age_at_entry,episodes,re_entry,spac_shell,sic,sub_industry,provisional_class,adjudicated_class,adjudication_source_url,final_class,coarse_class,founded_source_url
+S&P500,A,Agilent Technologies,2000-06-05,2000,1999.0,1.0,1,False,False,3826.0,Life Sciences Tools & Services,very_new_adjudicate,spin_off,https://en.wikipedia.org/wiki/Agilent_Technologies,spin_off,corporate_action,
+S&P500,AABA,,1999-12-08,1999,1994.0,5.0,1,False,False,,,genuinely_new_provisional,genuinely_new,https://en.wikipedia.org/wiki/Yahoo!,genuinely_new,genuinely_new_verified,https://en.wikipedia.org/wiki/History_of_Yahoo
+S&P500,AAL,American Airlines Group Inc.,1996-01-02,1996,,,2,True,False,4512.0,,founding_member,,,founding_member,founding_member,
+S&P500,AAMRQ,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,AAP,ADVANCE AUTO PARTS INC,2015-07-09,2015,1932.0,83.0,1,False,False,5531.0,,established,,,established,established,https://en.wikipedia.org/wiki/Advance_Auto_Parts
+S&P500,AAPL,Apple Inc.,1996-01-02,1996,1977.0,19.0,1,False,False,3571.0,"Technology Hardware, Storage & Peripherals",founding_member,,,founding_member,founding_member,
+S&P500,ABBV,AbbVie,2013-01-02,2013,2013.0,0.0,1,False,False,2834.0,Biotechnology,very_new_adjudicate,spin_off,https://en.wikipedia.org/wiki/AbbVie,spin_off,corporate_action,
+S&P500,ABC,,2001-08-30,2001,1888.0,113.0,1,False,False,,,established,,,established,established,https://www.fundinguniverse.com/company-histories/bergen-brunswig-corporation-history/
+S&P500,ABI,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,ABKFQ,,2000-12-11,2000,1971.0,29.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Ambac
+S&P500,ABMD,,2018-05-31,2018,1981.0,37.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Abiomed
+S&P500,ABNB,Airbnb,2023-09-18,2023,2008.0,15.0,1,False,False,7340.0,"Hotels, Resorts & Cruise Lines",established,,,established,established,
+S&P500,ABS,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,ABT,Abbott Laboratories,1996-01-02,1996,1888.0,108.0,1,False,False,2834.0,Health Care Equipment,founding_member,,,founding_member,founding_member,
+S&P500,ABX,"Abacus Global Management, Inc.",1996-01-02,1996,,,1,False,False,6282.0,,founding_member,,,founding_member,founding_member,
+S&P500,ACAS,,2007-07-09,2007,1986.0,21.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/American_Capital
+S&P500,ACGL,Arch Capital Group,2022-11-01,2022,1995.0,27.0,1,False,False,6331.0,Property & Casualty Insurance,established,,,established,established,
+S&P500,ACKH,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,ACN,Accenture,2011-07-06,2011,1989.0,22.0,1,False,False,7389.0,IT Consulting & Other Services,established,,,established,established,
+S&P500,ACS,,2004-04-02,2004,1988.0,16.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Affiliated_Computer_Services
+S&P500,ACV,Virtus Diversified Income & Convertible Fund,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,ADBE,Adobe Inc.,1997-05-06,1997,1982.0,15.0,1,False,False,7372.0,Application Software,established,,,established,established,
+S&P500,ADCT,ADC Therapeutics SA,1999-08-02,1999,2011.0,-12.0,1,False,False,2834.0,,historical_unmatched,,,historical_unmatched,historical_no_ch_number,https://www.swissbiotech.org/listing/adc-therapeutics-sa/
+S&P500,ADI,Analog Devices,1999-10-12,1999,1965.0,34.0,1,False,False,3674.0,Semiconductors,established,,,established,established,
+S&P500,ADM,Archer Daniels Midland,1996-01-02,1996,1902.0,94.0,1,False,False,2070.0,Agricultural Products & Services,founding_member,,,founding_member,founding_member,
+S&P500,ADP,Automatic Data Processing,1996-01-02,1996,1949.0,47.0,1,False,False,7374.0,Human Resource & Employment Services,founding_member,,,founding_member,founding_member,
+S&P500,ADS,,2013-12-23,2013,1996.0,17.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Bread_Financial
+S&P500,ADSK,Autodesk,1996-01-02,1996,1982.0,14.0,1,False,False,7372.0,Application Software,founding_member,,,founding_member,founding_member,
+S&P500,ADT,ADT Inc.,2012-10-02,2012,1874.0,138.0,1,False,False,7381.0,,established,,,established,established,https://en.wikipedia.org/wiki/ADT_Inc.
+S&P500,AEE,Ameren,1996-01-02,1996,1902.0,94.0,1,False,False,4931.0,Multi-Utilities,founding_member,,,founding_member,founding_member,
+S&P500,AEP,American Electric Power,1996-01-02,1996,1906.0,90.0,1,False,False,4911.0,Electric Utilities,founding_member,,,founding_member,founding_member,
+S&P500,AES,AES Corporation,1998-10-02,1998,1981.0,17.0,1,False,False,4991.0,Independent Power Producers & Energy Traders,established,,,established,established,
+S&P500,AET,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,AFL,Aflac,1999-05-28,1999,1955.0,44.0,1,False,False,6321.0,Life & Health Insurance,established,,,established,established,
+S&P500,AFS.A,,1998-04-08,1998,1897.0,101.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/AmerUs
+S&P500,AGC,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,AGN,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,AHM,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,AIG,American International Group,1996-01-02,1996,1919.0,77.0,1,False,False,6331.0,Multi-line Insurance,founding_member,,,founding_member,founding_member,
+S&P500,AIT,APPLIED INDUSTRIAL TECHNOLOGIES INC,1996-01-02,1996,,,1,False,False,5080.0,,founding_member,,,founding_member,founding_member,
+S&P500,AIV,APARTMENT INVESTMENT & MANAGEMENT CO,2003-03-14,2003,1975.0,28.0,1,False,False,6798.0,,established,,,established,established,https://en.wikipedia.org/wiki/Aimco
+S&P500,AIZ,Assurant,2007-04-10,2007,1892.0,115.0,1,False,False,6399.0,Multi-line Insurance,established,,,established,established,
+S&P500,AJG,Arthur J. Gallagher & Co.,2016-05-31,2016,1927.0,89.0,1,False,False,6411.0,Insurance Brokers,established,,,established,established,
+S&P500,AKAM,Akamai Technologies,2007-07-12,2007,1998.0,9.0,1,False,False,7389.0,Internet Services & Infrastructure,genuinely_new_provisional,genuinely_new,https://en.wikipedia.org/wiki/Akamai_Technologies,genuinely_new,genuinely_new_verified,
+S&P500,AKS,,2008-07-01,2008,1899.0,109.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/AK_Steel
+S&P500,AL,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,ALB,Albemarle Corporation,2016-07-01,2016,1994.0,22.0,1,False,False,2821.0,Specialty Chemicals,established,,,established,established,
+S&P500,ALGN,Align Technology,2017-06-19,2017,1997.0,20.0,1,False,False,3842.0,Health Care Supplies,established,,,established,established,
+S&P500,ALK,"ALASKA AIR GROUP, INC.",2016-05-13,2016,1932.0,84.0,1,False,False,4512.0,,established,,,established,established,https://en.wikipedia.org/wiki/Alaska_Airlines
+S&P500,ALL,Allstate,1996-01-02,1996,1931.0,65.0,1,False,False,6331.0,Property & Casualty Insurance,founding_member,,,founding_member,founding_member,
+S&P500,ALLE,Allegion,2013-12-02,2013,1908.0,105.0,1,False,False,7381.0,Building Products,established,,,established,established,
+S&P500,ALTR,,2000-04-18,2000,1983.0,17.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Altera
+S&P500,ALXN,,2012-05-25,2012,1992.0,20.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Alexion_Pharmaceuticals
+S&P500,AM,Antero Midstream Corp,1996-01-02,1996,,,1,False,False,4922.0,,founding_member,,,founding_member,founding_member,
+S&P500,AMAT,Applied Materials,1996-01-02,1996,1967.0,29.0,1,False,False,3674.0,Semiconductor Materials & Equipment,founding_member,,,founding_member,founding_member,
+S&P500,AMCC,,2001-01-02,2001,1979.0,22.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Applied_Micro_Circuits_Corporation
+S&P500,AMCR,Amcor,2019-06-07,2019,2019.0,0.0,1,False,False,3990.0,Paper & Plastic Packaging Products & Materials,very_new_adjudicate,merger,https://en.wikipedia.org/wiki/Amcor,merger,corporate_action,
+S&P500,AMD,Advanced Micro Devices,1996-01-02,1996,1969.0,27.0,2,True,False,3674.0,Semiconductors,founding_member,,,founding_member,founding_member,
+S&P500,AME,Ametek,2013-09-23,2013,1930.0,83.0,1,False,False,3823.0,Electrical Components & Equipment,established,,,established,established,
+S&P500,AMG,"AFFILIATED MANAGERS GROUP, INC.",2014-07-01,2014,1993.0,21.0,1,False,False,6282.0,,established,,,established,established,https://en.wikipedia.org/wiki/Affiliated_Managers_Group
+S&P500,AMGN,Amgen,1996-01-02,1996,1980.0,16.0,1,False,False,2836.0,Biotechnology,founding_member,,,founding_member,founding_member,
+S&P500,AMH,American Homes 4 Rent,1996-01-02,1996,,,1,False,False,6798.0,,founding_member,,,founding_member,founding_member,
+S&P500,AMP,Ameriprise Financial,1996-01-02,1996,1894.0,102.0,2,True,False,6282.0,Asset Management & Custody Banks,founding_member,,,founding_member,founding_member,
+S&P500,AMT,American Tower,2007-11-19,2007,1995.0,12.0,1,False,False,6798.0,Telecom Tower REITs,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/American_Tower,spin_off,corporate_action,
+S&P500,AMTM,"Amentum Holdings, Inc.",2024-09-30,2024,2020.0,4.0,1,False,False,7389.0,,genuinely_new_provisional,merger,https://www.jacobs.com/newsroom/press-release/jacobs-spin-off-and-merge-its-critical-mission-solutions,merger,corporate_action,https://en.wikipedia.org/wiki/Amentum_Holdings
+S&P500,AMZN,Amazon,2005-11-21,2005,1994.0,11.0,1,False,False,5961.0,Broadline Retail,genuinely_new_provisional,genuinely_new,https://en.wikipedia.org/wiki/Amazon_(company),genuinely_new,genuinely_new_verified,
+S&P500,AN,"AUTONATION, INC.",1996-01-02,1996,,,2,True,False,5500.0,,founding_member,,,founding_member,founding_member,
+S&P500,ANDV,,2007-09-27,2007,1968.0,39.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Tesoro_Corporation
+S&P500,ANDW,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,ANET,Arista Networks,2018-08-28,2018,2004.0,14.0,1,False,False,3576.0,Communications Equipment,established,,,established,established,
+S&P500,ANF,ABERCROMBIE & FITCH CO /DE/,2007-03-29,2007,1892.0,115.0,1,False,False,5651.0,,established,,,established,established,https://en.wikipedia.org/wiki/Abercrombie_%26_Fitch
+S&P500,ANRZQ,,2011-06-02,2011,2002.0,9.0,1,False,False,,,genuinely_new_provisional,merger,https://en.wikipedia.org/wiki/Alpha_Natural_Resources,merger,corporate_action,https://en.wikipedia.org/wiki/Alpha_Natural_Resources
+S&P500,ANSS,,2017-06-19,2017,1970.0,47.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Ansys
+S&P500,ANTM,,2002-07-25,2002,1946.0,56.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Elevance_Health
+S&P500,ANV,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,AON,Aon plc,1996-04-23,1996,1982.0,14.0,1,False,False,6411.0,Insurance Brokers,founding_member,,,founding_member,founding_member,
+S&P500,AOS,A. O. Smith,2017-07-26,2017,1916.0,101.0,1,False,False,3630.0,Building Products,established,,,established,established,
+S&P500,APA,APA Corporation,1997-07-28,1997,1954.0,43.0,1,False,False,1311.0,Oil & Gas Exploration & Production,established,,,established,established,
+S&P500,APC,ARKO Petroleum Corp.,1997-07-28,1997,,,1,False,False,5172.0,,unknown_age,,,unknown_age,unknown_age,
+S&P500,APCC,,2000-06-01,2000,1981.0,19.0,1,False,False,,,established,,,established,established,https://www.sec.gov/Archives/edgar/data/0000835910/000110465906017357/a06-2613_110k.htm
+S&P500,APD,Air Products,1996-01-02,1996,1940.0,56.0,1,False,False,2810.0,Industrial Gases,founding_member,,,founding_member,founding_member,
+S&P500,APH,Amphenol,2008-09-30,2008,1932.0,76.0,1,False,False,3678.0,Electronic Components,established,,,established,established,
+S&P500,APO,Apollo Global Management,2024-12-23,2024,1990.0,34.0,1,False,False,6282.0,Asset Management & Custody Banks,established,,,established,established,
+S&P500,APOL,,2002-05-15,2002,1976.0,26.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Apollo_Education_Group
+S&P500,APP,AppLovin,2025-09-22,2025,2012.0,13.0,1,False,False,7370.0,Application Software,established,,,established,established,
+S&P500,APTV,Aptiv,2012-12-24,2012,1994.0,18.0,1,False,False,3714.0,Automotive Parts & Equipment,established,,,established,established,
+S&P500,AR,ANTERO RESOURCES Corp,1996-01-02,1996,,,1,False,False,1311.0,,founding_member,,,founding_member,founding_member,
+S&P500,ARC,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,ARE,Alexandria Real Estate Equities,2017-03-20,2017,1994.0,23.0,1,False,False,6798.0,Office REITs,established,,,established,established,
+S&P500,ARES,Ares Management,2025-12-11,2025,1977.0,48.0,1,False,False,6282.0,Asset Management & Custody Banks,established,,,established,established,
+S&P500,ARG,,2009-09-09,2009,1982.0,27.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Airgas
+S&P500,ARNC,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,AS,"Amer Sports, Inc.",1996-01-02,1996,,,1,False,False,2300.0,,founding_member,,,founding_member,founding_member,
+S&P500,ASC,Ardmore Shipping Corp,1996-01-02,1996,,,1,False,False,4412.0,,founding_member,,,founding_member,founding_member,
+S&P500,ASH,ASHLAND INC.,1996-01-02,1996,,,1,False,False,5160.0,,founding_member,,,founding_member,founding_member,
+S&P500,ASN,,2004-12-20,2004,1998.0,6.0,1,False,False,,,genuinely_new_provisional,merger,https://en.wikipedia.org/wiki/Archstone,merger,corporate_action,https://en.wikipedia.org/wiki/Archstone
+S&P500,ASND,Ascendis Pharma A/S,1998-06-12,1998,2007.0,-9.0,1,False,False,2834.0,,historical_unmatched,,,historical_unmatched,historical_no_ch_number,https://ascendispharma.com/about-us/
+S&P500,ASO,"Academy Sports & Outdoors, Inc.",1999-03-10,1999,1938.0,61.0,1,False,False,5940.0,,established,,,established,established,https://en.wikipedia.org/wiki/Academy_Sports_+_Outdoors
+S&P500,AT,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,ATGE,,2009-06-09,2009,1931.0,78.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/DeVry_University
+S&P500,ATI,ATI INC,1996-01-02,1996,,,1,False,False,3317.0,,founding_member,,,founding_member,founding_member,
+S&P500,ATO,Atmos Energy,2019-02-15,2019,1906.0,113.0,1,False,False,4924.0,Gas Utilities,established,,,established,established,
+S&P500,ATVI,,2015-08-31,2015,1979.0,36.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Activision
+S&P500,AV,,2000-10-02,2000,2000.0,0.0,1,False,False,,,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Avaya,spin_off,corporate_action,https://en.wikipedia.org/wiki/Avaya
+S&P500,AVB,AvalonBay Communities,2007-01-10,2007,1978.0,29.0,1,False,False,6798.0,Multi-Family Residential REITs,established,,,established,established,
+S&P500,AVGO,Broadcom,2014-05-08,2014,1961.0,53.0,1,False,False,3674.0,Semiconductors,established,,,established,established,
+S&P500,AVP,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,AVY,Avery Dennison,1996-01-02,1996,1935.0,61.0,1,False,False,2670.0,Paper & Plastic Packaging Products & Materials,founding_member,,,founding_member,founding_member,
+S&P500,AW,,1999-08-02,1999,1987.0,12.0,1,False,False,,,genuinely_new_provisional,merger,https://en.wikipedia.org/wiki/Allied_Waste_Industries,merger,corporate_action,https://www.fundinguniverse.com/company-histories/allied-waste-industries-inc-history/
+S&P500,AWE,,2001-07-09,2001,1986.0,15.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/McCaw_Cellular_Communications
+S&P500,AWK,American Water Works,2016-03-04,2016,1886.0,130.0,1,False,False,4941.0,Water Utilities,established,,,established,established,
+S&P500,AXON,Axon Enterprise,2023-05-04,2023,1993.0,30.0,1,False,False,3480.0,Aerospace & Defense,established,,,established,established,
+S&P500,AXP,American Express,1996-01-02,1996,1850.0,146.0,1,False,False,6199.0,Consumer Finance,founding_member,,,founding_member,founding_member,
+S&P500,AYE,,2000-12-11,2000,1907.0,93.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Allegheny_Energy
+S&P500,AYI,ACUITY INC. (DE),2016-05-03,2016,1919.0,97.0,1,False,False,3640.0,,established,,,established,established,https://en.wikipedia.org/wiki/Acuity_Brands
+S&P500,AZA.A,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,AZO,AutoZone,1997-01-02,1997,1979.0,18.0,1,False,False,5531.0,Automotive Retail,established,,,established,established,
+S&P500,BA,Boeing,1996-01-02,1996,1916.0,80.0,1,False,False,3721.0,Aerospace & Defense,founding_member,,,founding_member,founding_member,
+S&P500,BAC,Bank of America,1996-01-02,1996,1998.0,-2.0,1,False,False,6021.0,Diversified Banks,founding_member,,,founding_member,founding_member,
+S&P500,BALL,Ball Corporation,2022-05-10,2022,1880.0,142.0,1,False,False,3411.0,"Metal, Glass & Plastic Containers",established,,,established,established,
+S&P500,BAX,Baxter International,1996-01-02,1996,1931.0,65.0,1,False,False,3841.0,Health Care Equipment,founding_member,,,founding_member,founding_member,
+S&P500,BAY,,1996-02-12,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,BBBY,"BED BATH & BEYOND, INC.",1999-10-01,1999,1971.0,28.0,1,False,False,5961.0,,established,,,established,established,https://www.encyclopedia.com/books/politics-and-business-magazines/bed-bath-beyond-inc-0
+S&P500,BBI,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,BBT,Beacon Financial Corp,1997-12-04,1997,1872.0,125.0,1,False,False,6036.0,,established,,,established,established,https://en.wikipedia.org/wiki/Truist_Financial
+S&P500,BBWI,"Bath & Body Works, Inc.",2021-08-03,2021,1990.0,31.0,1,False,False,5990.0,,established,,,established,established,https://en.wikipedia.org/wiki/Bath_%26_Body_Works
+S&P500,BBY,Best Buy,1999-06-30,1999,1966.0,33.0,1,False,False,5731.0,Computer & Electronics Retail,established,,,established,established,
+S&P500,BC,BRUNSWICK CORP,1996-01-02,1996,,,1,False,False,3510.0,,founding_member,,,founding_member,founding_member,
+S&P500,BCO,BRINKS CO,1996-01-02,1996,,,1,False,False,4731.0,,founding_member,,,founding_member,founding_member,
+S&P500,BCR,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,BDK,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,BDX,Becton Dickinson,1996-01-02,1996,1897.0,99.0,1,False,False,3841.0,Health Care Equipment,founding_member,,,founding_member,founding_member,
+S&P500,BEAM,Beam Therapeutics Inc.,1996-01-02,1996,,,1,False,False,2836.0,,founding_member,,,founding_member,founding_member,
+S&P500,BEN,Franklin Resources,1998-04-29,1998,1947.0,51.0,1,False,False,6282.0,Asset Management & Custody Banks,established,,,established,established,
+S&P500,BEV,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,BF.B,Brown–Forman,1996-01-02,1996,1870.0,126.0,1,False,False,2080.0,Distillers & Vintners,founding_member,,,founding_member,founding_member,
+S&P500,BFI,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,BFO,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,BG,Bunge Global,2023-03-15,2023,1818.0,205.0,1,False,False,2070.0,Agricultural Products & Services,established,,,established,established,
+S&P500,BGEN,,2000-01-31,2000,1978.0,22.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Biogen
+S&P500,BGG,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,BHF,"Brighthouse Financial, Inc.",2017-08-07,2017,2017.0,0.0,1,False,False,6311.0,,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Brighthouse_Financial,spin_off,corporate_action,https://en.wikipedia.org/wiki/Brighthouse_Financial
+S&P500,BHGE,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,BHMSQ,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,BIG,,1998-01-20,1998,1967.0,31.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Big_Lots
+S&P500,BIIB,Biogen,2003-11-13,2003,1978.0,25.0,1,False,False,2836.0,Biotechnology,established,,,established,established,
+S&P500,BIO,"BIO-RAD LABORATORIES, INC.",2020-06-22,2020,1952.0,68.0,1,False,False,3826.0,,established,,,established,established,https://en.wikipedia.org/wiki/Bio-Rad_Laboratories
+S&P500,BJS,,2002-05-15,2002,1872.0,130.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/BJ_Energy_Solutions
+S&P500,BK,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,BKB,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,BKNG,Booking Holdings,2009-11-06,2009,1996.0,13.0,1,False,False,4700.0,"Hotels, Resorts & Cruise Lines",established,,,established,established,
+S&P500,BKR,Baker Hughes,2019-10-18,2019,2017.0,2.0,1,False,False,3533.0,Oil & Gas Equipment & Services,very_new_adjudicate,merger,https://en.wikipedia.org/wiki/Baker_Hughes,merger,corporate_action,
+S&P500,BLDR,Builders FirstSource,2023-10-18,2023,1998.0,25.0,1,False,False,5211.0,Building Products,established,,,established,established,
+S&P500,BLK,BlackRock,2011-04-04,2011,1988.0,23.0,1,False,False,6211.0,Asset Management & Custody Banks,established,,,established,established,
+S&P500,BLL,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,BLS,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,BLY,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,BMC,,1998-10-01,1998,1980.0,18.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/BMC_Software
+S&P500,BMET,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,BMGCA,,1996-07-22,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,BMS,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,BMY,Bristol Myers Squibb,1996-01-02,1996,1989.0,7.0,1,False,False,2834.0,Pharmaceuticals,founding_member,,,founding_member,founding_member,
+S&P500,BNI,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,BNL,"Broadstone Net Lease, Inc.",1996-01-02,1996,,,1,False,False,6798.0,,founding_member,,,founding_member,founding_member,
+S&P500,BNY,BNY Mellon,2026-05-21,2026,1784.0,242.0,1,False,False,6022.0,Asset Management & Custody Banks,established,,,established,established,
+S&P500,BOAT,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,BOL,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,BR,Broadridge Financial Solutions,1996-01-02,1996,1962.0,34.0,2,True,False,7389.0,Data Processing & Outsourced Services,founding_member,,,founding_member,founding_member,
+S&P500,BRCM,,2000-07-03,2000,1991.0,9.0,1,False,False,,,genuinely_new_provisional,genuinely_new,https://en.wikipedia.org/wiki/Broadcom_Corporation,genuinely_new,genuinely_new_verified,https://www.britannica.com/money/Broadcom-Inc
+S&P500,BRK.B,Berkshire Hathaway,2010-02-16,2010,1839.0,171.0,1,False,False,6331.0,Multi-Sector Holdings,established,,,established,established,
+S&P500,BRL,,2006-02-27,2006,1970.0,36.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Barr_Pharmaceuticals
+S&P500,BRO,Brown & Brown,2021-09-20,2021,1939.0,82.0,1,False,False,6411.0,Insurance Brokers,established,,,established,established,
+S&P500,BSC,,1998-07-01,1998,1923.0,75.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Bear_Stearns
+S&P500,BSX,Boston Scientific,1996-01-02,1996,1979.0,17.0,1,False,False,3841.0,Health Care Equipment,founding_member,,,founding_member,founding_member,
+S&P500,BT,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,BTUUQ,,2006-11-20,2006,1883.0,123.0,1,False,False,,,established,,,established,established,https://www.encyclopedia.com/books/politics-and-business-magazines/peabody-energy-corporation
+S&P500,BUD,Anheuser-Busch InBev SA/NV,1996-01-02,1996,,,1,False,False,2082.0,,founding_member,,,founding_member,founding_member,
+S&P500,BVSN,,2000-11-06,2000,1993.0,7.0,1,False,False,,,genuinely_new_provisional,genuinely_new,https://en.wikipedia.org/wiki/BroadVision,genuinely_new,genuinely_new_verified,https://en.wikipedia.org/wiki/BroadVision
+S&P500,BWA,BORGWARNER INC,2011-12-19,2011,1880.0,131.0,1,False,False,3714.0,,established,,,established,established,https://en.wikipedia.org/wiki/BorgWarner
+S&P500,BX,Blackstone Inc.,2023-09-18,2023,1985.0,38.0,1,False,False,6282.0,Asset Management & Custody Banks,established,,,established,established,
+S&P500,BXLT,,2015-07-01,2015,2015.0,0.0,1,False,False,,,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Baxalta,spin_off,corporate_action,https://en.wikipedia.org/wiki/Baxalta
+S&P500,BXP,"BXP, Inc.",2006-04-03,2006,1970.0,36.0,1,False,False,6798.0,Office REITs,established,,,established,established,
+S&P500,C,Citigroup,1996-01-02,1996,1998.0,-2.0,1,False,False,6021.0,Diversified Banks,founding_member,,,founding_member,founding_member,
+S&P500,CA,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,CAG,Conagra Brands,1996-01-02,1996,1919.0,77.0,1,False,False,2000.0,Packaged Foods & Meats,founding_member,,,founding_member,founding_member,
+S&P500,CAH,Cardinal Health,1997-05-27,1997,1971.0,26.0,1,False,False,5122.0,Health Care Distributors,established,,,established,established,
+S&P500,CAL,CALERES INC,1996-01-02,1996,,,1,False,False,3140.0,,founding_member,,,founding_member,founding_member,
+S&P500,CAM,,2008-01-29,2008,1920.0,88.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Cameron_International
+S&P500,CAR,"AVIS BUDGET GROUP, INC.",1996-01-02,1996,,,1,False,False,7510.0,,founding_member,,,founding_member,founding_member,
+S&P500,CARR,Carrier Global,2020-04-03,2020,2020.0,0.0,1,False,False,3585.0,Building Products,very_new_adjudicate,spin_off,https://en.wikipedia.org/wiki/Carrier_Global,spin_off,corporate_action,
+S&P500,CASY,Casey's,2026-04-09,2026,1967.0,59.0,1,False,False,5500.0,Food Retail,established,,,established,established,
+S&P500,CAT,Caterpillar Inc.,1996-01-02,1996,1925.0,71.0,1,False,False,3531.0,Construction Machinery & Heavy Transportation Equipment,founding_member,,,founding_member,founding_member,
+S&P500,CB,Chubb Limited,1996-01-02,1996,1985.0,11.0,1,False,False,6331.0,Property & Casualty Insurance,founding_member,,,founding_member,founding_member,
+S&P500,CBB,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,CBE,,1996-01-02,1996,,,2,True,False,,,founding_member,,,founding_member,founding_member,
+S&P500,CBH,,2006-06-06,2006,1973.0,33.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Commerce_Bancorp
+S&P500,CBOE,Cboe Global Markets,2017-03-01,2017,1973.0,44.0,1,False,False,6200.0,Financial Exchanges & Data,established,,,established,established,
+S&P500,CBRE,CBRE Group,2006-11-10,2006,1906.0,100.0,1,False,False,6500.0,Real Estate Services,established,,,established,established,
+S&P500,CBS,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,CBSS,,2004-12-20,2004,1964.0,40.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Compass_Bancshares
+S&P500,CCB,COASTAL FINANCIAL CORP,1996-01-02,1996,,,1,False,False,6022.0,,founding_member,,,founding_member,founding_member,
+S&P500,CCE,,1998-10-08,1998,1986.0,12.0,1,False,False,,,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Coca-Cola_Enterprises,spin_off,corporate_action,https://en.wikipedia.org/wiki/Coca-Cola_Enterprises
+S&P500,CCEP,COCA-COLA EUROPACIFIC PARTNERS plc,2016-01-04,2016,2016.0,0.0,1,False,False,2086.0,,genuinely_new_provisional,merger,https://en.wikipedia.org/wiki/Coca-Cola_Europacific_Partners,merger,corporate_action,https://en.wikipedia.org/wiki/Coca-Cola_Europacific_Partners
+S&P500,CCI,Crown Castle,1996-01-02,1996,1994.0,2.0,2,True,False,6798.0,Telecom Tower REITs,founding_member,,,founding_member,founding_member,
+S&P500,CCK,"CROWN HOLDINGS, INC.",1996-01-02,1996,,,1,False,False,3411.0,,founding_member,,,founding_member,founding_member,
+S&P500,CCL,Carnival Corporation,1998-12-22,1998,1972.0,26.0,1,False,False,4400.0,"Hotels, Resorts & Cruise Lines",established,,,established,established,
+S&P500,CCTYQ,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,CCU,UNITED BREWERIES CO INC,1997-09-02,1997,1902.0,95.0,1,False,False,2082.0,,established,,,established,established,https://en.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_de_Cervecer%C3%ADas_Unidas
+S&P500,CDAY,,2021-09-20,2021,1957.0,64.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Dayforce
+S&P500,CDNS,Cadence Design Systems,2017-09-18,2017,1988.0,29.0,1,False,False,7372.0,Application Software,established,,,established,established,
+S&P500,CDW,CDW Corporation,2019-09-23,2019,1984.0,35.0,1,False,False,5961.0,Technology Distributors,established,,,established,established,
+S&P500,CE,Celanese Corp,2001-04-02,2001,1918.0,83.0,2,True,False,2820.0,,established,,,established,established,https://en.wikipedia.org/wiki/Celanese
+S&P500,CEG,Constellation Energy,1996-01-02,1996,1999.0,-3.0,2,True,False,4911.0,Electric Utilities,founding_member,,,founding_member,founding_member,
+S&P500,CELG,,2006-11-06,2006,1986.0,20.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Celgene
+S&P500,CEN,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,CEPH,,2008-11-17,2008,1987.0,21.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Cephalon_(company)
+S&P500,CERN,,2010-04-30,2010,1979.0,31.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Oracle_Health
+S&P500,CF,CF Industries,2000-06-19,2000,1946.0,54.0,2,True,False,2870.0,Fertilizers & Agricultural Chemicals,re_entry,,,re_entry,re_entry,
+S&P500,CFC,,1997-06-18,1997,1969.0,28.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Bank_of_America_Home_Loans
+S&P500,CFG,Citizens Financial Group,2016-02-01,2016,1828.0,188.0,1,False,False,6022.0,Regional Banks,established,,,established,established,
+S&P500,CFL,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,CFN,,2009-09-01,2009,2009.0,0.0,1,False,False,,,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/CareFusion,spin_off,corporate_action,https://en.wikipedia.org/wiki/CareFusion
+S&P500,CG,Carlyle Group Inc.,1996-01-02,1996,,,1,False,False,6282.0,,founding_member,,,founding_member,founding_member,
+S&P500,CGP,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,CHA,Chagee Holdings Ltd.,1996-01-02,1996,,,1,False,False,5810.0,,founding_member,,,founding_member,founding_member,
+S&P500,CHD,Church & Dwight,2015-12-29,2015,1847.0,168.0,1,False,False,2840.0,Household Products,established,,,established,established,
+S&P500,CHIR,,2000-11-24,2000,1981.0,19.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Chiron_Corporation
+S&P500,CHK,,2006-03-03,2006,1989.0,17.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Expand_Energy
+S&P500,CHRS,"Coherus Oncology, Inc.",1996-01-02,1996,,,1,False,False,2836.0,,founding_member,,,founding_member,founding_member,
+S&P500,CHRW,C.H. Robinson,2007-03-02,2007,1905.0,102.0,1,False,False,4731.0,Air Freight & Logistics,established,,,established,established,
+S&P500,CHTR,Charter Communications,2016-09-08,2016,1993.0,23.0,1,False,False,4841.0,Cable & Satellite,established,,,established,established,
+S&P500,CI,Cigna,1996-01-02,1996,1982.0,14.0,1,False,False,6324.0,Health Care Services,founding_member,,,founding_member,founding_member,
+S&P500,CIEN,Ciena,2001-08-30,2001,1992.0,9.0,2,True,False,3661.0,Communications Equipment,re_entry,,,re_entry,re_entry,
+S&P500,CIN,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,CINF,Cincinnati Financial,1997-12-18,1997,1950.0,47.0,1,False,False,6331.0,Property & Casualty Insurance,established,,,established,established,
+S&P500,CIT.A,,2000-07-17,2000,1908.0,92.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/CIT_Group
+S&P500,CITGQ,,2004-10-27,2004,1908.0,96.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/CIT_Group
+S&P500,CL,Colgate-Palmolive,1996-01-02,1996,1806.0,190.0,1,False,False,2844.0,Household Products,founding_member,,,founding_member,founding_member,
+S&P500,CLF,CLEVELAND-CLIFFS INC.,2009-12-21,2009,1847.0,162.0,1,False,False,1000.0,,established,,,established,established,https://en.wikipedia.org/wiki/Cleveland-Cliffs
+S&P500,CLX,Clorox,1996-01-02,1996,1913.0,83.0,1,False,False,2842.0,Household Products,founding_member,,,founding_member,founding_member,
+S&P500,CMA,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,CMB,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,CMCSA,Comcast,1996-01-02,1996,1963.0,33.0,1,False,False,4841.0,Cable & Satellite,founding_member,,,founding_member,founding_member,
+S&P500,CMCSK,,2015-09-21,2015,1963.0,52.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Comcast
+S&P500,CME,CME Group,2006-08-11,2006,1848.0,158.0,1,False,False,6200.0,Financial Exchanges & Data,established,,,established,established,
+S&P500,CMG,Chipotle Mexican Grill,2011-04-28,2011,1993.0,18.0,1,False,False,5812.0,Restaurants,established,,,established,established,
+S&P500,CMI,Cummins,1996-01-02,1996,1919.0,77.0,1,False,False,3510.0,Construction Machinery & Heavy Transportation Equipment,founding_member,,,founding_member,founding_member,
+S&P500,CMS,CMS Energy,1999-05-03,1999,1886.0,113.0,1,False,False,4931.0,Multi-Utilities,established,,,established,established,
+S&P500,CMVT,,1999-10-27,1999,1982.0,17.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Comverse_Technology
+S&P500,CMX,,2004-03-25,2004,1979.0,25.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/CVS_Caremark
+S&P500,CNC,Centene Corporation,1997-01-15,1997,1984.0,13.0,2,True,False,6324.0,Managed Health Care,re_entry,,,re_entry,re_entry,
+S&P500,CNG,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,CNP,CenterPoint Energy,1996-01-02,1996,1882.0,114.0,1,False,False,4911.0,Multi-Utilities,founding_member,,,founding_member,founding_member,
+S&P500,CNW,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,CNX,CNX Resources Corp,2006-06-28,2006,1860.0,146.0,1,False,False,1311.0,,established,,,established,established,https://en.wikipedia.org/wiki/CNX_Resources
+S&P500,CNXT,,2000-01-31,2000,1999.0,1.0,1,False,False,,,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Conexant,spin_off,corporate_action,https://en.wikipedia.org/wiki/Conexant
+S&P500,COC.B,,1999-08-09,1999,1875.0,124.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/ConocoPhillips
+S&P500,COF,Capital One,1998-07-01,1998,1994.0,4.0,1,False,False,6021.0,Consumer Finance,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Capital_One,spin_off,corporate_action,
+S&P500,COG,,2008-06-23,2008,1989.0,19.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Cabot_Oil_%26_Gas
+S&P500,COHR,Coherent Corp.,2026-03-23,2026,1971.0,55.0,1,False,False,3827.0,Electronic Components,established,,,established,established,
+S&P500,COIN,Coinbase,2025-05-19,2025,2012.0,13.0,1,False,False,6199.0,Financial Exchanges & Data,established,,,established,established,
+S&P500,COL,,2001-07-02,2001,1933.0,68.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Rockwell_Collins
+S&P500,COMS,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,COO,Cooper Companies (The),2016-09-23,2016,1958.0,58.0,1,False,False,3851.0,Health Care Supplies,established,,,established,established,
+S&P500,COP,ConocoPhillips,1996-01-02,1996,2002.0,-6.0,1,False,False,2911.0,Oil & Gas Exploration & Production,founding_member,,,founding_member,founding_member,
+S&P500,COR,Cencora,2023-08-30,2023,1985.0,38.0,1,False,False,5122.0,Health Care Distributors,established,,,established,established,
+S&P500,COST,Costco,1996-01-02,1996,1976.0,20.0,1,False,False,5331.0,Consumer Staples Merchandise Retail,founding_member,,,founding_member,founding_member,
+S&P500,COTY,COTY INC.,2016-10-03,2016,1904.0,112.0,1,False,False,2844.0,,established,,,established,established,https://en.wikipedia.org/wiki/Coty
+S&P500,COV,,1996-01-02,1996,,,3,True,False,,,founding_member,,,founding_member,founding_member,
+S&P500,CPAY,Corpay,2024-03-25,2024,2000.0,24.0,1,False,False,7389.0,Transaction & Payment Processing Services,established,,,established,established,
+S&P500,CPB,Campbell's Company (The),1996-01-02,1996,1869.0,127.0,1,False,False,2000.0,Packaged Foods & Meats,founding_member,,,founding_member,founding_member,
+S&P500,CPGX,,2015-07-02,2015,2015.0,0.0,1,False,False,,,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Columbia_Pipeline_Group,spin_off,corporate_action,https://en.wikipedia.org/wiki/NiSource
+S&P500,CPNLQ,,2000-12-01,2000,1984.0,16.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Calpine
+S&P500,CPQ,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,CPRI,Capri Holdings Ltd,2016-01-04,2016,1981.0,35.0,1,False,False,3100.0,,established,,,established,established,https://en.wikipedia.org/wiki/Capri_Holdings
+S&P500,CPRT,Copart,2018-07-02,2018,1982.0,36.0,1,False,False,5500.0,Diversified Support Services,established,,,established,established,
+S&P500,CPT,Camden Property Trust,2022-04-04,2022,1981.0,41.0,1,False,False,6798.0,Multi-Family Residential REITs,established,,,established,established,
+S&P500,CPWR,Ocean Thermal Energy Corp,1999-01-04,1999,,,1,False,False,4931.0,,unknown_age,,,unknown_age,unknown_age,
+S&P500,CR,Crane Co,1996-01-02,1996,,,1,False,False,3490.0,,founding_member,,,founding_member,founding_member,
+S&P500,CRH,CRH plc,2025-12-22,2025,1970.0,55.0,1,False,False,3241.0,Construction Materials,established,,,established,established,
+S&P500,CRL,Charles River Laboratories,2021-05-14,2021,1947.0,74.0,1,False,False,8731.0,Life Sciences Tools & Services,established,,,established,established,
+S&P500,CRM,Salesforce,2008-09-15,2008,1999.0,9.0,1,False,False,7372.0,Application Software,genuinely_new_provisional,genuinely_new,https://en.wikipedia.org/wiki/Salesforce,genuinely_new,genuinely_new_verified,
+S&P500,CRR,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,CRWD,CrowdStrike,2024-06-24,2024,2011.0,13.0,1,False,False,7372.0,Systems Software,established,,,established,established,
+S&P500,CSCO,Cisco,1996-01-02,1996,1984.0,12.0,1,False,False,3576.0,Communications Equipment,founding_member,,,founding_member,founding_member,
+S&P500,CSE,,1996-01-22,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,CSGP,CoStar Group,2022-09-19,2022,1987.0,35.0,1,False,False,7389.0,Real Estate Services,established,,,established,established,
+S&P500,CSR,CENTERSPACE,1996-01-02,1996,,,1,False,False,6798.0,,founding_member,,,founding_member,founding_member,
+S&P500,CSRA,,2015-11-30,2015,2015.0,0.0,1,False,False,,,genuinely_new_provisional,merger,https://en.wikipedia.org/wiki/CSRA_Inc.,merger,corporate_action,https://en.wikipedia.org/wiki/CSRA_Inc.
+S&P500,CSX,CSX Corporation,1996-01-02,1996,1980.0,16.0,1,False,False,4011.0,Rail Transportation,founding_member,,,founding_member,founding_member,
+S&P500,CTAS,Cintas,2001-03-01,2001,1929.0,72.0,1,False,False,2320.0,Diversified Support Services,established,,,established,established,
+S&P500,CTB,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,CTL,,1999-03-25,1999,1930.0,69.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/CenturyLink
+S&P500,CTLT,,2020-09-21,2020,1933.0,87.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Robert_Pauli_Scherer
+S&P500,CTRA,,2021-10-04,2021,1989.0,32.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Coterra
+S&P500,CTSH,Cognizant,2006-11-17,2006,1994.0,12.0,1,False,False,7371.0,IT Consulting & Other Services,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Cognizant,spin_off,corporate_action,
+S&P500,CTVA,Corteva,2019-06-03,2019,2019.0,0.0,1,False,False,100.0,Fertilizers & Agricultural Chemicals,very_new_adjudicate,spin_off,https://en.wikipedia.org/wiki/Corteva,spin_off,corporate_action,
+S&P500,CTX,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,CTXS,,1999-12-01,1999,1989.0,10.0,1,False,False,,,genuinely_new_provisional,genuinely_new,https://en.wikipedia.org/wiki/Citrix_Systems,genuinely_new,genuinely_new_verified,https://en.wikipedia.org/wiki/Citrix_Systems
+S&P500,CVC,,2010-12-20,2010,1973.0,37.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Cablevision
+S&P500,CVG,,2000-06-13,2000,1998.0,2.0,1,False,False,,,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Convergys,spin_off,corporate_action,https://en.wikipedia.org/wiki/Convergys
+S&P500,CVH,,2005-08-30,2005,1986.0,19.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Coventry_Health_Care
+S&P500,CVNA,Carvana,2025-12-22,2025,2012.0,13.0,1,False,False,5500.0,Automotive Retail,established,,,established,established,
+S&P500,CVS,CVS Health,1996-01-02,1996,1996.0,0.0,1,False,False,5912.0,Health Care Services,founding_member,,,founding_member,founding_member,
+S&P500,CVX,Chevron Corporation,1996-01-02,1996,1879.0,117.0,1,False,False,2911.0,Integrated Oil & Gas,founding_member,,,founding_member,founding_member,
+S&P500,CXO,,2016-02-22,2016,2004.0,12.0,1,False,False,,,genuinely_new_provisional,genuinely_new,https://en.wikipedia.org/wiki/Concho_Resources,genuinely_new,genuinely_new_verified,https://en.wikipedia.org/wiki/Concho_Resources
+S&P500,CYM,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,CYR,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,CZR,"Caesars Entertainment, Inc.",2021-03-22,2021,1937.0,84.0,1,False,False,7011.0,,established,,,established,established,https://en.wikipedia.org/wiki/Harrah's_Entertainment
+S&P500,D,Dominion Energy,1996-01-02,1996,1983.0,13.0,1,False,False,4911.0,Multi-Utilities,founding_member,,,founding_member,founding_member,
+S&P500,DAL,Delta Air Lines,2013-09-11,2013,1929.0,84.0,1,False,False,4512.0,Passenger Airlines,established,,,established,established,
+S&P500,DALRQ,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,DASH,DoorDash,2025-03-24,2025,2012.0,13.0,1,False,False,7389.0,Specialized Consumer Services,established,,,established,established,
+S&P500,DAY,,2024-02-01,2024,1992.0,32.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Dayforce
+S&P500,DCNAQ,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,DD,DuPont,1996-01-02,1996,2017.0,-21.0,2,True,False,2821.0,Specialty Chemicals,founding_member,,,founding_member,founding_member,
+S&P500,DDOG,Datadog,2025-07-09,2025,2010.0,15.0,1,False,False,7372.0,Application Software,established,,,established,established,
+S&P500,DDR,,2007-03-23,2007,1965.0,42.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/SITE_Centers
+S&P500,DDS,"DILLARD'S, INC.",1996-01-02,1996,,,1,False,False,5311.0,,founding_member,,,founding_member,founding_member,
+S&P500,DE,Deere & Company,1996-01-02,1996,1837.0,159.0,1,False,False,3523.0,Agricultural & Farm Machinery,founding_member,,,founding_member,founding_member,
+S&P500,DEC,Diversified Energy Co,1996-01-02,1996,,,1,False,False,1311.0,,founding_member,,,founding_member,founding_member,
+S&P500,DECK,Deckers Brands,2024-03-18,2024,1973.0,51.0,1,False,False,3021.0,Footwear,established,,,established,established,
+S&P500,DELL,Dell Technologies,1996-09-06,1996,2016.0,-20.0,2,True,False,3571.0,"Technology Hardware, Storage & Peripherals",founding_member,,,founding_member,founding_member,
+S&P500,DF,,2006-04-03,2006,1925.0,81.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Dean_Foods
+S&P500,DFS,,2007-07-02,2007,1985.0,22.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Discover_Financial
+S&P500,DG,Dollar General,1998-07-16,1998,1939.0,59.0,2,True,False,5331.0,Consumer Staples Merchandise Retail,re_entry,,,re_entry,re_entry,
+S&P500,DGN,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,DGX,Quest Diagnostics,2002-12-12,2002,1967.0,35.0,1,False,False,8071.0,Health Care Services,established,,,established,established,
+S&P500,DHI,D. R. Horton,2005-07-05,2005,1978.0,27.0,1,False,False,1531.0,Homebuilding,established,,,established,established,
+S&P500,DHR,Danaher Corporation,1998-11-18,1998,1969.0,29.0,1,False,False,3823.0,Life Sciences Tools & Services,established,,,established,established,
+S&P500,DI,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,DIGI,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,DIS,Walt Disney Company (The),1996-01-02,1996,1923.0,73.0,1,False,False,7990.0,Movies & Entertainment,founding_member,,,founding_member,founding_member,
+S&P500,DISCA,,2010-03-01,2010,1982.0,28.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Discovery_Communications
+S&P500,DISCK,,2014-08-07,2014,1982.0,32.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Discovery_Communications
+S&P500,DISH,,2017-03-13,2017,1980.0,37.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Dish_Network
+S&P500,DJ,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,DLR,Digital Realty,2016-05-18,2016,2004.0,12.0,1,False,False,6798.0,Data Center REITs,genuinely_new_provisional,ipo_established,https://en.wikipedia.org/wiki/Digital_Realty,ipo_established,corporate_action,
+S&P500,DLTR,Dollar Tree,2011-12-19,2011,1986.0,25.0,1,False,False,5331.0,Consumer Staples Merchandise Retail,established,,,established,established,
+S&P500,DLX,DELUXE CORP,1996-01-02,1996,,,1,False,False,2780.0,,founding_member,,,founding_member,founding_member,
+S&P500,DNB,,2008-12-02,2008,1841.0,167.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Dun_%26_Bradstreet
+S&P500,DNR,,2009-04-02,2009,1951.0,58.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Denbury_Resources
+S&P500,DO,,2009-02-26,2009,1964.0,45.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Diamond_Offshore_Drilling
+S&P500,DOC,Healthpeak Properties,2024-03-04,2024,1985.0,39.0,1,False,False,6798.0,Health Care REITs,established,,,established,established,
+S&P500,DOV,Dover Corporation,1996-01-02,1996,1955.0,41.0,1,False,False,3530.0,Industrial Machinery & Supplies & Components,founding_member,,,founding_member,founding_member,
+S&P500,DOW,Dow Inc.,1996-01-02,1996,2019.0,-23.0,2,True,False,2821.0,Commodity Chemicals,founding_member,,,founding_member,founding_member,
+S&P500,DPHIQ,,1999-05-28,1999,1994.0,5.0,1,False,False,,,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Delphi_Technologies,spin_off,corporate_action,https://en.wikipedia.org/wiki/Aptiv
+S&P500,DPZ,Domino's,2020-05-12,2020,1960.0,60.0,1,False,False,5140.0,Restaurants,established,,,established,established,
+S&P500,DRE,,2017-07-26,2017,1972.0,45.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Duke_Realty
+S&P500,DRI,Darden Restaurants,1996-01-02,1996,1938.0,58.0,1,False,False,5812.0,Restaurants,founding_member,,,founding_member,founding_member,
+S&P500,DTE,DTE Energy,1996-01-02,1996,1995.0,1.0,1,False,False,4911.0,Multi-Utilities,founding_member,,,founding_member,founding_member,
+S&P500,DTV,,2006-12-04,2006,1994.0,12.0,1,False,False,,,genuinely_new_provisional,reincorporation_rename,https://en.wikipedia.org/wiki/Hughes_Electronics,reincorporation_rename,corporate_action,https://en.wikipedia.org/wiki/DirecTV
+S&P500,DUK,Duke Energy,1996-01-02,1996,1904.0,92.0,1,False,False,4931.0,Electric Utilities,founding_member,,,founding_member,founding_member,
+S&P500,DVA,DaVita,2008-07-31,2008,1979.0,29.0,1,False,False,8090.0,Health Care Services,established,,,established,established,
+S&P500,DVN,Devon Energy,2000-08-30,2000,1971.0,29.0,1,False,False,1311.0,Oil & Gas Exploration & Production,established,,,established,established,
+S&P500,DWD,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,DWDP,,2017-09-01,2017,1802.0,215.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/DuPont
+S&P500,DXC,DXC Technology Co,1996-01-02,1996,,,2,True,False,7374.0,,founding_member,,,founding_member,founding_member,
+S&P500,DXCM,Dexcom,2020-05-12,2020,1999.0,21.0,1,False,False,3841.0,Health Care Equipment,established,,,established,established,
+S&P500,DYN,"Dyne Therapeutics, Inc.",2000-10-03,2000,2018.0,-18.0,1,False,False,2834.0,,historical_unmatched,,,historical_unmatched,historical_no_ch_number,https://pitchbook.com/profiles/company/266532-04
+S&P500,EA,Electronic Arts,2002-07-22,2002,1982.0,20.0,1,False,False,7372.0,Interactive Home Entertainment,established,,,established,established,
+S&P500,EBAY,eBay Inc.,2002-07-22,2002,1995.0,7.0,1,False,False,7389.0,Broadline Retail,genuinely_new_provisional,genuinely_new,https://en.wikipedia.org/wiki/EBay,genuinely_new,genuinely_new_verified,
+S&P500,EC,ECOPETROL S.A.,1996-01-02,1996,,,1,False,False,1311.0,,founding_member,,,founding_member,founding_member,
+S&P500,ECH,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,ECL,Ecolab,1996-01-02,1996,1923.0,73.0,1,False,False,2840.0,Specialty Chemicals,founding_member,,,founding_member,founding_member,
+S&P500,ECO,Okeanis Eco Tankers Corp.,1996-01-02,1996,,,1,False,False,4412.0,,founding_member,,,founding_member,founding_member,
+S&P500,ED,Consolidated Edison,1996-01-02,1996,1823.0,173.0,1,False,False,4931.0,Multi-Utilities,founding_member,,,founding_member,founding_member,
+S&P500,EDS,,1998-08-11,1998,1962.0,36.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Electronic_Data_Systems
+S&P500,EFU,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,EFX,Equifax,1997-06-19,1997,1899.0,98.0,1,False,False,7320.0,Research & Consulting Services,established,,,established,established,
+S&P500,EG,Everest Group,2023-07-10,2023,1973.0,50.0,1,False,False,6331.0,Reinsurance,established,,,established,established,
+S&P500,EHC,Encompass Health Corp,1997-01-08,1997,1984.0,13.0,1,False,False,8060.0,,established,,,established,established,https://en.wikipedia.org/wiki/Encompass_Health
+S&P500,EIX,Edison International,1996-01-02,1996,1886.0,110.0,1,False,False,4911.0,Electric Utilities,founding_member,,,founding_member,founding_member,
+S&P500,EKDKQ,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,EL,Estée Lauder Companies (The),2006-01-05,2006,1946.0,60.0,1,False,False,2844.0,Personal Care Products,established,,,established,established,
+S&P500,ELV,Elevance Health,2022-06-28,2022,2014.0,8.0,1,False,False,6324.0,Managed Health Care,genuinely_new_provisional,reincorporation_rename,https://en.wikipedia.org/wiki/Elevance_Health,reincorporation_rename,corporate_action,
+S&P500,EMC,,1996-03-28,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,EME,Emcor,2025-09-22,2025,1994.0,31.0,1,False,False,1731.0,Construction & Engineering,established,,,established,established,
+S&P500,EMN,EASTMAN CHEMICAL CO,1996-01-02,1996,,,1,False,False,2821.0,,founding_member,,,founding_member,founding_member,
+S&P500,EMR,Emerson Electric,1996-01-02,1996,1890.0,106.0,1,False,False,3600.0,Electrical Components & Equipment,founding_member,,,founding_member,founding_member,
+S&P500,ENDP,,2015-01-27,2015,1920.0,95.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Endo_International
+S&P500,ENPH,"Enphase Energy, Inc.",2021-01-07,2021,2006.0,15.0,1,False,False,3674.0,,established,,,established,established,https://en.wikipedia.org/wiki/Enphase_Energy
+S&P500,ENRNQ,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,ENS,EnerSys,1996-01-02,1996,,,1,False,False,3690.0,,founding_member,,,founding_member,founding_member,
+S&P500,EOG,EOG Resources,2000-11-02,2000,1999.0,1.0,1,False,False,1311.0,Oil & Gas Exploration & Production,very_new_adjudicate,spin_off,https://en.wikipedia.org/wiki/EOG_Resources,spin_off,corporate_action,
+S&P500,EOP,,2001-10-10,2001,1976.0,25.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/EQ_Office
+S&P500,EP,EMPIRE PETROLEUM CORP,1999-10-26,1999,1983.0,16.0,1,False,False,1311.0,,established,,,established,established,https://finance.yahoo.com/quote/EP/profile/
+S&P500,EPAM,"EPAM Systems, Inc.",2021-12-14,2021,1993.0,28.0,1,False,False,7371.0,,established,,,established,established,https://en.wikipedia.org/wiki/EPAM_Systems
+S&P500,EQ,"Equillium, Inc.",2006-05-18,2006,2017.0,-11.0,1,False,False,2834.0,,historical_unmatched,,,historical_unmatched,historical_no_ch_number,https://www.cbinsights.com/company/equillium
+S&P500,EQIX,Equinix,2015-03-23,2015,1998.0,17.0,1,False,False,6798.0,Data Center REITs,established,,,established,established,
+S&P500,EQR,Equity Residential,2001-12-03,2001,1969.0,32.0,1,False,False,6798.0,Multi-Family Residential REITs,established,,,established,established,
+S&P500,EQT,EQT Corporation,2008-12-19,2008,1888.0,120.0,2,True,False,1311.0,Oil & Gas Exploration & Production,re_entry,,,re_entry,re_entry,
+S&P500,ERIE,Erie Indemnity,2024-09-23,2024,1925.0,99.0,1,False,False,6411.0,Insurance Brokers,established,,,established,established,
+S&P500,ES,Eversource Energy,2009-03-17,2009,1966.0,43.0,1,False,False,4911.0,Electric Utilities,established,,,established,established,
+S&P500,ESRX,,2003-09-26,2003,1986.0,17.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Express_Scripts
+S&P500,ESS,Essex Property Trust,2014-04-02,2014,1971.0,43.0,1,False,False,6798.0,Multi-Family Residential REITs,established,,,established,established,
+S&P500,ESV,,2007-01-04,2007,1975.0,32.0,2,True,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Valaris_Limited
+S&P500,ETFC,,2004-04-01,2004,1982.0,22.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/E-Trade
+S&P500,ETN,Eaton Corporation,1996-01-02,1996,1911.0,85.0,1,False,False,3590.0,Electrical Components & Equipment,founding_member,,,founding_member,founding_member,
+S&P500,ETR,Entergy,1996-01-02,1996,1913.0,83.0,1,False,False,4911.0,Electric Utilities,founding_member,,,founding_member,founding_member,
+S&P500,ETS,Elite Express Holding Inc.,1996-01-02,1996,,,1,False,False,4210.0,,founding_member,,,founding_member,founding_member,
+S&P500,ETSY,ETSY INC,2020-09-21,2020,2005.0,15.0,1,False,False,7389.0,,established,,,established,established,https://en.wikipedia.org/wiki/Etsy
+S&P500,EVHC,,2016-12-02,2016,1972.0,44.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/EmCare
+S&P500,EVRG,Evergy,2018-06-05,2018,1909.0,109.0,1,False,False,4931.0,Electric Utilities,established,,,established,established,
+S&P500,EW,Edwards Lifesciences,2011-04-01,2011,1958.0,53.0,1,False,False,3842.0,Health Care Equipment,established,,,established,established,
+S&P500,EXC,Exelon,1996-01-02,1996,2000.0,-4.0,1,False,False,4931.0,Electric Utilities,founding_member,,,founding_member,founding_member,
+S&P500,EXE,Expand Energy,2025-03-24,2025,1989.0,36.0,1,False,False,1311.0,Oil & Gas Exploration & Production,established,,,established,established,
+S&P500,EXPD,Expeditors International,2007-10-10,2007,1979.0,28.0,1,False,False,4731.0,Air Freight & Logistics,established,,,established,established,
+S&P500,EXPE,Expedia Group,2007-10-02,2007,1996.0,11.0,1,False,False,4700.0,"Hotels, Resorts & Cruise Lines",genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Expedia_Group,spin_off,corporate_action,
+S&P500,EXR,Extra Space Storage,2016-01-19,2016,1977.0,39.0,1,False,False,6798.0,Self-Storage REITs,established,,,established,established,
+S&P500,F,Ford Motor Company,1996-01-02,1996,1903.0,93.0,1,False,False,3711.0,Automobile Manufacturers,founding_member,,,founding_member,founding_member,
+S&P500,FANG,Diamondback Energy,2018-12-03,2018,2007.0,11.0,1,False,False,1311.0,Oil & Gas Exploration & Production,genuinely_new_provisional,genuinely_new,https://en.wikipedia.org/wiki/Diamondback_Energy,genuinely_new,genuinely_new_verified,
+S&P500,FAST,Fastenal,2008-09-15,2008,1967.0,41.0,1,False,False,5200.0,Trading Companies & Distributors,established,,,established,established,
+S&P500,FB,,2013-12-23,2013,2004.0,9.0,1,False,False,,,genuinely_new_provisional,genuinely_new,https://en.wikipedia.org/wiki/Meta_Platforms,genuinely_new,genuinely_new_verified,https://en.wikipedia.org/wiki/Meta_Platforms
+S&P500,FBF,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,FBHS,,2016-06-24,2016,2011.0,5.0,1,False,False,,,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Fortune_Brands_Home_%26_Security,spin_off,corporate_action,https://en.wikipedia.org/wiki/Fortune_Brands_Innovations
+S&P500,FBO,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,FCN,"FTI CONSULTING, INC",1996-01-02,1996,,,1,False,False,8742.0,,founding_member,,,founding_member,founding_member,
+S&P500,FCPT,"Four Corners Property Trust, Inc.",2015-11-10,2015,2015.0,0.0,1,False,False,6798.0,,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Four_Corners_Property_Trust,spin_off,corporate_action,https://www.sec.gov/Archives/edgar/data/0001650132/000165013216000041/fourcorners10-k.htm
+S&P500,FCX,Freeport-McMoRan,1996-01-02,1996,1912.0,84.0,1,False,False,1000.0,Copper,founding_member,,,founding_member,founding_member,
+S&P500,FDC,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,FDO,,2001-08-06,2001,1959.0,42.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Family_Dollar
+S&P500,FDS,FactSet,2021-12-20,2021,1978.0,43.0,1,False,False,7370.0,Financial Exchanges & Data,established,,,established,established,
+S&P500,FDX,FedEx,1996-01-02,1996,1971.0,25.0,1,False,False,4513.0,Air Freight & Logistics,founding_member,,,founding_member,founding_member,
+S&P500,FDXF,FedEx Freight,2026-06-01,2026,1982.0,44.0,1,False,False,4513.0,Cargo Ground Transportation,established,,,established,established,
+S&P500,FE,FirstEnergy,1996-01-02,1996,1997.0,-1.0,1,False,False,4911.0,Electric Utilities,founding_member,,,founding_member,founding_member,
+S&P500,FFIV,"F5, Inc.",2010-12-20,2010,1996.0,14.0,1,False,False,3576.0,Communications Equipment,established,,,established,established,
+S&P500,FG,"F&G Annuities & Life, Inc.",1996-01-02,1996,,,1,False,False,6311.0,,founding_member,,,founding_member,founding_member,
+S&P500,FHN,FIRST HORIZON CORP,2002-05-06,2002,1864.0,138.0,1,False,False,6021.0,,established,,,established,established,https://en.wikipedia.org/wiki/First_Horizon_Bank
+S&P500,FI,,2023-06-07,2023,1984.0,39.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Fiserv
+S&P500,FICO,Fair Isaac,2023-03-20,2023,1956.0,67.0,1,False,False,7389.0,Application Software,established,,,established,established,
+S&P500,FII,,2003-04-16,2003,1955.0,48.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Federated_Hermes
+S&P500,FIS,Fidelity National Information Services,2006-11-10,2006,1968.0,38.0,1,False,False,7389.0,Transaction & Payment Processing Services,established,,,established,established,
+S&P500,FISV,Fiserv,2001-04-02,2001,1984.0,17.0,2,True,False,7389.0,Transaction & Payment Processing Services,re_entry,,,re_entry,re_entry,
+S&P500,FITB,Fifth Third Bancorp,1996-03-08,1996,1858.0,138.0,1,False,False,6022.0,Regional Banks,founding_member,,,founding_member,founding_member,
+S&P500,FIX,Comfort Systems USA,2025-12-22,2025,1997.0,28.0,1,False,False,1731.0,Construction & Engineering,established,,,established,established,
+S&P500,FJ,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,FL,,1996-01-02,1996,,,2,True,False,,,founding_member,,,founding_member,founding_member,
+S&P500,FLIR,,2009-01-02,2009,1978.0,31.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/FLIR_Systems
+S&P500,FLMIQ,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,FLR,FLUOR CORP,2000-12-22,2000,1912.0,88.0,1,False,False,1600.0,,established,,,established,established,https://en.wikipedia.org/wiki/Fluor_Corporation
+S&P500,FLS,FLOWSERVE CORP,2008-10-02,2008,1790.0,218.0,1,False,False,3561.0,,established,,,established,established,https://en.wikipedia.org/wiki/Flowserve
+S&P500,FLT,,2018-06-20,2018,1986.0,32.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Corpay
+S&P500,FLTWQ,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,FMC,FMC CORP,1996-01-02,1996,,,2,True,False,2800.0,,founding_member,,,founding_member,founding_member,
+S&P500,FMCC,FEDERAL HOME LOAN MORTGAGE CORP,1996-01-02,1996,,,1,False,False,6111.0,,founding_member,,,founding_member,founding_member,
+S&P500,FMY,FIRST TRUST MORTGAGE INCOME FUND,1998-07-10,1998,2005.0,-7.0,1,False,False,,,historical_unmatched,,,historical_unmatched,historical_no_ch_number,https://www.ftportfolios.com/Retail/cef/cefsummary.aspx?Ticker=FMY
+S&P500,FNMA,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,1996-01-02,1996,,,1,False,False,6111.0,,founding_member,,,founding_member,founding_member,
+S&P500,FOSL,"Fossil Group, Inc.",2012-04-04,2012,1984.0,28.0,1,False,False,3873.0,,established,,,established,established,https://en.wikipedia.org/wiki/Fossil_Group
+S&P500,FOX,Fox Corporation (Class B),2015-09-21,2015,2019.0,-4.0,1,False,False,4833.0,Broadcasting,historical_unmatched,,,historical_unmatched,historical_no_ch_number,
+S&P500,FOXA,Fox Corporation (Class A),2004-12-20,2004,2019.0,-15.0,1,False,False,4833.0,Broadcasting,historical_unmatched,,,historical_unmatched,historical_no_ch_number,
+S&P500,FPC,,1999-06-22,1999,1899.0,100.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Progress_Energy_Inc
+S&P500,FRC,,2019-01-02,2019,1985.0,34.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/First_Republic_Bank
+S&P500,FRO,Frontline plc,1997-01-02,1997,1985.0,12.0,1,False,False,4412.0,,genuinely_new_provisional,reincorporation_rename,https://en.wikipedia.org/wiki/Frontline_(shipping_company),reincorporation_rename,corporate_action,https://en.wikipedia.org/wiki/Frontline_plc
+S&P500,FRT,Federal Realty Investment Trust,2016-02-01,2016,1962.0,54.0,1,False,False,6798.0,Retail REITs,established,,,established,established,
+S&P500,FRX,,2000-11-22,2000,1956.0,44.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Forest_Laboratories
+S&P500,FSH,,2004-08-03,2004,1902.0,102.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Fisher_Scientific
+S&P500,FSL,,2004-12-03,2004,2004.0,0.0,1,False,False,,,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Freescale_Semiconductor,spin_off,corporate_action,https://en.wikipedia.org/wiki/Freescale_Semiconductor
+S&P500,FSLR,First Solar,2009-10-16,2009,1999.0,10.0,2,True,False,3674.0,Semiconductors,re_entry,,,re_entry,re_entry,
+S&P500,FTI,TechnipFMC plc,2009-06-05,2009,1883.0,126.0,1,False,False,3533.0,,established,,,established,established,https://en.wikipedia.org/wiki/FMC_Corporation
+S&P500,FTL.A,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,FTNT,Fortinet,2018-10-11,2018,2000.0,18.0,1,False,False,3577.0,Systems Software,established,,,established,established,
+S&P500,FTR,,2001-02-27,2001,1935.0,66.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Frontier_Communications
+S&P500,FTV,Fortive,2016-07-05,2016,2016.0,0.0,1,False,False,3823.0,Industrial Machinery & Supplies & Components,very_new_adjudicate,spin_off,https://en.wikipedia.org/wiki/Fortive,spin_off,corporate_action,
+S&P500,FWLT,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,G,Genpact LTD,1996-01-02,1996,,,1,False,False,8742.0,,founding_member,,,founding_member,founding_member,
+S&P500,GAPTQ,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,GAS,,1996-01-02,1996,,,2,True,False,,,founding_member,,,founding_member,founding_member,
+S&P500,GD,General Dynamics,1996-01-02,1996,1899.0,97.0,1,False,False,3730.0,Aerospace & Defense,founding_member,,,founding_member,founding_member,
+S&P500,GDDY,GoDaddy,2024-06-24,2024,1997.0,27.0,1,False,False,7373.0,Internet Services & Infrastructure,established,,,established,established,
+S&P500,GDT,,1996-12-19,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,GDW,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,GE,GE Aerospace,1996-01-02,1996,1892.0,104.0,1,False,False,3600.0,Aerospace & Defense,founding_member,,,founding_member,founding_member,
+S&P500,GEHC,GE HealthCare,2023-01-04,2023,1994.0,29.0,1,False,False,3844.0,Health Care Equipment,established,,,established,established,
+S&P500,GEN,Gen Digital,2022-11-08,2022,1982.0,40.0,1,False,False,7372.0,Systems Software,established,,,established,established,
+S&P500,GENZ,,2001-12-14,2001,1981.0,20.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Genzyme
+S&P500,GEV,GE Vernova,2024-04-03,2024,2024.0,0.0,1,False,False,3600.0,Heavy Electrical Equipment,very_new_adjudicate,spin_off,https://en.wikipedia.org/wiki/GE_Vernova,spin_off,corporate_action,
+S&P500,GFS.A,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,GGP,,2007-07-02,2007,1954.0,53.0,2,True,False,,,established,,,established,established,https://en.wikipedia.org/wiki/General_Growth_Properties
+S&P500,GHC,Graham Holdings Co,2007-12-31,2007,1877.0,130.0,1,False,False,8200.0,,established,,,established,established,https://en.wikipedia.org/wiki/Graham_Holdings
+S&P500,GIDL,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,GILD,Gilead Sciences,2004-07-01,2004,1987.0,17.0,1,False,False,2836.0,Biotechnology,established,,,established,established,
+S&P500,GIS,General Mills,1996-01-02,1996,1856.0,140.0,1,False,False,2040.0,Packaged Foods & Meats,founding_member,,,founding_member,founding_member,
+S&P500,GL,Globe Life,2019-08-08,2019,1900.0,119.0,1,False,False,6311.0,Life & Health Insurance,established,,,established,established,
+S&P500,GLD,SPDR GOLD TRUST,1996-01-02,1996,,,1,False,False,6221.0,,founding_member,,,founding_member,founding_member,
+S&P500,GLK,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,GLW,Corning Inc.,1996-01-02,1996,1851.0,145.0,1,False,False,3357.0,Electronic Components,founding_member,,,founding_member,founding_member,
+S&P500,GM,General Motors,2013-06-07,2013,1908.0,105.0,1,False,False,3711.0,Automobile Manufacturers,established,,,established,established,
+S&P500,GMCR,,2014-03-24,2014,1979.0,35.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Keurig_Green_Mountain
+S&P500,GME,GameStop Corp.,2007-12-14,2007,1984.0,23.0,1,False,False,5734.0,,established,,,established,established,https://en.wikipedia.org/wiki/GameStop
+S&P500,GNRC,Generac,2021-03-22,2021,1959.0,62.0,1,False,False,3621.0,Electrical Components & Equipment,established,,,established,established,
+S&P500,GNT,"GAMCO Natural Resources, Gold & Income Trust",1996-03-13,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,GNW,GENWORTH FINANCIAL INC,2005-12-02,2005,1871.0,134.0,1,False,False,6311.0,,established,,,established,established,https://en.wikipedia.org/wiki/Genworth_Financial
+S&P500,GOOG,Alphabet Inc. (Class C),2014-04-03,2014,1998.0,16.0,1,False,False,7370.0,Interactive Media & Services,established,,,established,established,
+S&P500,GOOGL,Alphabet Inc. (Class A),2006-04-03,2006,1998.0,8.0,1,False,False,7370.0,Interactive Media & Services,genuinely_new_provisional,genuinely_new,https://en.wikipedia.org/wiki/Alphabet_Inc.,genuinely_new,genuinely_new_verified,
+S&P500,GP,GREENPOWER MOTOR Co INC.,1996-01-02,1996,,,1,False,False,3713.0,,founding_member,,,founding_member,founding_member,
+S&P500,GPC,Genuine Parts Company,1996-01-02,1996,1925.0,71.0,1,False,False,5013.0,Distributors,founding_member,,,founding_member,founding_member,
+S&P500,GPN,Global Payments,2016-04-25,2016,2000.0,16.0,1,False,False,7389.0,Transaction & Payment Processing Services,established,,,established,established,
+S&P500,GPS,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,GPU,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,GR,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,GRA,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,GRMN,Garmin,2012-12-12,2012,1989.0,23.0,1,False,False,3812.0,Consumer Electronics,established,,,established,established,
+S&P500,GRN,BARCLAYS BANK PLC,1996-01-02,1996,,,1,False,False,6029.0,,founding_member,,,founding_member,founding_member,
+S&P500,GS,Goldman Sachs,2002-07-22,2002,1869.0,133.0,1,False,False,6211.0,Investment Banking & Brokerage,established,,,established,established,
+S&P500,GSX,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,GT,GOODYEAR TIRE & RUBBER CO /OH/,1996-01-02,1996,,,1,False,False,3011.0,,founding_member,,,founding_member,founding_member,
+S&P500,GTE,GRAN TIERRA ENERGY INC.,1996-01-02,1996,,,1,False,False,1311.0,,founding_member,,,founding_member,founding_member,
+S&P500,GTW,,1998-04-27,1998,1985.0,13.0,1,False,False,,,established,,,established,established,"https://en.wikipedia.org/wiki/Gateway,_Inc."
+S&P500,GWF,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,GWW,W. W. Grainger,1996-01-02,1996,1927.0,69.0,1,False,False,5000.0,Industrial Machinery & Supplies & Components,founding_member,,,founding_member,founding_member,
+S&P500,GX,,1999-09-29,1999,1997.0,2.0,1,False,False,,,genuinely_new_provisional,genuinely_new,https://en.wikipedia.org/wiki/Global_Crossing,genuinely_new,genuinely_new_verified,https://en.wikipedia.org/wiki/Global_Crossing
+S&P500,H,Hyatt Hotels Corp,1996-01-02,1996,,,2,True,False,7011.0,,founding_member,,,founding_member,founding_member,
+S&P500,HAL,Halliburton,1996-01-02,1996,1919.0,77.0,1,False,False,1389.0,Oil & Gas Equipment & Services,founding_member,,,founding_member,founding_member,
+S&P500,HAR,,2006-02-01,2006,1980.0,26.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Harman_International
+S&P500,HAS,Hasbro,1996-01-02,1996,1923.0,73.0,1,False,False,3944.0,Leisure Products,founding_member,,,founding_member,founding_member,
+S&P500,HBAN,Huntington Bancshares,1997-08-06,1997,1866.0,131.0,1,False,False,6021.0,Regional Banks,established,,,established,established,
+S&P500,HBI,,2015-03-23,2015,1901.0,114.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Hanesbrands
+S&P500,HBOC,,1997-10-23,1997,1974.0,23.0,1,False,False,,,established,,,established,established,https://www.sec.gov/Archives/edgar/data/310377/0001047469-98-009475.txt
+S&P500,HCA,HCA Healthcare,1996-01-02,1996,1968.0,28.0,2,True,False,8062.0,Health Care Facilities,founding_member,,,founding_member,founding_member,
+S&P500,HCBK,,2007-02-15,2007,1868.0,139.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Hudson_City_Bancorp
+S&P500,HCP,,2008-03-31,2008,1985.0,23.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Healthpeak_Properties
+S&P500,HCR,,1998-09-28,1998,1959.0,39.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/HCR_Manor_Care
+S&P500,HD,Home Depot (The),1996-01-02,1996,1978.0,18.0,1,False,False,5211.0,Home Improvement Retail,founding_member,,,founding_member,founding_member,
+S&P500,HDLM,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,HES,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,HET,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,HFC,,2018-06-18,2018,1947.0,71.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/HollyFrontier
+S&P500,HFS,,1996-08-16,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,HI,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,HIG,Hartford (The),1996-01-02,1996,1810.0,186.0,1,False,False,6331.0,Property & Casualty Insurance,founding_member,,,founding_member,founding_member,
+S&P500,HII,Huntington Ingalls Industries,2018-01-03,2018,2011.0,7.0,1,False,False,3730.0,Aerospace & Defense,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Huntington_Ingalls_Industries,spin_off,corporate_action,
+S&P500,HLT,Hilton Worldwide,1996-01-02,1996,1919.0,77.0,2,True,False,7011.0,"Hotels, Resorts & Cruise Lines",founding_member,,,founding_member,founding_member,
+S&P500,HM,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,HMA,,2001-11-07,2001,1977.0,24.0,1,False,False,,,established,,,established,established,https://www.encyclopedia.com/books/politics-and-business-magazines/health-management-associates-inc
+S&P500,HNZ,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,HOG,"HARLEY-DAVIDSON, INC.",2000-01-31,2000,1903.0,97.0,1,False,False,3751.0,,established,,,established,established,https://en.wikipedia.org/wiki/Harley-Davidson
+S&P500,HOLX,,2016-03-30,2016,1985.0,31.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Hologic
+S&P500,HON,Honeywell,1996-01-02,1996,1906.0,90.0,1,False,False,3724.0,Industrial Conglomerates,founding_member,,,founding_member,founding_member,
+S&P500,HOOD,Robinhood Markets,2025-09-22,2025,2013.0,12.0,1,False,False,6211.0,Investment Banking & Brokerage,genuinely_new_provisional,genuinely_new,https://en.wikipedia.org/wiki/Robinhood_Markets,genuinely_new,genuinely_new_verified,
+S&P500,HOT,,2000-11-17,2000,1969.0,31.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Starwood_Hotels_and_Resorts
+S&P500,HP,"Helmerich & Payne, Inc.",1996-01-02,1996,,,2,True,False,1381.0,,founding_member,,,founding_member,founding_member,
+S&P500,HPC,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,HPE,Hewlett Packard Enterprise,2015-11-02,2015,2015.0,0.0,1,False,False,3570.0,"Technology Hardware, Storage & Peripherals",very_new_adjudicate,spin_off,https://en.wikipedia.org/wiki/Hewlett_Packard_Enterprise,spin_off,corporate_action,
+S&P500,HPH,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,HPQ,HP Inc.,1996-01-02,1996,1939.0,57.0,1,False,False,3570.0,"Technology Hardware, Storage & Peripherals",founding_member,,,founding_member,founding_member,
+S&P500,HRB,H&R BLOCK INC,1996-01-02,1996,,,1,False,False,7200.0,,founding_member,,,founding_member,founding_member,
+S&P500,HRL,Hormel Foods,2009-03-04,2009,1891.0,118.0,1,False,False,2011.0,Packaged Foods & Meats,established,,,established,established,
+S&P500,HRS,,1996-01-02,1996,,,2,True,False,,,founding_member,,,founding_member,founding_member,
+S&P500,HSH,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,HSIC,Henry Schein,2015-03-18,2015,1932.0,83.0,1,False,False,5047.0,Health Care Distributors,established,,,established,established,
+S&P500,HSP,,2004-05-03,2004,2004.0,0.0,1,False,False,,,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Hospira,spin_off,corporate_action,https://en.wikipedia.org/wiki/Hospira
+S&P500,HST,Host Hotels & Resorts,2007-03-20,2007,1993.0,14.0,1,False,False,6798.0,Hotel & Resort REITs,established,,,established,established,
+S&P500,HSY,Hershey Company (The),1996-01-02,1996,1894.0,102.0,1,False,False,2060.0,Packaged Foods & Meats,founding_member,,,founding_member,founding_member,
+S&P500,HUBB,Hubbell Incorporated,2023-10-18,2023,1888.0,135.0,1,False,False,3670.0,Industrial Machinery & Supplies & Components,established,,,established,established,
+S&P500,HUM,Humana,1996-01-02,1996,1961.0,35.0,1,False,False,6324.0,Managed Health Care,founding_member,,,founding_member,founding_member,
+S&P500,HWM,Howmet Aerospace,2020-04-06,2020,1888.0,132.0,1,False,False,3350.0,Aerospace & Defense,established,,,established,established,
+S&P500,I,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,IAC,People Inc,2006-12-01,2006,1986.0,20.0,1,False,False,7370.0,,established,,,established,established,https://en.wikipedia.org/wiki/IAC_(company)
+S&P500,IBKR,Interactive Brokers,2025-08-28,2025,1977.0,48.0,1,False,False,6211.0,Investment Banking & Brokerage,established,,,established,established,
+S&P500,IBM,IBM,1996-01-02,1996,1911.0,85.0,1,False,False,3570.0,IT Consulting & Other Services,founding_member,,,founding_member,founding_member,
+S&P500,ICE,Intercontinental Exchange,2007-09-26,2007,2000.0,7.0,1,False,False,6200.0,Financial Exchanges & Data,genuinely_new_provisional,genuinely_new,https://www.ice.com/about/history,genuinely_new,genuinely_new_verified,
+S&P500,IDXX,Idexx Laboratories,2017-01-05,2017,1983.0,34.0,1,False,False,2835.0,Health Care Equipment,established,,,established,established,
+S&P500,IEX,IDEX Corporation,2019-08-09,2019,1988.0,31.0,1,False,False,3561.0,Industrial Machinery & Supplies & Components,established,,,established,established,
+S&P500,IFF,International Flavors & Fragrances,1996-01-02,1996,1958.0,38.0,1,False,False,2860.0,Specialty Chemicals,founding_member,,,founding_member,founding_member,
+S&P500,IGT,,2001-09-04,2001,1975.0,26.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/International_Game_Technology_(1975%E2%80%932015)
+S&P500,IKN,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,ILMN,"ILLUMINA, INC.",2015-11-19,2015,1998.0,17.0,1,False,False,3826.0,,established,,,established,established,"https://en.wikipedia.org/wiki/Illumina,_Inc."
+S&P500,IMNX,,2001-09-21,2001,1981.0,20.0,1,False,False,,,established,,,established,established,https://www.fundinguniverse.com/company-histories/immunex-corporation-history/
+S&P500,INCLF,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,INCY,Incyte,2017-02-28,2017,1991.0,26.0,1,False,False,8731.0,Biotechnology,established,,,established,established,
+S&P500,INFO,,2017-06-02,2017,1959.0,58.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/IHS_Markit
+S&P500,INGR,Ingredion Inc,1996-01-02,1996,,,1,False,False,2040.0,,founding_member,,,founding_member,founding_member,
+S&P500,INTC,Intel,1996-01-02,1996,1968.0,28.0,1,False,False,3674.0,Semiconductors,founding_member,,,founding_member,founding_member,
+S&P500,INTU,Intuit,2000-12-11,2000,1983.0,17.0,1,False,False,7372.0,Application Software,established,,,established,established,
+S&P500,INVH,Invitation Homes,2022-09-19,2022,2012.0,10.0,1,False,False,6510.0,Single-Family Residential REITs,genuinely_new_provisional,ipo_established,https://en.wikipedia.org/wiki/Invitation_Homes,ipo_established,corporate_action,
+S&P500,IP,International Paper,1996-01-02,1996,1898.0,98.0,1,False,False,2621.0,Paper & Plastic Packaging Products & Materials,founding_member,,,founding_member,founding_member,
+S&P500,IPG,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,IPGP,IPG PHOTONICS CORP,2018-03-07,2018,1990.0,28.0,1,False,False,3674.0,,established,,,established,established,https://en.wikipedia.org/wiki/IPG_Photonics
+S&P500,IQV,IQVIA,2017-08-29,2017,1982.0,35.0,1,False,False,8731.0,Life Sciences Tools & Services,established,,,established,established,
+S&P500,IR,Ingersoll Rand,1996-01-02,1996,1859.0,137.0,2,True,False,3560.0,Industrial Machinery & Supplies & Components,founding_member,,,founding_member,founding_member,
+S&P500,IRM,Iron Mountain,2009-01-06,2009,1951.0,58.0,1,False,False,6798.0,Other Specialized REITs,established,,,established,established,
+S&P500,ISRG,Intuitive Surgical,2008-06-02,2008,1995.0,13.0,1,False,False,3842.0,Health Care Equipment,established,,,established,established,
+S&P500,IT,Gartner,2017-04-05,2017,1979.0,38.0,1,False,False,8741.0,IT Consulting & Other Services,established,,,established,established,
+S&P500,ITT,ITT INC.,1996-01-02,1996,,,1,False,False,3561.0,,founding_member,,,founding_member,founding_member,
+S&P500,ITW,Illinois Tool Works,1996-01-02,1996,1912.0,84.0,1,False,False,3560.0,Industrial Machinery & Supplies & Components,founding_member,,,founding_member,founding_member,
+S&P500,IVZ,Invesco,2008-08-21,2008,1935.0,73.0,1,False,False,6282.0,Asset Management & Custody Banks,established,,,established,established,
+S&P500,J,Jacobs Solutions,2019-12-10,2019,1947.0,72.0,1,False,False,1600.0,Construction & Engineering,established,,,established,established,
+S&P500,JAVA,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,JBHT,J.B. Hunt,2015-07-01,2015,1961.0,54.0,1,False,False,4213.0,Cargo Ground Transportation,established,,,established,established,
+S&P500,JBL,Jabil,2001-01-30,2001,1966.0,35.0,2,True,False,3672.0,Electronic Manufacturing Services,re_entry,,,re_entry,re_entry,
+S&P500,JCI,Johnson Controls,1996-01-02,1996,1885.0,111.0,1,False,False,3585.0,Building Products,founding_member,,,founding_member,founding_member,
+S&P500,JCP,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,JEC,,2007-10-26,2007,1947.0,60.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Jacobs_Solutions
+S&P500,JEF,Jefferies Financial Group Inc.,2007-08-27,2007,1962.0,45.0,1,False,False,6211.0,,established,,,established,established,https://en.wikipedia.org/wiki/Jefferies_Group
+S&P500,JH,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,JHF,,2001-06-29,2001,1862.0,139.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/John_Hancock_Financial
+S&P500,JKHY,Jack Henry & Associates,2018-11-13,2018,1976.0,42.0,1,False,False,7373.0,Transaction & Payment Processing Services,established,,,established,established,
+S&P500,JNJ,Johnson & Johnson,1996-01-02,1996,1886.0,110.0,1,False,False,2834.0,Pharmaceuticals,founding_member,,,founding_member,founding_member,
+S&P500,JNPR,,2006-06-02,2006,1996.0,10.0,1,False,False,,,genuinely_new_provisional,genuinely_new,https://en.wikipedia.org/wiki/Juniper_Networks,genuinely_new,genuinely_new_verified,https://en.wikipedia.org/wiki/Juniper_Networks
+S&P500,JNS,,2000-07-13,2000,1969.0,31.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Janus_Henderson
+S&P500,JNY,,2001-12-17,2001,1970.0,31.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Jones_Apparel_Group
+S&P500,JOS,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,JOY,,2011-02-28,2011,1884.0,127.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Joy_Global
+S&P500,JP,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,JPM,JPMorgan Chase,1996-01-02,1996,2000.0,-4.0,1,False,False,6021.0,Diversified Banks,founding_member,,,founding_member,founding_member,
+S&P500,JWN,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,K,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,KATE,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,KBH,KB HOME,1996-01-02,1996,,,1,False,False,1531.0,,founding_member,,,founding_member,founding_member,
+S&P500,KDP,Keurig Dr Pepper,2008-10-07,2008,1981.0,27.0,2,True,False,2080.0,Soft Drinks & Non-alcoholic Beverages,re_entry,,,re_entry,re_entry,
+S&P500,KEY,KeyCorp,1996-01-02,1996,1825.0,171.0,1,False,False,6021.0,Regional Banks,founding_member,,,founding_member,founding_member,
+S&P500,KEYS,Keysight Technologies,2018-11-06,2018,2014.0,4.0,1,False,False,3823.0,Electronic Equipment & Instruments,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Keysight,spin_off,corporate_action,
+S&P500,KG,Kestrel Group Ltd,2000-10-03,2000,2022.0,-22.0,1,False,False,6331.0,,historical_unmatched,,,historical_unmatched,historical_no_ch_number,https://www.prnewswire.com/news-releases/terry-ledbetter-and-luke-ledbetter-announce-the-formation-of-kestrel-group-301614027.html
+S&P500,KHC,Kraft Heinz,2015-07-06,2015,2015.0,0.0,1,False,False,2030.0,Packaged Foods & Meats,very_new_adjudicate,merger,https://en.wikipedia.org/wiki/Kraft_Heinz,merger,corporate_action,
+S&P500,KIM,Kimco Realty,2006-04-03,2006,1958.0,48.0,1,False,False,6798.0,Retail REITs,established,,,established,established,
+S&P500,KKR,KKR & Co.,2024-06-24,2024,1976.0,48.0,1,False,False,6282.0,Asset Management & Custody Banks,established,,,established,established,
+S&P500,KLAC,KLA Corporation,1997-09-15,1997,1975.0,22.0,1,False,False,3827.0,Semiconductor Materials & Equipment,established,,,established,established,
+S&P500,KM,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,KMB,Kimberly-Clark,1996-01-02,1996,1872.0,124.0,1,False,False,2670.0,Household Products,founding_member,,,founding_member,founding_member,
+S&P500,KMG,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,KMI,Kinder Morgan,2000-12-12,2000,1997.0,3.0,2,True,False,4922.0,Oil & Gas Storage & Transportation,re_entry,,,re_entry,re_entry,
+S&P500,KMX,CARMAX INC,2010-06-28,2010,1993.0,17.0,1,False,False,5500.0,,established,,,established,established,https://en.wikipedia.org/wiki/CarMax
+S&P500,KO,Coca-Cola Company (The),1996-01-02,1996,1886.0,110.0,1,False,False,2080.0,Soft Drinks & Non-alcoholic Beverages,founding_member,,,founding_member,founding_member,
+S&P500,KORS,,2013-11-13,2013,1981.0,32.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Capri_Holdings
+S&P500,KR,Kroger,1996-01-02,1996,1883.0,113.0,1,False,False,5411.0,Food Retail,founding_member,,,founding_member,founding_member,
+S&P500,KRB,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,KRFT,,2012-10-02,2012,1903.0,109.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Kraft_Foods_Inc.
+S&P500,KRI,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,KSE,,2000-08-21,2000,1895.0,105.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/KeySpan
+S&P500,KSS,KOHLS Corp,1998-08-14,1998,1962.0,36.0,1,False,False,5311.0,,established,,,established,established,https://en.wikipedia.org/wiki/Kohl%27s
+S&P500,KSU,,1999-04-05,1999,1887.0,112.0,2,True,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Kansas_City_Southern_(company)
+S&P500,KVUE,Kenvue,2023-08-25,2023,2022.0,1.0,1,False,False,2844.0,Personal Care Products,very_new_adjudicate,spin_off,https://en.wikipedia.org/wiki/Kenvue,spin_off,corporate_action,
+S&P500,KWP,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,L,Loews Corporation,1996-01-02,1996,1959.0,37.0,1,False,False,6331.0,Multi-line Insurance,founding_member,,,founding_member,founding_member,
+S&P500,LB,LandBridge Co LLC,1996-01-02,1996,,,1,False,False,6792.0,,founding_member,,,founding_member,founding_member,
+S&P500,LDG,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,LDOS,Leidos,2009-12-21,2009,1969.0,40.0,2,True,False,7373.0,Diversified Support Services,re_entry,,,re_entry,re_entry,
+S&P500,LDW.B,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,LEG,LEGGETT & PLATT INC,1999-10-18,1999,1883.0,116.0,1,False,False,2510.0,,established,,,established,established,https://en.wikipedia.org/wiki/Leggett_%26_Platt
+S&P500,LEHMQ,,1998-01-12,1998,1850.0,148.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Lehman_Brothers
+S&P500,LEN,Lennar,2005-10-04,2005,1954.0,51.0,1,False,False,1520.0,Homebuilding,established,,,established,established,
+S&P500,LH,Labcorp,2004-11-01,2004,1978.0,26.0,1,False,False,8071.0,Health Care Services,established,,,established,established,
+S&P500,LHX,L3Harris,2019-06-01,2019,2019.0,0.0,1,False,False,3812.0,Aerospace & Defense,very_new_adjudicate,merger,https://en.wikipedia.org/wiki/L3Harris_Technologies,merger,corporate_action,
+S&P500,LIFE,Ethos Technologies Inc.,2008-11-24,2008,2016.0,-8.0,1,False,False,6411.0,,historical_unmatched,,,historical_unmatched,historical_no_ch_number,https://stockanalysis.com/stocks/life/company/
+S&P500,LII,Lennox International,2024-12-23,2024,1895.0,129.0,1,False,False,3585.0,Building Products,established,,,established,established,
+S&P500,LIN,Linde plc,2018-11-06,2018,1879.0,139.0,1,False,False,2810.0,Industrial Gases,established,,,established,established,
+S&P500,LITE,Lumentum,2026-03-23,2026,2015.0,11.0,1,False,False,3669.0,Communications Equipment,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Lumentum,spin_off,corporate_action,
+S&P500,LKQ,LKQ CORP,2016-05-23,2016,1998.0,18.0,1,False,False,5010.0,,established,,,established,established,https://en.wikipedia.org/wiki/LKQ_Corporation
+S&P500,LLL,,2004-12-01,2004,1997.0,7.0,1,False,False,,,genuinely_new_provisional,ipo_established,https://en.wikipedia.org/wiki/L3_Technologies,ipo_established,corporate_action,https://en.wikipedia.org/wiki/L3_Technologies
+S&P500,LLTC,,2000-04-03,2000,1981.0,19.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Linear_Technology
+S&P500,LLX,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,LLY,Lilly (Eli),1996-01-02,1996,1876.0,120.0,1,False,False,2834.0,Pharmaceuticals,founding_member,,,founding_member,founding_member,
+S&P500,LM,,2006-04-24,2006,1899.0,107.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Legg_Mason
+S&P500,LMT,Lockheed Martin,1996-01-02,1996,1995.0,1.0,1,False,False,3760.0,Aerospace & Defense,founding_member,,,founding_member,founding_member,
+S&P500,LNC,LINCOLN NATIONAL CORP,1996-01-02,1996,,,1,False,False,6311.0,,founding_member,,,founding_member,founding_member,
+S&P500,LNT,Alliant Energy,2016-07-01,2016,1917.0,99.0,1,False,False,4931.0,Electric Utilities,established,,,established,established,
+S&P500,LO,,2008-06-11,2008,1760.0,248.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Lorillard_Tobacco_Company
+S&P500,LOR,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,LOW,Lowe's,1996-01-02,1996,1904.0,92.0,1,False,False,5211.0,Home Improvement Retail,founding_member,,,founding_member,founding_member,
+S&P500,LPX,LOUISIANA-PACIFIC CORP,1996-01-02,1996,,,1,False,False,2400.0,,founding_member,,,founding_member,founding_member,
+S&P500,LRCX,Lam Research,2012-06-05,2012,1980.0,32.0,1,False,False,3559.0,Semiconductor Materials & Equipment,established,,,established,established,
+S&P500,LSI,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,LU,Lufax Holding Ltd,1996-10-01,1996,,,1,False,False,6199.0,,founding_member,,,founding_member,founding_member,
+S&P500,LUB,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,LULU,Lululemon Athletica,2023-10-18,2023,1998.0,25.0,1,False,False,2300.0,"Apparel, Accessories & Luxury Goods",established,,,established,established,
+S&P500,LUMN,"Lumen Technologies, Inc.",2020-09-18,2020,1930.0,90.0,1,False,False,4813.0,,established,,,established,established,https://en.wikipedia.org/wiki/Lumen_Technologies
+S&P500,LUV,Southwest Airlines,1996-01-02,1996,1967.0,29.0,1,False,False,4512.0,Passenger Airlines,founding_member,,,founding_member,founding_member,
+S&P500,LVLT,,2014-11-05,2014,1985.0,29.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Level_3_Communications
+S&P500,LVS,Las Vegas Sands,2019-10-03,2019,1988.0,31.0,1,False,False,7011.0,Casinos & Gaming,established,,,established,established,
+S&P500,LW,"Lamb Weston Holdings, Inc.",2018-12-03,2018,1950.0,68.0,1,False,False,2030.0,,established,,,established,established,https://en.wikipedia.org/wiki/Lamb_Weston
+S&P500,LXK,,1999-08-13,1999,1991.0,8.0,1,False,False,,,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Lexmark,spin_off,corporate_action,https://en.wikipedia.org/wiki/Lexmark
+S&P500,LYB,LyondellBasell,2012-09-05,2012,2007.0,5.0,1,False,False,2860.0,Specialty Chemicals,genuinely_new_provisional,merger,https://en.wikipedia.org/wiki/LyondellBasell,merger,corporate_action,
+S&P500,LYV,Live Nation Entertainment,2019-12-23,2019,2010.0,9.0,1,False,False,7900.0,Movies & Entertainment,genuinely_new_provisional,merger,https://en.wikipedia.org/wiki/Live_Nation_Entertainment,merger,corporate_action,
+S&P500,M,"Macy's, Inc.",1996-01-02,1996,,,1,False,False,5311.0,,founding_member,,,founding_member,founding_member,
+S&P500,MA,Mastercard,2008-07-18,2008,1966.0,42.0,1,False,False,7389.0,Transaction & Payment Processing Services,established,,,established,established,
+S&P500,MAA,Mid-America Apartment Communities,2016-12-02,2016,1977.0,39.0,1,False,False,6798.0,Multi-Family Residential REITs,established,,,established,established,
+S&P500,MAC,MACERICH CO,2013-05-09,2013,1964.0,49.0,1,False,False,6798.0,,established,,,established,established,https://en.wikipedia.org/wiki/Macerich
+S&P500,MAR,Marriott International,1998-05-21,1998,1927.0,71.0,1,False,False,7011.0,"Hotels, Resorts & Cruise Lines",established,,,established,established,
+S&P500,MAS,Masco,1996-01-02,1996,1929.0,67.0,1,False,False,3430.0,Building Products,founding_member,,,founding_member,founding_member,
+S&P500,MAT,MATTEL INC /DE/,1996-01-02,1996,,,1,False,False,3942.0,,founding_member,,,founding_member,founding_member,
+S&P500,MAY,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,MBI,MBIA INC,1996-12-03,1996,,,1,False,False,6351.0,,founding_member,,,founding_member,founding_member,
+S&P500,MCD,McDonald's,1996-01-02,1996,1940.0,56.0,1,False,False,5812.0,Restaurants,founding_member,,,founding_member,founding_member,
+S&P500,MCHP,Microchip Technology,2007-09-07,2007,1989.0,18.0,1,False,False,3674.0,Semiconductors,established,,,established,established,
+S&P500,MCIC,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,MCK,McKesson Corporation,1999-01-13,1999,1833.0,166.0,1,False,False,5122.0,Health Care Distributors,established,,,established,established,
+S&P500,MCO,Moody's Corporation,1996-01-02,1996,1909.0,87.0,1,False,False,7320.0,Financial Exchanges & Data,founding_member,,,founding_member,founding_member,
+S&P500,MD,"Pediatrix Medical Group, Inc.",1996-01-02,1996,,,1,False,False,8060.0,,founding_member,,,founding_member,founding_member,
+S&P500,MDLZ,Mondelez International,2007-04-02,2007,2012.0,-5.0,1,False,False,2000.0,Packaged Foods & Meats,historical_unmatched,,,historical_unmatched,historical_no_ch_number,
+S&P500,MDP,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,MDR,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,MDT,Medtronic,1996-01-02,1996,1949.0,47.0,1,False,False,3845.0,Health Care Equipment,founding_member,,,founding_member,founding_member,
+S&P500,MEA,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,MEDI,,2000-06-16,2000,1988.0,12.0,1,False,False,,,genuinely_new_provisional,genuinely_new,https://en.wikipedia.org/wiki/MedImmune,genuinely_new,genuinely_new_verified,https://en.wikipedia.org/wiki/MedImmune
+S&P500,MEE,,1996-01-02,1996,,,2,True,False,,,founding_member,,,founding_member,founding_member,
+S&P500,MEL,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,MER,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,MERQ,,2000-06-29,2000,1989.0,11.0,1,False,False,,,genuinely_new_provisional,genuinely_new,https://en.wikipedia.org/wiki/Mercury_Interactive,genuinely_new,genuinely_new_verified,https://en.wikipedia.org/wiki/Mercury_Interactive
+S&P500,MET,MetLife,2000-12-11,2000,1868.0,132.0,1,False,False,6311.0,Life & Health Insurance,established,,,established,established,
+S&P500,META,Meta Platforms,2022-06-09,2022,2004.0,18.0,1,False,False,7370.0,Interactive Media & Services,established,,,established,established,
+S&P500,MFE,,2008-12-23,2008,1987.0,21.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/McAfee
+S&P500,MGM,MGM Resorts,2017-07-26,2017,1986.0,31.0,1,False,False,7011.0,Casinos & Gaming,established,,,established,established,
+S&P500,MHK,MOHAWK INDUSTRIES INC,2013-12-23,2013,1878.0,135.0,1,False,False,2273.0,,established,,,established,established,https://en.wikipedia.org/wiki/Mohawk_Industries
+S&P500,MHS,,2003-08-20,2003,1983.0,20.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Medco_Health_Solutions
+S&P500,MI,NFT Ltd,2002-02-11,2002,1847.0,155.0,1,False,False,6199.0,,established,,,established,established,https://en.wikipedia.org/wiki/Marshall_%26_Ilsley
+S&P500,MII,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,MIL,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,MIR,"Mirion Technologies, Inc.",1997-08-07,1997,2005.0,-8.0,2,True,False,3829.0,,historical_unmatched,,,historical_unmatched,historical_no_ch_number,https://www.mirion.com/about
+S&P500,MJN,,2009-12-21,2009,1905.0,104.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Mead_Johnson
+S&P500,MKC,McCormick & Company,2003-03-21,2003,1889.0,114.0,1,False,False,2090.0,Packaged Foods & Meats,established,,,established,established,
+S&P500,MKG,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,MKTX,MARKETAXESS HOLDINGS INC,2019-07-01,2019,2000.0,19.0,1,False,False,6211.0,,established,,,established,established,https://en.wikipedia.org/wiki/MarketAxess
+S&P500,MLM,Martin Marietta Materials,2014-07-02,2014,1993.0,21.0,1,False,False,1400.0,Construction Materials,established,,,established,established,
+S&P500,MMC,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,MMI,"Marcus & Millichap, Inc.",2011-01-04,2011,1971.0,40.0,1,False,False,6531.0,,established,,,established,established,https://en.wikipedia.org/wiki/Marcus_%26_Millichap
+S&P500,MMM,3M,1996-01-02,1996,1902.0,94.0,1,False,False,3841.0,Industrial Conglomerates,founding_member,,,founding_member,founding_member,
+S&P500,MNK,,2014-08-19,2014,1867.0,147.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Mallinckrodt
+S&P500,MNR,MACH NATURAL RESOURCES LP,1996-01-02,1996,,,1,False,False,1311.0,,founding_member,,,founding_member,founding_member,
+S&P500,MNST,Monster Beverage,2012-06-29,2012,2012.0,0.0,1,False,False,2086.0,Soft Drinks & Non-alcoholic Beverages,very_new_adjudicate,reincorporation_rename,https://en.wikipedia.org/wiki/Monster_Beverage,reincorporation_rename,corporate_action,
+S&P500,MO,Altria,1996-01-02,1996,1985.0,11.0,1,False,False,2111.0,Tobacco,founding_member,,,founding_member,founding_member,
+S&P500,MOB,Mobilicom Ltd,1996-01-02,1996,,,1,False,False,3721.0,,founding_member,,,founding_member,founding_member,
+S&P500,MOH,"MOLINA HEALTHCARE, INC.",2022-03-02,2022,1980.0,42.0,1,False,False,6324.0,,established,,,established,established,https://en.wikipedia.org/wiki/Molina_Healthcare
+S&P500,MOLX,,1999-12-01,1999,1938.0,61.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Molex
+S&P500,MON,,2002-08-14,2002,1901.0,101.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Monsanto
+S&P500,MOS,Mosaic Company (The),2011-09-26,2011,2004.0,7.0,1,False,False,2870.0,Fertilizers & Agricultural Chemicals,genuinely_new_provisional,merger,https://en.wikipedia.org/wiki/The_Mosaic_Company,merger,corporate_action,
+S&P500,MPC,Marathon Petroleum,2011-07-01,2011,2009.0,2.0,1,False,False,2911.0,Oil & Gas Refining & Marketing,very_new_adjudicate,spin_off,https://en.wikipedia.org/wiki/Marathon_Petroleum,spin_off,corporate_action,
+S&P500,MPWR,Monolithic Power Systems,2021-02-12,2021,1997.0,24.0,1,False,False,3674.0,Semiconductors,established,,,established,established,
+S&P500,MRK,Merck & Co.,1996-01-02,1996,1891.0,105.0,1,False,False,2834.0,Pharmaceuticals,founding_member,,,founding_member,founding_member,
+S&P500,MRNA,Moderna,2021-07-21,2021,2010.0,11.0,1,False,False,2836.0,Biotechnology,genuinely_new_provisional,genuinely_new,https://en.wikipedia.org/wiki/Moderna,genuinely_new,genuinely_new_verified,
+S&P500,MRO,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,MRSH,Marsh McLennan,2026-01-14,2026,1905.0,121.0,1,False,False,6411.0,Insurance Brokers,established,,,established,established,
+S&P500,MS,Morgan Stanley,1996-01-02,1996,1935.0,61.0,1,False,False,6211.0,Investment Banking & Brokerage,founding_member,,,founding_member,founding_member,
+S&P500,MSCI,MSCI Inc.,2018-04-04,2018,1969.0,49.0,1,False,False,7389.0,Financial Exchanges & Data,established,,,established,established,
+S&P500,MSFT,Microsoft,1996-01-02,1996,1975.0,21.0,1,False,False,7372.0,Systems Software,founding_member,,,founding_member,founding_member,
+S&P500,MSI,Motorola Solutions,1996-01-02,1996,1928.0,68.0,1,False,False,3663.0,Communications Equipment,founding_member,,,founding_member,founding_member,
+S&P500,MST,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,MTB,M&T Bank,2004-02-27,2004,1856.0,148.0,1,False,False,6022.0,Regional Banks,established,,,established,established,
+S&P500,MTCH,"Match Group, Inc.",2021-09-20,2021,1995.0,26.0,1,False,False,7370.0,,established,,,established,established,https://en.wikipedia.org/wiki/Match.com
+S&P500,MTD,Mettler Toledo,2016-09-06,2016,1945.0,71.0,1,False,False,3826.0,Life Sciences Tools & Services,established,,,established,established,
+S&P500,MTG,MGIC INVESTMENT CORP,1996-07-19,1996,,,1,False,False,6351.0,,founding_member,,,founding_member,founding_member,
+S&P500,MTL,,1998-02-23,1998,2003.0,-5.0,1,False,False,,,historical_unmatched,,,historical_unmatched,historical_no_ch_number,https://en.wikipedia.org/wiki/Mechel
+S&P500,MTLQQ,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,MTW,MANITOWOC CO INC,2007-11-16,2007,1902.0,105.0,1,False,False,3531.0,,established,,,established,established,https://en.wikipedia.org/wiki/The_Manitowoc_Company
+S&P500,MU,Micron Technology,1996-01-02,1996,1978.0,18.0,1,False,False,3674.0,Semiconductors,founding_member,,,founding_member,founding_member,
+S&P500,MUR,MURPHY OIL CORP,2005-08-15,2005,1944.0,61.0,1,False,False,1311.0,,established,,,established,established,https://en.wikipedia.org/wiki/Murphy_Oil
+S&P500,MWI,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,MWV,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,MWW,,2001-06-04,2001,1967.0,34.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Monster_Worldwide
+S&P500,MXIM,,2000-05-10,2000,1983.0,17.0,2,True,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Maxim_Integrated
+S&P500,MYG,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,MYL,,2004-04-23,2004,1961.0,43.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Mylan
+S&P500,MZIAQ,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,NAE,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,NAV,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,NAVI,NAVIENT CORP,2014-05-01,2014,2014.0,0.0,1,False,False,6211.0,,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Navient,spin_off,corporate_action,https://en.wikipedia.org/wiki/Navient
+S&P500,NBL,,2007-10-08,2007,1932.0,75.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Noble_Energy
+S&P500,NBR,NABORS INDUSTRIES LTD,2000-10-18,2000,1952.0,48.0,1,False,False,1381.0,,established,,,established,established,https://en.wikipedia.org/wiki/Nabors_Industries
+S&P500,NC,NACCO INDUSTRIES INC,1996-01-02,1996,,,1,False,False,1221.0,,founding_member,,,founding_member,founding_member,
+S&P500,NCC,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,NCE,,1998-11-03,1998,1923.0,75.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/New_Century_Energies
+S&P500,NCLH,Norwegian Cruise Line Holdings,2017-10-13,2017,2011.0,6.0,1,False,False,4400.0,"Hotels, Resorts & Cruise Lines",genuinely_new_provisional,ipo_established,https://en.wikipedia.org/wiki/Norwegian_Cruise_Line,ipo_established,corporate_action,
+S&P500,NCR,,2000-01-04,2000,1884.0,116.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/NCR_Corporation
+S&P500,NDAQ,"Nasdaq, Inc.",2008-10-22,2008,1971.0,37.0,1,False,False,6200.0,Financial Exchanges & Data,established,,,established,established,
+S&P500,NDSN,Nordson Corporation,2022-02-15,2022,1935.0,87.0,1,False,False,3569.0,Industrial Machinery & Supplies & Components,established,,,established,established,
+S&P500,NE,Noble Corp plc,2001-01-16,2001,1921.0,80.0,2,True,False,1381.0,,established,,,established,established,https://en.wikipedia.org/wiki/Noble_Corporation
+S&P500,NEE,NextEra Energy,1996-01-02,1996,1984.0,12.0,1,False,False,4911.0,Multi-Utilities,founding_member,,,founding_member,founding_member,
+S&P500,NEM,Newmont,1996-01-02,1996,1921.0,75.0,1,False,False,1040.0,Gold,founding_member,,,founding_member,founding_member,
+S&P500,NFB,,2002-07-17,2002,1905.0,97.0,1,False,False,,,established,,,established,established,https://www.fundinguniverse.com/company-histories/north-fork-bancorporation-inc-history/
+S&P500,NFLX,Netflix,2010-12-20,2010,1997.0,13.0,1,False,False,7841.0,Movies & Entertainment,established,,,established,established,
+S&P500,NFX,,2010-12-20,2010,1988.0,22.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Newfield_Exploration
+S&P500,NGH,,1998-09-16,1998,1898.0,100.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Nabisco
+S&P500,NI,NiSource,2000-11-02,2000,1912.0,88.0,1,False,False,4931.0,Multi-Utilities,established,,,established,established,
+S&P500,NKE,"Nike, Inc.",1996-01-02,1996,1964.0,32.0,1,False,False,3021.0,"Apparel, Accessories & Luxury Goods",founding_member,,,founding_member,founding_member,
+S&P500,NKTR,NEKTAR THERAPEUTICS,2018-03-19,2018,1990.0,28.0,1,False,False,2834.0,,established,,,established,established,https://en.wikipedia.org/wiki/Nektar_Therapeutics
+S&P500,NLC,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,NLOK,,2019-11-05,2019,1982.0,37.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Symantec_Corporation
+S&P500,NLSN,,2013-07-09,2013,1923.0,90.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Nielsen_Holdings
+S&P500,NLV,,1996-04-01,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,NMK,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,NOC,Northrop Grumman,1996-01-02,1996,1994.0,2.0,1,False,False,3812.0,Aerospace & Defense,founding_member,,,founding_member,founding_member,
+S&P500,NOV,NOV Inc.,2005-03-14,2005,1862.0,143.0,1,False,False,3533.0,,established,,,established,established,https://en.wikipedia.org/wiki/NOV_Inc.
+S&P500,NOVL,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,NOW,ServiceNow,2019-11-21,2019,2003.0,16.0,1,False,False,7372.0,Systems Software,established,,,established,established,
+S&P500,NRG,NRG Energy,2010-01-29,2010,1992.0,18.0,1,False,False,4911.0,Independent Power Producers & Energy Traders,established,,,established,established,
+S&P500,NRTLQ,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,NSC,Norfolk Southern,1996-01-02,1996,1881.0,115.0,1,False,False,4011.0,Rail Transportation,founding_member,,,founding_member,founding_member,
+S&P500,NSI,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,NSM,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,NTAP,NetApp,1999-06-25,1999,1992.0,7.0,1,False,False,3572.0,"Technology Hardware, Storage & Peripherals",genuinely_new_provisional,genuinely_new,https://en.wikipedia.org/wiki/NetApp,genuinely_new,genuinely_new_verified,
+S&P500,NTRS,Northern Trust,1998-01-30,1998,1889.0,109.0,1,False,False,6022.0,Asset Management & Custody Banks,established,,,established,established,
+S&P500,NUE,Nucor,1996-01-02,1996,1940.0,56.0,1,False,False,3312.0,Steel,founding_member,,,founding_member,founding_member,
+S&P500,NVDA,Nvidia,2001-11-30,2001,1993.0,8.0,1,False,False,3674.0,Semiconductors,genuinely_new_provisional,genuinely_new,https://en.wikipedia.org/wiki/Nvidia,genuinely_new,genuinely_new_verified,
+S&P500,NVLS,,2000-06-19,2000,1984.0,16.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Novellus_Systems
+S&P500,NVR,"NVR, Inc.",2019-09-26,2019,1980.0,39.0,1,False,False,1531.0,Homebuilding,established,,,established,established,
+S&P500,NWL,NEWELL BRANDS INC.,1996-01-02,1996,,,1,False,False,3089.0,,founding_member,,,founding_member,founding_member,
+S&P500,NWS,News Corp (Class B),2015-09-21,2015,2013.0,2.0,1,False,False,2711.0,Publishing,very_new_adjudicate,spin_off,https://en.wikipedia.org/wiki/News_Corp,spin_off,corporate_action,
+S&P500,NWSA,News Corp (Class A),2013-07-01,2013,2013.0,0.0,1,False,False,2711.0,Publishing,very_new_adjudicate,spin_off,https://en.wikipedia.org/wiki/News_Corp,spin_off,corporate_action,
+S&P500,NXPI,NXP Semiconductors,2021-03-22,2021,1953.0,68.0,1,False,False,3674.0,Semiconductors,established,,,established,established,
+S&P500,NXTL,,1998-04-01,1998,1987.0,11.0,1,False,False,,,genuinely_new_provisional,genuinely_new,https://en.wikipedia.org/wiki/Nextel_Communications,genuinely_new,genuinely_new_verified,https://en.wikipedia.org/wiki/Nextel_Communications
+S&P500,NYN,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,NYT,NEW YORK TIMES CO,1996-01-02,1996,,,1,False,False,2711.0,,founding_member,,,founding_member,founding_member,
+S&P500,NYX,,2007-10-25,2007,1792.0,215.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/New_York_Stock_Exchange
+S&P500,O,Realty Income,2015-04-07,2015,1969.0,46.0,1,False,False,6798.0,Retail REITs,established,,,established,established,
+S&P500,OAT,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,ODFL,Old Dominion,2019-12-09,2019,1934.0,85.0,1,False,False,4213.0,Cargo Ground Transportation,established,,,established,established,
+S&P500,ODP,,1999-06-24,1999,1986.0,13.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Office_Depot
+S&P500,OGN,Organon & Co.,2021-06-04,2021,1923.0,98.0,1,False,False,2834.0,,established,,,established,established,https://en.wikipedia.org/wiki/Organon_(company)
+S&P500,OI,"O-I Glass, Inc. /DE/",1997-08-04,1997,1903.0,94.0,2,True,False,3221.0,,established,,,established,established,https://en.wikipedia.org/wiki/Owens-Illinois
+S&P500,OK,,1999-12-02,1999,,,1,False,False,,,unknown_age,,,unknown_age,unknown_age,
+S&P500,OKE,Oneok,1996-01-02,1996,1906.0,90.0,2,True,False,4923.0,Oil & Gas Storage & Transportation,founding_member,,,founding_member,founding_member,
+S&P500,OM,"Outset Medical, Inc.",1996-01-02,1996,,,1,False,False,3845.0,,founding_member,,,founding_member,founding_member,
+S&P500,OMC,Omnicom Group,1997-12-24,1997,1986.0,11.0,1,False,False,7311.0,Advertising,genuinely_new_provisional,merger,https://en.wikipedia.org/wiki/Omnicom_Group,merger,corporate_action,
+S&P500,OMX,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,ON,ON Semiconductor,2022-06-21,2022,1999.0,23.0,1,False,False,3674.0,Semiconductors,established,,,established,established,
+S&P500,ONE,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,ORCL,Oracle Corporation,1996-01-02,1996,1977.0,19.0,1,False,False,7372.0,Application Software,founding_member,,,founding_member,founding_member,
+S&P500,ORLY,O’Reilly Automotive,2009-03-27,2009,1957.0,52.0,1,False,False,5531.0,Automotive Retail,established,,,established,established,
+S&P500,ORX,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,OTIS,Otis Worldwide,2020-04-03,2020,2020.0,0.0,1,False,False,3600.0,Industrial Machinery & Supplies & Components,very_new_adjudicate,spin_off,https://en.wikipedia.org/wiki/Otis_Worldwide,spin_off,corporate_action,
+S&P500,OWENQ,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,OXY,Occidental Petroleum,1996-01-02,1996,1920.0,76.0,1,False,False,1311.0,Oil & Gas Exploration & Production,founding_member,,,founding_member,founding_member,
+S&P500,PAC,Pacific Airport Group,1996-01-02,1996,,,1,False,False,4581.0,,founding_member,,,founding_member,founding_member,
+S&P500,PALM,,2000-07-28,2000,1992.0,8.0,1,False,False,,,genuinely_new_provisional,spin_off,"https://en.wikipedia.org/wiki/Palm,_Inc.",spin_off,corporate_action,"https://en.wikipedia.org/wiki/Palm,_Inc."
+S&P500,PANW,Palo Alto Networks,2023-06-20,2023,2005.0,18.0,1,False,False,3577.0,Systems Software,established,,,established,established,
+S&P500,PARA,,2022-02-17,2022,1912.0,110.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Paramount_Global
+S&P500,PAS,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,PAYC,"Paycom Software, Inc.",2020-01-28,2020,1998.0,22.0,1,False,False,7372.0,,established,,,established,established,https://en.wikipedia.org/wiki/Paycom
+S&P500,PAYX,Paychex,1998-10-01,1998,1971.0,27.0,1,False,False,8700.0,Human Resource & Employment Services,established,,,established,established,
+S&P500,PBCT,,2008-11-13,2008,1842.0,166.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/People%27s_United_Financial
+S&P500,PBG,,2001-05-14,2001,1999.0,2.0,1,False,False,,,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Pepsi_Bottling_Group,spin_off,corporate_action,https://en.wikipedia.org/wiki/Pepsi_Bottling_Group
+S&P500,PBI,PITNEY BOWES INC /DE/,1996-01-02,1996,,,1,False,False,3579.0,,founding_member,,,founding_member,founding_member,
+S&P500,PBY,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,PCAR,Paccar,1996-01-02,1996,1905.0,91.0,1,False,False,3711.0,Construction Machinery & Heavy Transportation Equipment,founding_member,,,founding_member,founding_member,
+S&P500,PCG,PG&E Corporation,1996-01-02,1996,1905.0,91.0,2,True,False,4931.0,Multi-Utilities,founding_member,,,founding_member,founding_member,
+S&P500,PCH,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,PCL,,2002-01-17,2002,1989.0,13.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Plum_Creek_Timber
+S&P500,PCP,,2007-06-01,2007,1953.0,54.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Precision_Castparts_Corp.
+S&P500,PCS,,1998-11-24,1998,1994.0,4.0,1,False,False,,,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Sprint_Corporation,spin_off,corporate_action,https://en.wikipedia.org/wiki/MetroPCS
+S&P500,PD,"PagerDuty, Inc.",1996-01-02,1996,,,1,False,False,7372.0,,founding_member,,,founding_member,founding_member,
+S&P500,PDCO,,2005-10-11,2005,1877.0,128.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Patterson_Companies
+S&P500,PDG,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,PEAK,,2019-11-05,2019,1985.0,34.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Healthpeak_Properties
+S&P500,PEG,Public Service Enterprise Group,1996-01-02,1996,1903.0,93.0,1,False,False,4931.0,Electric Utilities,founding_member,,,founding_member,founding_member,
+S&P500,PEL,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,PENN,"PENN Entertainment, Inc.",2021-03-22,2021,1968.0,53.0,1,False,False,7011.0,,established,,,established,established,https://en.wikipedia.org/wiki/Penn_Entertainment
+S&P500,PEP,PepsiCo,1996-01-02,1996,1898.0,98.0,1,False,False,2080.0,Soft Drinks & Non-alcoholic Beverages,founding_member,,,founding_member,founding_member,
+S&P500,PET,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,PETM,,2012-10-05,2012,1986.0,26.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/PetSmart
+S&P500,PFE,Pfizer,1996-01-02,1996,1849.0,147.0,1,False,False,2834.0,Pharmaceuticals,founding_member,,,founding_member,founding_member,
+S&P500,PFG,Principal Financial Group,2002-07-22,2002,1879.0,123.0,1,False,False,6321.0,Life & Health Insurance,established,,,established,established,
+S&P500,PG,Procter & Gamble,1996-01-02,1996,1837.0,159.0,1,False,False,2840.0,Personal Care Products,founding_member,,,founding_member,founding_member,
+S&P500,PGL,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,PGN,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,PGR,Progressive Corporation,1997-08-04,1997,1937.0,60.0,1,False,False,6331.0,Property & Casualty Insurance,established,,,established,established,
+S&P500,PH,Parker Hannifin,1996-01-02,1996,1917.0,79.0,1,False,False,3490.0,Industrial Machinery & Supplies & Components,founding_member,,,founding_member,founding_member,
+S&P500,PHA,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,PHB,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,PHM,PulteGroup,1996-01-02,1996,1956.0,40.0,1,False,False,1531.0,Homebuilding,founding_member,,,founding_member,founding_member,
+S&P500,PKG,Packaging Corporation of America,2017-07-26,2017,1959.0,58.0,1,False,False,2650.0,Paper & Plastic Packaging Products & Materials,established,,,established,established,
+S&P500,PKI,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,PLD,Prologis,2003-07-17,2003,1983.0,20.0,1,False,False,6798.0,Industrial REITs,established,,,established,established,
+S&P500,PLL,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,PLTR,Palantir Technologies,2024-09-23,2024,2003.0,21.0,1,False,False,7372.0,Application Software,established,,,established,established,
+S&P500,PM,Philip Morris International,2008-03-31,2008,2008.0,0.0,1,False,False,2111.0,Tobacco,very_new_adjudicate,spin_off,https://en.wikipedia.org/wiki/Philip_Morris_International,spin_off,corporate_action,
+S&P500,PMCS,,2001-08-03,2001,1984.0,17.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/PMC-Sierra
+S&P500,PMI,"Picard Medical, Inc.",1996-01-02,1996,,,1,False,False,3841.0,,founding_member,,,founding_member,founding_member,
+S&P500,PNC,PNC Financial Services,1996-01-02,1996,1845.0,151.0,1,False,False,6021.0,Diversified Banks,founding_member,,,founding_member,founding_member,
+S&P500,PNR,Pentair,2012-10-01,2012,1966.0,46.0,1,False,False,3550.0,Industrial Machinery & Supplies & Components,established,,,established,established,
+S&P500,PNU,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,PNW,Pinnacle West Capital,1999-10-04,1999,1985.0,14.0,1,False,False,4911.0,Multi-Utilities,established,,,established,established,
+S&P500,PODD,Insulet Corporation,2023-03-15,2023,2000.0,23.0,1,False,False,3841.0,Health Care Equipment,established,,,established,established,
+S&P500,POM,POMDOCTOR Ltd,2007-11-09,2007,,,1,False,False,5900.0,,unknown_age,,,unknown_age,unknown_age,
+S&P500,POOL,Pool Corporation,2020-10-07,2020,1993.0,27.0,1,False,False,5090.0,Distributors,established,,,established,established,
+S&P500,PPG,PPG Industries,1996-01-02,1996,1883.0,113.0,1,False,False,2851.0,Specialty Chemicals,founding_member,,,founding_member,founding_member,
+S&P500,PPL,PPL Corporation,1996-01-02,1996,1920.0,76.0,1,False,False,4911.0,Electric Utilities,founding_member,,,founding_member,founding_member,
+S&P500,PPW,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,PRD,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,PRGO,PERRIGO Co plc,2011-12-19,2011,1887.0,124.0,1,False,False,2834.0,,established,,,established,established,https://en.wikipedia.org/wiki/Perrigo
+S&P500,PRU,Prudential Financial,2002-07-22,2002,1875.0,127.0,1,False,False,6311.0,Life & Health Insurance,established,,,established,established,
+S&P500,PSA,Public Storage,2005-08-19,2005,1972.0,33.0,1,False,False,6798.0,Self-Storage REITs,established,,,established,established,
+S&P500,PSFT,,1998-10-02,1998,1987.0,11.0,1,False,False,,,genuinely_new_provisional,genuinely_new,https://en.wikipedia.org/wiki/PeopleSoft,genuinely_new,genuinely_new_verified,https://en.wikipedia.org/wiki/PeopleSoft
+S&P500,PSKY,Paramount Skydance Corporation,2025-08-08,2025,2025.0,0.0,1,False,False,4833.0,Movies & Entertainment,very_new_adjudicate,merger,https://en.wikipedia.org/wiki/Paramount_Skydance,merger,corporate_action,
+S&P500,PSX,Phillips 66,2012-05-01,2012,2012.0,0.0,1,False,False,2911.0,Oil & Gas Refining & Marketing,very_new_adjudicate,spin_off,https://en.wikipedia.org/wiki/Phillips_66,spin_off,corporate_action,
+S&P500,PTC,PTC Inc.,1997-04-03,1997,1985.0,12.0,2,True,False,7372.0,Application Software,re_entry,,,re_entry,re_entry,
+S&P500,PTV,,1999-11-05,1999,1959.0,40.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Pactiv
+S&P500,PVH,PVH CORP. /DE/,2013-02-14,2013,1881.0,132.0,1,False,False,2320.0,,established,,,established,established,https://en.wikipedia.org/wiki/PVH_(company)
+S&P500,PVN,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,PVT,,1998-08-31,1998,,,1,False,False,,,unknown_age,,,unknown_age,unknown_age,
+S&P500,PWER,,2000-10-23,2000,1972.0,28.0,1,False,False,,,established,,,established,established,https://www.encyclopedia.com/books/politics-and-business-magazines/power-one-inc
+S&P500,PWJ,,1999-06-04,1999,,,1,False,False,,,unknown_age,,,unknown_age,unknown_age,
+S&P500,PWR,Quanta Services,2009-07-01,2009,1997.0,12.0,1,False,False,1731.0,Construction & Engineering,genuinely_new_provisional,genuinely_new,https://en.wikipedia.org/wiki/Quanta_Services,genuinely_new,genuinely_new_verified,
+S&P500,PX,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,PXD,,2008-09-24,2008,1997.0,11.0,1,False,False,,,genuinely_new_provisional,merger,https://en.wikipedia.org/wiki/Pioneer_Natural_Resources,merger,corporate_action,https://en.wikipedia.org/wiki/Pioneer_Natural_Resources
+S&P500,PYPL,PayPal,2015-07-20,2015,1998.0,17.0,1,False,False,7389.0,Transaction & Payment Processing Services,established,,,established,established,
+S&P500,PZE,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,Q,Qnity Electronics,2000-07-06,2000,2025.0,-25.0,2,True,False,3674.0,Semiconductor Materials & Equipment,historical_unmatched,,,historical_unmatched,historical_no_ch_number,
+S&P500,QCOM,Qualcomm,1999-07-22,1999,1985.0,14.0,1,False,False,3663.0,Semiconductors,established,,,established,established,
+S&P500,QEP,,2010-07-01,2010,2010.0,0.0,1,False,False,,,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/QEP_Resources,spin_off,corporate_action,https://www.sec.gov/Archives/edgar/data/1108827/000110882713000008/qep-20121231x10k.htm
+S&P500,QLGC,,2000-12-12,2000,1992.0,8.0,1,False,False,,,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/QLogic,spin_off,corporate_action,https://en.wikipedia.org/wiki/QLogic
+S&P500,QRVO,"Qorvo, Inc.",2015-06-12,2015,2015.0,0.0,1,False,False,3674.0,,genuinely_new_provisional,merger,https://en.wikipedia.org/wiki/Qorvo,merger,corporate_action,https://en.wikipedia.org/wiki/Qorvo
+S&P500,QTRN,,1999-11-16,1999,1982.0,17.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Quintiles
+S&P500,R,RYDER SYSTEM INC,1996-01-02,1996,,,1,False,False,7510.0,,founding_member,,,founding_member,founding_member,
+S&P500,RAD,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,RAI,,2002-09-04,2002,1875.0,127.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/R._J._Reynolds_Tobacco_Company
+S&P500,RAL,Ralliant Corp,1996-01-02,1996,,,1,False,False,3823.0,,founding_member,,,founding_member,founding_member,
+S&P500,RATL,,2002-02-01,2002,1981.0,21.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Rational_Software
+S&P500,RBD,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,RBK,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,RCL,Royal Caribbean Group,2014-12-05,2014,1997.0,17.0,1,False,False,4400.0,"Hotels, Resorts & Cruise Lines",established,,,established,established,
+S&P500,RDC,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,RDS.A,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,RE,,2017-06-19,2017,1973.0,44.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Everest_Group
+S&P500,REG,Regency Centers,2017-03-02,2017,1963.0,54.0,1,False,False,6798.0,Retail REITs,established,,,established,established,
+S&P500,REGN,Regeneron Pharmaceuticals,2013-05-01,2013,1988.0,25.0,1,False,False,2834.0,Biotechnology,established,,,established,established,
+S&P500,RF,Regions Financial Corporation,1998-08-28,1998,1971.0,27.0,1,False,False,6021.0,Regional Banks,established,,,established,established,
+S&P500,RHI,ROBERT HALF INC.,2000-12-05,2000,1948.0,52.0,1,False,False,7363.0,,established,,,established,established,https://en.wikipedia.org/wiki/Robert_Half
+S&P500,RHT,,2009-07-27,2009,1993.0,16.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Red_Hat
+S&P500,RIG,Transocean Ltd.,1999-12-31,1999,1953.0,46.0,2,True,False,1381.0,,established,,,established,established,https://en.wikipedia.org/wiki/Transocean
+S&P500,RJF,Raymond James Financial,2017-03-20,2017,1962.0,55.0,1,False,False,6211.0,Investment Banking & Brokerage,established,,,established,established,
+S&P500,RL,Ralph Lauren Corporation,2007-02-02,2007,1967.0,40.0,1,False,False,2320.0,"Apparel, Accessories & Luxury Goods",established,,,established,established,
+S&P500,RLM,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,RMD,ResMed,2017-07-26,2017,1989.0,28.0,1,False,False,3841.0,Health Care Equipment,established,,,established,established,
+S&P500,RML,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,RNB,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,ROH,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,ROK,Rockwell Automation,1996-01-02,1996,1903.0,93.0,1,False,False,3829.0,Electrical Components & Equipment,founding_member,,,founding_member,founding_member,
+S&P500,ROL,"Rollins, Inc.",2018-10-01,2018,1948.0,70.0,1,False,False,7340.0,Environmental & Facilities Services,established,,,established,established,
+S&P500,ROP,Roper Technologies,2009-12-23,2009,1981.0,28.0,1,False,False,3823.0,Electronic Equipment & Instruments,established,,,established,established,
+S&P500,ROST,Ross Stores,2009-12-21,2009,1982.0,27.0,1,False,False,5651.0,Apparel Retail,established,,,established,established,
+S&P500,RRC,RANGE RESOURCES CORP,2007-12-21,2007,1976.0,31.0,1,False,False,1311.0,,established,,,established,established,https://en.wikipedia.org/wiki/Range_Resources
+S&P500,RRD,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,RSG,Republic Services,2008-12-05,2008,1998.0,10.0,1,False,False,4953.0,Environmental & Facilities Services,genuinely_new_provisional,merger,https://en.wikipedia.org/wiki/Republic_Services,merger,corporate_action,
+S&P500,RSHCQ,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,RTN,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,RTX,RTX Corporation,2020-04-03,2020,1922.0,98.0,1,False,False,3724.0,Aerospace & Defense,established,,,established,established,
+S&P500,RVTY,Revvity,2023-05-16,2023,1937.0,86.0,1,False,False,3826.0,Health Care Equipment,established,,,established,established,
+S&P500,RX,,1996-11-04,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,RYAN,"RYAN SPECIALTY HOLDINGS, INC.",1996-01-02,1996,,,1,False,False,6411.0,,founding_member,,,founding_member,founding_member,
+S&P500,RYC,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,RYI,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,S,"SentinelOne, Inc.",1996-01-02,1996,,,1,False,False,7372.0,,founding_member,,,founding_member,founding_member,
+S&P500,SAF,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,SAI,,1997-07-17,1997,1969.0,28.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Science_Applications_International_Corporation
+S&P500,SANM,SANMINA CORP,2000-06-21,2000,1980.0,20.0,1,False,False,3672.0,,established,,,established,established,https://en.wikipedia.org/wiki/Sanmina_Corporation
+S&P500,SAPE,,2000-05-05,2000,1990.0,10.0,1,False,False,,,genuinely_new_provisional,genuinely_new,https://en.wikipedia.org/wiki/Sapient,genuinely_new,genuinely_new_verified,https://en.wikipedia.org/wiki/Publicis_Sapient
+S&P500,SATS,EchoStar,2026-03-23,2026,2008.0,18.0,1,False,False,4899.0,Wireless Telecommunication Services,established,,,established,established,
+S&P500,SB,"SAFE BULKERS, INC.",1996-01-02,1996,,,1,False,False,4412.0,,founding_member,,,founding_member,founding_member,
+S&P500,SBAC,SBA Communications,2017-09-01,2017,1989.0,28.0,1,False,False,6798.0,Telecom Tower REITs,established,,,established,established,
+S&P500,SBL,,2000-12-11,2000,1973.0,27.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Symbol_Technologies
+S&P500,SBNY,,2021-12-20,2021,2001.0,20.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Signature_Bank
+S&P500,SBUX,Starbucks,2000-06-08,2000,1971.0,29.0,1,False,False,5810.0,Restaurants,established,,,established,established,
+S&P500,SCG,,2009-01-02,2009,1924.0,85.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/SCANA
+S&P500,SCHW,Charles Schwab Corporation,1997-06-02,1997,1971.0,26.0,1,False,False,6211.0,Investment Banking & Brokerage,established,,,established,established,
+S&P500,SCI,SERVICE CORP INTERNATIONAL,1996-01-02,1996,,,1,False,False,7200.0,,founding_member,,,founding_member,founding_member,
+S&P500,SDS,,2002-07-22,2002,1983.0,19.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/SunGard
+S&P500,SE,Sea Ltd,2007-01-03,2007,2009.0,-2.0,1,False,False,7380.0,,historical_unmatched,,,historical_unmatched,historical_no_ch_number,https://en.wikipedia.org/wiki/Sea_Ltd
+S&P500,SEBL,,2000-05-05,2000,1993.0,7.0,1,False,False,,,genuinely_new_provisional,genuinely_new,https://en.wikipedia.org/wiki/Siebel_Systems,genuinely_new,genuinely_new_verified,https://en.wikipedia.org/wiki/Siebel_Systems
+S&P500,SEDG,"SOLAREDGE TECHNOLOGIES, INC.",2021-12-20,2021,2006.0,15.0,1,False,False,3674.0,,established,,,established,established,https://en.wikipedia.org/wiki/SolarEdge
+S&P500,SEE,,1998-04-01,1998,1960.0,38.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Sealed_Air
+S&P500,SEG,Seaport Entertainment Group Inc.,1996-08-16,1996,,,1,False,False,7990.0,,founding_member,,,founding_member,founding_member,
+S&P500,SFA,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,SFS,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,SGID,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,SGP,"SpyGlass Pharma, Inc.",1996-01-02,1996,,,1,False,False,3841.0,,founding_member,,,founding_member,founding_member,
+S&P500,SHLD,,2005-03-28,2005,1893.0,112.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Sears
+S&P500,SHN,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,SHW,Sherwin-Williams,1996-01-02,1996,1866.0,130.0,1,False,False,5200.0,Specialty Chemicals,founding_member,,,founding_member,founding_member,
+S&P500,SIAL,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,SIG,SIGNET JEWELERS LTD,2015-07-29,2015,1949.0,66.0,1,False,False,5944.0,,established,,,established,established,https://en.wikipedia.org/wiki/Signet_Jewelers
+S&P500,SII,SPROTT INC.,2006-10-02,2006,1981.0,25.0,1,False,False,6199.0,,established,,,established,established,https://finance.yahoo.com/quote/SII/profile/
+S&P500,SIVB,,2018-03-19,2018,1983.0,35.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Silicon_Valley_Bank
+S&P500,SJM,J.M. Smucker Company (The),2008-11-06,2008,1897.0,111.0,1,False,False,2033.0,Packaged Foods & Meats,established,,,established,established,
+S&P500,SK,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,SLB,Schlumberger,1996-01-02,1996,1926.0,70.0,1,False,False,1389.0,Oil & Gas Equipment & Services,founding_member,,,founding_member,founding_member,
+S&P500,SLG,SL GREEN REALTY CORP,2015-03-23,2015,1997.0,18.0,1,False,False,6798.0,,established,,,established,established,https://en.wikipedia.org/wiki/SL_Green_Realty
+S&P500,SLM,SLM Corp,1998-07-01,1998,1972.0,26.0,1,False,False,6141.0,,established,,,established,established,https://en.wikipedia.org/wiki/Sallie_Mae
+S&P500,SLR,,1998-12-31,1998,2007.0,-9.0,1,False,False,,,historical_unmatched,,,historical_unmatched,historical_no_ch_number,https://solarcapltd.gcs-web.com/
+S&P500,SMCI,Supermicro,2024-03-18,2024,1993.0,31.0,1,False,False,3571.0,"Technology Hardware, Storage & Peripherals",established,,,established,established,
+S&P500,SMI,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,SMS,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,SNA,Snap-on,1996-01-02,1996,1920.0,76.0,1,False,False,3420.0,Industrial Machinery & Supplies & Components,founding_member,,,founding_member,founding_member,
+S&P500,SNDK,Sandisk,2006-04-20,2006,1988.0,18.0,2,True,False,3572.0,"Technology Hardware, Storage & Peripherals",re_entry,,,re_entry,re_entry,
+S&P500,SNI,,2008-07-01,2008,2008.0,0.0,1,False,False,,,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Scripps_Networks_Interactive,spin_off,corporate_action,https://en.wikipedia.org/wiki/Scripps_Networks_Interactive
+S&P500,SNPS,Synopsys,2017-03-16,2017,1986.0,31.0,1,False,False,7372.0,Application Software,established,,,established,established,
+S&P500,SNT,Senstar Technologies Corp,1996-01-02,1996,,,1,False,False,3669.0,,founding_member,,,founding_member,founding_member,
+S&P500,SNV,,1997-12-01,1997,1888.0,109.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Synovus
+S&P500,SO,Southern Company,1996-01-02,1996,1945.0,51.0,1,False,False,4911.0,Electric Utilities,founding_member,,,founding_member,founding_member,
+S&P500,SOLS,Solstice Advanced Materials Inc.,2025-10-30,2025,2025.0,0.0,1,False,False,2800.0,,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Honeywell,spin_off,corporate_action,https://en.wikipedia.org/wiki/Solstice_Advanced_Materials
+S&P500,SOLV,Solventum,2024-04-03,2024,2023.0,1.0,1,False,False,3841.0,Health Care Technology,very_new_adjudicate,spin_off,https://en.wikipedia.org/wiki/Solventum,spin_off,corporate_action,
+S&P500,SOTR,,1999-03-01,1999,1887.0,112.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/SouthTrust_(1887%E2%80%932005)
+S&P500,SOV,,2004-07-01,2004,1984.0,20.0,1,False,False,,,established,,,established,established,https://www.sec.gov/Archives/edgar/data/0000811830/000114544302000039/d10907.txt
+S&P500,SPG,Simon Property Group,2002-06-26,2002,2003.0,-1.0,1,False,False,6798.0,Retail REITs,historical_unmatched,,,historical_unmatched,historical_no_ch_number,
+S&P500,SPGI,S&P Global,1996-01-02,1996,1917.0,79.0,1,False,False,7320.0,Financial Exchanges & Data,founding_member,,,founding_member,founding_member,
+S&P500,SPLS,,1998-10-07,1998,1986.0,12.0,1,False,False,,,genuinely_new_provisional,genuinely_new,https://en.wikipedia.org/wiki/Staples_Inc.,genuinely_new,genuinely_new_verified,https://en.wikipedia.org/wiki/Staples_Inc.
+S&P500,SRCL,,2008-11-19,2008,1989.0,19.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Stericycle
+S&P500,SRE,Sempra,1998-06-29,1998,1998.0,0.0,1,False,False,4932.0,Multi-Utilities,very_new_adjudicate,merger,https://www.fundinguniverse.com/company-histories/sempra-energy-history/,merger,corporate_action,
+S&P500,SRR,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,SSP,E.W. SCRIPPS Co,2005-12-20,2005,1878.0,127.0,1,False,False,4833.0,,established,,,established,established,https://en.wikipedia.org/wiki/The_E._W._Scripps_Company
+S&P500,STE,Steris,2019-12-23,2019,1985.0,34.0,1,False,False,3842.0,Health Care Equipment,established,,,established,established,
+S&P500,STI,Solidion Technology Inc.,1996-01-02,1996,,,1,False,False,3690.0,,founding_member,,,founding_member,founding_member,
+S&P500,STJ,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,STLD,Steel Dynamics,2022-12-22,2022,1993.0,29.0,1,False,False,3312.0,Steel,established,,,established,established,
+S&P500,STO,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,STR,,2006-12-01,2006,1922.0,84.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Questar_Corporation_(gas_company)
+S&P500,STT,State Street Corporation,1997-08-18,1997,1792.0,205.0,1,False,False,6022.0,Asset Management & Custody Banks,established,,,established,established,
+S&P500,STX,Seagate Technology,2012-07-02,2012,1979.0,33.0,1,False,False,3572.0,"Technology Hardware, Storage & Peripherals",established,,,established,established,
+S&P500,STZ,Constellation Brands,2005-07-05,2005,1945.0,60.0,1,False,False,2080.0,Distillers & Vintners,established,,,established,established,
+S&P500,SUB,,1998-01-28,1998,1899.0,99.0,1,False,False,,,established,,,established,established,https://www.sec.gov/Archives/edgar/data/101320/000095011500000411/0000950115-00-000411.txt
+S&P500,SUN,Sunoco LP,1996-01-02,1996,,,1,False,False,2911.0,,founding_member,,,founding_member,founding_member,
+S&P500,SUNEQ,,2007-05-31,2007,1959.0,48.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/SunEdison
+S&P500,SVU,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,SW,Smurfit Westrock,2024-07-08,2024,1934.0,90.0,1,False,False,2650.0,Paper & Plastic Packaging Products & Materials,established,,,established,established,
+S&P500,SWK,Stanley Black & Decker,1996-01-02,1996,1843.0,153.0,1,False,False,3420.0,Industrial Machinery & Supplies & Components,founding_member,,,founding_member,founding_member,
+S&P500,SWKS,Skyworks Solutions,2015-03-12,2015,2002.0,13.0,1,False,False,3674.0,Semiconductors,established,,,established,established,
+S&P500,SWN,,2008-06-06,2008,1929.0,79.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Southwestern_Energy
+S&P500,SWY,,1998-11-13,1998,1915.0,83.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Safeway
+S&P500,SXCL,,1999-10-01,1999,1960.0,39.0,1,False,False,,,established,,,established,established,https://www.suncoke.com/en/about-us/our-history
+S&P500,SYF,Synchrony Financial,2015-11-18,2015,2003.0,12.0,1,False,False,6199.0,Consumer Finance,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Synchrony_Financial,spin_off,corporate_action,
+S&P500,SYK,Stryker Corporation,2000-12-12,2000,1941.0,59.0,1,False,False,3841.0,Health Care Equipment,established,,,established,established,
+S&P500,SYMC,,2003-03-31,2003,1982.0,21.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Gen_Digital
+S&P500,SYY,Sysco,1996-01-02,1996,1969.0,27.0,1,False,False,5140.0,Food Distributors,founding_member,,,founding_member,founding_member,
+S&P500,T,AT&T,1996-01-02,1996,1983.0,13.0,1,False,False,4813.0,Integrated Telecommunication Services,founding_member,,,founding_member,founding_member,
+S&P500,TA,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,TAP,Molson Coors Beverage Company,1996-01-02,1996,2005.0,-9.0,1,False,False,2082.0,Brewers,founding_member,,,founding_member,founding_member,
+S&P500,TCOMA,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,TDC,TERADATA CORP /DE/,2007-10-01,2007,1979.0,28.0,1,False,False,7372.0,,established,,,established,established,https://en.wikipedia.org/wiki/Teradata
+S&P500,TDG,TransDigm Group,2016-06-03,2016,1993.0,23.0,1,False,False,3728.0,Aerospace & Defense,established,,,established,established,
+S&P500,TDM,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,TDY,Teledyne Technologies,2020-06-22,2020,1960.0,60.0,1,False,False,3812.0,Electronic Equipment & Instruments,established,,,established,established,
+S&P500,TE,T1 Energy Inc.,2001-10-10,2001,2018.0,-17.0,1,False,False,3674.0,,historical_unmatched,,,historical_unmatched,historical_no_ch_number,https://www.sec.gov/Archives/edgar/data/1844224/000121390021059499/ea150600-424b3_freyrbattery.htm
+S&P500,TECH,Bio-Techne,2021-08-30,2021,1976.0,45.0,1,False,False,2836.0,Life Sciences Tools & Services,established,,,established,established,
+S&P500,TEG,,2007-02-22,2007,2007.0,0.0,1,False,False,,,genuinely_new_provisional,merger,https://en.wikipedia.org/wiki/Integrys_Energy_Group,merger,corporate_action,https://en.wikipedia.org/wiki/Integrys_Energy_Group
+S&P500,TEK,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,TEL,TE Connectivity,2007-07-02,2007,2007.0,0.0,2,True,False,5065.0,Electronic Manufacturing Services,re_entry,,,re_entry,re_entry,
+S&P500,TEN,TSAKOS ENERGY NAVIGATION LTD,1996-01-02,1996,,,1,False,False,4412.0,,founding_member,,,founding_member,founding_member,
+S&P500,TER,Teradyne,1999-11-15,1999,1960.0,39.0,2,True,False,3825.0,Semiconductor Materials & Equipment,re_entry,,,re_entry,re_entry,
+S&P500,TEX,TEREX CORP,2006-12-20,2006,1933.0,73.0,1,False,False,3537.0,,established,,,established,established,https://en.wikipedia.org/wiki/Terex
+S&P500,TFC,Truist Financial,2019-12-09,2019,1872.0,147.0,1,False,False,6021.0,Diversified Banks,established,,,established,established,
+S&P500,TFX,TELEFLEX INC,2019-01-18,2019,1943.0,76.0,1,False,False,3841.0,,established,,,established,established,https://en.wikipedia.org/wiki/Teleflex
+S&P500,TGNA,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,TGT,Target Corporation,1996-01-02,1996,1902.0,94.0,1,False,False,5331.0,Consumer Staples Merchandise Retail,founding_member,,,founding_member,founding_member,
+S&P500,THC,TENET HEALTHCARE CORP,1996-01-02,1996,,,1,False,False,8062.0,,founding_member,,,founding_member,founding_member,
+S&P500,THY,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,TIE,,2007-10-29,2007,1950.0,57.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Titanium_Metals_Corporation
+S&P500,TIF,,2000-06-21,2000,1837.0,163.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Tiffany_%26_Co.
+S&P500,TIN,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,TJX,TJX Companies,1996-01-02,1996,1987.0,9.0,1,False,False,5651.0,Apparel Retail,founding_member,,,founding_member,founding_member,
+S&P500,TKO,TKO Group Holdings,2025-03-24,2025,2023.0,2.0,1,False,False,7900.0,Movies & Entertainment,very_new_adjudicate,merger,https://en.wikipedia.org/wiki/TKO_Group_Holdings,merger,corporate_action,
+S&P500,TKR,TIMKEN CO,1996-01-02,1996,,,1,False,False,3562.0,,founding_member,,,founding_member,founding_member,
+S&P500,TLAB,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,TMC,TMC the metals Co Inc.,1996-01-02,1996,,,1,False,False,1000.0,,founding_member,,,founding_member,founding_member,
+S&P500,TMC.A,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,TMK,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,TMO,Thermo Fisher Scientific,1997-01-02,1997,2006.0,-9.0,1,False,False,3829.0,Life Sciences Tools & Services,historical_unmatched,,,historical_unmatched,historical_no_ch_number,
+S&P500,TMUS,T-Mobile US,2009-06-30,2009,1994.0,15.0,2,True,False,4812.0,Wireless Telecommunication Services,re_entry,,,re_entry,re_entry,
+S&P500,TNB,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,TOS,,1999-09-20,1999,,,1,False,False,,,unknown_age,,,unknown_age,unknown_age,
+S&P500,TOY,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,TPL,Texas Pacific Land Corporation,2024-11-26,2024,1888.0,136.0,1,False,False,6792.0,Oil & Gas Exploration & Production,established,,,established,established,
+S&P500,TPR,"Tapestry, Inc.",2004-09-01,2004,2017.0,-13.0,1,False,False,3100.0,"Apparel, Accessories & Luxury Goods",historical_unmatched,,,historical_unmatched,historical_no_ch_number,
+S&P500,TRB,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,TRGP,Targa Resources,2022-10-12,2022,2005.0,17.0,1,False,False,4922.0,Oil & Gas Storage & Transportation,established,,,established,established,
+S&P500,TRIP,"TripAdvisor, Inc.",2011-12-21,2011,2000.0,11.0,1,False,False,7370.0,,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Tripadvisor,spin_off,corporate_action,https://en.wikipedia.org/wiki/Tripadvisor
+S&P500,TRMB,Trimble Inc.,2021-01-21,2021,1978.0,43.0,1,False,False,3829.0,Application Software,established,,,established,established,
+S&P500,TROW,T. Rowe Price,1999-10-13,1999,1937.0,62.0,1,False,False,6282.0,Asset Management & Custody Banks,established,,,established,established,
+S&P500,TRV,Travelers Companies (The),1996-01-02,1996,1853.0,143.0,1,False,False,6331.0,Property & Casualty Insurance,founding_member,,,founding_member,founding_member,
+S&P500,TRW,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,TSCO,Tractor Supply,2014-01-24,2014,1938.0,76.0,1,False,False,5200.0,Other Specialty Retail,established,,,established,established,
+S&P500,TSG,,2000-03-16,2000,2001.0,-1.0,1,False,False,,,historical_unmatched,,,historical_unmatched,historical_no_ch_number,https://en.wikipedia.org/wiki/The_Stars_Group
+S&P500,TSLA,"Tesla, Inc.",2020-12-21,2020,2003.0,17.0,1,False,False,3711.0,Automobile Manufacturers,established,,,established,established,
+S&P500,TSN,Tyson Foods,2005-08-11,2005,1935.0,70.0,1,False,False,2015.0,Packaged Foods & Meats,established,,,established,established,
+S&P500,TSS,,2008-01-02,2008,1959.0,49.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/TSYS
+S&P500,TT,Trane Technologies,2002-05-13,2002,1871.0,131.0,2,True,False,3822.0,Building Products,re_entry,,,re_entry,re_entry,
+S&P500,TTD,Trade Desk (The),2025-07-18,2025,2009.0,16.0,1,False,False,7370.0,Advertising,established,,,established,established,
+S&P500,TTWO,Take-Two Interactive,2018-03-19,2018,1993.0,25.0,1,False,False,7372.0,Interactive Home Entertainment,established,,,established,established,
+S&P500,TUP,,1996-05-31,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,TWC,,2009-03-30,2009,1973.0,36.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Time_Warner_Cable
+S&P500,TWTR,,2018-06-07,2018,2006.0,12.0,1,False,False,,,genuinely_new_provisional,genuinely_new,"https://en.wikipedia.org/wiki/Twitter,_Inc.",genuinely_new,genuinely_new_verified,https://en.wikipedia.org/wiki/Twitter
+S&P500,TWX,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,TX,Ternium S.A.,1996-01-02,1996,,,1,False,False,3312.0,,founding_member,,,founding_member,founding_member,
+S&P500,TXN,Texas Instruments,1996-01-02,1996,1930.0,66.0,1,False,False,3674.0,Semiconductors,founding_member,,,founding_member,founding_member,
+S&P500,TXT,Textron,1996-01-02,1996,1923.0,73.0,1,False,False,3720.0,Aerospace & Defense,founding_member,,,founding_member,founding_member,
+S&P500,TXU,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,TYL,Tyler Technologies,2020-06-22,2020,1966.0,54.0,1,False,False,7372.0,Application Software,established,,,established,established,
+S&P500,UA,"Under Armour, Inc.",2016-04-08,2016,1996.0,20.0,1,False,False,2300.0,,established,,,established,established,https://en.wikipedia.org/wiki/Under_Armour
+S&P500,UAA,"Under Armour, Inc.",2014-05-01,2014,1996.0,18.0,1,False,False,2300.0,,established,,,established,established,https://en.wikipedia.org/wiki/Under_Armour
+S&P500,UAL,United Airlines Holdings,2015-09-03,2015,1967.0,48.0,1,False,False,4512.0,Passenger Airlines,established,,,established,established,
+S&P500,UAWGQ,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,UBER,Uber,2023-10-18,2023,2009.0,14.0,1,False,False,7389.0,Passenger Ground Transportation,established,,,established,established,
+S&P500,UCC,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,UCL,uCloudlink Group Inc.,1996-01-02,1996,,,1,False,False,4899.0,,founding_member,,,founding_member,founding_member,
+S&P500,UCM,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,UDR,"UDR, Inc.",2016-03-07,2016,1972.0,44.0,1,False,False,6798.0,Multi-Family Residential REITs,established,,,established,established,
+S&P500,UHS,Universal Health Services,2014-09-22,2014,1979.0,35.0,1,False,False,8062.0,Health Care Facilities,established,,,established,established,
+S&P500,UIS,UNISYS CORP,1996-01-02,1996,,,1,False,False,7373.0,,founding_member,,,founding_member,founding_member,
+S&P500,UK,Ucommune International Ltd,1996-01-02,1996,,,1,False,False,7389.0,,founding_member,,,founding_member,founding_member,
+S&P500,ULTA,Ulta Beauty,2016-04-18,2016,1990.0,26.0,1,False,False,5990.0,Other Specialty Retail,established,,,established,established,
+S&P500,UMG,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,UN,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,UNH,UnitedHealth Group,1996-01-02,1996,1977.0,19.0,1,False,False,6324.0,Managed Health Care,founding_member,,,founding_member,founding_member,
+S&P500,UNM,Unum Group,1996-01-02,1996,,,1,False,False,6321.0,,founding_member,,,founding_member,founding_member,
+S&P500,UNP,Union Pacific Corporation,1996-01-02,1996,1862.0,134.0,1,False,False,4011.0,Rail Transportation,founding_member,,,founding_member,founding_member,
+S&P500,UPC,Universe Pharmaceuticals INC,1998-10-01,1998,1998.0,0.0,1,False,False,2834.0,,genuinely_new_provisional,ipo_established,https://en.wikipedia.org/wiki/Union_Planters_Corporation,ipo_established,corporate_action,https://stockanalysis.com/stocks/upc/company/
+S&P500,UPR,,1996-10-16,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,UPS,United Parcel Service,2002-07-22,2002,1907.0,95.0,1,False,False,4210.0,Air Freight & Logistics,established,,,established,established,
+S&P500,URBN,URBAN OUTFITTERS INC,2010-02-08,2010,1970.0,40.0,1,False,False,5651.0,,established,,,established,established,https://en.wikipedia.org/wiki/Urban_Outfitters
+S&P500,URI,United Rentals,2014-09-22,2014,1997.0,17.0,1,False,False,7359.0,Trading Companies & Distributors,established,,,established,established,
+S&P500,USB,U.S. Bancorp,1996-01-02,1996,1968.0,28.0,1,False,False,6021.0,Diversified Banks,founding_member,,,founding_member,founding_member,
+S&P500,USBC,"USBC, Inc.",1996-01-02,1996,,,1,False,False,6199.0,,founding_member,,,founding_member,founding_member,
+S&P500,USH,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,USHC,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,USS,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,UST,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,USW,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,UTX,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,UVN,,2001-02-07,2001,1962.0,39.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Univision
+S&P500,V,Visa Inc.,2009-12-21,2009,1958.0,51.0,1,False,False,7389.0,Transaction & Payment Processing Services,established,,,established,established,
+S&P500,VAR,,2007-02-12,2007,1948.0,59.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Varian_Medical_Systems
+S&P500,VAT,"VARSAL TECH, INC.",1996-01-02,1996,,,1,False,False,2800.0,,founding_member,,,founding_member,founding_member,
+S&P500,VEEV,Veeva Systems,2026-05-07,2026,2007.0,19.0,1,False,False,7372.0,Health Care Technology,established,,,established,established,
+S&P500,VFC,V F CORP,1996-01-02,1996,,,1,False,False,2320.0,,founding_member,,,founding_member,founding_member,
+S&P500,VIAB,,2006-01-03,2006,1952.0,54.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Viacom_(1952%E2%80%932005)
+S&P500,VIAC,,2019-12-05,2019,1952.0,67.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Paramount_Global
+S&P500,VIAV,VIAVI SOLUTIONS INC.,2000-07-27,2000,1979.0,21.0,1,False,False,3674.0,,established,,,established,established,https://en.wikipedia.org/wiki/Viavi_Solutions
+S&P500,VICI,Vici Properties,2022-06-08,2022,2017.0,5.0,1,False,False,6798.0,Hotel & Resort REITs,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Vici_Properties,spin_off,corporate_action,
+S&P500,VLO,Valero Energy,2004-04-29,2004,1980.0,24.0,1,False,False,2911.0,Oil & Gas Refining & Marketing,established,,,established,established,
+S&P500,VLTO,Veralto,2023-10-02,2023,2023.0,0.0,1,False,False,3825.0,Environmental & Facilities Services,very_new_adjudicate,spin_off,https://en.wikipedia.org/wiki/Veralto,spin_off,corporate_action,
+S&P500,VMC,Vulcan Materials Company,1999-07-01,1999,1909.0,90.0,1,False,False,1400.0,Construction Materials,established,,,established,established,
+S&P500,VNO,VORNADO REALTY TRUST,2005-08-12,2005,1982.0,23.0,1,False,False,6798.0,,established,,,established,established,https://en.wikipedia.org/wiki/Vornado_Realty_Trust
+S&P500,VNT,Vontier Corp,2020-10-12,2020,2020.0,0.0,1,False,False,3824.0,,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Vontier,spin_off,corporate_action,https://en.wikipedia.org/wiki/Vontier
+S&P500,VO,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,VRSK,Verisk Analytics,2015-10-08,2015,1971.0,44.0,1,False,False,7374.0,Research & Consulting Services,established,,,established,established,
+S&P500,VRSN,Verisign,2006-02-01,2006,1995.0,11.0,1,False,False,7371.0,Internet Services & Infrastructure,genuinely_new_provisional,genuinely_new,https://en.wikipedia.org/wiki/Verisign,genuinely_new,genuinely_new_verified,
+S&P500,VRT,Vertiv,2026-03-23,2026,2016.0,10.0,1,False,False,3679.0,Electrical Components & Equipment,genuinely_new_provisional,ipo_established,https://en.wikipedia.org/wiki/Vertiv,ipo_established,corporate_action,
+S&P500,VRTS,"VIRTUS INVESTMENT PARTNERS, INC.",2000-04-03,2000,1995.0,5.0,1,False,False,6282.0,,genuinely_new_provisional,genuinely_new,https://en.wikipedia.org/wiki/Veritas_Software,genuinely_new,genuinely_new_verified,https://en.wikipedia.org/wiki/Virtus_Investment_Partners
+S&P500,VRTX,Vertex Pharmaceuticals,2013-09-23,2013,1989.0,24.0,1,False,False,2834.0,Biotechnology,established,,,established,established,
+S&P500,VST,Vistra Corp.,2024-05-08,2024,2016.0,8.0,1,False,False,4911.0,Electric Utilities,genuinely_new_provisional,reincorporation_rename,https://en.wikipedia.org/wiki/Vistra_Corp.,reincorporation_rename,corporate_action,
+S&P500,VSTNQ,,2000-06-29,2000,2000.0,0.0,1,False,False,,,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Visteon,spin_off,corporate_action,https://en.wikipedia.org/wiki/Visteon
+S&P500,VTR,Ventas,2009-03-04,2009,1998.0,11.0,1,False,False,6798.0,Health Care REITs,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Ventas,spin_off,corporate_action,
+S&P500,VTRS,Viatris,2020-11-17,2020,1961.0,59.0,1,False,False,2834.0,Pharmaceuticals,established,,,established,established,
+S&P500,VTSS,,2000-12-12,2000,1984.0,16.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Vitesse_Semiconductor
+S&P500,VZ,Verizon,1996-01-02,1996,1983.0,13.0,1,False,False,4813.0,Integrated Telecommunication Services,founding_member,,,founding_member,founding_member,
+S&P500,WAB,Wabtec,2019-02-27,2019,1999.0,20.0,1,False,False,3743.0,Construction Machinery & Heavy Transportation Equipment,established,,,established,established,
+S&P500,WAI,Top KingWin Ltd,1996-01-02,1996,,,1,False,False,7389.0,,founding_member,,,founding_member,founding_member,
+S&P500,WAMUQ,,1997-07-02,1997,1889.0,108.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Washington_Mutual
+S&P500,WAT,Waters Corporation,2002-01-02,2002,1958.0,44.0,1,False,False,3826.0,Life Sciences Tools & Services,established,,,established,established,
+S&P500,WB,WEIBO Corp,1996-01-02,1996,,,1,False,False,7370.0,,founding_member,,,founding_member,founding_member,
+S&P500,WBA,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,WBD,Warner Bros. Discovery,2022-04-11,2022,2022.0,0.0,1,False,False,4841.0,Broadcasting,very_new_adjudicate,merger,https://en.wikipedia.org/wiki/Warner_Bros._Discovery,merger,corporate_action,
+S&P500,WCG,,2018-09-17,2018,1985.0,33.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/WellCare
+S&P500,WCOEQ,,1996-04-01,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,WDAY,"Workday, Inc.",2024-12-23,2024,2005.0,19.0,1,False,False,7374.0,Application Software,established,,,established,established,
+S&P500,WDC,Western Digital,2009-07-01,2009,1970.0,39.0,1,False,False,3572.0,"Technology Hardware, Storage & Peripherals",established,,,established,established,
+S&P500,WEC,WEC Energy Group,2008-10-31,2008,1896.0,112.0,1,False,False,4931.0,Electric Utilities,established,,,established,established,
+S&P500,WELL,Welltower,2009-01-30,2009,1970.0,39.0,1,False,False,6798.0,Health Care REITs,established,,,established,established,
+S&P500,WEN,Wendy's Co,1996-01-02,1996,,,1,False,False,5810.0,,founding_member,,,founding_member,founding_member,
+S&P500,WFC,Wells Fargo,1996-01-02,1996,1852.0,144.0,1,False,False,6021.0,Diversified Banks,founding_member,,,founding_member,founding_member,
+S&P500,WFM,,2006-01-03,2006,1980.0,26.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Whole_Foods_Market
+S&P500,WFT,,2005-07-22,2005,1941.0,64.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Weatherford_International
+S&P500,WHR,WHIRLPOOL CORP /DE/,1996-01-02,1996,,,1,False,False,3630.0,,founding_member,,,founding_member,founding_member,
+S&P500,WIN,,2006-07-18,2006,2006.0,0.0,1,False,False,,,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Windstream_Holdings,spin_off,corporate_action,https://en.wikipedia.org/wiki/Windstream_Holdings
+S&P500,WLA,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,WLL,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,WLP,,1999-06-09,1999,1946.0,53.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Elevance_Health
+S&P500,WLTW,,2016-01-05,2016,2016.0,0.0,1,False,False,,,genuinely_new_provisional,merger,https://en.wikipedia.org/wiki/Willis_Towers_Watson,merger,corporate_action,https://en.wikipedia.org/wiki/Willis_Towers_Watson
+S&P500,WM,Waste Management,1998-07-17,1998,1968.0,30.0,1,False,False,4953.0,Environmental & Facilities Services,established,,,established,established,
+S&P500,WMB,Williams Companies,1996-01-02,1996,1908.0,88.0,1,False,False,4922.0,Oil & Gas Storage & Transportation,founding_member,,,founding_member,founding_member,
+S&P500,WMT,Walmart,1996-01-02,1996,1962.0,34.0,1,False,False,5331.0,Consumer Staples Merchandise Retail,founding_member,,,founding_member,founding_member,
+S&P500,WMX,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,WNDXQ,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,WOR,"WORTHINGTON ENTERPRISES, INC.",1996-01-02,1996,,,1,False,False,3310.0,,founding_member,,,founding_member,founding_member,
+S&P500,WPX,,2012-01-03,2012,2011.0,1.0,1,False,False,,,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/WPX_Energy,spin_off,corporate_action,https://en.wikipedia.org/wiki/WPX_Energy
+S&P500,WRB,W. R. Berkley Corporation,2019-12-05,2019,1967.0,52.0,1,False,False,6331.0,Property & Casualty Insurance,established,,,established,established,
+S&P500,WRK,,2015-07-02,2015,2015.0,0.0,1,False,False,,,genuinely_new_provisional,merger,https://en.wikipedia.org/wiki/WestRock,merger,corporate_action,https://en.wikipedia.org/wiki/WestRock
+S&P500,WSM,"Williams-Sonoma, Inc.",2025-03-24,2025,1956.0,69.0,1,False,False,5700.0,Homefurnishing Retail,established,,,established,established,
+S&P500,WST,West Pharmaceutical Services,2020-05-22,2020,1923.0,97.0,1,False,False,3841.0,Health Care Supplies,established,,,established,established,
+S&P500,WTW,Willis Towers Watson,2022-01-10,2022,2016.0,6.0,1,False,False,6411.0,Insurance Brokers,genuinely_new_provisional,merger,https://en.wikipedia.org/wiki/Willis_Towers_Watson,merger,corporate_action,
+S&P500,WU,Western Union CO,2006-10-02,2006,1851.0,155.0,1,False,False,7389.0,,established,,,established,established,https://en.wikipedia.org/wiki/Western_Union
+S&P500,WWY,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,WY,Weyerhaeuser,1996-01-02,1996,1900.0,96.0,1,False,False,6798.0,Timber REITs,founding_member,,,founding_member,founding_member,
+S&P500,WYE,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,WYND,,2006-08-01,2006,2006.0,0.0,1,False,False,,,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Wyndham_Worldwide,spin_off,corporate_action,https://en.wikipedia.org/wiki/Travel_%2B_Leisure_Co.
+S&P500,WYNN,Wynn Resorts,2008-11-14,2008,2002.0,6.0,1,False,False,7011.0,Casinos & Gaming,genuinely_new_provisional,genuinely_new,https://en.wikipedia.org/wiki/Wynn_Resorts,genuinely_new,genuinely_new_verified,
+S&P500,X,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,XEC,,2014-06-20,2014,2002.0,12.0,1,False,False,,,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Cimarex_Energy,spin_off,corporate_action,https://en.wikipedia.org/wiki/Cimarex_Energy
+S&P500,XEL,Xcel Energy,1996-01-02,1996,1909.0,87.0,1,False,False,4931.0,Multi-Utilities,founding_member,,,founding_member,founding_member,
+S&P500,XL,,2001-09-04,2001,1986.0,15.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/XL_Group
+S&P500,XLNX,,1999-11-08,1999,1984.0,15.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Xilinx
+S&P500,XOM,ExxonMobil,1996-01-02,1996,1999.0,-3.0,1,False,False,2911.0,Integrated Oil & Gas,founding_member,,,founding_member,founding_member,
+S&P500,XRAY,DENTSPLY SIRONA Inc.,2008-11-14,2008,1889.0,119.0,1,False,False,3843.0,,established,,,established,established,https://en.wikipedia.org/wiki/Dentsply_Sirona
+S&P500,XRX,Xerox Holdings Corp,1996-01-02,1996,,,1,False,False,3577.0,,founding_member,,,founding_member,founding_member,
+S&P500,XTO,,2004-12-29,2004,1986.0,18.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/XTO_Energy
+S&P500,XYL,Xylem Inc.,2011-11-01,2011,2011.0,0.0,1,False,False,3561.0,Industrial Machinery & Supplies & Components,very_new_adjudicate,spin_off,https://en.wikipedia.org/wiki/Xylem_Inc.,spin_off,corporate_action,
+S&P500,XYZ,"Block, Inc.",2025-07-23,2025,2009.0,16.0,1,False,False,7372.0,Transaction & Payment Processing Services,established,,,established,established,
+S&P500,YNR,,2000-01-06,2000,1923.0,77.0,1,False,False,,,established,,,established,established,https://en.wikipedia.org/wiki/Young_and_Rubicam
+S&P500,YRCW,,1996-01-02,1996,,,1,False,False,,,founding_member,,,founding_member,founding_member,
+S&P500,YUM,Yum! Brands,1997-10-07,1997,1997.0,0.0,1,False,False,5812.0,Restaurants,very_new_adjudicate,spin_off,https://en.wikipedia.org/wiki/Yum!_Brands,spin_off,corporate_action,
+S&P500,ZBH,Zimmer Biomet,2001-08-07,2001,1927.0,74.0,1,False,False,3842.0,Health Care Equipment,established,,,established,established,
+S&P500,ZBRA,Zebra Technologies,2019-12-23,2019,1969.0,50.0,1,False,False,3560.0,Electronic Equipment & Instruments,established,,,established,established,
+S&P500,ZION,"ZIONS BANCORPORATION, NATIONAL ASSOCIATION /UT/",2001-06-25,2001,1873.0,128.0,1,False,False,6021.0,,established,,,established,established,https://en.wikipedia.org/wiki/Zions_Bancorporation
+S&P500,ZTS,Zoetis,2013-06-24,2013,1952.0,61.0,1,False,False,2834.0,Pharmaceuticals,established,,,established,established,

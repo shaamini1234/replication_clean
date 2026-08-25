@@ -1,0 +1,17 @@
+# UK Business Dynamism — Python dependencies
+# Install:  pip install -r requirements.txt
+
+# Database
+duckdb
+psycopg2-binary          # Neon / Postgres connection
+
+# Data handling
+pandas
+numpy
+openpyxl                 # read/write the .xlsx source workbooks
+
+# Fetching / sources
+requests
+yfinance                 # market prices for market-cap calc
+lxml                     # iXBRL / HTML parsing
+pdfplumber               # Companies House PDF extraction

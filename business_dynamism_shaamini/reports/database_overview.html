@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Business Dynamism Database — overview</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<style>
+ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
+   max-width:860px;margin:2rem auto;padding:0 1.5rem;color:#1a1a19;line-height:1.6;background:#fff;}
+ h1{font-size:26px;margin:0 0 4px;} h2{font-size:19px;margin:2.6rem 0 6px;border-top:2px solid #f0efe9;padding-top:1.4rem;}
+ h3{font-size:15px;margin:1.6rem 0 4px;} .sub{color:#666;margin:0 0 1.5rem;}
+ .lead{color:#333;font-size:16px;}
+ .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(155px,1fr));gap:12px;margin:1.25rem 0;}
+ .card{background:#f6f5f1;border-radius:10px;padding:.9rem 1.1rem;}
+ .card .lab{font-size:12px;color:#666;margin:0 0 4px;} .card .num{font-size:26px;font-weight:600;margin:0;}
+ .card .note{font-size:12px;color:#777;margin:5px 0 0;}
+ table.inv{border-collapse:collapse;width:100%;font-size:14px;margin:1rem 0;}
+ table.inv th,table.inv td{border-bottom:1px solid #eee;padding:9px 10px;text-align:left;vertical-align:top;}
+ table.inv th{color:#666;font-weight:600;font-size:13px;} table.inv td.n{white-space:nowrap;font-weight:600;}
+ .finding{background:#fff;border:1px solid #e6e5df;border-left:4px solid #d95926;border-radius:0 8px 8px 0;padding:.85rem 1.1rem;margin:1rem 0;}
+ .finding b{color:#b8461f;}
+ .callout{background:#eef4fb;border-radius:8px;padding:.85rem 1.1rem;font-size:14px;color:#254;margin:1rem 0;}
+ .plain{font-size:14px;color:#555;margin:.4rem 0 0;}
+ .chartbox{position:relative;width:100%;height:280px;margin-top:8px;}
+ footer{margin-top:2.5rem;padding-top:1rem;border-top:1px solid #eee;font-size:12px;color:#999;}
+</style></head><body>
+
+<h1>UK Business Dynamism Database</h1>
+<p class="sub">The creation, life and death of British companies — plus a UK &amp; US large-cap layer. One linked database.</p>
+<p class="lead">This brings together official public records into a single database that can follow a company
+from <b>birth</b> (incorporation) through its <b>finances</b> (annual accounts) to its <b>death</b>
+(insolvency) — for essentially the whole UK company population, and links to the FTSE 100 and S&amp;P 500
+for the largest firms. Below: what's in it, then what it already shows.</p>
+
+<h2>What's in the database</h2>
+<div class="grid">
+  <div class="card"><p class="lab">UK companies</p><p class="num">5.7M</p><p class="note">every firm on the register</p></div>
+  <div class="card"><p class="lab">Company accounts</p><p class="num">39M</p><p class="note">annual filings, 2008–2026</p></div>
+  <div class="card"><p class="lab">Insolvencies</p><p class="num">583k</p><p class="note">notices, 1998–2026</p></div>
+  <div class="card"><p class="lab">Listed firms linked</p><p class="num">FTSE + S&P</p><p class="note">back to 1983 / 2000</p></div>
+</div>
+<table class="inv">
+  <thead><tr><th>Dataset</th><th>Size</th><th>Covers</th><th>What it holds</th></tr></thead>
+  <tbody>
+    <tr><td>UK companies register</td><td class="n">5.7M firms</td><td>current</td><td>name, incorporation date (birth), industry (SIC), status</td></tr>
+    <tr><td>Company accounts</td><td class="n">39M filings</td><td>2008–2026</td><td>assets, net worth, employees, and more from every filed set of accounts</td></tr>
+    <tr><td>Insolvency notices</td><td class="n">583k firms</td><td>1998–2026</td><td>date and type of insolvency (liquidation, administration, court order…)</td></tr>
+    <tr><td>Combined firm record</td><td class="n">7.9M firms</td><td>—</td><td>each company's birth, accounts and insolvency joined into one row</td></tr>
+    <tr><td>FTSE 100</td><td class="n">42 years</td><td>1983–2024</td><td>index membership, market caps, and who entered/left each year</td></tr>
+    <tr><td>S&amp;P 500</td><td class="n">1,000+ firms</td><td>2000–2026</td><td>revenue, profit and assets for US large-caps (comparison set)</td></tr>
+  </tbody>
+</table>
+<p class="plain">Everything UK links together by Companies House number, so the register, the accounts, the
+insolvencies and the FTSE 100 can all be queried as one. (S&amp;P 500 sits alongside for US comparison.)</p>
+
+<h2>What it shows — the birth and death of UK firms</h2>
+
+<h3>Company births per year</h3>
+<div class="chartbox"><canvas id="births" role="img" aria-label="UK company incorporations per year rising from 65,000 in 2008 to about 785,000 in 2025."></canvas></div>
+<p class="plain">New company formation has risen steeply — from ~65,000 a year in 2008 to a peak in 2025.
+Nearly every company in the database now has a birth year: about half are exact dates looked up from
+Companies House (with a source link), and the rest are reliable year-estimates derived from the company
+number — each clearly flagged so evidence-grade dates and estimates never get mixed up.</p>
+
+<h3>Company insolvencies per year</h3>
+<div class="chartbox"><canvas id="insolv" role="img" aria-label="Company insolvencies per year 2002 to 2026, spiking at the 2008 crisis and rising sharply from 2022."></canvas></div>
+<div class="callout"><b>The series reproduces real history:</b> low in the mid-2000s, a spike at the 2008 financial
+crisis, calm in the mid-2010s, then a sharp rise from 2022 — a sign the data reflects reality, not noise.</div>
+<div class="finding" style="border-left-color:#1baf7a"><b style="color:#0f6e56">Validated against official Government statistics.</b>
+For 2023 our figures match the Insolvency Service almost exactly, type by type: creditors' liquidations
+21,159 vs official 20,577; compulsory 2,885 vs 2,827; administrations 1,619 vs 1,567 — all within ~3%
+(ours runs a little higher because the Gazette covers the whole UK, the official figure is England &amp; Wales only).</div>
+
+<h3>What insolvent firms look like financially</h3>
+<table class="inv">
+  <thead><tr><th>Group</th><th>Typical assets</th><th>Typical net worth</th><th>Underwater</th></tr></thead>
+  <tbody>
+    <tr><td>Insolvent firms</td><td class="n">£11,900</td><td class="n">£640</td><td class="n">38%</td></tr>
+    <tr><td>Solvent wind-ups</td><td class="n">£152,900</td><td class="n">£151,600</td><td class="n">4%</td></tr>
+    <tr><td>Still trading</td><td class="n">£3,000</td><td class="n">£110</td><td class="n">19%</td></tr>
+  </tbody>
+</table>
+<p class="plain">Insolvent firms are small and financially exhausted; solvent wind-ups are cash-rich companies
+closing by choice. Two genuinely different kinds of exit — and 94% of insolvencies are micro or small firms.</p>
+
+<h3>The balance sheet hollows out before failure</h3>
+<div class="chartbox" style="height:230px;"><canvas id="erode" role="img" aria-label="Median net worth of failing firms falls from 3,250 pounds five years before insolvency to 24 pounds in the final year."></canvas></div>
+<div class="finding">A typical failing firm's net worth drains from ~<b>£3,250 five years out</b> to almost nothing
+(<b>£24</b>) in its final year. Insolvency is rarely sudden — the accounts show it coming.</div>
+
+<h3>Which industries fail most</h3>
+<div class="chartbox" style="height:320px;"><canvas id="industry" role="img" aria-label="Top industries by insolvency: business support, licensed restaurants, building development, pubs, construction."></canvas></div>
+<p class="plain">Hospitality (restaurants, pubs, takeaways) and construction dominate — the sectors most exposed to
+thin margins and demand shocks.</p>
+
+<h2>The large-cap layer — FTSE 100 &amp; S&amp;P 500</h2>
+<p class="plain">For the biggest listed firms the database adds index membership and financials, so large-cap
+dynamism (who rises into and drops out of the top tier) can be tracked too.</p>
+<div class="grid">
+  <div class="card"><p class="lab">FTSE 100 history</p><p class="num">1983–2024</p><p class="note">42 years of constituents</p></div>
+  <div class="card"><p class="lab">FTSE churn</p><p class="num">~12/yr</p><p class="note">firms leaving the index each year</p></div>
+  <div class="card"><p class="lab">S&P 500 revenue '25</p><p class="num">$18.3tn</p><p class="note">combined, up from $12tn in 2018</p></div>
+  <div class="card"><p class="lab">S&P financial depth</p><p class="num">90%+</p><p class="note">revenue &amp; profit coverage</p></div>
+</div>
+<div class="chartbox"><canvas id="sp" role="img" aria-label="Combined S&P 500 revenue rising from 12.2 trillion dollars in 2018 to 18.3 trillion in 2025."></canvas></div>
+
+<h2>Honest limits</h2>
+<p class="plain">Worth stating plainly: <b>insolvency isn't the only way firms close</b> — quiet strike-offs (the
+larger route) aren't in the insolvency data. <b>Revenue/profit is missing for most small UK firms</b> by law,
+so their financial picture leans on the balance sheet. <b>Births undercount older years</b> (failed firms
+leave the register). Work in progress right now is recovering exact birth and dissolution dates for ~250k
+dead firms, and loading the last 1998–2001 insolvency history. The FTSE/S&amp;P figures shown are from the
+current working tables and will be reconciled and verified before publication.</p>
+
+<footer>Sources: Companies House (register + accounts), The Gazette (insolvencies), FTSE 100 &amp; S&amp;P 500 index data. Single linked database (`business_dynamism`). Build in progress — figures are the current snapshot.</footer>
+
+<script>
+function bar(id,labels,data,colors,fmt){new Chart(document.getElementById(id),{type:'bar',
+ data:{labels:labels,datasets:[{data:data,backgroundColor:colors,borderRadius:4}]},
+ options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},
+  tooltip:{callbacks:{label:c=>fmt(c.parsed.y ?? c.parsed.x)}}},
+  scales:{x:{grid:{display:false},ticks:{font:{size:10},autoSkip:false,maxRotation:45,minRotation:45}},
+   y:{grid:{color:'#eee'},ticks:{font:{size:11}}}}}});}
+
+const by=[2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026];
+bar('births',by,[65272,72444,86869,103188,117899,136706,161766,181199,197069,221327,254105,297890,287382,306734,340256,426663,517428,785518,337384],
+ by.map(y=>'#2a78d6'),v=>v.toLocaleString()+' incorporations');
+
+const iy=[2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026];
+bar('insolv',iy,[7171,6165,6384,7295,11304,17316,24345,22582,18377,19135,18075,16902,15822,14473,14109,17334,17696,16784,12548,14865,22772,25526,24480,24383,14627],
+ iy.map(y=> y===2008?'#d95926':(y>=2022?'#eda100':'#2a78d6')),v=>v.toLocaleString()+' insolvencies');
+
+new Chart(document.getElementById('erode'),{type:'bar',
+ data:{labels:['5 yrs before','4','3','2','1','final year'],datasets:[{data:[3249,3009,2215,1238,505,24],
+  backgroundColor:['#2a78d6','#2a78d6','#5a93c9','#c98b6a','#d16f42','#d95926'],borderRadius:4}]},
+ options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},
+  tooltip:{callbacks:{label:c=>'£'+c.parsed.y.toLocaleString()+' median net worth'}}},
+  scales:{x:{grid:{display:false},ticks:{font:{size:11}}},y:{grid:{color:'#eee'},ticks:{callback:v=>'£'+(v/1000).toFixed(1)+'k'}}}}});
+
+new Chart(document.getElementById('industry'),{type:'bar',
+ data:{labels:['Business support','Licensed restaurants','Building development','Other services','Management consultancy','Pubs & bars','Domestic construction','Specialised construction','Take-away food','Road freight'],
+  datasets:[{data:[3810,3494,2630,2099,1964,1851,1770,1541,1467,1458],backgroundColor:'#993c1d',borderRadius:4}]},
+ options:{indexAxis:'y',responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},
+  tooltip:{callbacks:{label:c=>c.parsed.x.toLocaleString()+' insolvencies'}}},
+  scales:{x:{grid:{color:'#eee'},ticks:{font:{size:10}}},y:{grid:{display:false},ticks:{font:{size:11}}}}}});
+
+new Chart(document.getElementById('sp'),{type:'line',
+ data:{labels:[2018,2019,2020,2021,2022,2023,2024,2025],datasets:[{data:[12.18,12.60,12.15,14.33,16.15,16.55,17.30,18.29],
+  borderColor:'#1baf7a',backgroundColor:'rgba(27,175,122,0.1)',fill:true,tension:0.3,pointRadius:3}]},
+ options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},
+  tooltip:{callbacks:{label:c=>'$'+c.parsed.y+'tn combined revenue'}}},
+  scales:{x:{grid:{display:false}},y:{grid:{color:'#eee'},ticks:{callback:v=>'$'+v+'tn'}}}}});
+</script>
+</body></html>

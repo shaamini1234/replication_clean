@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>UK business dynamism — analysis</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<style>
+ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;max-width:860px;margin:1.5rem auto;padding:0 1.5rem;color:#1a1a19;background:#fff;line-height:1.55;}
+ h1{font-size:24px;margin:0 0 2px;} h2{font-size:18px;margin:2.2rem 0 6px;border-top:2px solid #f0efe9;padding-top:1.1rem;}
+ .sub{color:#666;margin:0 0 1rem;font-size:14px;}
+ .chartbox{position:relative;width:100%;height:280px;}
+ .finding{background:#fff;border:1px solid #e6e5df;border-left:4px solid #d95926;border-radius:0 8px 8px 0;padding:.8rem 1.05rem;margin:.8rem 0;font-size:14px;} .finding b{color:#b8461f;}
+ .note{font-size:12px;color:#888;margin:4px 0 0;}
+</style></head><body>
+
+<h1>UK business dynamism — analysis</h1>
+<p class="sub">What the combined births + deaths + accounts data reveals about how UK firms fail. Patterns among observed firms (those that filed accounts or had an insolvency); read the <i>contrasts</i> as robust, absolute levels as indicative.</p>
+
+<h2>1. The "valley of death" — age at insolvency</h2>
+<div class="chartbox"><canvas id="age"></canvas></div>
+<div class="finding">Insolvency risk peaks at <b>ages 2–4</b> and tapers with age; the median failing firm is
+<b>6–7 years old</b> (stable across the 2000s, 2010s and 2020s). Young firms are the fragile ones — survive
+the early years and the hazard drops.</div>
+
+<h2>2. Which industries fail most</h2>
+<div class="chartbox" style="height:340px;"><canvas id="ind"></canvas></div>
+<div class="finding"><b>Hospitality leads by far</b> — licensed restaurants 9.2% and pubs 7.7% insolvent,
+roughly <b>3× the rate</b> of freight or wholesale (~3%). Construction trades cluster in between. Thin margins
+and demand-sensitivity show up exactly where you'd expect.</div>
+
+<h2>3. Insolvency rate by firm size</h2>
+<div class="chartbox" style="height:220px;"><canvas id="size"></canvas></div>
+<div class="finding">Failure is <b>hump-shaped</b>: small (5.3%) and medium (5.1%) firms fail more than micro
+(3.1%) or large (3.0%). Micro firms often sit dormant rather than fail; the largest have buffers; the
+squeezed middle is most exposed.</div>
+<p class="note">Firms with no usable size/accounts data have a much higher observed rate (~13%) — missing
+accounts is itself a distress signal, not a real "size band", so it's excluded from the chart.</p>
+
+<h2>4. Cohort effect — birth year vs early failure</h2>
+<div class="chartbox" style="height:240px;"><canvas id="cohort"></canvas></div>
+<div class="finding">Of firms <b>born</b> in each year, the share insolvent within 5 years: highest for the
+<b>2008 crisis cohort (3.9%)</b>, lowest for the calm mid-2010s (1.8%), and <b>rising again for 2018–19</b>
+cohorts — when you're born into the economy shapes your survival odds.</div>
+
+<h2>5. Geography — where firms are, and where they fail</h2>
+<div class="chartbox" style="height:300px;"><canvas id="geo"></canvas></div>
+<div class="finding">Insolvencies concentrate where companies are — <b>London (137k)</b>, the North West and
+South East lead on count. Registered-office postcode was recoverable for <b>81%</b> of insolvencies.</div>
+<p class="note"><b>Coverage caveat:</b> Scotland (8k) and Northern Ireland (5k) are heavily under-counted —
+their insolvencies mostly use separate procedures/notices outside our 8 codes. This data is
+<b>England &amp; Wales-complete but under-covers Scotland/NI</b>. Region derived from postcode area (approximate;
+precise region needs the ONS Postcode Directory). A true insolvency <i>rate</i> by region needs
+contemporaneous company stock, so counts are shown, not rates.</p>
+
+<h2>6. US vs UK large-caps — value-gap context</h2>
+<p class="sub">Framing after Becker, Benmelech &amp; Monteiro (NBER 2026), "The Value Gap: Europe Cannot Scale":
+US listed value is concentrated in high-growth tech; Europe's isn't. Our S&amp;P 500 vs FTSE 100 tables show the same, for the top indices.</p>
+<h3>Valuation: market value ÷ book assets (2023)</h3>
+<div class="chartbox" style="height:170px;"><canvas id="valq"></canvas></div>
+<div class="finding">US large-caps trade at ~<b>1.0× book assets</b> vs the UK's <b>0.81×</b> — a ~<b>24% valuation
+premium</b>, visible even top-index to top-index. (A Tobin's-Q-style ratio, not the paper's exact Q, but the
+same "value gap" directionally.)</div>
+
+<h3>Firm size: median total assets (2023)</h3>
+<div class="chartbox" style="height:170px;"><canvas id="sizeus"></canvas></div>
+<div class="finding">The median S&amp;P 500 firm holds ~<b>$28bn</b> in assets vs ~<b>$15bn</b> (£11.8bn) for the
+median FTSE 100 firm — US large-caps are roughly <b>2× larger</b>, mirroring the paper's rightward-shifted US
+size distribution.</div>
+<p class="note">Top-index only (S&amp;P ~478 vs FTSE ~52 GBP-reporters), not the paper's all-listed universe;
+UK figures converted at ~£1=$1.27. Directional, not a full replication.</p>
+
+<h3>Technology's share of index market value</h3>
+<div class="chartbox" style="height:200px;"><canvas id="tech"></canvas></div>
+<div class="finding">US large-cap value is <b>~32% technology</b>; UK large-cap value is only <b>~6%</b>. The value gap the
+paper documents is, in large part, a technology-concentration gap — the UK's top index is holding companies,
+pharma, banks and miners, not scale-tech.</div>
+<h3>S&amp;P 500 — market value by sector (2023)</h3>
+<div class="chartbox" style="height:280px;"><canvas id="spsector"></canvas></div>
+<p class="note">UK sector split is omitted as a clean chart: most FTSE firms file a holding-company SIC
+("head office activities" ≈ 57%), so UK SIC is an unreliable sector proxy — the 6% tech figure is a rough lower bound.</p>
+
+<p class="note" style="margin-top:2rem">Source: Companies House (register + accounts) &amp; The Gazette (insolvencies), joined by company number; S&amp;P/FTSE index tables.
+Insolvent = distress deaths only (solvent MVLs excluded). Rates are among observed firms (filed accounts or had an insolvency), so absolute levels read a little high vs the whole register; the age, industry, size and cohort contrasts are the robust signal.</p>
+
+<script>
+new Chart(document.getElementById('valq'),{type:'bar',
+ data:{labels:['US (S&P 500)','UK (FTSE 100)'],datasets:[{data:[1.00,0.81],backgroundColor:['#2a78d6','#993c1d'],borderRadius:3}]},
+ options:{indexAxis:'y',responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>c.parsed.x+'× book assets'}}},
+  scales:{x:{grid:{color:'#eee'},ticks:{callback:v=>v+'×'},max:1.2},y:{grid:{display:false}}}}});
+new Chart(document.getElementById('sizeus'),{type:'bar',
+ data:{labels:['US (S&P 500)','UK (FTSE 100)'],datasets:[{data:[28.2,15.0],backgroundColor:['#2a78d6','#993c1d'],borderRadius:3}]},
+ options:{indexAxis:'y',responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>'$'+c.parsed.x+'bn median assets'}}},
+  scales:{x:{grid:{color:'#eee'},ticks:{callback:v=>'$'+v+'bn'}},y:{grid:{display:false}}}}});
+new Chart(document.getElementById('tech'),{type:'bar',
+ data:{labels:['US (S&P 500)','UK (FTSE 100)'],datasets:[{data:[32,6],backgroundColor:['#2a78d6','#993c1d'],borderRadius:3}]},
+ options:{indexAxis:'y',responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>c.parsed.x+'% of index value is tech'}}},
+  scales:{x:{grid:{color:'#eee'},ticks:{callback:v=>v+'%'},max:40},y:{grid:{display:false}}}}});
+new Chart(document.getElementById('spsector'),{type:'bar',
+ data:{labels:['Information Technology','Health Care','Consumer Discretionary','Financials','Industrials','Communication Services','Consumer Staples','Energy'],
+   datasets:[{data:[32,12,11,10,9,9,6,4],backgroundColor:'#185fa5',borderRadius:2}]},
+ options:{indexAxis:'y',responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>c.parsed.x+'% of S&P value'}}},
+  scales:{x:{grid:{color:'#eee'},ticks:{callback:v=>v+'%'}},y:{grid:{display:false}}}}});
+new Chart(document.getElementById('geo'),{type:'bar',
+ data:{labels:['London','North West','South East','Yorkshire & Humber','West Midlands','East of England','South West','East Midlands','Wales','North East','Scotland*','N. Ireland*'],
+   datasets:[{data:[136694,62463,51230,45059,43099,33151,29620,27182,14193,14032,8079,5152],
+     backgroundColor:(c)=>c.dataIndex>=10?'#c9c4bb':'#185fa5',borderRadius:2}]},
+ options:{indexAxis:'y',responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},
+   tooltip:{callbacks:{label:c=>c.parsed.x.toLocaleString()+' insolvencies'}}},
+  scales:{x:{grid:{color:'#eee'},ticks:{callback:v=>(v/1000)+'k'}},y:{grid:{display:false}}}}});
+new Chart(document.getElementById('age'),{type:'bar',
+ data:{labels:[...Array(26).keys()],datasets:[{data:[1820,20054,37673,42923,40523,37261,32186,27155,22747,19088,15861,13147,11151,9393,7996,6784,5880,4996,4423,3859,3493,3145,2986,2541,2301,2010],
+   backgroundColor:(c)=>c.dataIndex>=2&&c.dataIndex<=4?'#d95926':'#c96f42',borderRadius:2}]},
+ options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{title:i=>'Age '+i[0].label,label:c=>c.parsed.y.toLocaleString()+' insolvencies'}}},
+  scales:{x:{title:{display:true,text:'age at insolvency (years)'},grid:{display:false}},y:{grid:{color:'#eee'},ticks:{callback:v=>(v/1000)+'k'}}}}});
+new Chart(document.getElementById('ind'),{type:'bar',
+ data:{labels:['Licensed restaurants','Public houses & bars','Unlicensed restaurants/cafes','Employment agencies','Commercial construction','Other construction install','Specialised construction','Take-away food','Domestic construction','Building finishing','Wholesale (non-spec.)','Freight by road'],
+   datasets:[{data:[9.2,7.7,4.6,4.4,3.9,3.5,3.5,3.4,3.3,3.3,3.0,2.9],backgroundColor:'#993c1d',borderRadius:2}]},
+ options:{indexAxis:'y',responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>c.parsed.x+'% insolvent'}}},
+  scales:{x:{grid:{color:'#eee'},ticks:{callback:v=>v+'%'}},y:{grid:{display:false}}}}});
+new Chart(document.getElementById('size'),{type:'bar',
+ data:{labels:['micro','small','medium','large'],datasets:[{data:[3.1,5.3,5.1,3.0],backgroundColor:'#4a3aa7',borderRadius:3}]},
+ options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>c.parsed.y+'% insolvent'}}},
+  scales:{x:{grid:{display:false}},y:{grid:{color:'#eee'},ticks:{callback:v=>v+'%'}}}}});
+new Chart(document.getElementById('cohort'),{type:'line',
+ data:{labels:[2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019],datasets:[{data:[3.9,3.7,2.9,2.6,2.3,2.1,1.9,1.8,2.3,1.9,2.3,2.6],borderColor:'#d95926',backgroundColor:'rgba(217,89,38,.1)',fill:true,tension:.3,pointRadius:3}]},
+ options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{title:i=>i[0].label+' cohort',label:c=>c.parsed.y+'% insolvent within 5 yrs'}}},
+  scales:{x:{grid:{display:false}},y:{grid:{color:'#eee'},ticks:{callback:v=>v+'%'},title:{display:true,text:'% insolvent within 5 years'}}}}});
+</script>
+</body></html>

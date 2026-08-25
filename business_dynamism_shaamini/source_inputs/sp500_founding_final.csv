@@ -1,0 +1,1206 @@
+symbol,cik,company_name,founded_year,founded_month,founded_date,founded_source_url,legal_entity_founded_year,confidence,audit_status
+A,1090872,Agilent Technologies,1999.0,,,https://www.agilent.com/about/companyinfo/history/index.html,,verified,VERIFIED
+AABA,1011006,,1994.0,January,,https://en.wikipedia.org/wiki/History_of_Yahoo,,verified,VERIFIED
+AAL,6201,American Airlines Group Inc.,1926.0,,,https://en.wikipedia.org/wiki/American_Airlines,1982.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+AAMRQ,6201,AMR Corporation,1926.0,,,https://en.wikipedia.org/wiki/AMR_Corporation,1982.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+AAP,1158449,ADVANCE AUTO PARTS INC,1932.0,,,https://www.sec.gov/Archives/edgar/vprr/0203/02031447.pdf,,verified,VERIFIED
+AAPL,320193,Apple Inc.,1976.0,April,,https://en.wikipedia.org/wiki/Apple_Inc.,,corrected_earlier,VERIFIED_CORRECTED
+ABBV,1551152,AbbVie,2013.0,,,https://www.abbvie.com/content/dam/abbvie-dotcom/uploads/PDFs/AbbVie_Corporate_Presentation.pdf,,verified,VERIFIED
+ABC,1140859,,1888.0,,,https://www.fundinguniverse.com/company-histories/bergen-brunswig-corporation-history/,1969.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+ABI,77551,Applied Biosystems (Perkin-Elmer),1937.0,,,https://en.wikipedia.org/wiki/PerkinElmer,,verified,VERIFIED
+ABKFQ,874501,,1971.0,,,https://en.wikipedia.org/wiki/Ambac,,verified,VERIFIED
+ABMD,815094,,1981.0,,,https://en.wikipedia.org/wiki/Abiomed,,verified,VERIFIED
+ABNB,1559720,Airbnb,2008.0,,,https://en.wikipedia.org/wiki/Airbnb,,verified,VERIFIED
+ABS,3333,Albertsons Inc.,1939.0,July,,https://en.wikipedia.org/wiki/Albertsons,,verified,VERIFIED
+ABT,1800,Abbott Laboratories,1888.0,,,https://en.wikipedia.org/wiki/Abbott_Laboratories,,verified,VERIFIED
+ABX,1814287,"Abacus Global Management, Inc.",2004.0,,,https://stockanalysis.com/stocks/abx/company/,2020.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+ACAS,817473,,1986.0,,,https://en.wikipedia.org/wiki/American_Capital,,verified,VERIFIED
+ACGL,947484,Arch Capital Group,1995.0,,,,2000.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+ACKH,7431,Armstrong World Industries,1860.0,,,https://www.armstrong.com/en-us/about-us/our-history.html,,verified,VERIFIED
+ACN,1467373,Accenture,1989.0,,,https://en.wikipedia.org/wiki/Accenture,,verified,VERIFIED
+ACS,2135,,1988.0,,,https://en.wikipedia.org/wiki/Affiliated_Computer_Services,,verified,VERIFIED
+ACV,1636289,Virtus Diversified Income & Convertible Fund,2015.0,March,,https://www.sec.gov/Archives/edgar/data/1636289/000119312521111476/d42258dncsr.htm,,verified,VERIFIED
+ADBE,796343,Adobe Inc.,1982.0,December,,https://en.wikipedia.org/wiki/Adobe_Inc.,,verified,VERIFIED
+ADCT,1771910,ADC Therapeutics SA,2011.0,June,,https://www.sec.gov/Archives/edgar/data/1771910/000162828023008056/R8.htm,,verified,VERIFIED
+ADI,6281,Analog Devices,1965.0,,,https://www.analog.com/media/en/other/about-ADI/Ten-Facts-to-Know-About-Analog-Devices.pdf,,verified,VERIFIED
+ADM,7084,Archer Daniels Midland,1902.0,,,https://en.wikipedia.org/wiki/Archer_Daniels_Midland,,verified,VERIFIED
+ADP,8670,Automatic Data Processing,1949.0,,,https://www.sec.gov/Archives/edgar/data/8670/000000867016000053/q4fy1610kinq4fy16.htm,,verified,VERIFIED
+ADS,1101215,,1983.0,April,,https://en.wikipedia.org/wiki/Bread_Financial,,corrected_earlier,VERIFIED_CORRECTED
+ADSK,769397,Autodesk,1982.0,,,https://en.wikipedia.org/wiki/Autodesk,,verified,VERIFIED
+ADT,1703056,ADT Inc.,1874.0,August,,https://en.wikipedia.org/wiki/ADT_Inc.,,verified,VERIFIED
+AEE,1002910,Ameren,1902.0,,,,1997.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+AEP,4904,American Electric Power,1906.0,,,https://en.wikipedia.org/wiki/American_Electric_Power,,verified,VERIFIED
+AES,874761,AES Corporation,1981.0,January,,https://en.wikipedia.org/wiki/AES_Corporation,,verified,VERIFIED
+AET,1122304,Aetna Inc.,1853.0,May,,https://en.wikipedia.org/wiki/Aetna,,verified,VERIFIED
+AFL,4977,Aflac,1955.0,,,https://en.wikipedia.org/wiki/Aflac,,verified,VERIFIED
+AFS.A,,,1897.0,,,https://en.wikipedia.org/wiki/AmerUs,1994.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+AGC,,American General Corporation,1926.0,May,,https://www.tshaonline.org/handbook/entries/american-general-corporation,,verified,VERIFIED
+AGN,850693,Allergan Inc.,1948.0,,,https://en.wikipedia.org/wiki/Allergan,,verified,VERIFIED
+AHM,,H. F. Ahmanson & Co.,1927.0,,,https://en.wikipedia.org/wiki/H._F._Ahmanson_%26_Co.,,verified,VERIFIED
+AIG,5272,American International Group,1919.0,December,,https://en.wikipedia.org/wiki/American_International_Group,,verified,VERIFIED
+AIT,109563,APPLIED INDUSTRIAL TECHNOLOGIES INC,1923.0,,,https://en.wikipedia.org/wiki/Applied_Industrial_Technologies,,verified,VERIFIED
+AIV,922864,APARTMENT INVESTMENT & MANAGEMENT CO,1975.0,,,https://en.wikipedia.org/wiki/Aimco,,verified,VERIFIED
+AIZ,1267238,Assurant,1892.0,,,https://www.forbes.com/companies/assurant/,,verified,VERIFIED
+AJG,354190,Arthur J. Gallagher & Co.,1927.0,October,,https://www.ajg.com/us/-/media/files/us/about-us/gallagher-sustainability-report.pdf,,verified,VERIFIED
+AKAM,1086222,Akamai Technologies,1998.0,August,,https://www.akamai.com/company/leadership/executive-team/tom-leighton,,verified,VERIFIED
+AKS,918160,,1899.0,,,https://en.wikipedia.org/wiki/AK_Steel,,verified,VERIFIED
+AL,4285,Alcan Inc.,1902.0,,,https://en.wikipedia.org/wiki/Alcan,,verified,VERIFIED
+ALB,915913,Albemarle Corporation,1994.0,February,,https://en.wikipedia.org/wiki/Albemarle_Corporation,,verified,VERIFIED
+ALGN,1097149,Align Technology,1997.0,,,https://en.wikipedia.org/wiki/Align_Technology,,verified,VERIFIED
+ALK,766421,"ALASKA AIR GROUP, INC.",1932.0,April,,https://en.wikipedia.org/wiki/Alaska_Airlines,,verified,VERIFIED
+ALL,899051,Allstate,1931.0,,,https://en.wikipedia.org/wiki/Allstate,,verified,VERIFIED
+ALLE,1579241,Allegion,1908.0,,,,2013.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+ALTR,768251,,1983.0,,,https://en.wikipedia.org/wiki/Altera,,verified,VERIFIED
+ALXN,899866,,1992.0,,,https://en.wikipedia.org/wiki/Alexion_Pharmaceuticals,,verified,VERIFIED
+AM,1623925,Antero Midstream Corp,2013.0,,,https://www.sec.gov/Archives/edgar/data/1623925/000130817926000332/am014930-def14a.htm,,verified,VERIFIED
+AMAT,6951,Applied Materials,1967.0,,,https://ir.appliedmaterials.com/static-files/5b4abd79-db7d-4a46-93e9-57f475623cf1,,verified,VERIFIED
+AMCC,711065,,1979.0,,,https://en.wikipedia.org/wiki/Applied_Micro_Circuits_Corporation,,verified,VERIFIED
+AMCR,1748790,Amcor,1860.0,,,https://en.wikipedia.org/wiki/Amcor,1896.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+AMD,2488,Advanced Micro Devices,1969.0,,,https://www.amd.com/content/dam/amd/en/documents/corporate/cr/amd-cr2019-global.pdf,,verified,VERIFIED
+AME,1037868,Ametek,1930.0,,,https://en.wikipedia.org/wiki/Ametek,,verified,VERIFIED
+AMG,1004434,"AFFILIATED MANAGERS GROUP, INC.",1993.0,December,,https://en.wikipedia.org/wiki/Affiliated_Managers_Group,,verified,VERIFIED
+AMGN,318154,Amgen,1980.0,April,,https://www.amgen.com/about/amgen-history,,verified,VERIFIED
+AMH,1562401,American Homes 4 Rent,2012.0,October,,https://www.sec.gov/Archives/edgar/data/1562401/000156240118000029/amh12311710k.htm,,verified,VERIFIED
+AMP,820027,Ameriprise Financial,1894.0,,,https://www.ameriprise.com/about/our-company,,verified,VERIFIED
+AMT,1053507,American Tower,1995.0,,,https://en.wikipedia.org/wiki/American_Tower,,verified,VERIFIED
+AMTM,2011286,"Amentum Holdings, Inc.",2020.0,February,,https://en.wikipedia.org/wiki/Amentum_Holdings,,verified,VERIFIED
+AMZN,1018724,Amazon,1994.0,,,https://www.investopedia.com/amazon-stock-amzn-5094245,,verified,VERIFIED
+AN,350698,"AUTONATION, INC.",1996.0,,,https://en.wikipedia.org/wiki/AutoNation,,verified,VERIFIED
+ANDV,50104,,1968.0,,,https://en.wikipedia.org/wiki/Tesoro_Corporation,,verified,VERIFIED
+ANDW,317093,Andrew Corporation,1937.0,January,,https://en.wikipedia.org/wiki/Andrew_Corporation,,verified,VERIFIED
+ANET,1596532,Arista Networks,2004.0,,,,2008.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+ANF,1018840,ABERCROMBIE & FITCH CO /DE/,1892.0,,,https://en.wikipedia.org/wiki/Abercrombie_%26_Fitch,,verified,VERIFIED
+ANRZQ,1301063,,2002.0,,,https://en.wikipedia.org/wiki/Alpha_Natural_Resources,,verified,VERIFIED
+ANSS,1013462,,1970.0,,,https://en.wikipedia.org/wiki/Ansys,,verified,VERIFIED
+ANTM,1156039,,1946.0,,,https://en.wikipedia.org/wiki/Elevance_Health,,verified,VERIFIED
+ANV,,Allied Nevada Gold Corp,2006.0,September,,https://www.sec.gov/Archives/edgar/data/1376610/000119312508008886/ds1.htm,,verified,VERIFIED
+AON,315293,Aon plc,1982.0,,,https://en.wikipedia.org/wiki/Aon_(company),,verified,VERIFIED
+AOS,91142,A. O. Smith,1874.0,,,https://en.wikipedia.org/wiki/A._O._Smith,,corrected_earlier,VERIFIED_CORRECTED
+APA,1841666,APA Corporation,1954.0,,,,2021.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+APC,2080921,ARKO Petroleum Corp.,2003.0,,,https://simplywall.st/stocks/us/retail/nasdaq-apc/arko-petroleum/information,2025.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+APCC,835910,,1981.0,,,https://www.sec.gov/Archives/edgar/data/835910/000104746905006806/a2153699z10-k.htm,,verified,VERIFIED
+APD,2969,Air Products,1940.0,,,https://www.sec.gov/Archives/edgar/data/2969/000000296925000055/apd-20250930.htm,,verified,VERIFIED
+APH,820313,Amphenol,1932.0,,,https://www.amphenol.com/docs/annual-report,,verified,VERIFIED
+APO,1858681,Apollo Global Management,1990.0,,,https://www.apollo.com/content/dam/apolloaem/documents/governance/Apollo%20Impact%20Platform%20Disclosure%20Statement%20October%202023%20.pdf,,verified,VERIFIED
+APOL,929887,,1973.0,,,https://en.wikipedia.org/wiki/Apollo_Education_Group,,corrected_earlier,VERIFIED_CORRECTED
+APP,1751008,AppLovin,2012.0,,,https://www.applovin.com/en/about,,verified,VERIFIED
+APTV,1521332,Aptiv,1994.0,,,https://en.wikipedia.org/wiki/Aptiv,,verified,VERIFIED
+AR,1433270,ANTERO RESOURCES Corp,2002.0,,,https://en.wikipedia.org/wiki/Antero_Resources,,verified,VERIFIED
+ARC,,Atlantic Richfield (ARCO),1966.0,January,,https://en.wikipedia.org/wiki/ARCO,,verified,VERIFIED
+ARE,1035443,Alexandria Real Estate Equities,1994.0,,,https://en.wikipedia.org/wiki/Alexandria_Real_Estate_Equities,,verified,VERIFIED
+ARES,1176948,Ares Management,1977.0,,,,1997.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+ARG,804212,,1982.0,,,https://en.wikipedia.org/wiki/Airgas,,verified,VERIFIED
+ARNC,4281,Arconic (formerly Alcoa),1888.0,,,https://en.wikipedia.org/wiki/Alcoa,,verified,VERIFIED
+AS,1988894,"Amer Sports, Inc.",1950.0,,,https://en.wikipedia.org/wiki/Amer_Sports,,verified,VERIFIED
+ASC,1577437,Ardmore Shipping Corp,2010.0,,,https://stockanalysis.com/stocks/asc/company/,2013.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+ASH,1674862,ASHLAND INC.,1924.0,,,https://en.wikipedia.org/wiki/Ashland_Global,,verified,VERIFIED
+ASN,1156826,,,,,,,unresolved_blank,AUDITED_UNRESOLVED_SOURCE_CONTEXT
+ASND,1612042,Ascendis Pharma A/S,2007.0,,,https://ascendispharma.com/about-us/,,verified,VERIFIED
+ASO,1817358,"Academy Sports & Outdoors, Inc.",1938.0,,,https://en.wikipedia.org/wiki/Academy_Sports_+_Outdoors,,verified,VERIFIED
+AT,65873,Alltel Corp,1943.0,,,https://en.wikipedia.org/wiki/Alltel,,verified,VERIFIED
+ATGE,730464,,1931.0,,,https://en.wikipedia.org/wiki/DeVry_University,,verified,VERIFIED
+ATI,1018963,ATI INC,1996.0,,,https://en.wikipedia.org/wiki/Allegheny_Technologies,,verified,VERIFIED
+ATO,731802,Atmos Energy,1906.0,,,,1983.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+ATVI,718877,,1979.0,October,,https://en.wikipedia.org/wiki/Activision,,verified,VERIFIED
+AV,1116521,,2000.0,,,https://en.wikipedia.org/wiki/Avaya,,verified,VERIFIED
+AVB,915912,AvalonBay Communities,1978.0,,,https://www.sec.gov/Archives/edgar/data/915912/000091591225000010/avb-20241231.htm,,verified,VERIFIED
+AVGO,1730168,Broadcom,1961.0,,,,2018.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+AVP,8868,Avon Products,1886.0,,,https://en.wikipedia.org/wiki/Avon_Products,,verified,VERIFIED
+AVY,8818,Avery Dennison,1935.0,,,https://en.wikipedia.org/wiki/Avery_Dennison,,verified,VERIFIED
+AW,848865,,1987.0,,,https://www.fundinguniverse.com/company-histories/allied-waste-industries-inc-history/,,verified,VERIFIED
+AWE,1138234,,1966.0,,,https://en.wikipedia.org/wiki/McCaw_Cellular_Communications,,corrected_earlier,VERIFIED_CORRECTED
+AWK,1410636,American Water Works,1886.0,,,https://en.wikipedia.org/wiki/American_Water_Works,,verified,VERIFIED
+AXON,1069183,Axon Enterprise,1993.0,September,1993-09-07,https://www.axon.com/news/about/founders-day,,verified,VERIFIED
+AXP,4962,American Express,1850.0,,,https://en.wikipedia.org/wiki/American_Express,,verified,VERIFIED
+AYE,3673,,1907.0,January,,https://en.wikipedia.org/wiki/Allegheny_Energy,,verified,VERIFIED
+AYI,1144215,ACUITY INC. (DE),1919.0,,,https://en.wikipedia.org/wiki/Acuity_Brands,,verified,VERIFIED
+AZA.A,4310,ALZA Corporation,1968.0,,,https://en.wikipedia.org/wiki/Alza,,verified,VERIFIED
+AZO,866787,AutoZone,1979.0,,,https://www.autozone.com/company/about-autozone/company-culture/history,,verified,VERIFIED
+BA,12927,Boeing,1916.0,,,https://www.boeing.com/features/2026/02/how-william-boeings-foresight-kept-the-company-close-to-dc,,verified,VERIFIED
+BAC,70858,Bank of America,1904.0,October,,https://en.wikipedia.org/wiki/Bank_of_America_(1904%E2%80%931998),,verified,VERIFIED
+BALL,9389,Ball Corporation,1880.0,,,https://investors.ball.com/sec-filings/all-sec-filings/content/0001104659-26-017410/ball-20251231x10k.htm,,verified,VERIFIED
+BAX,10456,Baxter International,1931.0,October,1931-10-19,https://www.baxter.com/sites/g/files/ebysai746/files/2022-05/Certificate_of_Incorporation_2022.pdf,,verified,VERIFIED
+BAY,,Bay Networks,1994.0,July,,https://en.wikipedia.org/wiki/Bay_Networks,,verified,VERIFIED
+BBBY,1130713,"BED BATH & BEYOND, INC.",1971.0,,,https://s7d9.scene7.com/is/content/BedBathandBeyond/PDF/2015_Corporate_Responsibility_Report.pdf,,verified,VERIFIED
+BBI,,Blockbuster Inc.,1985.0,,,https://en.wikipedia.org/wiki/Blockbuster_(retailer),,verified,VERIFIED
+BBT,1108134,Beacon Financial Corp,,,,,,unresolved_blank,AUDITED_UNRESOLVED
+BBWI,701985,"Bath & Body Works, Inc.",1990.0,,,https://en.wikipedia.org/wiki/Bath_%26_Body_Works,,verified,VERIFIED
+BBY,764478,Best Buy,1966.0,,1966,https://partners.bestbuy.com/-/credit-app-data-and-trade,,verified,VERIFIED
+BC,14930,BRUNSWICK CORP,1845.0,September,,https://en.wikipedia.org/wiki/Brunswick_Corporation,,verified,VERIFIED
+BCO,78890,BRINKS CO,1859.0,,,https://en.wikipedia.org/wiki/Brink%27s,,verified,VERIFIED
+BCR,9892,"C.R. Bard, Inc.",1907.0,,,https://en.wikipedia.org/wiki/Bard_(company),,verified,VERIFIED
+BDK,12355,Black & Decker,1910.0,,,https://en.wikipedia.org/wiki/Black%2BDecker,,verified,VERIFIED
+BDX,10795,Becton Dickinson,1897.0,,1897,https://www.bd.com/content/dam/bd-assets/bd-com/en-us/document/policy/code-of-conduct/code-of-conduct-english.pdf,,verified,VERIFIED
+BEAM,1745999,Beam Therapeutics Inc.,2017.0,,,https://en.wikipedia.org/wiki/Beam_Therapeutics,,verified,VERIFIED
+BEN,38777,Franklin Resources,1947.0,,,https://investors.franklinresources.com/news-center/press-releases/press-release-details/2022/Franklin-Templeton-to-Celebrate-Its-75th-Anniversary-with-New-York-Stock-Exchange-Bell-Ringing-on-November-15-2022/default.aspx,,verified,VERIFIED
+BEV,,Beverly Enterprises Inc.,1964.0,,,https://www.encyclopedia.com/social-sciences-and-law/economics-business-and-labor/businesses-and-occupations/beverly-enterprises-inc,,verified,VERIFIED
+BF.B,14693,Brown–Forman,1870.0,,,https://www.brown-forman.com/about/history,,verified,VERIFIED
+BFI,,Browning-Ferris Industries,1967.0,,,https://www.fundinguniverse.com/company-histories/browning-ferris-industries-inc-history/,1970.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+BFO,,Bestfoods (CPC International),1906.0,January,,https://www.fundinguniverse.com/company-histories/bestfoods-history/,,verified,VERIFIED
+BG,1996862,Bunge Global,1818.0,,1818,https://www.bunge.com/we-are-bunge/our-history,,verified,VERIFIED
+BGEN,714655,,1978.0,,,https://en.wikipedia.org/wiki/Biogen,,verified,VERIFIED
+BGG,14195,Briggs & Stratton,1908.0,,,https://en.wikipedia.org/wiki/Briggs_%26_Stratton,,verified,VERIFIED
+BHF,1685040,"Brighthouse Financial, Inc.",2017.0,,,https://en.wikipedia.org/wiki/Brighthouse_Financial,,verified,VERIFIED
+BHGE,808362,Baker Hughes (a GE Company),1907.0,,,https://en.wikipedia.org/wiki/Baker_Hughes,2016.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+BHMSQ,,Bethlehem Steel Corporation,1857.0,,,https://en.wikipedia.org/wiki/Bethlehem_Steel,1904.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+BIG,768835,,1967.0,,,https://en.wikipedia.org/wiki/Big_Lots,,verified,VERIFIED
+BIIB,875045,Biogen,1978.0,,,https://www.biogen.com/company/history.html,,verified,VERIFIED
+BIO,12208,"BIO-RAD LABORATORIES, INC.",1952.0,,,https://en.wikipedia.org/wiki/Bio-Rad_Laboratories,,verified,VERIFIED
+BJS,864328,,1872.0,,,https://en.wikipedia.org/wiki/BJ_Energy_Solutions,,verified,VERIFIED
+BK,9626,Bank of New York Mellon,1784.0,,,https://en.wikipedia.org/wiki/BNY,2007.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+BKB,,BankBoston,1784.0,February,,https://en.wikipedia.org/wiki/BankBoston,,verified,VERIFIED
+BKNG,1075531,Booking Holdings,1996.0,,,,1998.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+BKR,1701605,Baker Hughes,2016.0,October,2016-10-28,https://www.sec.gov/Archives/edgar/data/1701605/000170160524000111/ex31fourthamendedandrestat.htm,,corrected_earlier,VERIFIED_CORRECTED
+BLDR,1316835,Builders FirstSource,1998.0,,1998,https://www.bldr.com/who-we-are,,verified,VERIFIED
+BLK,2012383,BlackRock,1988.0,,1988,https://www.blackrock.com/uk/literature/annual-report/blackrock-life-limited-solvency-and-financial-condition-report-31-december-2024.pdf,,verified,VERIFIED
+BLL,9389,Ball Corporation,1880.0,,,https://en.wikipedia.org/wiki/Ball_Corporation,,verified,VERIFIED
+BLS,732713,BellSouth Corporation,1983.0,December,,https://en.wikipedia.org/wiki/BellSouth,,verified,VERIFIED
+BLY,,Bally Manufacturing Corporation,1932.0,January,,https://en.wikipedia.org/wiki/Bally_Manufacturing,,verified,VERIFIED
+BMC,835729,,1980.0,,,https://en.wikipedia.org/wiki/BMC_Software,,verified,VERIFIED
+BMET,351346,"Biomet, Inc.",1977.0,,,https://en.wikipedia.org/wiki/Biomet,,verified,VERIFIED
+BMGCA,,,,,,,,unresolved_blank,AUDITED_UNRESOLVED
+BMS,11199,"Bemis Company, Inc.",1858.0,,,https://en.wikipedia.org/wiki/Bemis_Company,,verified,VERIFIED
+BMY,14272,Bristol Myers Squibb,1887.0,,,https://en.wikipedia.org/wiki/Bristol_Myers_Squibb,,verified,VERIFIED
+BNI,934612,Burlington Northern Santa Fe,1849.0,,,https://en.wikipedia.org/wiki/BNSF_Railway,1996.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+BNL,1424182,"Broadstone Net Lease, Inc.",2007.0,October,2007-10-18,https://broadstone.com/wp-content/uploads/2026/02/Latest_10-K.pdf,,verified,VERIFIED
+BNY,1390777,BNY Mellon,1784.0,February,1784-02-23,https://www.bny.com/assets/wealth/pdf-library/240-history-timeline.pdf,,verified,VERIFIED
+BOAT,,"Boatmen's Bancshares, Inc.",1847.0,,,https://en.wikipedia.org/wiki/Boatmen%27s_Bancshares,,verified,VERIFIED
+BOL,10427,Bausch & Lomb,1853.0,,,https://en.wikipedia.org/wiki/Bausch_%26_Lomb,,verified,VERIFIED
+BR,1383312,Broadridge Financial Solutions,1962.0,,,https://www.broadridge.com/about/history,,verified,VERIFIED
+BRCM,1054374,,1991.0,,,https://www.britannica.com/money/Broadcom-Inc,,verified,VERIFIED
+BRK.B,1067983,Berkshire Hathaway,1839.0,,,,1998.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+BRL,10081,,1970.0,,,https://en.wikipedia.org/wiki/Barr_Pharmaceuticals,,verified,VERIFIED
+BRO,79282,Brown & Brown,1939.0,,,https://www.sec.gov/Archives/edgar/data/79282/000095017025049525/bro-ex99_1.htm,,verified,VERIFIED
+BSC,777001,,1923.0,May,,https://en.wikipedia.org/wiki/Bear_Stearns,,verified,VERIFIED
+BSX,885725,Boston Scientific,1979.0,,,https://www.sec.gov/Archives/edgar/data/929987/000134100406000325/gdt425.htm,,verified,VERIFIED
+BT,,Bankers Trust,1903.0,,,https://en.wikipedia.org/wiki/Bankers_Trust,,verified,VERIFIED
+BTUUQ,1064728,,1883.0,,,https://www.encyclopedia.com/books/politics-and-business-magazines/peabody-energy-corporation,,verified,VERIFIED
+BUD,1668717,Anheuser-Busch InBev SA/NV,1852.0,,,https://en.wikipedia.org/wiki/Anheuser-Busch,,verified,VERIFIED
+BVSN,920448,,1993.0,May,,https://en.wikipedia.org/wiki/BroadVision,,verified,VERIFIED
+BWA,908255,BORGWARNER INC,1880.0,,,https://en.wikipedia.org/wiki/BorgWarner,1928.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+BX,1393818,Blackstone Inc.,1985.0,,,https://ir.blackstone.com/files/doc_financials/annual_reports/BX_07AR_online.pdf,,verified,VERIFIED
+BXLT,1620546,,2015.0,July,,https://en.wikipedia.org/wiki/Baxalta,,verified,VERIFIED
+BXP,1037540,"BXP, Inc.",1970.0,,,https://www.bxp.com/wp-content/uploads/2021/02/2016_Sustainability_Report.pdf,,verified,VERIFIED
+C,831001,Citigroup,1998.0,,1998,https://www.citigroup.com/rcs/citigpa/storage/public/ar12c_en.pdf,,verified,VERIFIED_CORRECTED
+CA,356028,"CA, Inc. (Computer Associates)",1976.0,,,https://en.wikipedia.org/wiki/CA_Technologies,,verified,VERIFIED
+CAG,23217,Conagra Brands,1919.0,,,https://www.sec.gov/Archives/edgar/data/23217/000110465904022554/a04-7990_110k.htm,,verified,VERIFIED
+CAH,721371,Cardinal Health,1971.0,,1971,https://newsroom.cardinalhealth.com/2021-01-07-Cardinal-Health-celebrates-50th-anniversary%2C-launches-year-of-service,,verified,VERIFIED
+CAL,14707,CALERES INC,1878.0,,,https://en.wikipedia.org/wiki/Caleres,,verified,VERIFIED
+CAM,941548,,1920.0,,,https://en.wikipedia.org/wiki/Cameron_International,,verified,VERIFIED
+CAR,723612,"AVIS BUDGET GROUP, INC.",1946.0,,,https://en.wikipedia.org/wiki/Avis_Car_Rental,,verified,VERIFIED
+CARR,1783180,Carrier Global,1915.0,June,,https://en.wikipedia.org/wiki/Carrier_Global,,verified,VERIFIED
+CASY,726958,Casey's,1967.0,,,https://www.sec.gov/Archives/edgar/data/726958/000072695819000078/casy-2019430x10k.htm,,verified,VERIFIED
+CAT,18230,Caterpillar Inc.,1925.0,,,,1986.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+CB,896159,Chubb Limited,1985.0,,,https://www.sec.gov/Archives/edgar/data/896159/000089615926000005/cb-20251231.htm,,verified,VERIFIED
+CBB,,Cincinnati Bell Inc.,1873.0,July,,https://en.wikipedia.org/wiki/Cincinnati_Bell,,verified,VERIFIED
+CBE,1141982,Cooper Industries,1833.0,,,https://en.wikipedia.org/wiki/Cooper_Industries,,verified,VERIFIED
+CBH,715096,,1973.0,,,https://en.wikipedia.org/wiki/Commerce_Bancorp,,verified,VERIFIED
+CBOE,1374310,Cboe Global Markets,1973.0,,,,2006.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+CBRE,1138118,CBRE Group,1906.0,,1906,https://mediaassets.cbre.com/-/media/project/cbre/dotcom/asiapacific/japan-emerald/about-us/culture-and-history/cbre_japan_history_2020_en.pdf,,verified,VERIFIED
+CBS,813828,CBS Corporation,1927.0,January,,https://en.wikipedia.org/wiki/CBS,,verified,VERIFIED
+CBSS,18568,,1964.0,,,https://en.wikipedia.org/wiki/Compass_Bancshares,1970.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+CCB,1437958,COASTAL FINANCIAL CORP,1997.0,,,https://www.cbinsights.com/company/coastal-financial,2003.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+CCE,1491675,,1986.0,,,https://en.wikipedia.org/wiki/Coca-Cola_Enterprises,,verified,VERIFIED
+CCEP,1650107,COCA-COLA EUROPACIFIC PARTNERS plc,2016.0,May,,https://en.wikipedia.org/wiki/Coca-Cola_Europacific_Partners,,verified,VERIFIED
+CCI,1051470,Crown Castle,1994.0,,,https://www.crowncastle.com/sustainability/resources/environmental-data-tables-2024.pdf,,verified,VERIFIED
+CCK,1219601,"CROWN HOLDINGS, INC.",1892.0,,,https://en.wikipedia.org/wiki/Crown_Holdings,,verified,VERIFIED
+CCL,815097,Carnival Corporation,1972.0,,,https://www.sec.gov/Archives/edgar/data/815097/000081509720000003/a2019form10-kfrontpart.htm,,verified,VERIFIED
+CCTYQ,104599,"Circuit City Stores, Inc.",1949.0,,,https://en.wikipedia.org/wiki/Circuit_City,,verified,VERIFIED
+CCU,888746,UNITED BREWERIES CO INC,1902.0,,,https://en.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_de_las_Cervecer%C3%ADas_Unidas,,verified,VERIFIED
+CDAY,1725057,,1957.0,,,https://en.wikipedia.org/wiki/Dayforce,1992.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+CDNS,813672,Cadence Design Systems,1988.0,,1988,https://login.cadence.com/content/dam/cadence-www/global/en_US/documents/company/cadence-fact-sheet.pdf,,verified,VERIFIED
+CDW,1402057,CDW Corporation,1984.0,,1984,https://webobjects.cdw.com/webobjects/downloads/investor/annualreports/2006.pdf,,verified,VERIFIED
+CE,1306830,Celanese Corp,1918.0,,,https://en.wikipedia.org/wiki/Celanese,,verified,VERIFIED
+CEG,1868275,Constellation Energy,1999.0,,,,2022.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+CELG,816284,,1986.0,,,https://en.wikipedia.org/wiki/Celgene,,verified,VERIFIED
+CEN,109758,Arbitron Inc.,1949.0,,,https://en.wikipedia.org/wiki/Nielsen_Audio,,verified,VERIFIED
+CEPH,873364,,1987.0,,,https://en.wikipedia.org/wiki/Cephalon_(company),,verified,VERIFIED
+CERN,804753,,1979.0,,,https://www.linkedin.com/company/cerner-corporation,,verified,VERIFIED
+CF,1324404,CF Industries,1946.0,,1946,https://www.cfindustries.com/globalassets/cf-industries/media/documents/reports/annual-reports/ar2008.pdf,,verified,VERIFIED
+CFC,25191,,1969.0,,,https://en.wikipedia.org/wiki/Bank_of_America_Home_Loans,,verified,VERIFIED
+CFG,759944,Citizens Financial Group,1828.0,,,https://investor.citizensbank.com/about-us/our-company.html,,verified,VERIFIED
+CFL,,,,,,,,unresolved_blank,AUDITED_UNRESOLVED
+CFN,1457543,,2009.0,,,https://en.wikipedia.org/wiki/CareFusion,,verified,VERIFIED
+CG,1527166,Carlyle Group Inc.,1987.0,,,https://en.wikipedia.org/wiki/The_Carlyle_Group,,verified,VERIFIED
+CGP,21267,Coastal Corporation,1955.0,,,https://en.wikipedia.org/wiki/Coastal_Corporation,,verified,VERIFIED
+CHA,2013649,Chagee Holdings Ltd.,2017.0,June,,https://en.wikipedia.org/wiki/Chagee,,verified,VERIFIED
+CHD,313927,Church & Dwight,1846.0,,,https://churchdwight.com/investors/company-profile.aspx,,corrected_earlier,VERIFIED_CORRECTED_PRIMARY
+CHIR,706539,,1981.0,,,https://en.wikipedia.org/wiki/Chiron_Corporation,,verified,VERIFIED
+CHK,895126,,1989.0,,,https://en.wikipedia.org/wiki/Expand_Energy,,verified,VERIFIED
+CHRS,1512762,"Coherus Oncology, Inc.",2010.0,September,,https://www.sec.gov/Archives/edgar/data/1512762/000156459015001896/chrs-10k_20141231.htm,,verified,VERIFIED
+CHRW,1043277,C.H. Robinson,1905.0,,,https://www.sec.gov/Archives/edgar/data/1043277/000104327718000007/chrw-10k2017.htm,,verified,VERIFIED
+CHTR,1091667,Charter Communications,1993.0,,,https://www.sec.gov/Archives/edgar/data/1091667/000109166726000017/chtr-20251231.htm,,verified,VERIFIED
+CI,1739940,Cigna,1982.0,,,https://www.thecignagroup.com/about-us/milestones,,verified,VERIFIED
+CIEN,936395,Ciena,1992.0,11,1992-11-08,https://www.ciena.com/insights/articles/25-Big-Milestones-from-our-25-Years-at-Ciena.html,,verified,VERIFIED
+CIN,899652,Cinergy Corp,1994.0,,,https://en.wikipedia.org/wiki/Cinergy,,verified,VERIFIED
+CINF,20286,Cincinnati Financial,1950.0,,,,1968.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+CIT.A,20388,,1908.0,February,,https://en.wikipedia.org/wiki/CIT_Group,,verified,VERIFIED
+CITGQ,1171825,,1908.0,February,,https://en.wikipedia.org/wiki/CIT_Group,,verified,VERIFIED
+CL,21665,Colgate-Palmolive,1806.0,,,https://www.sec.gov/Archives/edgar/data/0000021665/000002166526000013/a2025annualreportfinal.pdf,,verified,VERIFIED
+CLF,764065,CLEVELAND-CLIFFS INC.,1847.0,,,https://en.wikipedia.org/wiki/Cleveland-Cliffs,,verified,VERIFIED
+CLX,21076,Clorox,1913.0,,,https://www.thecloroxcompany.com/wp-content/uploads/2024/05/Clorox_Conflict_Minerals_Disclosure.pdf,,verified,VERIFIED
+CMA,28412,Comerica Incorporated,1849.0,August,,https://en.wikipedia.org/wiki/Comerica,,verified,VERIFIED
+CMB,,Chase Manhattan Corporation,,,,,,unresolved_blank,AUDITED_UNRESOLVED
+CMCSA,1166691,Comcast,1963.0,,,https://www.cmcsa.com/static-files/3d37fe24-bb88-4d1e-a4a4-84df5a3c34ce,,verified,VERIFIED
+CMCSK,,,1963.0,,,https://en.wikipedia.org/wiki/Comcast,,verified,VERIFIED
+CME,1156375,CME Group,1848.0,,,,2001.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+CMG,1058090,Chipotle Mexican Grill,1993.0,,,https://ir.chipotle.com/2021-07-08-Chipotle-Leverages-TikTok-Resumes-To-Help-Grow-Its-Purpose-Driven-Workforce,,verified,VERIFIED
+CMI,26172,Cummins,1919.0,,,https://www.cummins.com/sites/default/files/files/reports/2012_2013_cummins_sustainability_report_full.pdf,,verified,VERIFIED
+CMS,811156,CMS Energy,1886.0,,,,1987.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+CMVT,803014,,,,,,,unresolved_blank,AUDITED_UNRESOLVED_SOURCE_CONTEXT
+CMX,1000736,,1979.0,,,https://en.wikipedia.org/wiki/CVS_Caremark,1993.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+CNC,1071739,Centene Corporation,1984.0,,,https://www.centene.com/content/dam/centenedotcom/documents/Centene-Corporate-Responsibility-2024.pdf,,verified,VERIFIED
+CNG,23738,Consolidated Natural Gas Company,1942.0,,,https://www.fundinguniverse.com/company-histories/consolidated-natural-gas-company-history/,,verified,VERIFIED
+CNP,1130310,CenterPoint Energy,1882.0,,,,2002.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+CNW,,Con-way Inc.,1929.0,,,https://en.wikipedia.org/wiki/Con-way,,verified,VERIFIED
+CNX,1070412,CNX Resources Corp,1860.0,,,https://en.wikipedia.org/wiki/CNX_Resources,,verified,VERIFIED
+CNXT,1069353,,1999.0,January,,https://en.wikipedia.org/wiki/Conexant,,verified,VERIFIED
+COC.B,1066806,,,,,,,unresolved_blank,AUDITED_UNRESOLVED
+COF,927628,Capital One,1994.0,July,1994-07-21,https://www.sec.gov/Archives/edgar/data/927628/000092838502000920/d10k.htm,,verified,VERIFIED_CORRECTED
+COG,858470,,1989.0,,,https://www.ogj.com/general-interest/companies/article/17247867/cabots-walen-us-sweet-gas-plays-remain-attractive,,verified,VERIFIED
+COHR,820318,Coherent Corp.,1971.0,,,https://www.coherent.com/news/press-releases/ii-vi-changes-name-to-coherent-and-launches-new-brand,,verified,VERIFIED
+COIN,1679788,Coinbase,2012.0,,,,2014.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+COL,1137411,,1933.0,,,https://en.wikipedia.org/wiki/Rockwell_Collins,,verified,VERIFIED
+COMS,738076,3Com Corporation,1979.0,,,https://en.wikipedia.org/wiki/3Com,,verified,VERIFIED
+COO,711404,Cooper Companies (The),1958.0,,,https://www.forbes.com/companies/cooper-companies/,,verified,VERIFIED
+COP,1163165,ConocoPhillips,2002.0,,,https://www.sec.gov/Archives/edgar/data/784977/000078497706000019/frm10k05.pdf,,verified,VERIFIED
+COR,1140859,Cencora,1947.0,,,https://www.forbes.com/companies/cencora/,,corrected_earlier,VERIFIED_CORRECTED_PRIMARY
+COST,909832,Costco,1976.0,,,,1993.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+COTY,1024305,COTY INC.,1904.0,,,https://en.wikipedia.org/wiki/Coty,,verified,VERIFIED
+COV,1385187,Covidien Ltd.,2007.0,,,https://en.wikipedia.org/wiki/Covidien,,verified,VERIFIED
+CPAY,1175454,Corpay,2000.0,,,https://www.corpay.com/en-NZ/corporate-newsroom/3s8nI2cPnCdw6IAZABadBl/corpay-2024-mid-year-in-review,,verified,VERIFIED
+CPB,16732,Campbell's Company (The),1869.0,,,https://www.thecampbellscompany.com/wp-content/uploads/2024/12/Food-for-Thought_Fall-2024_final.pdf,,verified,VERIFIED
+CPGX,1629995,,2014.0,September,,https://www.sec.gov/Archives/edgar/data/1629995/000119312515210599/d891954dex991.htm,,corrected_earlier,VERIFIED_CORRECTED
+CPNLQ,916457,,1984.0,,,https://en.wikipedia.org/wiki/Calpine,,verified,VERIFIED
+CPQ,714154,Compaq Computer Corporation,1982.0,,,https://www.britannica.com/money/Compaq,,verified,VERIFIED
+CPRI,1530721,Capri Holdings Ltd,1981.0,,,https://en.wikipedia.org/wiki/Capri_Holdings,,verified,VERIFIED
+CPRT,900075,Copart,1982.0,,,https://www.copart.com/content/us/en/pdfs/annual-reports/2017-copart-annual-report-c.pdf,,verified,VERIFIED
+CPT,906345,Camden Property Trust,1981.0,,,,1993.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+CPWR,827099,Ocean Thermal Energy Corp,1998.0,,,https://stockanalysis.com/quote/otc/CPWR/company/,,verified,VERIFIED
+CR,1944013,Crane Co,1855.0,,,https://en.wikipedia.org/wiki/Crane_Co.,,verified,VERIFIED
+CRH,849395,CRH plc,1970.0,,,https://www.crh.com/wp-content/uploads/2025/06/2010-csr-report-2-1-1-1-1-1-1.pdf,,verified,VERIFIED
+CRL,1100682,Charles River Laboratories,1947.0,,,https://www.sec.gov/Archives/edgar/data/1100682/000110465923038822/tm237823d2_ars.pdf,,verified,VERIFIED
+CRM,1108524,Salesforce,1999.0,,,https://www.sec.gov/Archives/edgar/data/1108524/000119312524140606/d753990dars.pdf,,verified,VERIFIED
+CRR,,CARBO Ceramics Inc.,,,,,,unresolved_blank,AUDITED_UNRESOLVED
+CRWD,1535527,CrowdStrike,2011.0,,,https://ir.crowdstrike.com/static-files/b0ff20ba-dc01-4d32-871f-c441cd50af31,,verified,VERIFIED
+CSCO,858877,Cisco,1984.0,,,https://www.cisco.com/c/dam/global/en_in/about/docs/detailed_fact_sheet_new.pdf,,verified,VERIFIED
+CSE,,Case Corporation,1842.0,,,https://en.wikipedia.org/wiki/Case_Corporation,,verified,VERIFIED
+CSGP,1057352,CoStar Group,1987.0,,,https://www.forbes.com/profile/andrew-c-florance/,,verified,VERIFIED
+CSR,798359,CENTERSPACE,,,,,,unresolved_blank,AUDITED_UNRESOLVED
+CSRA,1646383,,2015.0,,,https://en.wikipedia.org/wiki/CSRA_Inc.,,verified,VERIFIED
+CSX,277948,CSX Corporation,1978.0,November,,https://www.sec.gov/Archives/edgar/data/277948/000119312507032135/d10k.htm,,corrected_earlier,VERIFIED_CORRECTED
+CTAS,723254,Cintas,1929.0,,,https://www.cintas.com/company/company-timeline/,,verified,VERIFIED
+CTB,24491,Cooper Tire & Rubber Company,1914.0,,,https://en.wikipedia.org/wiki/Cooper_Tire_%26_Rubber_Company,,verified,VERIFIED
+CTL,18926,,1930.0,,,https://en.wikipedia.org/wiki/CenturyLink,,verified,VERIFIED
+CTLT,1596783,,1933.0,,,https://en.wikipedia.org/wiki/Robert_Pauli_Scherer,,verified,VERIFIED
+CTRA,858470,,1989.0,,,https://en.wikipedia.org/wiki/Coterra,,verified,VERIFIED
+CTSH,1058290,Cognizant,1994.0,,,https://investors.cognizant.com/investor-resources/faq/default.aspx,,verified,VERIFIED
+CTVA,1755672,Corteva,2019.0,June,2019-06-01,https://investors.corteva.com/static-files/7120ff1b-df5a-46a6-9e1c-629ba21de186,,verified,VERIFIED
+CTX,18532,Centex Corporation,1950.0,,,https://www.sec.gov/Archives/edgar/data/18532/000095013408010152/d56906e10vk.htm,,verified,VERIFIED
+CTXS,877890,,1989.0,,,https://en.wikipedia.org/wiki/Citrix_Systems,,verified,VERIFIED
+CVC,1053112,,1973.0,,,https://en.wikipedia.org/wiki/Cablevision,,verified,VERIFIED
+CVG,1062047,,1998.0,,,https://en.wikipedia.org/wiki/Convergys,,verified,VERIFIED
+CVH,1054833,,1986.0,,,https://en.wikipedia.org/wiki/Coventry_Health_Care,,verified,VERIFIED
+CVNA,1690820,Carvana,2012.0,,,https://investors.carvana.com/tools/viewpdf.aspx?page=%7B8DA3115C-2CA0-4F0F-B0DF-45EBE4E59F84%7D,,verified,VERIFIED
+CVS,64803,CVS Health,1996.0,,,https://www.sec.gov/Archives/edgar/data/64803/000006480326000010/cvs-20251231.htm,,verified,VERIFIED
+CVX,93410,Chevron Corporation,1879.0,,,https://www.chevron.com/-/media/shared-media/documents/chevron-annual-report-supplement-2020.pdf,,verified,VERIFIED
+CXO,1358071,,2004.0,,,https://en.wikipedia.org/wiki/Concho_Resources,,verified,VERIFIED
+CYM,,Cyprus Amax Minerals Company,,,,,,unresolved_blank,AUDITED_UNRESOLVED_SOURCE_CONTEXT
+CYR,,"Cray Research, Inc.",1972.0,,,https://en.wikipedia.org/wiki/Cray,,verified,VERIFIED
+CZR,1590895,"Caesars Entertainment, Inc.",1937.0,,,https://en.wikipedia.org/wiki/Harrah's_Entertainment,1990.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+D,715957,Dominion Energy,1983.0,,,https://www.sec.gov/Archives/edgar/data/715957/000119312526063120/d-20251231.htm,,verified,VERIFIED
+DAL,27904,Delta Air Lines,,,,,,unresolved_blank,AUDITED_UNRESOLVED
+DALRQ,27904,"Delta Air Lines, Inc.",1925.0,March,,https://en.wikipedia.org/wiki/Delta_Air_Lines,,verified,VERIFIED
+DASH,1792789,DoorDash,2012.0,,,,2013.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+DAY,,,1992.0,,,https://en.wikipedia.org/wiki/Dayforce,,verified,VERIFIED
+DCNAQ,26780,Dana Corporation,1904.0,,,https://en.wikipedia.org/wiki/Dana_Incorporated,,verified,VERIFIED
+DD,1666700,DuPont,1802.0,,,https://en.wikipedia.org/wiki/DuPont_(1802%E2%80%932017),,verified,VERIFIED
+DDOG,1561550,Datadog,2010.0,,,https://investors.datadoghq.com/static-files/6ce0f496-38c7-4ceb-8fde-b7b2c1a44e01,,verified,VERIFIED
+DDR,894315,,1965.0,,,https://en.wikipedia.org/wiki/SITE_Centers,,verified,VERIFIED
+DDS,28917,"DILLARD'S, INC.",1938.0,,,https://en.wikipedia.org/wiki/Dillard%27s,,verified,VERIFIED
+DE,315189,Deere & Company,1837.0,,,https://www.deere.co.uk/blueprint/servlet/en-gb/our-company/explore-john-deere/history-heritage/john-deere,,verified,VERIFIED
+DEC,1922446,Diversified Energy Co,2001.0,,,https://en.wikipedia.org/wiki/Diversified_Energy,,verified,VERIFIED
+DECK,910521,Deckers Brands,1973.0,,,,1993.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+DELL,1571996,Dell Technologies,2013.0,,,https://www.sec.gov/Archives/edgar/data/1571996/000157199622000025/ex31sixtharcertofdti.htm,,corrected_earlier,VERIFIED_CORRECTED_PRIMARY
+DF,931336,,1925.0,,,https://en.wikipedia.org/wiki/Dean_Foods,,verified,VERIFIED
+DFS,1393612,,1985.0,,,https://en.wikipedia.org/wiki/Discover_Financial,,verified,VERIFIED
+DG,29534,Dollar General,1939.0,,,https://www.sec.gov/Archives/edgar/data/29534/000110465925033066/tm255785d2_ars.pdf,,verified,VERIFIED
+DGN,,Data General Corporation,1968.0,,,https://en.wikipedia.org/wiki/Data_General,,verified,VERIFIED
+DGX,1022079,Quest Diagnostics,1967.0,,,,1990.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+DHI,882184,D. R. Horton,1978.0,,,https://www.sec.gov/Archives/edgar/data/882184/000095013404019034/d20584e10vk.htm,,verified,VERIFIED
+DHR,313616,Danaher Corporation,1969.0,,,https://www.sec.gov/Archives/edgar/data/313616/000119312526173731/d148579d424b5.htm,,verified,VERIFIED
+DI,,"Dresser Industries, Inc.",1880.0,,,https://en.wikipedia.org/wiki/Dresser_Industries,,verified,VERIFIED
+DIGI,,Digi International Inc.,1985.0,,,https://en.wikipedia.org/wiki/Digi_International,,verified,VERIFIED
+DIS,1744489,Walt Disney Company (The),1923.0,,,https://thewaltdisneycompany.com/news/disney100-anniversary-disney-contract/,,verified,VERIFIED
+DISCA,,,1982.0,,,"https://en.wikipedia.org/wiki/Discovery,_Inc.",,verified,VERIFIED
+DISCK,,,1982.0,,,"https://en.wikipedia.org/wiki/Discovery,_Inc.",,verified,VERIFIED
+DISH,1001082,,1980.0,,,https://en.wikipedia.org/wiki/Dish_Network,,verified,VERIFIED
+DJ,29924,"Dow Jones & Company, Inc.",1882.0,November,,https://en.wikipedia.org/wiki/Dow_Jones_%26_Company,,verified,VERIFIED
+DLR,1297996,Digital Realty,2004.0,March,2004-03-09,https://www.sec.gov/Archives/edgar/data/1297996/000110465926015365/dlr-20251231x10k.htm,,verified,VERIFIED
+DLTR,935703,Dollar Tree,1986.0,,,https://corporate.dollartree.com/about/our-history,,verified,VERIFIED
+DLX,27996,DELUXE CORP,1915.0,,,https://en.wikipedia.org/wiki/Deluxe_Corporation,,verified,VERIFIED
+DNB,1115222,,1841.0,July,,https://en.wikipedia.org/wiki/Dun_%26_Bradstreet,,verified,VERIFIED
+DNR,945764,,1951.0,,,https://en.wikipedia.org/wiki/Denbury_Resources,,verified,VERIFIED
+DO,949039,,,,,,,unresolved_blank,AUDITED_UNRESOLVED_SOURCE_CONTEXT
+DOC,765880,Healthpeak Properties,1985.0,March,,https://healthpeak.com/faqs/,,verified,VERIFIED
+DOV,29905,Dover Corporation,1955.0,,,https://investors.dovercorporation.com/faq,,verified,VERIFIED
+DOW,1751788,Dow Inc.,1897.0,,,https://en.wikipedia.org/wiki/Dow_Chemical_Company,,verified,VERIFIED
+DPHIQ,1072342,,1994.0,,,https://en.wikipedia.org/wiki/Aptiv,,verified,VERIFIED
+DPZ,1286681,Domino's,1960.0,,,https://ir.dominos.com/static-files/4b72e766-b7ab-41b2-8130-3e9cb6e40405,,verified,VERIFIED
+DRE,783280,,1972.0,,,https://en.wikipedia.org/wiki/Duke_Realty,,verified,VERIFIED
+DRI,940944,Darden Restaurants,1938.0,,,,1995.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+DTE,936340,DTE Energy,1995.0,,,https://www.sec.gov/Archives/edgar/data/936340/000095012405001542/k91838e10vk.htm,,verified,VERIFIED
+DTV,944868,,1994.0,June,,https://en.wikipedia.org/wiki/DirecTV,,verified,VERIFIED
+DUK,1326160,Duke Energy,1904.0,,,,2005.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+DVA,927066,DaVita,1979.0,,,,1994.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+DVN,1090012,Devon Energy,1971.0,,,https://s2.q4cdn.com/462548525/files/doc_financials/2020/ar/DVN-2021-Proxy-Statement.pdf,,verified,VERIFIED
+DWD,,"Dean Witter, Discover & Co.",1924.0,,,https://www.encyclopedia.com/books/politics-and-business-magazines/dean-witter-discover-co,,verified,VERIFIED
+DWDP,,,1802.0,,,https://en.wikipedia.org/wiki/DuPont,,verified,VERIFIED
+DXC,1688568,DXC Technology Co,1959.0,,,https://en.wikipedia.org/wiki/Computer_Sciences_Corporation,2017.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+DXCM,1093557,Dexcom,1999.0,,,https://www.sec.gov/Archives/edgar/data/1093557/000109355726000061/dxcm-20260415.htm,,verified,VERIFIED
+DYN,1818794,"Dyne Therapeutics, Inc.",2017.0,December,2017-12-01,https://www.sec.gov/Archives/edgar/data/1818794/000119312526173735/fy26_ars.pdf,,corrected_earlier,VERIFIED_CORRECTED_PRIMARY
+EA,712515,Electronic Arts,1982.0,,,https://media.corporate-ir.net/media_files/NSD/ERTS/custom/corpbackgroundfinal05021.pdf,,verified,VERIFIED
+EBAY,1065088,eBay Inc.,1995.0,,,https://static.ebayinc.com/assets/Uploads/Archive/EBAY-US-Roadmap-Final.pdf,,verified,VERIFIED
+EC,1444406,ECOPETROL S.A.,1951.0,,,https://en.wikipedia.org/wiki/Ecopetrol,,verified,VERIFIED
+ECH,,Echlin Inc.,1924.0,,,https://www.fundinguniverse.com/company-histories/echlin-inc-history/,,verified,VERIFIED
+ECL,31462,Ecolab,1923.0,,,https://www.sec.gov/Archives/edgar/vprr/1300/13001013.pdf,,verified,VERIFIED
+ECO,1964954,Okeanis Eco Tankers Corp.,2018.0,,,https://www.okeanisecotankers.com/en/about/our-business,,verified,VERIFIED
+ED,1047862,Consolidated Edison,1823.0,,,,1997.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+EDS,1007456,,1962.0,,,https://en.wikipedia.org/wiki/Electronic_Data_Systems,,verified,VERIFIED
+EFU,,Eastern Enterprises,,,,,,unresolved_blank,AUDITED_UNRESOLVED
+EFX,33185,Equifax,1899.0,,,https://www.sec.gov/Archives/edgar/data/33185/000110465906013557/a06-1873_110k.htm,,verified,VERIFIED
+EG,1095073,Everest Group,1973.0,,,,1999.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+EHC,785161,Encompass Health Corp,1984.0,,,https://en.wikipedia.org/wiki/Encompass_Health,,verified,VERIFIED
+EIX,827052,Edison International,1886.0,,,,1987.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+EKDKQ,31235,Eastman Kodak Company,1881.0,January,,https://en.wikipedia.org/wiki/Kodak,,verified,VERIFIED
+EL,1001250,Estée Lauder Companies (The),1946.0,,,https://investors.elcompanies.com/en/investors,,verified,VERIFIED
+ELV,1156039,Elevance Health,1946.0,,,https://en.wikipedia.org/wiki/Elevance_Health,2004.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+EMC,790070,EMC Corporation,1979.0,,,https://en.wikipedia.org/wiki/Dell_EMC,,verified,VERIFIED
+EME,105634,Emcor,,,,,,unresolved_blank,AUDITED_UNRESOLVED
+EMN,915389,EASTMAN CHEMICAL CO,1920.0,,,https://en.wikipedia.org/wiki/Eastman_Chemical_Company,,verified,VERIFIED
+EMR,32604,Emerson Electric,1890.0,,,https://www.sec.gov/Archives/edgar/data/32604/000003260417000046/emr-09302017x10xk.htm,,verified,VERIFIED
+ENDP,1593034,,,,,,,unresolved_blank,AUDITED_UNRESOLVED_SOURCE_CONTEXT
+ENPH,1463101,"Enphase Energy, Inc.",2006.0,,,https://en.wikipedia.org/wiki/Enphase_Energy,,verified,VERIFIED
+ENRNQ,1024401,Enron Corporation,1985.0,July,,https://en.wikipedia.org/wiki/Enron,,verified,VERIFIED
+ENS,1289308,EnerSys,1999.0,,,https://en.wikipedia.org/wiki/EnerSys,,corrected_earlier,VERIFIED_CORRECTED
+EOG,821189,EOG Resources,1985.0,,,https://www.sec.gov/Archives/edgar/data/821189/000082118920000010/a2019123110-k.htm,,corrected_earlier,VERIFIED_CORRECTED_PRIMARY
+EOP,1038339,,1976.0,,,https://en.wikipedia.org/wiki/EQ_Office,,verified,VERIFIED
+EP,887396,EMPIRE PETROLEUM CORP,1983.0,,,https://finance.yahoo.com/quote/EP/profile/,1985.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+EPAM,1352010,"EPAM Systems, Inc.",1993.0,,,https://en.wikipedia.org/wiki/EPAM_Systems,,verified,VERIFIED
+EQ,1746466,"Equillium, Inc.",2017.0,March,2017-03-16,https://www.sec.gov/Archives/edgar/data/1746466/000095017025052671/eq-ars-2024.pdf,,verified,VERIFIED
+EQIX,1101239,Equinix,1998.0,June,,https://investor.equinix.com/sec-filings/proxy-filings/content/0001012870-99-004804/0001012870-99-004804.pdf,,verified,VERIFIED
+EQR,906107,Equity Residential,1969.0,,,,1993.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+EQT,33213,EQT Corporation,1888.0,,,,2008.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+ERIE,922621,Erie Indemnity,1925.0,April,1925-04-17,https://www.sec.gov/Archives/edgar/data/922621/000110465911042663/a11-13827_1ex3d1.htm,,verified,VERIFIED
+ES,72741,Eversource Energy,1966.0,July,1966-07-01,https://www.sec.gov/Archives/edgar/data/23426/000007274111000025/f2010form10kcombined.htm,,verified,VERIFIED
+ESRX,885721,,1986.0,,,https://en.wikipedia.org/wiki/Express_Scripts,,verified,VERIFIED
+ESS,920522,Essex Property Trust,1971.0,,,https://investors.essexapartmenthomes.com/files/doc_financials/2006/ar/2006-Annual-Report.pdf,,verified,VERIFIED
+ESV,314808,,1975.0,,,https://en.wikipedia.org/wiki/Valaris_Limited,,verified,VERIFIED
+ETFC,1015780,,1982.0,,,https://en.wikipedia.org/wiki/E-Trade,,verified,VERIFIED
+ETN,1551182,Eaton Corporation,1911.0,,,https://www.sec.gov/Archives/edgar/data/1551182/000155118225000006/etn-20241231.htm,,verified,VERIFIED
+ETR,65984,Entergy,1913.0,,,https://cdn.entergy.com/userfiles/content/about_entergy/pdfs/Entergy-fact-sheet.pdf,,verified,VERIFIED
+ETS,2053641,Elite Express Holding Inc.,,,,,,unresolved_blank,AUDITED_UNRESOLVED
+ETSY,1370637,ETSY INC,2005.0,June,,https://en.wikipedia.org/wiki/Etsy,,verified,VERIFIED
+EVHC,1678531,,1972.0,,,https://en.wikipedia.org/wiki/EmCare,,verified,VERIFIED
+EVRG,1711269,Evergy,1909.0,,,,2017.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+EW,1099800,Edwards Lifesciences,1958.0,,,,1999.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+EXC,1109357,Exelon,2000.0,,,https://www.sec.gov/Archives/edgar/data/1109357/000120677422000727/esc_coutersy-pdf.pdf,,verified,VERIFIED
+EXE,895126,Expand Energy,1989.0,,,,1996.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+EXPD,746515,Expeditors International,1979.0,,,https://www.expeditors.com/about-us/history,,verified,VERIFIED
+EXPE,1324424,Expedia Group,1996.0,,,https://www.expedia.com/stories/top-expedia-destinations-20-years/,,verified,VERIFIED
+EXR,1289490,Extra Space Storage,1977.0,,,https://news.extraspace.com/about-us/,,verified,VERIFIED
+F,37996,Ford Motor Company,1903.0,June,1903-06-16,https://shareholder.ford.com/Information/stock/default.aspx,,verified,VERIFIED
+FANG,1539838,Diamondback Energy,2007.0,,,,2011.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+FAST,815556,Fastenal,1967.0,November,1967-11-28,https://investor.fastenal.com/news-releases/news-details/2017/Fastenal-Blue-Team-to-Ring-Nasdaq-Opening-Bell-on-November-6-2017/default.aspx,,verified,VERIFIED
+FB,,,2004.0,February,,https://en.wikipedia.org/wiki/Meta_Platforms,,verified,VERIFIED
+FBF,50341,FleetBoston Financial Corporation,,,,,,unresolved_blank,AUDITED_UNRESOLVED
+FBHS,1519751,,2011.0,,,https://en.wikipedia.org/wiki/Fortune_Brands_Innovations,,verified,VERIFIED
+FBO,,Federal Paper Board Company,1916.0,,,https://www.fundinguniverse.com/company-histories/federal-paper-board-company-inc-history/,,verified,VERIFIED
+FCN,887936,"FTI CONSULTING, INC",1982.0,,,https://en.wikipedia.org/wiki/FTI_Consulting,,verified,VERIFIED
+FCPT,1650132,"Four Corners Property Trust, Inc.",2015.0,,,https://www.sec.gov/Archives/edgar/data/1650132/000165013218000025/fcpt201710-k.htm,,verified,VERIFIED
+FCX,831259,Freeport-McMoRan,1912.0,,,,1987.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+FD,794367,Federated Department Stores,1929.0,,,"https://en.wikipedia.org/wiki/Macy%27s,_Inc.",,verified,VERIFIED
+FDC,883980,First Data Corporation,1971.0,,,https://en.wikipedia.org/wiki/First_Data,,verified,VERIFIED
+FDO,34408,,1959.0,November,,https://en.wikipedia.org/wiki/Family_Dollar,,verified,VERIFIED
+FDS,1013237,FactSet,1978.0,September,,https://investor.factset.com/static-files/0856f3dc-1c5c-4615-812e-ec642ce74cef,,verified,VERIFIED
+FDX,1048911,FedEx,1971.0,,,https://investors.fedex.com/company-overview/Acquisition-History/,,verified,VERIFIED
+FDXF,2082247,FedEx Freight,,,,,,unresolved_blank,AUDITED_UNRESOLVED
+FE,1031296,FirstEnergy,1996.0,,,https://www.firstenergycorp.com/content/dam/investor/files/10-K/2010_FirstEnergy_Corp._10-K.pdf,,corrected_earlier,VERIFIED_CORRECTED
+FFIV,1048695,"F5, Inc.",1996.0,,,https://www.f5.com/content/dam/f5/corp/global/pdf/financial-reports/2001-annual-report.pdf,,verified,VERIFIED
+FG,1934850,"F&G Annuities & Life, Inc.",1959.0,,,https://en.wikipedia.org/wiki/F%26G,,verified,VERIFIED
+FHN,36966,FIRST HORIZON CORP,1864.0,March,,https://en.wikipedia.org/wiki/First_Horizon_Bank,,verified,VERIFIED
+FI,,,1984.0,,,https://en.wikipedia.org/wiki/Fiserv,,verified,VERIFIED
+FICO,814547,Fair Isaac,1956.0,,,https://www.sec.gov/Archives/edgar/data/814547/000081454725000008/fico-20241231.htm,,verified,VERIFIED
+FII,1056288,,1955.0,,,https://en.wikipedia.org/wiki/Federated_Hermes,,verified,VERIFIED
+FIS,1136893,Fidelity National Information Services,1968.0,,,https://digital.fidelity.com/prgw/digital/research/quote/dashboard/summary?symbol=fis,,verified,VERIFIED
+FISV,798354,Fiserv,1984.0,7,1984-07-31,https://www.sec.gov/Archives/edgar/data/0001063167/000093176303002024/ddefr14a.htm,,verified,VERIFIED
+FITB,35527,Fifth Third Bancorp,1858.0,June,1858-06-17,https://www.53.com/content/dam/fifth-third/museum/fifth-third-timeline.pdf,,verified,VERIFIED
+FIX,1035983,Comfort Systems USA,1996.0,,,https://investors.comfortsystemsusa.com/static-files/f38923b3-d2ca-4725-9a22-25b666732bca,,corrected_earlier,VERIFIED_CORRECTED_PRIMARY
+FJ,,Fort James Corporation,1997.0,,,https://www.referenceforbusiness.com/history2/15/Fort-James-Corporation.html,,verified,VERIFIED
+FL,850209,"Foot Locker, Inc.",1879.0,,,https://en.wikipedia.org/wiki/Foot_Locker,1974.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+FLIR,354908,,1978.0,,,https://en.wikipedia.org/wiki/Teledyne_FLIR,,verified,VERIFIED
+FLMIQ,,"Fleming Companies, Inc.",1915.0,,,https://en.wikipedia.org/wiki/Fleming_Companies,,verified,VERIFIED
+FLR,1124198,FLUOR CORP,1912.0,,,https://en.wikipedia.org/wiki/Fluor_Corporation,,verified,VERIFIED
+FLS,30625,FLOWSERVE CORP,1790.0,,,https://en.wikipedia.org/wiki/Flowserve,1997.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+FLT,,,1986.0,,,https://en.wikipedia.org/wiki/Corpay,,verified,VERIFIED
+FLTWQ,771298,"Fruit of the Loom, Inc.",1851.0,,,https://en.wikipedia.org/wiki/Fruit_of_the_Loom,,verified,VERIFIED
+FMC,37785,FMC CORP,1883.0,,,https://en.wikipedia.org/wiki/FMC_Corporation,,verified,VERIFIED
+FMCC,1026214,FEDERAL HOME LOAN MORTGAGE CORP,1970.0,,,https://en.wikipedia.org/wiki/Freddie_Mac,,verified,VERIFIED
+FMY,1319183,FIRST TRUST MORTGAGE INCOME FUND,2005.0,February,2005-02-22,https://www.sec.gov/Archives/edgar/data/1319183/000144554625004643/fmy_ncsrs.htm,,verified,VERIFIED
+FNMA,310522,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,1938.0,,,https://en.wikipedia.org/wiki/Fannie_Mae,,verified,VERIFIED
+FOSL,883569,"Fossil Group, Inc.",1984.0,,,https://en.wikipedia.org/wiki/Fossil_Group,,verified,VERIFIED
+FOX,1754301,Fox Corporation (Class B),2018.0,May,2018-05-03,https://www.sec.gov/Archives/edgar/data/1754301/000162828023002786/foxa-20221231x10qex31.htm,,corrected_earlier,VERIFIED_CORRECTED_PRIMARY
+FOXA,1754301,Fox Corporation (Class A),2018.0,May,2018-05-03,https://www.sec.gov/Archives/edgar/data/1754301/000162828023002786/foxa-20221231x10qex31.htm,,corrected_earlier,VERIFIED_CORRECTED_PRIMARY
+FPC,,,1899.0,,,https://en.wikipedia.org/wiki/Progress_Energy_Inc,2000.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+FRC,,,1985.0,February,,https://en.wikipedia.org/wiki/First_Republic_Bank,,verified,VERIFIED
+FRO,913290,Frontline plc,1985.0,,,https://en.wikipedia.org/wiki/Frontline_plc,,verified,VERIFIED
+FRT,34903,Federal Realty Investment Trust,1962.0,,,https://www.sec.gov/Archives/edgar/data/34903/000003490319000013/frt-1231201810k.htm,,verified,VERIFIED
+FRX,38074,,1956.0,,,https://en.wikipedia.org/wiki/Forest_Laboratories,,verified,VERIFIED
+FSH,880430,,1902.0,,,https://en.wikipedia.org/wiki/Fisher_Scientific,,verified,VERIFIED
+FSL,1272547,,2004.0,,,https://en.wikipedia.org/wiki/Freescale_Semiconductor,,verified,VERIFIED
+FSLR,1274494,First Solar,1999.0,,,https://www.sec.gov/Archives/edgar/data/1274494/000095015308000367/p75017e10vk.htm,,verified,VERIFIED
+FTI,1681459,TechnipFMC plc,1883.0,,,https://en.wikipedia.org/wiki/FMC_Corporation,2017.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+FTL.A,,"Fruit of the Loom, Inc.",1851.0,,,https://en.wikipedia.org/wiki/Fruit_of_the_Loom,,verified,VERIFIED
+FTNT,1262039,Fortinet,2000.0,,,https://www.fortinet.com/content/dam/fortinet/assets/brochures/fortinet-ov-brochure-Q4-2020.pdf,,verified,VERIFIED
+FTR,20520,,1935.0,,,https://en.wikipedia.org/wiki/Frontier_Communications,,verified,VERIFIED
+FTV,1659166,Fortive,2015.0,,,https://investors.fortive.com/sec-filings/all-sec-filings/content/0001659166-21-000062/ftv-20201231.htm,,corrected_earlier,VERIFIED_CORRECTED_PRIMARY
+FWLT,38321,Foster Wheeler Corporation,1927.0,,,https://en.wikipedia.org/wiki/Foster_Wheeler,,verified,VERIFIED
+G,1398659,Genpact LTD,1997.0,,,https://en.wikipedia.org/wiki/Genpact,,verified,VERIFIED
+GAPTQ,43300,Great Atlantic & Pacific Tea Company,1859.0,,,https://en.wikipedia.org/wiki/A%26P,,verified,VERIFIED
+GAS,1004155,AGL Resources Inc.,1856.0,,,https://en.wikipedia.org/wiki/Atlanta_Gas_Light_Company,1995.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+GD,40533,General Dynamics,1899.0,,,,1952.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+GDDY,1609711,GoDaddy,1997.0,,,https://aboutus.godaddy.net/newsroom/history-and-milestones/default.aspx,,verified,VERIFIED
+GDT,929987,Guidant Corporation,1994.0,,,https://en.wikipedia.org/wiki/Guidant,,verified,VERIFIED
+GDW,42293,Golden West Financial Corporation,1963.0,,,https://en.wikipedia.org/wiki/Golden_West_Financial,,verified,VERIFIED
+GE,40545,GE Aerospace,1892.0,,,,2024.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+GEHC,1932393,GE HealthCare,1994.0,,,,2022.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+GEN,849399,Gen Digital,1982.0,,,,2022.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+GENZ,732485,,1981.0,,,https://en.wikipedia.org/wiki/Genzyme,,verified,VERIFIED
+GEV,1996810,GE Vernova,2023.0,,,https://www.sec.gov/Archives/edgar/data/1996810/000199681024000008/gev-20240331.htm,,corrected_earlier,VERIFIED_CORRECTED_PRIMARY
+GFS.A,1709048,GlobalFoundries Inc.,2009.0,March,,https://en.wikipedia.org/wiki/GlobalFoundries,,verified,VERIFIED
+GGP,1496048,,1954.0,,,https://en.wikipedia.org/wiki/GGP_(company),,verified,VERIFIED
+GHC,104889,Graham Holdings Co,1877.0,,,https://en.wikipedia.org/wiki/Graham_Holdings,1947.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+GIDL,,"Giddings & Lewis, Inc.",1859.0,,,https://www.fundinguniverse.com/company-histories/giddings-lewis-inc-history/,,verified,VERIFIED
+GILD,882095,Gilead Sciences,1987.0,,,https://www.gilead.com/en-hk/company/message-from-the-general-manager,,verified,VERIFIED
+GIS,40704,General Mills,1856.0,,,,1866.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+GL,320335,Globe Life,1900.0,,,,1979.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+GLD,1222333,SPDR GOLD TRUST,2004.0,November,,https://en.wikipedia.org/wiki/SPDR_Gold_Shares,,verified,VERIFIED
+GLK,43362,Great Lakes Chemical Corporation,1936.0,,,https://en.wikipedia.org/wiki/Great_Lakes_Chemical_Corporation,,verified,VERIFIED
+GLW,24741,Corning Inc.,1851.0,,,https://www.sec.gov/Archives/edgar/data/24741/000002474119000016/glw-20181231x10k.htm,,verified,VERIFIED
+GM,1467858,General Motors,1908.0,,,https://www.gm.com/heritage,,verified,VERIFIED
+GMCR,909954,,1979.0,November,,https://en.wikipedia.org/wiki/Keurig_Dr_Pepper,,verified,VERIFIED
+GME,1326380,GameStop Corp.,1984.0,,,https://en.wikipedia.org/wiki/GameStop,,verified,VERIFIED
+GNRC,1474735,Generac,1959.0,,,https://www.sec.gov/Archives/edgar/data/1474735/000143774926004568/gnrc20251231_10k.htm,,verified,VERIFIED
+GNT,1438893,"GAMCO Natural Resources, Gold & Income Trust",2008.0,June,2008-06-26,https://www.sec.gov/Archives/edgar/data/1438893/000182912625007149/gnt_ncsrs.htm,,corrected_earlier,VERIFIED_CORRECTED_PRIMARY
+GNW,1276520,GENWORTH FINANCIAL INC,1871.0,,,https://en.wikipedia.org/wiki/Genworth_Financial,,verified,VERIFIED
+GOOG,1652044,Alphabet Inc. (Class C),1998.0,,,https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm,,verified,VERIFIED
+GOOGL,1652044,Alphabet Inc. (Class A),1998.0,,,https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm,,verified,VERIFIED
+GP,1584547,GREENPOWER MOTOR Co INC.,2010.0,,,https://en.wikipedia.org/wiki/GreenPower_Motor_Company,,verified,VERIFIED
+GPC,40987,Genuine Parts Company,1925.0,,,,1928.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+GPN,1123360,Global Payments,2000.0,,,https://www.sec.gov/Archives/edgar/data/1123360/000112336019000008/gpn20181231-10k.htm,,verified,VERIFIED
+GPS,39911,Gap Inc.,1969.0,,,https://en.wikipedia.org/wiki/Gap_Inc.,,verified,VERIFIED
+GPU,40779,GPU Inc. (General Public Utilities),1946.0,January,,https://www.sec.gov/files/1945.pdf,,verified,VERIFIED
+GR,42542,Goodrich Corporation (B.F. Goodrich),1870.0,,,https://en.wikipedia.org/wiki/Goodrich_Corporation,,verified,VERIFIED
+GRA,1045309,W. R. Grace and Company,1854.0,,,https://en.wikipedia.org/wiki/W._R._Grace_and_Company,,verified,VERIFIED
+GRMN,1121788,Garmin,1989.0,,,https://www8.garmin.com/aboutGarmin/invRelations/documents/Corporate_Responsibility_Report_2019.pdf,,verified,VERIFIED
+GRN,312070,BARCLAYS BANK PLC,1690.0,November,,https://en.wikipedia.org/wiki/Barclays,,verified,VERIFIED
+GS,886982,Goldman Sachs,1869.0,,,https://www.goldmansachs.com/pdfs/migrated/our-firm/history/a-brief-history-of-gs.pdf,,verified,VERIFIED
+GSX,,General Signal Corporation,1904.0,,,https://en.wikipedia.org/wiki/General_Signal,1965.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+GT,42582,GOODYEAR TIRE & RUBBER CO /OH/,1898.0,,,https://en.wikipedia.org/wiki/Goodyear_Tire_and_Rubber_Company,,verified,VERIFIED
+GTE,1273441,GRAN TIERRA ENERGY INC.,2005.0,June,,https://en.wikipedia.org/wiki/Gran_Tierra_Energy,,verified,VERIFIED
+GTW,895812,,1985.0,September,,"https://en.wikipedia.org/wiki/Gateway,_Inc.",,verified,VERIFIED
+GWF,,Golden West Financial Corporation,1963.0,,,https://en.wikipedia.org/wiki/Golden_West_Financial,,verified,VERIFIED
+GWW,277135,W. W. Grainger,1927.0,,,https://invest.grainger.com/investor-news/news-details/2024/Construction-begins-on-massive-Grainger-distribution-center/default.aspx,,verified,VERIFIED
+GX,1061322,,1997.0,March,,https://en.wikipedia.org/wiki/Global_Crossing,,verified,VERIFIED
+H,1468174,Hyatt Hotels Corp,1957.0,September,,https://en.wikipedia.org/wiki/Hyatt,,verified,VERIFIED
+HAL,45012,Halliburton,1919.0,,,https://www.sec.gov/Archives/edgar/data/45012/000004501222000065/hal-20221025.htm,,verified,VERIFIED
+HAR,800459,,1980.0,,,https://en.wikipedia.org/wiki/Harman_International,,verified,VERIFIED
+HAS,46080,Hasbro,1923.0,,,https://assets-us-01.kc-usercontent.com/500e0a65-283d-00ef-33b2-7f1f20488fe2/b51bdea8-2ee8-41a1-bd09-da5838e671fb/2024-Corp-Fact-Sheet.pdf,,verified,VERIFIED
+HBAN,49196,Huntington Bancshares,1866.0,,,https://d1io3yog0oux5.cloudfront.net/_d35f8aff9f4d47e2453ebb7cb78c7915/huntington/db/2737/27431/proxy_statement/HBAN003_Huntington-Bancshares_2024-Proxy-Statement_Bookmarked_Standard.pdf,,verified,VERIFIED
+HBI,1359841,,1901.0,,,https://en.wikipedia.org/wiki/Hanesbrands,,verified,VERIFIED
+HBOC,,,,,,,,unresolved_blank,AUDITED_UNRESOLVED
+HCA,860730,HCA Healthcare,1968.0,,,https://investor.hcahealthcare.com/news/news-details/2011/HCA-Named-to-Hospitals--Health-Networks-Most-Wired-List/default.aspx,,verified,VERIFIED
+HCBK,921847,,1868.0,March,,https://en.wikipedia.org/wiki/Hudson_City_Bancorp,,verified,VERIFIED
+HCP,765880,,1985.0,,,https://en.wikipedia.org/wiki/Healthpeak_Properties,,verified,VERIFIED
+HCR,878736,,1959.0,,,https://en.wikipedia.org/wiki/ProMedica_Senior_Care,,verified,VERIFIED
+HD,354950,Home Depot (The),1978.0,,,https://corporate.homedepot.com/page/about-us,,verified,VERIFIED
+HDLM,,Handleman Company,1934.0,,,https://www.sec.gov/Archives/edgar/data/314727/000119312512313871/d384876d10k.htm,,verified,VERIFIED
+HES,4447,Hess Corporation,1933.0,,,https://en.wikipedia.org/wiki/Hess_Corporation,,verified,VERIFIED
+HET,858339,Harrah's Entertainment,1937.0,October,,https://en.wikipedia.org/wiki/Harrah%27s_Entertainment,,verified,VERIFIED
+HFC,48039,,1947.0,,,https://en.wikipedia.org/wiki/HollyFrontier,2011.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+HFS,,HFS Incorporated,1990.0,,,https://www.encyclopedia.com/books/politics-and-business-magazines/hospitality-franchise-systems-inc,,verified,VERIFIED
+HI,354964,Household International,1878.0,,,https://en.wikipedia.org/wiki/Household_Finance_Corporation,1981.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+HIG,874766,Hartford (The),1810.0,,,,1985.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+HII,1501585,Huntington Ingalls Industries,2011.0,,,https://www.hii.com/history,,verified,VERIFIED
+HLT,1585689,Hilton Worldwide,1919.0,May,1919-05-31,https://stories.hilton.com/emea/releases/hilton-the-worlds-first-global-hospitality-company-celebrates-100-years-with-a-dynamic-launch-into-its-next-century,,verified,VERIFIED
+HM,743872,Homestake Mining Company,1877.0,,,https://en.wikipedia.org/wiki/Homestake_Mining_Company,,verified,VERIFIED
+HMA,792985,,1977.0,,,https://www.encyclopedia.com/books/politics-and-business-magazines/health-management-associates-inc,,verified,VERIFIED
+HNZ,46640,H. J. Heinz Company,1869.0,January,,https://en.wikipedia.org/wiki/H._J._Heinz_Company,,verified,VERIFIED
+HOG,793952,"HARLEY-DAVIDSON, INC.",1903.0,,,https://en.wikipedia.org/wiki/Harley-Davidson,,verified,VERIFIED
+HOLX,859737,,1985.0,,,https://en.wikipedia.org/wiki/Hologic,,verified,VERIFIED
+HON,773840,Honeywell,1906.0,,,,1985.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+HOOD,1783879,Robinhood Markets,2013.0,November,2013-11-22,https://www.sec.gov/Archives/edgar/data/1783879/000178387924000054/hood-20231231.htm,,verified,VERIFIED
+HOT,316206,,1969.0,,,https://en.wikipedia.org/wiki/Starwood_Hotels_and_Resorts,,verified,VERIFIED
+HP,46765,"Helmerich & Payne, Inc.",1920.0,,,https://en.wikipedia.org/wiki/Helmerich_%26_Payne,,verified,VERIFIED
+HPC,46989,Hercules Inc.,1912.0,,,https://en.wikipedia.org/wiki/Hercules_Inc.,,verified,VERIFIED
+HPE,1645590,Hewlett Packard Enterprise,2015.0,February,2015-02-25,https://www.sec.gov/Archives/edgar/data/1645590/000164559024000020/hpe-20240209.htm,,verified,VERIFIED
+HPH,,Harnischfeger Industries,1884.0,,,https://en.wikipedia.org/wiki/Harnischfeger,,verified,VERIFIED
+HPQ,47217,HP Inc.,1939.0,,,https://en.wikipedia.org/wiki/Hewlett-Packard,,verified,VERIFIED
+HRB,12659,H&R BLOCK INC,1955.0,,,https://en.wikipedia.org/wiki/H%26R_Block,,verified,VERIFIED
+HRL,48465,Hormel Foods,1891.0,,,https://www.hormelfoods.com/wp-content/uploads/HRL-2016-Inside-Magazine-Summer-150.pdf,,verified,VERIFIED
+HRS,202058,Harris Corporation,1895.0,,,https://en.wikipedia.org/wiki/Harris_Corporation,,verified,VERIFIED
+HSH,23666,Hillshire Brands (Sara Lee),1939.0,,,https://en.wikipedia.org/wiki/Sara_Lee_Corporation,,verified,VERIFIED
+HSIC,1000228,Henry Schein,1932.0,,,https://news.henryschein.com/press-releases/press-release-details/2020/Henry-Schein-to-Ring-the-Nasdaq-Stock-Market-Opening-Bell-12-14-2020/default.aspx,,verified,VERIFIED
+HSP,1274057,,2004.0,May,,https://en.wikipedia.org/wiki/Hospira,,verified,VERIFIED
+HST,1070750,Host Hotels & Resorts,1993.0,,,,1998.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+HSY,47111,Hershey Company (The),1894.0,,,,1927.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+HUBB,48898,Hubbell Incorporated,1888.0,,,https://hubbellcdn.com/literature/HPS_GlobalBrochure_Aug2011.pdf,,verified,VERIFIED
+HUM,49071,Humana,1961.0,,,https://www.sec.gov/Archives/edgar/data/1720420/000114036118009823/s001969x6_f1.htm,,verified,VERIFIED
+HWM,4281,Howmet Aerospace,1888.0,,,https://www.sec.gov/Archives/edgar/data/4281/000000428126000012/hwm-20251231.htm,,verified,VERIFIED
+I,,First Interstate Bancorp,1958.0,July,,https://en.wikipedia.org/wiki/First_Interstate_Bancorp,,verified,VERIFIED
+IAC,1800227,People Inc,,,,,,unresolved_blank,AUDITED_UNRESOLVED_SOURCE_CONTEXT
+IBKR,1381197,Interactive Brokers,1977.0,,,https://www.sec.gov/Archives/edgar/data/1381197/000138119723000014/ibkr-20221231x10k.htm,,verified,VERIFIED
+IBM,51143,IBM,1911.0,,,https://www.ibm.com/case-studies/ibm-supply-chain,,verified,VERIFIED
+ICE,1571949,Intercontinental Exchange,2000.0,,,https://www.sec.gov/files/rules/other/2016/ice-trade-vault/ice-trade-vault-form-sdr-ex-c.1.pdf,,verified,VERIFIED
+IDXX,874716,Idexx Laboratories,1983.0,,,https://www.idexx.com/files/2017-idexx-annual-report.pdf,,verified,VERIFIED
+IEX,832101,IDEX Corporation,1988.0,,,https://idexcorp.com/about-idex/who-we-are,,verified,VERIFIED
+IFF,51253,International Flavors & Fragrances,1889.0,,,https://en.wikipedia.org/wiki/International_Flavors_%26_Fragrances,,verified,VERIFIED
+IGT,353944,,1975.0,,,https://en.wikipedia.org/wiki/International_Game_Technology_(1975%E2%80%932015),,verified,VERIFIED
+IKN,3370,IKON Office Solutions,1952.0,,,https://www.fundinguniverse.com/company-histories/ikon-office-solutions-inc-history/,,verified,VERIFIED
+ILMN,1110803,"ILLUMINA, INC.",1998.0,April,,"https://en.wikipedia.org/wiki/Illumina,_Inc.",,verified,VERIFIED
+IMNX,719529,,1981.0,,,https://www.fundinguniverse.com/company-histories/immunex-corporation-history/,,verified,VERIFIED
+INCLF,49996,Inco Limited,1902.0,,,https://en.wikipedia.org/wiki/Inco,,verified,VERIFIED
+INCY,879169,Incyte,1991.0,,,https://www.sec.gov/Archives/edgar/data/879169/000110465906013846/a05-20227_210k.htm,,verified,VERIFIED
+INFO,1598014,,1959.0,,,https://en.wikipedia.org/wiki/IHS_Markit,,verified,VERIFIED
+INGR,1046257,Ingredion Inc,1906.0,,,https://en.wikipedia.org/wiki/Ingredion,,verified,VERIFIED
+INTC,50863,Intel,1968.0,,,https://www.intel.com/content/dam/www/central-libraries/us/en/documents/semiconductors-and-intel-introduction.pdf,,verified,VERIFIED
+INTU,896878,Intuit,1983.0,,,https://www.sec.gov/Archives/edgar/data/896878/000095013407020001/f33044e10vk.htm,,verified,VERIFIED
+INVH,1687229,Invitation Homes,2012.0,,,https://www.sec.gov/Archives/edgar/data/1687229/000168722917000005/a123116ihallfs10k.htm,,verified,VERIFIED
+IP,51434,International Paper,1898.0,,,https://www.internationalpaus.com/about.html,,verified,VERIFIED
+IPG,51644,Interpublic Group,1902.0,,,https://en.wikipedia.org/wiki/The_Interpublic_Group_of_Companies,1930.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+IPGP,1111928,IPG PHOTONICS CORP,1990.0,,,https://en.wikipedia.org/wiki/IPG_Photonics,,verified,VERIFIED
+IQV,1478242,IQVIA,1982.0,,,,2009.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+IR,1699150,Ingersoll Rand,1859.0,,,,2013.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+IRM,1020569,Iron Mountain,1951.0,,,https://www.sec.gov/Archives/edgar/data/1020569/000102056926000024/irm_2025annualreport.pdf,,verified,VERIFIED
+ISRG,1035267,Intuitive Surgical,1995.0,,,https://isrg.intuitive.com/static-files/e9ed7c14-f042-4923-b7cc-a1458e11e67b,,verified,VERIFIED
+IT,749251,Gartner,1979.0,,,https://www.sec.gov/Archives/edgar/vprr/1001/10011956.pdf,,verified,VERIFIED
+ITT,216228,ITT INC.,1920.0,,,https://en.wikipedia.org/wiki/ITT_Inc.,,verified,VERIFIED
+ITW,49826,Illinois Tool Works,1912.0,,,https://www.sec.gov/Archives/edgar/data/49826/000119312526127630/2026_ars_filing.pdf,,verified,VERIFIED
+IVZ,914208,Invesco,1935.0,,,https://www.invesco.com/corporate/en/home.html,,verified,VERIFIED
+J,52988,Jacobs Solutions,1947.0,,,https://www.jacobs.com/locations/americas/united-states,,verified,VERIFIED
+JAVA,709519,"Sun Microsystems, Inc.",1982.0,February,,https://en.wikipedia.org/wiki/Sun_Microsystems,,verified,VERIFIED
+JBHT,728535,J.B. Hunt,1961.0,,,https://www.jbhunt.com/our-company/newsroom/2026/08/jb-hunt-65-years-moving-freight-forward,,verified,VERIFIED
+JBL,898293,Jabil,1966.0,,,https://www.jabil.com/about-us/jabil-history.html,,verified,VERIFIED
+JCI,833444,Johnson Controls,1885.0,,,https://www.johnsoncontrols.com/about-us/history,,verified,VERIFIED
+JCP,1166126,J. C. Penney Company,1902.0,April,,https://en.wikipedia.org/wiki/JCPenney,,verified,VERIFIED
+JEC,52988,,1947.0,,,https://en.wikipedia.org/wiki/Jacobs_Solutions,,verified,VERIFIED
+JEF,96223,Jefferies Financial Group Inc.,1962.0,,,https://en.wikipedia.org/wiki/Jefferies_Group,,verified,VERIFIED
+JH,,John H. Harland Company,1923.0,,,https://en.wikipedia.org/wiki/John_H._Harland_Company,,verified,VERIFIED
+JHF,736260,,1862.0,,,https://en.wikipedia.org/wiki/John_Hancock_Financial,,verified,VERIFIED
+JKHY,779152,Jack Henry & Associates,1976.0,June,1976-06-02,https://www.jackhenry.com/fintalk/45-years-in-business-a-look-back-at-where-it-all-started-and-where-we-are-today,,verified,VERIFIED
+JNJ,200406,Johnson & Johnson,1886.0,,,https://www.jnj.com/sites/default/files/pdf/Johnson-Johnson_Factsheet_May%25202013.pdf,,verified,VERIFIED
+JNPR,1043604,,1996.0,February,,https://en.wikipedia.org/wiki/Juniper_Networks,,verified,VERIFIED
+JNS,1065865,,1969.0,,,https://en.wikipedia.org/wiki/Janus_Henderson,,verified,VERIFIED
+JNY,874016,,1970.0,,,https://en.wikipedia.org/wiki/Nine_West_Holdings,,verified,VERIFIED
+JOS,54050,Jos. A. Bank Clothiers,1905.0,,,https://en.wikipedia.org/wiki/Jos._A._Bank,,verified,VERIFIED
+JOY,801898,,1884.0,December,,https://en.wikipedia.org/wiki/Joy_Global,,verified,VERIFIED
+JP,53347,Jefferson-Pilot Corporation,1907.0,,,https://www.fundinguniverse.com/company-histories/jefferson-pilot-corporation-history/,,verified,VERIFIED
+JPM,19617,JPMorgan Chase,1799.0,,,https://en.wikipedia.org/wiki/JPMorgan_Chase,2000.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+JWN,72333,"Nordstrom, Inc.",1901.0,,,https://en.wikipedia.org/wiki/Nordstrom,,verified,VERIFIED
+K,55067,Kellogg Company (Kellanova),1906.0,,,https://en.wikipedia.org/wiki/Kellanova,2023.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+KATE,352363,Kate Spade & Company (Liz Claiborne),1976.0,,,https://en.wikipedia.org/wiki/Kate_Spade_%26_Company,,verified,VERIFIED
+KBH,795266,KB HOME,1957.0,,,https://en.wikipedia.org/wiki/KB_Home,,verified,VERIFIED
+KDP,1418135,Keurig Dr Pepper,1981.0,,,,2018.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+KEY,91576,KeyCorp,1825.0,,,,1958.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+KEYS,1601046,Keysight Technologies,1939.0,,,https://www.keysight.com/us/en/about/keysight-technologies-history.html/1000,2013.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+KG,2055116,Kestrel Group Ltd,2022.0,,,https://www.prnewswire.com/news-releases/terry-ledbetter-and-luke-ledbetter-announce-the-formation-of-kestrel-group-301614027.html,,verified,VERIFIED
+KHC,1637459,Kraft Heinz,1869.0,,,https://en.wikipedia.org/wiki/H._J._Heinz_Company,2015.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+KIM,879101,Kimco Realty,1958.0,,,https://www.sec.gov/Archives/edgar/data/879101/000120677426000197/kim4498121-def14a.htm,,verified,VERIFIED
+KKR,1404912,KKR & Co.,1976.0,,,https://www.sec.gov/file/ia-4131pdf,,verified,VERIFIED
+KLAC,319201,KLA Corporation,1975.0,,,https://en.wikipedia.org/wiki/KLA_Corporation,1997.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+KM,56824,Kmart Corp. (S.S. Kresge),1899.0,July,,https://en.wikipedia.org/wiki/Kmart,,verified,VERIFIED
+KMB,55785,Kimberly-Clark,1872.0,,,https://www.kimberly-clark.com/-/media/kimberly/pdf/Modern%20Slavery%20Disclosure%20FY%202023%202024%20sub%20%20UK%20Pub%20010724.pdf,,verified,VERIFIED
+KMG,1141185,Kerr-McGee Corporation,1929.0,,,https://en.wikipedia.org/wiki/Kerr-McGee,,verified,VERIFIED
+KMG_B,1141185,Kerr-McGee Corporation,1929.0,,,https://en.wikipedia.org/wiki/Kerr-McGee,,verified,VERIFIED
+KMI,1506307,Kinder Morgan,1997.0,,,https://www.kindermorgan.com/About-Us/Management,,verified,VERIFIED
+KMX,1170010,CARMAX INC,1993.0,September,,https://en.wikipedia.org/wiki/CarMax,,verified,VERIFIED
+KO,21344,Coca-Cola Company (The),1886.0,,,,1892.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+KORS,,,1981.0,,,https://en.wikipedia.org/wiki/Capri_Holdings,,verified,VERIFIED
+KR,56873,Kroger,1883.0,,,https://www.sec.gov/Archives/edgar/data/56873/000110465926037723/kr-20260131x10k.htm,,verified,VERIFIED
+KRB,870517,MBNA Corporation,1982.0,,,https://en.wikipedia.org/wiki/MBNA,,verified,VERIFIED
+KRFT,1545158,,1903.0,,,https://en.wikipedia.org/wiki/Kraft_Foods_Inc.,2012.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+KRI,205520,"Knight Ridder, Inc.",1974.0,July,,https://en.wikipedia.org/wiki/Knight_Ridder,,verified,VERIFIED
+KSE,1062379,,1895.0,,,https://en.wikipedia.org/wiki/KeySpan,1998.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+KSS,885639,KOHLS Corp,1962.0,September,,https://en.wikipedia.org/wiki/Kohl%27s,,verified,VERIFIED
+KSU,54480,,1887.0,,,https://en.wikipedia.org/wiki/Kansas_City_Southern_(company),,verified,VERIFIED
+KVUE,1944048,Kenvue,1886.0,,,https://en.wikipedia.org/wiki/Kenvue,2022.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+KWP,,King World Productions,1964.0,,,https://en.wikipedia.org/wiki/King_World,,verified,VERIFIED
+L,60086,Loews Corporation,1959.0,,,,1969.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+LB,1995807,LandBridge Co LLC,2021.0,,,https://stockanalysis.com/stocks/lb/company/,2023.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+LDG,764762,Longs Drug Stores Corporation,1938.0,,,https://www.fundinguniverse.com/company-histories/longs-drug-stores-corporation-history/,,verified,VERIFIED
+LDOS,1336920,Leidos,1969.0,,,https://www.leidos.com/sites/leidos/files/2019-06/An%20Integrated%20Approach%20for%20a%20Revitalized%20Nuclear%20Deterrence%20Mission_Leidos-Exchange%20Monitor_020619_0.pdf,,verified,VERIFIED
+LDW.B,,Laidlaw Inc.,1924.0,,,https://en.wikipedia.org/wiki/Laidlaw,,verified,VERIFIED
+LEG,58492,LEGGETT & PLATT INC,1883.0,,,https://en.wikipedia.org/wiki/Leggett_%26_Platt,,verified,VERIFIED
+LEHMQ,806085,,1850.0,,,https://en.wikipedia.org/wiki/Lehman_Brothers,,verified,VERIFIED
+LEN,920760,Lennar,1954.0,,,https://investors.lennar.com/,,verified,VERIFIED
+LH,920148,Labcorp,1978.0,,,,1994.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+LHX,202058,L3Harris,1895.0,,,https://en.wikipedia.org/wiki/Harris_Corporation,,verified,VERIFIED
+LIFE,1788451,Ethos Technologies Inc.,,,,,,unresolved_blank,AUDITED_UNRESOLVED
+LII,1069202,Lennox International,1895.0,,,https://www.sec.gov/Archives/edgar/data/1069202/000106920226000048/lii-20251231x10kxfinal.pdf,,verified,VERIFIED
+LIN,1707925,Linde plc,1879.0,,,,2017.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+LITE,1633978,Lumentum,2015.0,2,2015-02-10,https://www.sec.gov/Archives/edgar/data/1633978/000130817923001000/llite2023_ars.pdf,,verified,VERIFIED
+LKQ,1065696,LKQ CORP,1998.0,February,,https://en.wikipedia.org/wiki/LKQ_Corporation,,verified,VERIFIED
+LLL,1056239,,1997.0,February,,https://en.wikipedia.org/wiki/L3_Technologies,,verified,VERIFIED
+LLTC,791907,,1981.0,,,https://en.wikipedia.org/wiki/Linear_Technology,,verified,VERIFIED
+LLX,,Louisiana Land and Exploration Company,1926.0,,,https://www.fundinguniverse.com/company-histories/the-louisiana-land-and-exploration-company-history/,,corrected_earlier,VERIFIED_CORRECTED
+LLY,59478,Lilly (Eli),1876.0,,,https://www.lilly.com/eu/about-lilly,,verified,VERIFIED
+LM,704051,,1899.0,,,https://en.wikipedia.org/wiki/Legg_Mason,,verified,VERIFIED
+LMT,936468,Lockheed Martin,1995.0,,,https://www.sec.gov/Archives/edgar/data/936468/000119312506040986/d10k.htm,,verified,VERIFIED
+LNC,59558,LINCOLN NATIONAL CORP,1905.0,,,https://en.wikipedia.org/wiki/Lincoln_National_Corporation,1968.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+LNT,352541,Alliant Energy,1917.0,,,,1981.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+LO,1424847,,1760.0,,,https://en.wikipedia.org/wiki/Lorillard_Tobacco_Company,,verified,VERIFIED
+LOR,,Loral Corporation,1948.0,,,https://en.wikipedia.org/wiki/Loral_Corporation,,verified,VERIFIED
+LOW,60667,Lowe's,1921.0,March,,https://en.wikipedia.org/wiki/Lowe%27s,,verified,VERIFIED
+LPX,60519,LOUISIANA-PACIFIC CORP,1972.0,,,https://en.wikipedia.org/wiki/Louisiana-Pacific,1973.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+LRCX,707549,Lam Research,1980.0,,,https://investor.lamresearch.com/download/AR2006.pdf,,verified,VERIFIED
+LSI,703360,LSI Logic Corporation,1980.0,November,,https://en.wikipedia.org/wiki/LSI_Logic,,corrected_earlier,VERIFIED_CORRECTED
+LU,1816007,Lufax Holding Ltd,2011.0,September,,https://en.wikipedia.org/wiki/Lufax,,verified,VERIFIED
+LUB,,"Luby's, Inc.",1947.0,,,https://en.wikipedia.org/wiki/Luby%27s,,verified,VERIFIED
+LULU,1397187,Lululemon Athletica,1998.0,,,https://corporate.lululemon.com/~/media/Files/L/Lululemon/investors/annual-reports/2011_annual_report.pdf,,verified,VERIFIED
+LUMN,18926,"Lumen Technologies, Inc.",1930.0,,,https://en.wikipedia.org/wiki/Lumen_Technologies,,verified,VERIFIED
+LUV,92380,Southwest Airlines,1967.0,,,https://history.southwest.com/our-stories/herb-rollin-the-birth-of-southwest-airlines/,,verified,VERIFIED
+LVLT,794323,,1985.0,,,https://en.wikipedia.org/wiki/Level_3_Communications,,verified,VERIFIED
+LVS,1300514,Las Vegas Sands,1988.0,,,https://www.sec.gov/Archives/edgar/data/1300514/000130817920000113/llvs2020_def14a.htm,,verified,VERIFIED
+LW,1679273,"Lamb Weston Holdings, Inc.",1950.0,,,https://en.wikipedia.org/wiki/Lamb_Weston,,verified,VERIFIED
+LXK,1001288,,1991.0,March,,https://en.wikipedia.org/wiki/Lexmark,,verified,VERIFIED
+LYB,1489393,LyondellBasell,2007.0,,,,2009.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+LYV,1335258,Live Nation Entertainment,2005.0,,,https://www.sec.gov/Archives/edgar/data/1335258/000133525818000023/lyv-20171231x10k.htm,,corrected_earlier,VERIFIED_CORRECTED_PRIMARY
+M,794367,"Macy's, Inc.",1858.0,,,https://en.wikipedia.org/wiki/Macy%27s,,verified,VERIFIED
+MA,1141391,Mastercard,1966.0,,,https://www.justice.gov/sites/default/files/atr/legacy/2006/11/03/p-1012.pdf,,verified,VERIFIED
+MAA,912595,Mid-America Apartment Communities,1977.0,,,,1994.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+MAC,912242,MACERICH CO,1964.0,,,https://en.wikipedia.org/wiki/Macerich,,verified,VERIFIED
+MAR,1048286,Marriott International,1927.0,,,,1929.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+MAS,62996,Masco,1929.0,December,1929-12-16,https://masco.com/about-us/historical-timeline/,,verified,VERIFIED
+MAT,63276,MATTEL INC /DE/,1945.0,,,https://corporate.mattel.com/news/mattel-publishing-accelerates-growth-with-new-global-partnerships-audio-titles-and-manga-inspired-graphic-novels-as-the-company-celebrates-80-years-of-innovation,,verified,VERIFIED
+MAY,63416,May Department Stores Company,1877.0,,,https://en.wikipedia.org/wiki/The_May_Department_Stores_Company,,verified,VERIFIED
+MBI,814585,MBIA INC,1973.0,,,https://en.wikipedia.org/wiki/MBIA,,verified,VERIFIED
+MCD,63908,McDonald's,1940.0,,,https://corporate.mcdonalds.com/corpmcd/our-company/who-we-are/our-history.html?os=vb_,,verified,VERIFIED
+MCHP,827054,Microchip Technology,1989.0,,,https://ww1.microchip.com/downloads/en/Market_Communication/fact.pdf,,verified,VERIFIED
+MCIC,,MCI Communications Corporation,1963.0,October,,https://en.wikipedia.org/wiki/MCI_Communications,,verified,VERIFIED
+MCK,927653,McKesson Corporation,1833.0,,,https://www.sec.gov/Archives/edgar/data/927653/000092765321000039/mck-20210331.htm,,verified,VERIFIED
+MCO,1059556,Moody's Corporation,1909.0,,,https://www.moodys.com/web/en/us/ai-information.html,,verified,VERIFIED
+MD,893949,"Pediatrix Medical Group, Inc.",1979.0,,,https://mednax.gcs-web.com/,,verified,VERIFIED
+MDLZ,1103982,Mondelez International,2012.0,10,2012-10-01,https://www.mondelezinternational.com/about-us/who-we-are/our-history/,,verified,VERIFIED
+MDP,65011,Meredith Corporation,1902.0,,,https://en.wikipedia.org/wiki/Meredith_Corporation,,verified,VERIFIED
+MDR,708819,McDermott International,1923.0,,,https://en.wikipedia.org/wiki/McDermott_International,,verified,VERIFIED
+MDT,1613103,Medtronic,1949.0,,,https://www.sec.gov/Archives/edgar/data/1613103/000119312526098523/d122374ds3asr.htm,,verified,VERIFIED
+MEA,64394,Mead Corporation,1846.0,,,https://www.encyclopedia.com/social-sciences-and-law/economics-business-and-labor/businesses-and-occupations/mead-corp,,verified,VERIFIED
+MEDI,873591,,1988.0,,,https://en.wikipedia.org/wiki/MedImmune,,verified,VERIFIED
+MEE,37748,Massey Energy Company,1920.0,,,https://en.wikipedia.org/wiki/Massey_Energy,,verified,VERIFIED
+MEL,64782,Mellon Financial Corporation,1869.0,,,https://en.wikipedia.org/wiki/Mellon_Financial,1870.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+MER,65100,Merrill Lynch & Co.,1914.0,January,,https://en.wikipedia.org/wiki/Merrill_Lynch_%26_Co.,,verified,VERIFIED
+MERQ,867058,,1989.0,,,https://en.wikipedia.org/wiki/Mercury_Interactive,,verified,VERIFIED
+MET,1099219,MetLife,1868.0,,,https://investments.metlife.co.uk/content/dam/metlifecom/us/sustainability/Sustainability-2024/sustainability-evergreen-microsite/pdf/corporate-responsibility-report.pdf,,verified,VERIFIED
+META,1326801,Meta Platforms,2004.0,,,https://investor.atmeta.com/resources/default.aspx,,verified,VERIFIED
+MFE,890801,,1987.0,,,https://en.wikipedia.org/wiki/McAfee,,verified,VERIFIED
+MGM,789570,MGM Resorts,1986.0,,,https://www.sec.gov/Archives/edgar/data/789570/000119312523077916/d719283dars.pdf,,verified,VERIFIED
+MHK,851968,MOHAWK INDUSTRIES INC,1878.0,,,https://en.wikipedia.org/wiki/Mohawk_Industries,,verified,VERIFIED
+MHS,1170650,,1983.0,,,https://en.wikipedia.org/wiki/Medco_Health_Solutions,,verified,VERIFIED
+MI,1958713,NFT Ltd,1847.0,,,https://en.wikipedia.org/wiki/Marshall_%26_Ilsley,,verified,VERIFIED
+MII,,"Morton International, Inc.",1848.0,,,https://www.encyclopedia.com/books/politics-and-business-magazines/morton-international-inc,,verified,VERIFIED
+MIL,66479,Millipore Corporation,1954.0,,,https://www.fundinguniverse.com/company-histories/millipore-corporation-history/,,verified,VERIFIED
+MIR,1809987,"Mirion Technologies, Inc.",,,,,,unresolved_blank,AUDITED_UNRESOLVED
+MJN,1452575,,1905.0,,,https://www.meadjohnson.com/sites/corp/files/Fact%20Sheet%202016%201.pdf,,verified,VERIFIED
+MKC,63754,McCormick & Company,1889.0,,,https://www.sec.gov/Archives/edgar/data/63754/000006375426000270/mkcreportsstrongsecondqu.htm,,verified,VERIFIED
+MKG,51396,Mallinckrodt,1867.0,,,https://en.wikipedia.org/wiki/Mallinckrodt,,verified,VERIFIED
+MKTX,1278021,MARKETAXESS HOLDINGS INC,2000.0,,,https://en.wikipedia.org/wiki/MarketAxess,,verified,VERIFIED
+MLM,916076,Martin Marietta Materials,1993.0,,,https://www.sec.gov/Archives/edgar/data/916076/000119312526157089/2025_mlm_annual_report.pdf,,verified,VERIFIED
+MMC,62709,Marsh & McLennan Companies,1905.0,,,https://en.wikipedia.org/wiki/Marsh_McLennan,,verified,VERIFIED
+MMI,1578732,"Marcus & Millichap, Inc.",1971.0,,,https://en.wikipedia.org/wiki/Marcus_%26_Millichap,,verified,VERIFIED
+MMM,66740,3M,1902.0,,,https://multimedia.3m.com/mws/media/1905257O/zz-archive-familiarization-broacher-for-directors-2020.pdf,,verified,VERIFIED
+MNK,1567892,,1867.0,,,https://en.wikipedia.org/wiki/Mallinckrodt,,verified,VERIFIED
+MNR,1980088,MACH NATURAL RESOURCES LP,2017.0,,,https://stockanalysis.com/stocks/mnr/company/,2023.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+MNST,865752,Monster Beverage,1935.0,,,https://en.wikipedia.org/wiki/Hansen_Natural,,verified,VERIFIED
+MO,764180,Altria,1985.0,,,https://www.sec.gov/Archives/edgar/data/764180/000076418018000028/a2017form10-kq4.htm,,verified,VERIFIED
+MOB,1898643,Mobilicom Ltd,,,,,,unresolved_blank,AUDITED_UNRESOLVED
+MOH,1179929,"MOLINA HEALTHCARE, INC.",1980.0,,,https://en.wikipedia.org/wiki/Molina_Healthcare,,verified,VERIFIED
+MOLX,67472,,1938.0,,,https://en.wikipedia.org/wiki/Molex,,verified,VERIFIED
+MON,1110783,,1901.0,,,https://en.wikipedia.org/wiki/Monsanto,,verified,VERIFIED
+MOS,1285785,Mosaic Company (The),2004.0,October,,https://en.wikipedia.org/wiki/The_Mosaic_Company,,verified,VERIFIED
+MPC,1510295,Marathon Petroleum,1887.0,,,https://en.wikipedia.org/wiki/Marathon_Oil,2011.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+MPWR,1280452,Monolithic Power Systems,1997.0,,,https://www.sec.gov/Archives/edgar/data/1280452/000143774926003191/ex_886151.htm,,verified,VERIFIED
+MRK,310158,Merck & Co.,1891.0,,,,1970.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+MRNA,1682852,Moderna,2010.0,,,https://www.sec.gov/Archives/edgar/data/1682852/000119312518341958/d611137ds1a.htm,,verified,VERIFIED
+MRO,101778,Marathon Oil Corporation,1887.0,August,,https://en.wikipedia.org/wiki/Marathon_Oil,,verified,VERIFIED
+MRSH,62709,Marsh McLennan,1905.0,,,,1969.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+MS,895421,Morgan Stanley,1935.0,,,https://advisor.morganstanley.com/the-triad-group/documents/field/t/tr/triad-group/Morgan_Stanley_-_About_the_Firm.pdf,,verified,VERIFIED
+MSCI,1408198,MSCI Inc.,1969.0,,,https://ir.msci.com/static-files/92cdd3bb-a743-483d-9b1c-1b9a2f80a7cf,,verified,VERIFIED
+MSFT,789019,Microsoft,1975.0,,,https://www.microsoft.com/investor/reports/ar13/financial-review/business-description/index.html,,verified,VERIFIED
+MSI,68505,Motorola Solutions,1928.0,,,https://en.wikipedia.org/wiki/Motorola_Solutions,2011.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+MST,,Mercantile Stores Company,1914.0,,,"https://en.wikipedia.org/wiki/Mercantile_Stores_Company,_Inc.",,verified,VERIFIED
+MTB,36270,M&T Bank,1856.0,,,https://www.sec.gov/Archives/edgar/data/36270/000119312526099298/d74790ddef14a.htm,,verified,VERIFIED
+MTCH,891103,"Match Group, Inc.",1995.0,,,https://en.wikipedia.org/wiki/Match.com,2009.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+MTD,1037646,Mettler Toledo,1945.0,,,,1991.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+MTG,876437,MGIC INVESTMENT CORP,1957.0,,,https://en.wikipedia.org/wiki/MGIC_Investment_Corporation,,verified,VERIFIED
+MTL,,,2003.0,,,https://en.wikipedia.org/wiki/Mechel,,verified,VERIFIED
+MTLQQ,40730,Motors Liquidation (old GM),1908.0,,,https://en.wikipedia.org/wiki/Motors_Liquidation_Company,,verified,VERIFIED
+MTW,61986,MANITOWOC CO INC,1902.0,,,https://en.wikipedia.org/wiki/The_Manitowoc_Company,,verified,VERIFIED
+MU,723125,Micron Technology,1978.0,,,https://www.micron.com/about/company/company-timeline,,verified,VERIFIED
+MUR,717423,MURPHY OIL CORP,1944.0,,,https://en.wikipedia.org/wiki/Murphy_Oil,,verified,VERIFIED
+MWI,,MWI Veterinary Supply,1976.0,,,https://www.encyclopedia.com/books/politics-and-business-magazines/mwi-veterinary-supply-inc,,verified,VERIFIED
+MWV,1159297,MeadWestvaco,1846.0,,,https://en.wikipedia.org/wiki/MeadWestvaco,2002.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+MWW,1020416,,1967.0,,,https://en.wikipedia.org/wiki/Monster_Worldwide,,verified,VERIFIED
+MXIM,743316,,1983.0,April,,https://en.wikipedia.org/wiki/Maxim_Integrated,,verified,VERIFIED
+MYG,63541,Maytag Corporation,1893.0,,,https://en.wikipedia.org/wiki/Maytag,,verified,VERIFIED
+MYL,69499,,1961.0,,,https://en.wikipedia.org/wiki/Mylan,,verified,VERIFIED
+MZIAQ,716823,Mirant Corporation,1981.0,,,https://en.wikipedia.org/wiki/Mirant,1993.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+NAE,,NorAm Energy Corp (Arkla),,,,,,unresolved_blank,AUDITED_UNRESOLVED
+NAV,51303,Navistar International,1902.0,,,https://en.wikipedia.org/wiki/International_Harvester,1986.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+NAVI,1593538,NAVIENT CORP,2014.0,April,,https://en.wikipedia.org/wiki/Navient,,verified,VERIFIED
+NBL,72207,,1932.0,,,https://en.wikipedia.org/wiki/Noble_Energy,,verified,VERIFIED
+NBR,1163739,NABORS INDUSTRIES LTD,1952.0,May,,https://en.wikipedia.org/wiki/Nabors_Industries,,verified,VERIFIED
+NC,789933,NACCO INDUSTRIES INC,1913.0,,,https://en.wikipedia.org/wiki/NACCO_Industries,,verified,VERIFIED
+NCC,69970,National City Corporation,1845.0,,,https://en.wikipedia.org/wiki/National_City_Corp.,,verified,VERIFIED
+NCE,,,,,,,,unresolved_blank,AUDITED_UNRESOLVED
+NCLH,1513761,Norwegian Cruise Line Holdings,1966.0,,,https://en.wikipedia.org/wiki/Norwegian_Cruise_Line,2011.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+NCR,70866,,1884.0,,,https://en.wikipedia.org/wiki/NCR_Corporation,,verified,VERIFIED
+NDAQ,1120193,"Nasdaq, Inc.",1971.0,,,https://www.sec.gov/Archives/edgar/data/1120193/000112019318000003/ndaq1231201710-k.htm,,verified,VERIFIED
+NDSN,72331,Nordson Corporation,1935.0,,,,1954.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+NE,1895262,Noble Corp plc,1921.0,,,https://en.wikipedia.org/wiki/Noble_Corporation,1985.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+NEE,753308,NextEra Energy,1925.0,,,https://www.nexteraenergy.com/about-us/our-history.html,,verified,VERIFIED
+NEM,1164727,Newmont,1921.0,,,https://www.sec.gov/Archives/edgar/data/1164727/000110465923098309/tm2314601-4_defm14a.htm,,verified,VERIFIED
+NFB,352510,,1905.0,,,https://www.fundinguniverse.com/company-histories/north-fork-bancorporation-inc-history/,,verified,VERIFIED
+NFLX,1065280,Netflix,1997.0,,,https://about.netflix.com/en/news/first-online-dvd-rental-store-opens,,verified,VERIFIED
+NFX,912750,,1988.0,,,https://en.wikipedia.org/wiki/Newfield_Exploration,,verified,VERIFIED
+NGH,,,1898.0,June,,https://en.wikipedia.org/wiki/Nabisco,,verified,VERIFIED
+NI,1111711,NiSource,1912.0,,,,2000.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+NKE,320187,"Nike, Inc.",1964.0,,,,1967.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+NKTR,906709,NEKTAR THERAPEUTICS,1990.0,,,https://en.wikipedia.org/wiki/Nektar_Therapeutics,,verified,VERIFIED
+NLC,,Nalco Holding Company,1928.0,,,https://en.wikipedia.org/wiki/Nalco_Water,2003.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+NLOK,,,1982.0,,,https://en.wikipedia.org/wiki/Symantec_Corporation,,verified,VERIFIED
+NLSN,1492633,,1923.0,August,,https://en.wikipedia.org/wiki/Nielsen_Holdings,,verified,VERIFIED
+NLV,,,,,,,,unresolved_blank,AUDITED_UNRESOLVED
+NMK,71932,Niagara Mohawk Power Corporation,1929.0,,,https://en.wikipedia.org/wiki/Niagara_Mohawk_Power_Corporation,,verified,VERIFIED
+NOC,1133421,Northrop Grumman,1939.0,,,https://en.wikipedia.org/wiki/Northrop_Corporation,1994.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+NOV,1021860,NOV Inc.,1862.0,,,https://en.wikipedia.org/wiki/NOV_Inc.,2005.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+NOVL,758004,Novell,1980.0,August,,https://en.wikipedia.org/wiki/Novell,,verified,VERIFIED
+NOW,1373715,ServiceNow,2003.0,,,,2004.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+NRG,1013871,NRG Energy,1992.0,,,https://www.sec.gov/Archives/edgar/data/1013871/000110465925043394/tm2513364d1_ex3-1.htm,,verified,VERIFIED
+NRTLQ,72911,Nortel Networks,1895.0,December,,https://en.wikipedia.org/wiki/Nortel,,verified,VERIFIED
+NSC,702165,Norfolk Southern,1980.0,July,,https://en.wikipedia.org/wiki/Norfolk_Southern,,corrected_earlier,VERIFIED_CORRECTED
+NSI,70538,National Service Industries,1919.0,,,https://www.encyclopedia.com/social-sciences-and-law/economics-business-and-labor/businesses-and-occupations/national-service-industries-inc,,verified,VERIFIED
+NSM,70530,National Semiconductor,1959.0,May,,https://en.wikipedia.org/wiki/National_Semiconductor,,verified,VERIFIED
+NTAP,1002047,NetApp,1992.0,,,https://www.sec.gov/Archives/edgar/data/1002047/000095013407014094/f31128e10vk.htm,,verified,VERIFIED
+NTRS,73124,Northern Trust,1889.0,August,1889-08-12,https://www.northerntrust.com/united-kingdom/about-us/our-history,,verified,VERIFIED
+NUE,73309,Nucor,1940.0,,,,1958.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+NVDA,1045810,Nvidia,1993.0,April,1993-04-05,https://www.nvidia.com/en-gb/about-nvidia/corporate-timeline/,,verified,VERIFIED
+NVLS,836106,,1984.0,,,https://en.wikipedia.org/wiki/Novellus_Systems,,verified,VERIFIED
+NVR,906163,"NVR, Inc.",1980.0,,,https://www.sec.gov/Archives/edgar/data/906163/000090616326000018/nvr-20251231.htm,,verified,VERIFIED
+NWL,814453,NEWELL BRANDS INC.,1903.0,,,https://en.wikipedia.org/wiki/Newell_Brands,,verified,VERIFIED
+NWS,1564708,News Corp (Class B),2013.0,June,,https://en.wikipedia.org/wiki/News_Corp,,verified,VERIFIED
+NWSA,1564708,News Corp (Class A),2013.0,June,,https://en.wikipedia.org/wiki/News_Corp,,verified,VERIFIED
+NXPI,1413447,NXP Semiconductors,1953.0,,,,2006.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+NXTL,824169,,1987.0,,,https://en.wikipedia.org/wiki/Nextel,,verified,VERIFIED
+NYN,,NYNEX,1984.0,January,,https://en.wikipedia.org/wiki/NYNEX,,verified,VERIFIED
+NYT,71691,NEW YORK TIMES CO,1851.0,September,,https://en.wikipedia.org/wiki/The_New_York_Times_Company,,verified,VERIFIED
+NYX,1368007,,1792.0,,,https://en.wikipedia.org/wiki/New_York_Stock_Exchange,,verified,VERIFIED
+O,726728,Realty Income,1969.0,,,https://www.sec.gov/Archives/edgar/data/726728/000072672824000066/o-20231231ars.pdf,,verified,VERIFIED
+OAT,,Quaker Oats Company,1877.0,,,https://en.wikipedia.org/wiki/Quaker_Oats_Company,,verified,VERIFIED
+ODFL,878927,Old Dominion,1934.0,,,https://www.sec.gov/Archives/edgar/data/878927/000095017023013010/odfl_2022_annual_report.pdf,,verified,VERIFIED
+ODP,800240,,1986.0,October,,https://en.wikipedia.org/wiki/Office_Depot,,verified,VERIFIED
+OGN,1821825,Organon & Co.,1923.0,,,https://en.wikipedia.org/wiki/Organon_(company),2020.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+OI,812074,"O-I Glass, Inc. /DE/",1903.0,,,https://en.wikipedia.org/wiki/Owens-Illinois,2019.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+OK,,Old Kent Financial Corporation,1853.0,,,https://www.encyclopedia.com/books/politics-and-business-magazines/old-kent-financial-corp,,verified,VERIFIED
+OKE,1039684,Oneok,1906.0,,,https://ir.oneok.com/~/media/Files/O/ONEOK-IR-V3/documents/annual-reports/annual-report-2011.pdf,,verified,VERIFIED
+OM,1484612,"Outset Medical, Inc.",2003.0,,,https://en.wikipedia.org/wiki/Outset_Medical,,verified,VERIFIED
+OMC,29989,Omnicom Group,1986.0,,,https://en.wikipedia.org/wiki/Omnicom_Group,,verified,VERIFIED
+OMX,12978,OfficeMax,1988.0,,,https://en.wikipedia.org/wiki/OfficeMax,,verified,VERIFIED
+ON,1097864,ON Semiconductor,1999.0,,,https://en.wikipedia.org/wiki/ON_Semiconductor,,verified,VERIFIED
+ONE,1067092,Bank One Corporation,1968.0,,,https://en.wikipedia.org/wiki/Bank_One,,verified,VERIFIED
+ORCL,1341439,Oracle Corporation,1977.0,June,,https://en.wikipedia.org/wiki/Oracle_Corporation,,verified,VERIFIED
+ORLY,898173,O’Reilly Automotive,1957.0,,,https://www.sec.gov/Archives/edgar/data/898173/000089817326000018/orly-20251231xars.pdf,,verified,VERIFIED
+ORX,,Oryx Energy Company,1988.0,,,https://en.wikipedia.org/wiki/Kerr-McGee,,verified,VERIFIED
+OTIS,1781335,Otis Worldwide,1853.0,,,https://en.wikipedia.org/wiki/Otis_Worldwide,,verified,VERIFIED
+OWENQ,75234,Owens Corning,1938.0,,,https://en.wikipedia.org/wiki/Owens_Corning,,verified,VERIFIED
+OXY,797468,Occidental Petroleum,1920.0,,,,1986.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+PAC,1347557,Pacific Airport Group,1998.0,November,,https://en.wikipedia.org/wiki/Grupo_Aeroportuario_del_Pac%C3%ADfico,,verified,VERIFIED
+PALM,1100389,,1992.0,,,"https://en.wikipedia.org/wiki/Palm,_Inc.",,verified,VERIFIED
+PANW,1327567,Palo Alto Networks,2005.0,,,https://media.paloaltonetworks.com/documents/Palo_Alto_Networks_Corp_Backgrounder.pdf,,verified,VERIFIED
+PARA,813828,,,,,,,unresolved_blank,AUDITED_UNRESOLVED_IDENTITY
+PAS,,"PepsiAmericas, Inc.",1851.0,,,https://en.wikipedia.org/wiki/PepsiAmericas,1986.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+PAYC,1590955,"Paycom Software, Inc.",1998.0,,,https://en.wikipedia.org/wiki/Paycom,,verified,VERIFIED
+PAYX,723531,Paychex,1971.0,,,https://en.wikipedia.org/wiki/Paychex,,verified,VERIFIED
+PBCT,1378946,,1842.0,,,https://en.wikipedia.org/wiki/People%27s_United_Financial,,verified,VERIFIED
+PBG,1076405,,1999.0,,,https://en.wikipedia.org/wiki/Pepsi_Bottling_Group,,verified,VERIFIED
+PBI,78814,PITNEY BOWES INC /DE/,1920.0,April,,https://en.wikipedia.org/wiki/Pitney_Bowes,,verified,VERIFIED
+PBY,77449,Pep Boys,1921.0,August,,https://en.wikipedia.org/wiki/Pep_Boys,,verified,VERIFIED
+PCAR,75362,Paccar,1905.0,,,https://investors.paccar.com/financial-news/news-details/2025/PACCAR-Achieves-Strong-Annual-Revenues-and-Net-Income/default.aspx,,verified,VERIFIED
+PCG,1004980,PG&E Corporation,1905.0,,,,1995.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+PCH,79716,Potlatch (PotlatchDeltic),1903.0,,,https://en.wikipedia.org/wiki/PotlatchDeltic,,verified,VERIFIED
+PCL,849213,,1989.0,,,https://en.wikipedia.org/wiki/Plum_Creek_Timber,,verified,VERIFIED
+PCP,79958,,1953.0,,,https://en.wikipedia.org/wiki/Precision_Castparts_Corp.,,verified,VERIFIED
+PCS,101830,,1994.0,,,https://en.wikipedia.org/wiki/MetroPCS,,verified,VERIFIED
+PD,1568100,"PagerDuty, Inc.",2009.0,,,https://en.wikipedia.org/wiki/PagerDuty,,verified,VERIFIED
+PDCO,891024,,1877.0,,,https://en.wikipedia.org/wiki/Patterson_Companies,,verified,VERIFIED
+PDG,,Placer Dome Inc.,1987.0,August,,https://en.wikipedia.org/wiki/Placer_Dome,,verified,VERIFIED
+PEAK,,,,,,,,unresolved_blank,AUDITED_UNRESOLVED_IDENTITY
+PEG,788784,Public Service Enterprise Group,1903.0,,,https://corporate.pseg.com/aboutpseg/companyinformation,,verified,VERIFIED
+PEL,,Panhandle Eastern Pipe Line Co.,1929.0,,,https://en.wikipedia.org/wiki/Panhandle_Eastern,,verified,VERIFIED
+PENN,921738,"PENN Entertainment, Inc.",1968.0,,,https://en.wikipedia.org/wiki/Penn_Entertainment,1982.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+PEP,77476,PepsiCo,1898.0,,,,1965.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+PET,,Pet Incorporated,1885.0,,,"https://en.wikipedia.org/wiki/Pet,_Incorporated",,verified,VERIFIED
+PETM,863157,,1986.0,,,https://en.wikipedia.org/wiki/PetSmart,,verified,VERIFIED
+PFE,78003,Pfizer,1849.0,,,https://www.sec.gov/Archives/edgar/data/5187/000119312509011186/dex991.htm,,verified,VERIFIED
+PFG,1126328,Principal Financial Group,1879.0,,,https://www.sec.gov/comments/s7-14-10/s71410-243.pdf,,verified,VERIFIED
+PG,80424,Procter & Gamble,1837.0,,,https://www.sec.gov/Archives/edgar/data/80424/000008042424000083/pg-20240630.htm,,verified,VERIFIED
+PGL,77385,Peoples Energy Corp,1849.0,,,https://en.wikipedia.org/wiki/Peoples_Energy,,verified,VERIFIED
+PGN,1094093,Progress Energy Inc.,,,,,,unresolved_blank,AUDITED_UNRESOLVED_SOURCE_CONTEXT
+PGR,80661,Progressive Corporation,1937.0,,,https://investors.progressive.com/financials/financial-news-releases/news-details/2026/Progressive-Announces-Investor-Relations-Call/default.aspx,,verified,VERIFIED
+PH,76334,Parker Hannifin,1917.0,,,https://en.wikipedia.org/wiki/Parker_Hannifin,,verified,VERIFIED
+PHA,67686,Pharmacia Corporation,1911.0,,,https://en.wikipedia.org/wiki/Pharmacia,,verified,VERIFIED
+PHB,,Pioneer Hi-Bred International,1926.0,,,https://en.wikipedia.org/wiki/Pioneer_Hi_Bred_International,,verified,VERIFIED
+PHM,822416,PulteGroup,1950.0,,,https://www.pultegroupinc.com/investor-relations/news/news-details/2018/PulteGroup-Announces-Passing-of-Company-Founder-William-Bill-Pulte/default.aspx,,corrected_earlier,VERIFIED_CORRECTED_PRIMARY
+PKG,75677,Packaging Corporation of America,1959.0,,,,1999.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+PKI,31791,"PerkinElmer, Inc. (EG&G)",1937.0,April,,https://en.wikipedia.org/wiki/PerkinElmer,,verified,VERIFIED
+PLD,1045609,Prologis,1983.0,,,https://www.prologis.com/annual-report/2021,,verified,VERIFIED
+PLL,75829,Pall Corporation,1946.0,,,https://en.wikipedia.org/wiki/Pall_Corporation,,verified,VERIFIED
+PLTR,1321655,Palantir Technologies,2003.0,,,https://www.palantir.com/assets/xrfr7uokpv1b/4Py6TmK7OUgYAuwD8OFWLg/6c5724703c87afca09e81cda2eba8e97/AIP_Now_Privacy_Statement.pdf,,verified,VERIFIED
+PM,1413329,Philip Morris International,1847.0,,,https://en.wikipedia.org/wiki/Philip_Morris_International,2008.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+PMCS,767920,,1984.0,,,https://en.wikipedia.org/wiki/PMC-Sierra,,verified,VERIFIED
+PMI,2030617,"Picard Medical, Inc.",2001.0,,,https://picardmedical.com,2021.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+PNC,713676,PNC Financial Services,1845.0,,,,1983.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+PNR,77360,Pentair,1966.0,,,https://www.pentair.com/content/dam/extranet/enterprise/resources/brand-content/Pentair_History_2022.pdf,,verified,VERIFIED
+PNU,,Pharmacia & Upjohn Inc.,1886.0,,,https://en.wikipedia.org/wiki/Upjohn,,verified,VERIFIED
+PNW,764622,Pinnacle West Capital,1985.0,February,1985-02-20,https://www.sec.gov/Archives/edgar/data/764622/000095012405001084/p70259uv3av2.htm,,verified,VERIFIED
+PODD,1145197,Insulet Corporation,2000.0,,,https://investor.insulet.com/overview/,,verified,VERIFIED
+POM,1877971,POMDOCTOR Ltd,,,,,,unresolved_blank,AUDITED_UNRESOLVED_SOURCE_MISMATCH
+POOL,945841,Pool Corporation,1993.0,,,https://www.sec.gov/Archives/edgar/data/945841/000094584121000022/pool-20201231.htm,,verified,VERIFIED
+PPG,79879,PPG Industries,1883.0,,,https://news.ppg.com/Press-Releases/news-details/2018/PPG-Marks-135th-Anniversary-of-Its-Founding-With-NYSE-Closing-Bell-Ceremony/default.aspx,,verified,VERIFIED
+PPL,922224,PPL Corporation,1920.0,June,1920-06-04,https://www.pplweb.com/about-us/affordability/timeline/,,verified,VERIFIED
+PPW,,PacifiCorp,1910.0,,,https://en.wikipedia.org/wiki/PacifiCorp,,verified,VERIFIED
+PRD,79326,Polaroid Corporation,1937.0,,,https://en.wikipedia.org/wiki/Polaroid_Corporation,,verified,VERIFIED
+PRGO,1585364,PERRIGO Co plc,1887.0,,,https://en.wikipedia.org/wiki/Perrigo,,verified,VERIFIED
+PRU,1137774,Prudential Financial,1875.0,,1875,https://news.prudential.com/files/doc_news/fact_sheets/2021/Prudential_RTW_Resource-Guide.pdf,,verified,VERIFIED
+PSA,1393311,Public Storage,1972.0,,1972,https://investors.publicstorage.com/news-events/press-releases/news-details/2022/Public-Storage-to-Celebrate-its-50th-Anniversary-by-Ringing-the-NYSE-Opening-Bell/default.aspx,,verified,VERIFIED
+PSFT,875570,,1987.0,,,https://en.wikipedia.org/wiki/PeopleSoft,,verified,VERIFIED
+PSKY,2041610,Paramount Skydance Corporation,1912.0,,,https://en.wikipedia.org/wiki/Paramount_Pictures,2024.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+PSX,1534701,Phillips 66,1917.0,,,https://en.wikipedia.org/wiki/Phillips_66,2012.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+PTC,857005,PTC Inc.,1985.0,May,,https://en.wikipedia.org/wiki/Parametric_Technology_Corporation,,verified,VERIFIED
+PTV,1089976,,,,,,,unresolved_blank,AUDITED_UNRESOLVED_IDENTITY
+PVH,78239,PVH CORP. /DE/,1881.0,,,https://en.wikipedia.org/wiki/PVH_(company),,verified,VERIFIED
+PVN,1035713,Providian Financial Corporation,1981.0,,,https://en.wikipedia.org/wiki/Providian,1997.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+PVT,,"Provident Companies, Inc.",,,,,,unresolved_blank,AUDITED_UNRESOLVED_SOURCE_MISMATCH
+PWER,1042825,,,,,,,unresolved_blank,AUDITED_UNRESOLVED_IDENTITY
+PWJ,,Paine Webber Group Inc,1880.0,,,https://en.wikipedia.org/wiki/Paine_Webber,,verified,VERIFIED
+PWR,1050915,Quanta Services,1997.0,,,https://www.sec.gov/Archives/edgar/data/1050915/000095012905005887/h25965exv99w2.htm,,verified,VERIFIED
+PX,884905,"Praxair, Inc.",1907.0,,,https://en.wikipedia.org/wiki/Praxair,,verified,VERIFIED
+PXD,1038357,,1997.0,,,https://en.wikipedia.org/wiki/Pioneer_Natural_Resources,,verified,VERIFIED
+PYPL,1633917,PayPal,1998.0,,,https://www.paypalobjects.com/webstatic/en_US/mktg/pages/stories/pdf/paypal_infogrpahic_-_key_milestones.pdf,,verified,VERIFIED
+PZE,,Pennzoil Company,1913.0,,,https://en.wikipedia.org/wiki/Pennzoil,,verified,VERIFIED
+Q,2058873,Qnity Electronics,2024.0,December,2024-12-06,https://www.sec.gov/Archives/edgar/data/2058873/000119312525261603/d65598dex32.htm,,corrected_earlier,VERIFIED_CORRECTED_PRIMARY
+QCOM,804328,Qualcomm,1985.0,,,https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/2017-07-06_complaint.pdf,,verified,VERIFIED
+QEP,1108827,,,,,,,unresolved_blank,AUDITED_UNRESOLVED_IDENTITY
+QLGC,918386,,1992.0,,,https://en.wikipedia.org/wiki/QLogic,,verified,VERIFIED
+QRVO,1604778,"Qorvo, Inc.",2015.0,,,https://en.wikipedia.org/wiki/Qorvo,,verified,VERIFIED
+QTRN,919623,,1982.0,,,https://en.wikipedia.org/wiki/Quintiles,,verified,VERIFIED
+R,85961,RYDER SYSTEM INC,1933.0,,,https://en.wikipedia.org/wiki/Ryder,,verified,VERIFIED
+RAD,84129,Rite Aid Corporation,1962.0,September,,https://en.wikipedia.org/wiki/Rite_Aid,,verified,VERIFIED
+RAI,1275283,,1875.0,,,https://en.wikipedia.org/wiki/R._J._Reynolds_Tobacco_Company,,verified,VERIFIED
+RAI_B,1275283,Reynolds American Inc.,,,,,,unresolved_blank,AUDITED_UNRESOLVED_SOURCE_MISMATCH
+RAL,2041385,Ralliant Corp,1894.0,,,https://en.wikipedia.org/wiki/Ralston_Purina,2024.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+RATL,722056,,1981.0,,,https://en.wikipedia.org/wiki/Rational_Software,,verified,VERIFIED
+RBD,,Rubbermaid Incorporated,1920.0,May,,https://en.wikipedia.org/wiki/Rubbermaid,,verified,VERIFIED
+RBK,770949,Reebok International Ltd,1958.0,,,https://en.wikipedia.org/wiki/Reebok,,verified,VERIFIED
+RCL,884887,Royal Caribbean Group,1968.0,,,https://www.sec.gov/Archives/edgar/data/884887/000088488726000007/rcl-20251231.htm,,corrected_earlier,VERIFIED_CORRECTED_PRIMARY
+RDC,85408,Rowan Companies,1923.0,,,https://en.wikipedia.org/wiki/Rowan_Companies,,verified,VERIFIED
+RDS.A,,Royal Dutch Shell,1907.0,,,https://en.wikipedia.org/wiki/Shell_plc,,verified,VERIFIED
+RE,,,1973.0,,,https://en.wikipedia.org/wiki/Everest_Group,,verified,VERIFIED
+REG,910606,Regency Centers,1963.0,,,https://investors.regencycenters.com/static-files/4dd2aaa7-aec1-46da-a4a0-9b4261ab8161,,verified,VERIFIED
+REGN,872589,Regeneron Pharmaceuticals,1988.0,,1988,https://newsroom.regeneron.com/static-files/c1be21c5-bd18-45e4-b8ba-e09e3755fdf5,,verified,VERIFIED
+RF,1281761,Regions Financial Corporation,,,,,,unresolved_blank,AUDITED_UNRESOLVED_SOURCE_CONTEXT
+RHI,315213,ROBERT HALF INC.,1948.0,,,https://en.wikipedia.org/wiki/Robert_Half,,verified,VERIFIED
+RHT,1087423,,1993.0,,,https://en.wikipedia.org/wiki/Red_Hat,,verified,VERIFIED
+RIG,1451505,Transocean Ltd.,1953.0,,,https://en.wikipedia.org/wiki/Transocean,2008.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+RJF,720005,Raymond James Financial,1962.0,,1962,https://www.raymondjames.com/-/media/rj/corporate-sites/branch-sites/memphis-branch/files/memphis_complex_fall_newsletter.pdf,,verified,VERIFIED
+RL,1037038,Ralph Lauren Corporation,1967.0,,1967,https://investor.ralphlauren.com/static-files/6ad0d855-a135-486f-b00c-f159a5865c64,,verified,VERIFIED
+RLM,,Reynolds Metals Company,1919.0,,,https://en.wikipedia.org/wiki/Reynolds_Metals_Company,,verified,VERIFIED
+RMD,943819,ResMed,1989.0,,,https://investor.resmed.com/sec-filings/all-sec-filings/content/0000943819-24-000019/0000943819-24-000019.pdf,,verified,VERIFIED
+RML,85812,Russell Corporation,1902.0,,,https://en.wikipedia.org/wiki/Russell_Brands,,verified,VERIFIED
+RNB,,Republic New York Corporation,1966.0,,,https://en.wikipedia.org/wiki/Republic_New_York,,verified,VERIFIED
+ROH,84792,Rohm and Haas,1909.0,September,,https://en.wikipedia.org/wiki/Rohm_and_Haas,,verified,VERIFIED
+ROK,1024478,Rockwell Automation,1903.0,,,https://www.rockwellautomation.com/en-us/company/about-us/our-history.html,,verified,VERIFIED
+ROL,84839,"Rollins, Inc.",1948.0,,,https://www.rollins.com/investors/financial-information/sec-filings/content/0001171200-17-000077/0001171200-17-000077.pdf,,verified,VERIFIED
+ROP,882835,Roper Technologies,1981.0,,,https://www.sec.gov/Archives/edgar/data/882835/000088283523000016/rop-20221231.htm,,verified,VERIFIED
+ROST,745732,Ross Stores,1982.0,,,https://investors.rossstores.com/static-files/77b062a5-7476-466a-a421-a9d11f7ad28d,,verified,VERIFIED
+RRC,315852,RANGE RESOURCES CORP,1976.0,,,https://en.wikipedia.org/wiki/Range_Resources,,verified,VERIFIED
+RRD,29669,R.R. Donnelley & Sons,1864.0,,,https://en.wikipedia.org/wiki/RR_Donnelley,,verified,VERIFIED
+RSG,1060391,Republic Services,1981.0,,,https://en.wikipedia.org/wiki/Republic_Services,,verified,VERIFIED
+RSHCQ,96289,RadioShack Corporation,1921.0,,,https://en.wikipedia.org/wiki/RadioShack,,verified,VERIFIED
+RTN,1047122,Raytheon Company,1922.0,July,,https://en.wikipedia.org/wiki/Raytheon,,verified,VERIFIED
+RTX,101829,RTX Corporation,1922.0,,,,2020.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+RVTY,31791,Revvity,,,,,,unresolved_blank,AUDITED_UNRESOLVED_SOURCE_CONTEXT
+RX,1058083,IMS Health,1954.0,,,https://en.wikipedia.org/wiki/IMS_Health,,verified,VERIFIED
+RYAN,1849253,"RYAN SPECIALTY HOLDINGS, INC.",2010.0,,,https://en.wikipedia.org/wiki/Ryan_Specialty,,verified,VERIFIED
+RYC,,Raychem Corporation,1957.0,,,https://en.wikipedia.org/wiki/Raychem,,verified,VERIFIED
+RYI,,Ryerson Holding Corporation,1842.0,,,https://en.wikipedia.org/wiki/Ryerson_(company),,verified,VERIFIED
+S,1583708,"SentinelOne, Inc.",2013.0,,,https://en.wikipedia.org/wiki/SentinelOne,,verified,VERIFIED
+SAF,86104,Safeco,1923.0,,,https://en.wikipedia.org/wiki/Safeco,,verified,VERIFIED
+SAI,,,1969.0,,,https://en.wikipedia.org/wiki/Science_Applications_International_Corporation,,verified,VERIFIED
+SANM,897723,SANMINA CORP,1980.0,,,https://en.wikipedia.org/wiki/Sanmina_Corporation,,verified,VERIFIED
+SAPE,1008817,,1990.0,,,https://en.wikipedia.org/wiki/Publicis_Sapient,,verified,VERIFIED
+SATS,1415404,EchoStar,2007.0,October,,https://www.sec.gov/Archives/edgar/data/1415404/000155837025003814/tmb-20241231xars.pdf,,corrected_earlier,VERIFIED_CORRECTED_PRIMARY
+SB,1434754,"SAFE BULKERS, INC.",2007.0,,,https://en.wikipedia.org/wiki/Safe_Bulkers,,verified,VERIFIED
+SBAC,1034054,SBA Communications,1989.0,,,https://www.sec.gov/Archives/edgar/data/1034054/000119312526149656/d98181ddef14a1.pdf,,verified,VERIFIED
+SBL,278352,,1973.0,,,https://en.wikipedia.org/wiki/Symbol_Technologies,,verified,VERIFIED
+SBNY,,,2001.0,,,https://en.wikipedia.org/wiki/Signature_Bank,,verified,VERIFIED
+SBUX,829224,Starbucks,1971.0,,,https://investor.starbucks.com/files/doc_financials/2018/FY18-Annual-Letter-to-Shareholders.pdf,,verified,VERIFIED
+SCG,754737,,1924.0,,,https://en.wikipedia.org/wiki/SCANA,,verified,VERIFIED
+SCHW,316709,Charles Schwab Corporation,1971.0,,,https://www.sec.gov/Archives/edgar/data/316709/000119312526142826/d930509ddef14a.htm,,verified,VERIFIED
+SCI,89089,SERVICE CORP INTERNATIONAL,1962.0,,,https://en.wikipedia.org/wiki/Service_Corporation_International,,verified,VERIFIED
+SDS,789388,,1983.0,,,https://en.wikipedia.org/wiki/SunGard,,verified,VERIFIED
+SE,1703399,Sea Ltd,2009.0,,,https://en.wikipedia.org/wiki/Sea_Ltd,2017.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+SEBL,,,1993.0,,,https://en.wikipedia.org/wiki/Siebel_Systems,,verified,VERIFIED
+SEDG,1419612,"SOLAREDGE TECHNOLOGIES, INC.",2006.0,,,https://en.wikipedia.org/wiki/SolarEdge,,verified,VERIFIED
+SEE,1012100,,1960.0,,,https://en.wikipedia.org/wiki/Sealed_Air,,verified,VERIFIED
+SEG,2009684,Seaport Entertainment Group Inc.,2024.0,,,https://www.sec.gov/Archives/edgar/data/2009684/000110465926056380/R7.htm,,verified,VERIFIED
+SFA,87777,Scientific-Atlanta,1951.0,,,https://en.wikipedia.org/wiki/Scientific_Atlanta,,verified,VERIFIED
+SFS,,Smith's Food & Drug Centers,1911.0,,,https://en.wikipedia.org/wiki/Smith%27s_Food_and_Drug,,verified,VERIFIED
+SGID,802301,"Silicon Graphics, Inc.",1981.0,,,https://en.wikipedia.org/wiki/Silicon_Graphics,,verified,VERIFIED
+SGP,1778922,"SpyGlass Pharma, Inc.",2019.0,January,2019-01-07,https://www.sec.gov/Archives/edgar/data/1778922/000177892226000020/sgp-20251231.htm,,verified,VERIFIED
+SHLD,1310067,,1892.0,,,https://en.wikipedia.org/wiki/Sears,,corrected_earlier,VERIFIED_CORRECTED
+SHN,,"Shoney's, Inc.",1947.0,,,https://en.wikipedia.org/wiki/Shoney%27s,,verified,VERIFIED
+SHW,89800,Sherwin-Williams,1866.0,,,https://investors.sherwin-williams.com/investor-home/,,verified,VERIFIED
+SIAL,90185,Sigma-Aldrich,1975.0,August,,https://en.wikipedia.org/wiki/Sigma-Aldrich,,verified,VERIFIED
+SIG,832988,SIGNET JEWELERS LTD,1949.0,,,https://en.wikipedia.org/wiki/Signet_Jewelers,,verified,VERIFIED
+SII,1512920,SPROTT INC.,1981.0,,,https://finance.yahoo.com/quote/SII/profile/,2008.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+SIVB,719739,,1983.0,,,https://en.wikipedia.org/wiki/Silicon_Valley_Bank,,verified,VERIFIED
+SJM,91419,J.M. Smucker Company (The),1897.0,,,https://www.jmsmucker.com/faq,,verified,VERIFIED
+SK,,Safety-Kleen,1963.0,,,https://en.wikipedia.org/wiki/Safety-Kleen,,verified,VERIFIED
+SLB,87347,Schlumberger,1926.0,,,https://investorcenter.slb.com/investor-resources/investor-faqs/,,verified,VERIFIED
+SLG,1040971,SL GREEN REALTY CORP,1997.0,,,https://en.wikipedia.org/wiki/SL_Green_Realty,,verified,VERIFIED
+SLM,1032033,SLM Corp,1972.0,,,https://en.wikipedia.org/wiki/Sallie_Mae,,verified,VERIFIED
+SLR,835541,,,,,,,unresolved_blank,AUDITED_UNRESOLVED_IDENTITY
+SMCI,1375365,Supermicro,1993.0,,,https://www.supermicro.com/about/,,verified,VERIFIED
+SMI,93102,"Springs Industries, Inc.",1887.0,,,https://www.scencyclopedia.org/sce/entries/springs-industries/,,verified,VERIFIED
+SMS,,Shared Medical Systems Corporation,1968.0,,,https://www.encyclopedia.com/books/politics-and-business-magazines/shared-medical-systems-corporation,,verified,VERIFIED
+SNA,91440,Snap-on,1920.0,,,https://www.snapon.com/EN/Our-Company?docid=96,,verified,VERIFIED
+SNDK,2023554,Sandisk,1988.0,,,,2024.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+SNI,1430602,,2008.0,,,https://en.wikipedia.org/wiki/Scripps_Networks_Interactive,,verified,VERIFIED
+SNPS,883241,Synopsys,1986.0,,,https://investor.synopsys.com/resources/investor-faqs/default.aspx,,verified,VERIFIED
+SNT,1993727,Senstar Technologies Corp,1969.0,,,https://en.wikipedia.org/wiki/Senstar,,verified,VERIFIED
+SNV,18349,,1888.0,,,https://en.wikipedia.org/wiki/Synovus,,verified,VERIFIED
+SO,92122,Southern Company,1945.0,,,https://www.sec.gov/Archives/edgar/data/92122/000009212206000153/g99802e10vk.htm,,verified,VERIFIED
+SOLS,2064953,Solstice Advanced Materials Inc.,2025.0,,,https://en.wikipedia.org/wiki/Solstice_Advanced_Materials,,verified,VERIFIED
+SOLV,1964738,Solventum,2023.0,January,2023-01-24,https://www.sec.gov/Archives/edgar/data/1964738/000162828024014887/exhibit31-8xk.htm,,verified,VERIFIED
+SOTR,,,1887.0,,,https://en.wikipedia.org/wiki/SouthTrust_(1887%E2%80%932005),,verified,VERIFIED
+SOV,811830,,,,,,,unresolved_blank,AUDITED_UNRESOLVED_IDENTITY
+SPG,1063761,Simon Property Group,1993.0,,,https://www.sec.gov/Archives/edgar/data/1063761/000155837025004238/spg-20250514xdef14a.htm,,corrected_earlier,VERIFIED_CORRECTED_PRIMARY
+SPGI,64040,S&P Global,1917.0,,,,1925.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+SPLS,791519,,1986.0,,,https://en.wikipedia.org/wiki/Staples_Inc.,,verified,VERIFIED
+SRCL,861878,,1989.0,,,https://en.wikipedia.org/wiki/Stericycle,,verified,VERIFIED
+SRE,1032208,Sempra,1998.0,,,https://www.sempra.com/our-business,,verified,VERIFIED
+SRR,,Stride Rite Corporation,1919.0,,,https://en.wikipedia.org/wiki/Stride_Rite_Corporation,,verified,VERIFIED
+SSP,832428,E.W. SCRIPPS Co,1878.0,,,https://en.wikipedia.org/wiki/The_E._W._Scripps_Company,,verified,VERIFIED
+STE,1757898,Steris,1985.0,,,https://www.steris.com/-/media/documents/pdfs/sustainability/corporate-responsibility-fact-sheet-2025.pdf,,verified,VERIFIED
+STI,1881551,Solidion Technology Inc.,,,,,,unresolved_blank,AUDITED_UNRESOLVED_SOURCE_CONTEXT
+STJ,203077,St. Jude Medical,1976.0,,,https://en.wikipedia.org/wiki/St._Jude_Medical,,verified,VERIFIED
+STLD,1022671,Steel Dynamics,1993.0,,,https://www.sec.gov/Archives/edgar/data/1022671/000110465924040561/tm249986d1_ars.pdf,,verified,VERIFIED
+STO,,Stone Container Corporation,1926.0,,,https://en.wikipedia.org/wiki/Stone_Container,,verified,VERIFIED
+STR,751652,,1922.0,,,https://en.wikipedia.org/wiki/Questar_Corporation_(gas_company),1928.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+STT,93751,State Street Corporation,1792.0,,,https://www.sec.gov/Archives/edgar/data/93751/000119312511147949/dex991.htm,,verified,VERIFIED
+STX,1137789,Seagate Technology,1979.0,,,https://www.seagate.com/files/www-content/product-content/_cross-product/en-us/docs/seagate-storage-and-application-guide-apac.pdf,,verified,VERIFIED
+STZ,16918,Constellation Brands,1945.0,,,https://ir.cbrands.com/sec-filings/annual-reports/content/0000950152-08-003169/0000950152-08-003169.pdf,,verified,VERIFIED
+SUB,,,,,,,,unresolved_blank,AUDITED_UNRESOLVED_IDENTITY
+SUN,1552275,Sunoco LP,1886.0,,,https://en.wikipedia.org/wiki/Sunoco,,verified,VERIFIED
+SUNEQ,945436,,1959.0,,,https://en.wikipedia.org/wiki/SunEdison,,verified,VERIFIED
+SVU,95521,SuperValu,1926.0,,,https://en.wikipedia.org/wiki/Supervalu_Inc.,,verified,VERIFIED
+SW,2005951,Smurfit Westrock,1934.0,,,,2024.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+SWK,93556,Stanley Black & Decker,1843.0,,,https://www.sec.gov/Archives/edgar/vprr/1100/11006048.pdf,,verified,VERIFIED
+SWKS,4127,Skyworks Solutions,1962.0,,,https://www.sec.gov/Archives/edgar/data/4127/000000412725000073/exhibit31-restatedcertific.htm,,corrected_earlier,VERIFIED_CORRECTED_PRIMARY
+SWN,7332,,1929.0,,,https://en.wikipedia.org/wiki/Southwestern_Energy,,verified,VERIFIED
+SWY,86144,,1915.0,,,https://en.wikipedia.org/wiki/Safeway,,verified,VERIFIED
+SXCL,709804,,,,,,,unresolved_blank,AUDITED_UNRESOLVED_IDENTITY
+SYF,1601712,Synchrony Financial,2003.0,,,https://investors.synchrony.com/filings-regulatory/sec-filings/all-sec-filings/content/0001193125-14-260649/0001193125-14-260649.pdf,,verified,VERIFIED
+SYK,310764,Stryker Corporation,1941.0,,,https://stryker.com/2013/pdf/Stryker_AR_2013_Form-10K.pdf,,verified,VERIFIED
+SYMC,849399,,1982.0,,,https://en.wikipedia.org/wiki/Gen_Digital,,verified,VERIFIED
+SYY,96021,Sysco,1969.0,,,https://investors.sysco.com/~/media/Files/S/Sysco-IR/documents/annual-reports/annual-report-2011.pdf,,verified,VERIFIED
+T,732717,AT&T,1885.0,,,https://en.wikipedia.org/wiki/AT%26T,1983.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+TA,,Transamerica Corporation,1928.0,,,https://en.wikipedia.org/wiki/Transamerica_Corporation,,verified,VERIFIED
+TAP,24545,Molson Coors Beverage Company,1786.0,,,https://en.wikipedia.org/wiki/Molson_Coors,2005.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+TCOMA,,Tele-Communications Inc.,1968.0,,,https://en.wikipedia.org/wiki/Tele-Communications_Inc.,,verified,VERIFIED
+TDC,816761,TERADATA CORP /DE/,1979.0,,,https://en.wikipedia.org/wiki/Teradata,,verified,VERIFIED
+TDG,1260221,TransDigm Group,1993.0,,,,2003.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+TDM,,Tandem Computers,1974.0,,,https://en.wikipedia.org/wiki/Tandem_Computers,,verified,VERIFIED
+TDY,1094285,Teledyne Technologies,1960.0,,,,1999.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+TE,1992243,T1 Energy Inc.,2018.0,,,https://www.sec.gov/Archives/edgar/data/1844224/000121390021059499/ea150600-424b3_freyrbattery.htm,2023.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+TECH,842023,Bio-Techne,1976.0,,,https://investors.bio-techne.com/10k-filings/content/0001308179-24-000705/0001308179-24-000705.pdf,,verified,VERIFIED
+TEG,916863,,2007.0,,,https://en.wikipedia.org/wiki/Integrys_Energy_Group,,verified,VERIFIED
+TEK,96879,Tektronix,1946.0,,,https://en.wikipedia.org/wiki/Tektronix,,verified,VERIFIED
+TEL,1385157,TE Connectivity,,,,,,unresolved_blank,AUDITED_UNRESOLVED_SOURCE_CONTEXT
+TEN,1166663,TSAKOS ENERGY NAVIGATION LTD,1993.0,,,https://en.wikipedia.org/wiki/Tsakos_Energy_Navigation,,verified,VERIFIED
+TER,97210,Teradyne,1960.0,,,https://investors.teradyne.com/sec-filings/all-sec-filings/content/0001193125-26-059002/ter-20251231.htm,,verified,VERIFIED
+TEX,97216,TEREX CORP,1933.0,,,https://en.wikipedia.org/wiki/Terex,,verified,VERIFIED
+TFC,92230,Truist Financial,1872.0,,,,1968.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+TFX,96943,TELEFLEX INC,1943.0,,,https://en.wikipedia.org/wiki/Teleflex,,verified,VERIFIED
+TGNA,39899,TEGNA Inc. (Gannett),1906.0,,,https://en.wikipedia.org/wiki/Gannett_(1906%E2%80%932015),1972.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+TGT,27419,Target Corporation,1902.0,,,https://www.sec.gov/Archives/edgar/data/27419/000104746912002714/a2207838z10-k.htm,,verified,VERIFIED
+THC,70318,TENET HEALTHCARE CORP,1969.0,,,https://en.wikipedia.org/wiki/Tenet_Healthcare,,verified,VERIFIED
+THY,,,,,,,,unresolved_blank,AUDITED_UNRESOLVED_IDENTITY
+TIE,1011657,,1950.0,,,https://en.wikipedia.org/wiki/Titanium_Metals_Corporation,,verified,VERIFIED
+TIF,98246,,1837.0,,,https://en.wikipedia.org/wiki/Tiffany_%26_Co.,,verified,VERIFIED
+TIN,731939,Temple-Inland Inc.,1893.0,,,http://www.fundinguniverse.com/company-histories/temple-inland-inc-history/,,verified,VERIFIED
+TJX,109198,TJX Companies,1962.0,April,1962-04-09,https://www.sec.gov/Archives/edgar/data/109198/000162828019003834/tjx-20190202exhibit3i1.htm,,corrected_earlier,VERIFIED_CORRECTED_PRIMARY
+TKO,1973266,TKO Group Holdings,2023.0,,,https://www.sec.gov/Archives/edgar/data/1973266/000119312526173856/d908037dars.pdf,,verified,VERIFIED
+TKR,98362,TIMKEN CO,1899.0,,,https://en.wikipedia.org/wiki/Timken_Company,,verified,VERIFIED
+TLAB,317771,"Tellabs, Inc.",1974.0,,,https://en.wikipedia.org/wiki/Tellabs,,verified,VERIFIED
+TMC,1798562,TMC the metals Co Inc.,2011.0,,,https://en.wikipedia.org/wiki/The_Metals_Company,,verified,VERIFIED
+TMC.A,1798562,TMC the metals Company Inc.,2011.0,,,https://en.wikipedia.org/wiki/The_Metals_Company,,verified,VERIFIED
+TMK,320335,Torchmark Corp / Globe Life,1900.0,,,https://en.wikipedia.org/wiki/Globe_Life,1979.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+TMO,97745,Thermo Fisher Scientific,1956.0,,,https://en.wikipedia.org/wiki/Thermo_Fisher_Scientific,,verified,VERIFIED
+TMUS,1283699,T-Mobile US,1994.0,,,,2013.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+TNB,97854,Thomas & Betts Corporation,1898.0,,,https://en.wikipedia.org/wiki/Thomas_%26_Betts,,verified,VERIFIED
+TOS,74091,Tosco Corporation,1955.0,,,https://en.wikipedia.org/wiki/Tosco_Corporation,,verified,VERIFIED
+TOY,1005414,"Toys ""R"" Us",1948.0,April,,https://en.wikipedia.org/wiki/Toys_R_Us,,verified,VERIFIED
+TPL,1811074,Texas Pacific Land Corporation,1888.0,,,,2020.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+TPR,1116132,"Tapestry, Inc.",1941.0,,,https://www.sec.gov/Archives/edgar/data/1116132/000111613224000018/tpr-20240629.htm,,corrected_earlier,VERIFIED_CORRECTED_PRIMARY
+TRB,726513,Tribune Company,1847.0,,,https://en.wikipedia.org/wiki/Tribune_Media,,verified,VERIFIED
+TRGP,1389170,Targa Resources,2005.0,,,https://www.sec.gov/Archives/edgar/data/1389170/000095017024015841/trgp-20231231.htm,,verified,VERIFIED
+TRIP,1526520,"TripAdvisor, Inc.",2000.0,,,https://en.wikipedia.org/wiki/Tripadvisor,,verified,VERIFIED
+TRMB,864749,Trimble Inc.,1978.0,,,https://smartdelivery.trimble.com/pdf/White-Paper_First-Class-Delivery_Trimble-Smartdelivery.pdf,,verified,VERIFIED
+TROW,1113169,T. Rowe Price,1937.0,,1937,https://investors.troweprice.com/,,verified,VERIFIED
+TRV,86312,Travelers Companies (The),1853.0,,,,1864.0,business_kept_holdco_separated,VERIFIED_CORRECTED
+TRW,100030,TRW Inc.,1901.0,,,https://en.wikipedia.org/wiki/TRW_Inc.,,verified,VERIFIED
+TSCO,916365,Tractor Supply,1938.0,,1938,https://corporate.tractorsupply.com/company-overview/history/default.aspx,,verified,VERIFIED
+TSG,1020265,,2001.0,,,https://en.wikipedia.org/wiki/The_Stars_Group,,verified,VERIFIED
+TSLA,1318605,"Tesla, Inc.",2003.0,,,https://www.tesla.com/sites/default/files/blog_attachments/elon_musk_ceo_of_the_year.pdf,,verified,VERIFIED
+TSN,100493,Tyson Foods,1935.0,,,https://www.tysonfoods.com/investors,,verified,VERIFIED
+TSS,721683,,,,,,,unresolved_blank,AUDITED_UNRESOLVED_IDENTITY
+TT,1466258,Trane Technologies,1871.0,,,,2009.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+TTD,1671933,Trade Desk (The),2009.0,,,https://www.sec.gov/Archives/edgar/data/1671933/000156459021006726/ttd-10k_20201231.htm,,verified,VERIFIED
+TTWO,946581,Take-Two Interactive,1993.0,September,1993-09-30,https://ir.take2games.com/static-files/863edafe-3083-474b-935c-265b19554be6,,verified,VERIFIED
+TUP,1008654,Tupperware Brands Corporation,1938.0,,,https://en.wikipedia.org/wiki/Tupperware_Brands,,verified,VERIFIED
+TWC,1377013,,,,,,,unresolved_blank,AUDITED_UNRESOLVED_IDENTITY
+TWTR,1418091,,2006.0,,,https://en.wikipedia.org/wiki/Twitter,,verified,VERIFIED
+TWX,1105705,Time Warner Inc. (Time Inc.),1922.0,,,https://en.wikipedia.org/wiki/Time_Inc.,,verified,VERIFIED
+TX,1342874,Ternium S.A.,2005.0,,,https://en.wikipedia.org/wiki/Ternium,,verified,VERIFIED
+TXN,97476,Texas Instruments,1930.0,,,https://www.ti.com/about-ti.html,,verified,VERIFIED
+TXT,217346,Textron,1923.0,,,https://www.sec.gov/Archives/edgar/data/217346/000110465920024773/txt-20200104x10k00cfc1.htm,,verified,VERIFIED
+TXU,1023291,TXU Corp / Texas Utilities,1912.0,,,https://en.wikipedia.org/wiki/Texas_Utilities,,verified,VERIFIED
+TYL,860731,Tyler Technologies,1966.0,,,https://www.sec.gov/Archives/edgar/data/860731/000119312512075092/d297185d10k.htm,,verified,VERIFIED
+UA,1336917,"Under Armour, Inc.",1996.0,,,https://ttabvue.uspto.gov/ttabvue/ttabvue-91273118-OPP-36.pdf,,verified,VERIFIED
+UAA,1336917,"Under Armour, Inc.",1996.0,,,https://ttabvue.uspto.gov/ttabvue/ttabvue-91273118-OPP-36.pdf,,verified,VERIFIED
+UAL,100517,United Airlines Holdings,1967.0,,,,1968.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+UAWGQ,100517,United Airlines (UAL Corp),1926.0,,,https://en.wikipedia.org/wiki/United_Airlines,1968.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+UBER,1543151,Uber,2009.0,,,https://www.sec.gov/Archives/edgar/data/1543151/000154315123000010/uber-20221231.htm,,verified,VERIFIED
+UCC,,Union Carbide Corporation,1917.0,,,https://en.wikipedia.org/wiki/Union_Carbide,,verified,VERIFIED
+UCL,1775898,uCloudlink Group Inc.,2014.0,,,https://en.wikipedia.org/wiki/UCloudlink,,verified,VERIFIED
+UCM,,Unicom Corporation (ComEd),1907.0,,,https://en.wikipedia.org/wiki/Commonwealth_Edison,,verified,VERIFIED
+UDR,74208,"UDR, Inc.",1972.0,,,https://www.sec.gov/Archives/edgar/data/74208/000007420826000013/udr-20251231x10k.htm,,verified,VERIFIED
+UHS,352915,Universal Health Services,1979.0,,1979,https://www.uhs.com/wp-content/uploads/2021/11/21524342_CORP_PR_524229_2020_Annual_Report_Company_Overview_v4.pdf,,verified,VERIFIED
+UIS,746838,UNISYS CORP,,,,,,unresolved_blank,AUDITED_UNRESOLVED_SOURCE_CONTEXT
+UK,1821424,Ucommune International Ltd,2015.0,,,https://en.wikipedia.org/wiki/Ucommune,,verified,VERIFIED
+ULTA,1403568,Ulta Beauty,1990.0,,,https://www.sec.gov/Archives/edgar/data/1403568/000110465925038002/tm2512916d1_ars.pdf,,verified,VERIFIED
+UMG,,Universal Music Group,,,,,,unresolved_blank,AUDITED_UNRESOLVED_SOURCE_CONTEXT
+UN,,Unilever N.V.,1930.0,,,https://en.wikipedia.org/wiki/Unilever,,verified,VERIFIED
+UNH,731766,UnitedHealth Group,1977.0,,,https://www.sec.gov/Archives/edgar/data/731766/000091205701505867/a2041963z10-k.htm,,verified,VERIFIED
+UNM,5513,Unum Group,1848.0,,,https://en.wikipedia.org/wiki/Unum,,verified,VERIFIED
+UNP,100885,Union Pacific Corporation,1862.0,,,https://www.up.com/heritage/history/,,verified,VERIFIED
+UPC,1809616,Universe Pharmaceuticals INC,1998.0,,,https://stockanalysis.com/stocks/upc/company/,2019.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+UPR,,Union Pacific Resources Group,,,,,,unresolved_blank,AUDITED_UNRESOLVED_SOURCE_CONTEXT
+UPS,1090727,United Parcel Service,1907.0,,,https://investors.ups.com/sec-filings/all-sec-filings/content/0000950144-04-002063/g86647e10vk.htm,,verified,VERIFIED
+URBN,912615,URBAN OUTFITTERS INC,1970.0,,,https://en.wikipedia.org/wiki/Urban_Outfitters,,verified,VERIFIED
+URI,1067701,United Rentals,1997.0,,,https://www.sec.gov/Archives/edgar/data/1342287/000134228721000030/ex99-5.pdf,,verified,VERIFIED
+USB,36104,U.S. Bancorp,1863.0,,,https://www.usbank.com/about-us-bank/history.html,,corrected_earlier,VERIFIED_CORRECTED_PRIMARY
+USBC,1074828,"USBC, Inc.",,,,,,unresolved_blank,AUDITED_UNRESOLVED_SOURCE_CONTEXT
+USH,,USLIFE Corporation,,,,,,unresolved_blank,AUDITED_UNRESOLVED_SOURCE_CONTEXT
+USHC,,"U.S. Healthcare, Inc.",1977.0,,,"https://en.wikipedia.org/wiki/U.S._Healthcare,_Inc.",,verified,VERIFIED
+USS,,United States Surgical Corporation,1964.0,,,https://en.wikipedia.org/wiki/United_States_Surgical_Corporation,,verified,VERIFIED
+UST,811669,UST Inc. / U.S. Smokeless Tobacco,1822.0,,,https://en.wikipedia.org/wiki/U.S._Smokeless_Tobacco_Company,,verified,VERIFIED
+USW,68622,"US West, Inc.",1983.0,,,https://en.wikipedia.org/wiki/Qwest,,verified,VERIFIED
+UTX,101829,United Technologies Corporation,1934.0,,,https://en.wikipedia.org/wiki/United_Technologies_Corporation,,verified,VERIFIED
+UVN,1017008,,1962.0,,,https://en.wikipedia.org/wiki/Univision,,verified,VERIFIED
+V,1403161,Visa Inc.,1958.0,,,,2007.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+VAR,203527,,1948.0,,,https://en.wikipedia.org/wiki/Varian_Medical_Systems,,verified,VERIFIED
+VAT,2109801,"VARSAL TECH, INC.",,,,,,unresolved_blank,AUDITED_UNRESOLVED_SOURCE_CONTEXT
+VEEV,1393052,Veeva Systems,2007.0,,,https://ir.veeva.com/files/doc_financials/annual/2015-Annual-Report-Bookmarked.pdf,,verified,VERIFIED
+VFC,103379,V F CORP,1899.0,,,https://en.wikipedia.org/wiki/VF_Corporation,,verified,VERIFIED
+VIAB,1339947,,1952.0,,,https://en.wikipedia.org/wiki/Viacom_(1952%E2%80%932005),,verified,VERIFIED
+VIAC,813828,,,,,,,unresolved_blank,AUDITED_UNRESOLVED_IDENTITY
+VIAV,912093,VIAVI SOLUTIONS INC.,1979.0,,,https://en.wikipedia.org/wiki/Viavi_Solutions,1993.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+VICI,1705696,Vici Properties,2016.0,7,2016-07-05,https://www.sec.gov/Archives/edgar/data/1705696/000170569626000034/vici-20251231.htm,,corrected_earlier,VERIFIED_CORRECTED_PRIMARY
+VLO,1035002,Valero Energy,1980.0,,,,1981.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+VLTO,1967680,Veralto,2022.0,,,https://www.sec.gov/Archives/edgar/data/1967680/000196768026000032/vlto-20260528.htm,,corrected_earlier,VERIFIED_CORRECTED_PRIMARY
+VMC,1396009,Vulcan Materials Company,1909.0,,,,2007.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+VNO,899689,VORNADO REALTY TRUST,1982.0,,,https://en.wikipedia.org/wiki/Vornado_Realty_Trust,,verified,VERIFIED
+VNT,1786842,Vontier Corp,2020.0,,,https://en.wikipedia.org/wiki/Vontier,,verified,VERIFIED
+VO,,Vornado (Two Guys),,,,,,unresolved_blank,AUDITED_UNRESOLVED_SOURCE_CONTEXT
+VRSK,1442145,Verisk Analytics,1971.0,,,,2008.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+VRSN,1014473,Verisign,1995.0,,,https://investor.verisign.com/static-files/af063fd9-02cf-4e1e-be0a-6c47ab988ca7,,verified,VERIFIED
+VRT,1674101,Vertiv,2016.0,4,2016-04-25,https://www.sec.gov/Archives/edgar/data/1674101/000110465920094527/tm2026104-6_424b1.htm,,verified,VERIFIED
+VRTS,883237,"VIRTUS INVESTMENT PARTNERS, INC.",1995.0,,,https://en.wikipedia.org/wiki/Virtus_Investment_Partners,,verified,VERIFIED
+VRTX,875320,Vertex Pharmaceuticals,1989.0,,,https://www.sec.gov/Archives/edgar/data/875320/000087532026000256/ex-991_q22026.htm,,verified,VERIFIED
+VST,1692819,Vistra Corp.,2016.0,10,2016-10-03,https://www.sec.gov/Archives/edgar/data/1692819/000119312525112869/d786785dex31.htm,,verified,VERIFIED
+VSTNQ,1111335,,2000.0,,,https://en.wikipedia.org/wiki/Visteon,,verified,VERIFIED
+VTR,740260,Ventas,1983.0,,,https://www.sec.gov/Archives/edgar/vprr/1300/13000370.pdf,,corrected_earlier,VERIFIED_CORRECTED_PRIMARY
+VTRS,1792044,Viatris,1961.0,,,,2020.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+VTSS,880446,,1984.0,,,https://en.wikipedia.org/wiki/Vitesse_Semiconductor,,verified,VERIFIED
+VZ,732712,Verizon,1983.0,,,https://en.wikipedia.org/wiki/Verizon,2000.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+WAB,943452,Wabtec,1869.0,,,https://en.wikipedia.org/wiki/Wabtec,,verified,VERIFIED
+WAI,1938865,Top KingWin Ltd,,,,,,unresolved_blank,AUDITED_UNRESOLVED_SOURCE_CONTEXT
+WAMUQ,933136,,1889.0,,,https://en.wikipedia.org/wiki/Washington_Mutual,,verified,VERIFIED
+WAT,1000697,Waters Corporation,1958.0,,,,1991.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+WB,1595761,WEIBO Corp,2009.0,,,https://en.wikipedia.org/wiki/Weibo,,verified,VERIFIED
+WBA,104207,Walgreens,1901.0,,,https://en.wikipedia.org/wiki/Walgreens,,verified,VERIFIED
+WBD,1437107,Warner Bros. Discovery,1923.0,,,https://en.wikipedia.org/wiki/Warner_Bros.,,verified,VERIFIED
+WCG,1279363,,1985.0,,,https://en.wikipedia.org/wiki/WellCare,,verified,VERIFIED
+WCOEQ,723527,WorldCom (LDDS),1983.0,,,https://en.wikipedia.org/wiki/MCI_Inc.,,verified,VERIFIED
+WDAY,1327811,"Workday, Inc.",2005.0,,,https://investor.workday.com/resource/faqs/default.aspx,,verified,VERIFIED
+WDC,106040,Western Digital,1970.0,,,https://www.sec.gov/Archives/edgar/data/0000106040/000162828025044302/wdc_10-kx2025xwo8xwrxtrd98.pdf,,verified,VERIFIED
+WEC,783325,WEC Energy Group,1896.0,,,,1981.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+WELL,766704,Welltower,1970.0,,,https://www.sec.gov/Archives/edgar/data/766704/000076670417000012/10-k.htm,,verified,VERIFIED
+WEN,30697,Wendy's Co,1969.0,,,https://en.wikipedia.org/wiki/Wendy%27s,,verified,VERIFIED
+WFC,72971,Wells Fargo,1852.0,,,,1929.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+WFM,865436,,1980.0,,,https://en.wikipedia.org/wiki/Whole_Foods_Market,,verified,VERIFIED
+WFT,1170565,,,,,,,unresolved_blank,AUDITED_UNRESOLVED_IDENTITY
+WHR,106640,WHIRLPOOL CORP /DE/,1911.0,,,https://en.wikipedia.org/wiki/Whirlpool_Corporation,,verified,VERIFIED
+WIN,1282266,,2006.0,,,https://en.wikipedia.org/wiki/Windstream_Holdings,,verified,VERIFIED
+WLA,,Warner-Lambert,1856.0,,,https://en.wikipedia.org/wiki/Warner%E2%80%93Lambert,,verified,VERIFIED
+WLL,107189,Whiting Petroleum Corporation,1980.0,,,https://en.wikipedia.org/wiki/Whiting_Petroleum,,verified,VERIFIED
+WLP,1013220,,,,,,,unresolved_blank,AUDITED_UNRESOLVED_IDENTITY
+WLTW,,,2016.0,,,https://en.wikipedia.org/wiki/Willis_Towers_Watson,,verified,VERIFIED
+WM,823768,Waste Management,1968.0,,,https://wastemanagement.gcs-web.com/static-files/e6ee342a-1cfe-4db9-ba2c-31241f0f8ec6,,verified,VERIFIED
+WMB,107263,Williams Companies,1908.0,,,https://www.sec.gov/Archives/edgar/data/107263/000010726323000007/wmb-20221231.htm,,verified,VERIFIED
+WMT,104169,Walmart,1962.0,,,https://corporate.walmart.com/news/2006/08/17/walmart-out-in-front,,verified,VERIFIED
+WMX,,"Waste Management, Inc.",1968.0,,,https://en.wikipedia.org/wiki/Waste_Management_(company),,verified,VERIFIED
+WNDXQ,107681,"Winn-Dixie Stores, Inc.",1925.0,,,https://en.wikipedia.org/wiki/Winn-Dixie,,verified,VERIFIED
+WOR,108516,"WORTHINGTON ENTERPRISES, INC.",1955.0,,,https://en.wikipedia.org/wiki/Worthington_Industries,,verified,VERIFIED
+WPX,1518832,,2011.0,,,https://en.wikipedia.org/wiki/WPX_Energy,,verified,VERIFIED
+WRB,11544,W. R. Berkley Corporation,1967.0,,,https://ir.berkley.com/financials/quarterly-results/default.aspx,,verified,VERIFIED
+WRK,1732845,,2015.0,,,https://en.wikipedia.org/wiki/WestRock,,verified,VERIFIED
+WSM,719955,"Williams-Sonoma, Inc.",1956.0,,,https://ir.williams-sonomainc.com/investor-information/news-releases/news-release-details/2015/WILLIAMS-SONOMA-CELEBRATES-THE-ONE-HUNDRED-YEAR-LEGACY-OF-FOUNDER-AND-CULINARY-ICON-CHUCK-WILLIAMS/default.aspx,,verified,VERIFIED
+WST,105770,West Pharmaceutical Services,1923.0,,,https://www.sec.gov/Archives/edgar/data/105770/000010577008000021/exh991.htm,,verified,VERIFIED
+WTW,1140536,Willis Towers Watson,2009.0,September,2009-09-24,https://www.sec.gov/Archives/edgar/data/1140536/000095012310018538/u08176e10vk.htm,,corrected_earlier,VERIFIED_CORRECTED_PRIMARY
+WU,1365135,Western Union CO,1851.0,,,https://ir.westernunion.com/news/archived-press-releases/press-release-details/2012/Western-Union-Reaches-500000-Agent-Location-Milestone/default.aspx,,verified,VERIFIED
+WWY,108601,Wm. Wrigley Jr. Company,1891.0,,,https://en.wikipedia.org/wiki/Wrigley_Company,,verified,VERIFIED
+WY,106535,Weyerhaeuser,1900.0,,,https://www.sec.gov/Archives/edgar/data/106535/000119312521101895/d65450ddef14a.htm,,verified,VERIFIED
+WYE,5187,Wyeth (John Wyeth and Brother),1860.0,,,https://en.wikipedia.org/wiki/Wyeth,,verified,VERIFIED
+WYND,1361658,,,,,,,unresolved_blank,AUDITED_UNRESOLVED_IDENTITY
+WYNN,1174922,Wynn Resorts,2002.0,,,https://investors.wynnresorts.com/static-files/8cb59e82-5eaa-4057-bc02-b5cc5bf347fa,,verified,VERIFIED
+X,1163302,United States Steel Corporation,1901.0,,,https://en.wikipedia.org/wiki/U.S._Steel,,verified,VERIFIED
+XEC,1168054,,2002.0,,,https://en.wikipedia.org/wiki/Cimarex_Energy,,verified,VERIFIED
+XEL,72903,Xcel Energy,1909.0,,,,2000.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+XL,875159,,1986.0,,,https://en.wikipedia.org/wiki/XL_Group,,verified,VERIFIED
+XLNX,743988,,1984.0,,,https://en.wikipedia.org/wiki/Xilinx,,verified,VERIFIED
+XOM,34088,ExxonMobil,1882.0,August,1882-08-05,https://www.sec.gov/Archives/edgar/vprr/0802/08024838.pdf,,corrected_earlier,VERIFIED_CORRECTED_PRIMARY
+XRAY,818479,DENTSPLY SIRONA Inc.,1889.0,,,https://en.wikipedia.org/wiki/Dentsply_Sirona,1983.0,business_kept_holdco_separated,VERIFIED_CORRECTED_PRIMARY
+XRX,1770450,Xerox Holdings Corp,1906.0,,,https://en.wikipedia.org/wiki/Xerox,,verified,VERIFIED
+XTO,868809,,1986.0,,,https://en.wikipedia.org/wiki/XTO_Energy,,verified,VERIFIED
+XYL,1524472,Xylem Inc.,2011.0,,,https://www.sec.gov/Archives/edgar/data/1524472/000152447218000006/xyl1231201710k.htm,,verified,VERIFIED
+XYZ,1512673,"Block, Inc.",2009.0,,,https://www.sec.gov/Archives/edgar/data/1512673/000119312525097009/d884397dars.pdf,,verified,VERIFIED
+YNR,,,1923.0,,,https://en.wikipedia.org/wiki/Young_and_Rubicam,,verified,VERIFIED
+YRCW,,Yellow Corporation (YRC),1924.0,,,https://en.wikipedia.org/wiki/Yellow_Corporation,,verified,VERIFIED
+YUM,1041061,Yum! Brands,1997.0,,,https://www.sec.gov/Archives/edgar/data/1041061/000104106107000140/form10k06.htm,,verified,VERIFIED
+ZBH,1136869,Zimmer Biomet,1927.0,,,https://investor.zimmerbiomet.com/,,verified,VERIFIED
+ZBRA,877212,Zebra Technologies,1969.0,,,https://www.sec.gov/Archives/edgar/data/877212/000119312508043327/d10k.htm,,verified,VERIFIED
+ZION,109380,"ZIONS BANCORPORATION, NATIONAL ASSOCIATION /UT/",1873.0,,,https://en.wikipedia.org/wiki/Zions_Bancorporation,,verified,VERIFIED
+ZTS,1555280,Zoetis,1952.0,,,https://www.zoetis.com/our-company/our-story/history,,verified,VERIFIED

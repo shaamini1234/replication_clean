@@ -1,0 +1,442 @@
+﻿company_number,year,year_end_price_pence,price_source_url,shares_outstanding,shares_source_url,market_cap_gbp,marketcap_source_url,annual_dividend_pence,dividend_source_url,notes
+00029846,2001,,,,,,,,,
+00029846,2002,,,,,,,,,
+00029846,2003,,,,,,,,,
+00029846,2004,,,,,,,,,
+00029846,2005,,,,,,,,,
+00029846,2006,,,,,,,,,
+00029846,2007,,,,,,,,,
+00029846,2008,,,,,,,,,
+00029846,2009,,,,,,,,,
+00029846,2010,,,,,,,,,
+00029846,2011,,,,,,,,,"Ordinary dividend per share in respect of the financial year, from the 2015 five-year summary; excludes special dividends shown separately. Entity-history audit: worklist key 00029846 is the legacy UK Wolseley plc. From 23 November 2010 the listed FTSE parent was the Jersey-incorporated successor Wolseley plc (company no. 106605); the cited annual report is for that listed successor, so the dividend is retained against the worklist group key. AUDIT CORRECTION: post-2010 dividend previously attached to legacy UK company number 00029846 removed. The listed Wolseley parent was substituted/reincorporated after the 2010 reorganisation; successor-parent market data must not be carried across to this legacy legal entity without a row mapped to the correct issuer."
+00029846,2012,,,,,,,,,"Ordinary dividend per share in respect of the financial year, from the 2015 five-year summary; excludes special dividends shown separately. Entity-history audit: worklist key 00029846 is the legacy UK Wolseley plc. From 23 November 2010 the listed FTSE parent was the Jersey-incorporated successor Wolseley plc (company no. 106605); the cited annual report is for that listed successor, so the dividend is retained against the worklist group key. AUDIT CORRECTION: post-2010 dividend previously attached to legacy UK company number 00029846 removed. The listed Wolseley parent was substituted/reincorporated after the 2010 reorganisation; successor-parent market data must not be carried across to this legacy legal entity without a row mapped to the correct issuer."
+00029846,2013,,,,,,,,,"Ordinary dividend per share in respect of the financial year, from the 2015 five-year summary; excludes special dividends shown separately. Entity-history audit: worklist key 00029846 is the legacy UK Wolseley plc. From 23 November 2010 the listed FTSE parent was the Jersey-incorporated successor Wolseley plc (company no. 106605); the cited annual report is for that listed successor, so the dividend is retained against the worklist group key. AUDIT CORRECTION: post-2010 dividend previously attached to legacy UK company number 00029846 removed. The listed Wolseley parent was substituted/reincorporated after the 2010 reorganisation; successor-parent market data must not be carried across to this legacy legal entity without a row mapped to the correct issuer."
+00029846,2014,,,,,,,,,"Ordinary dividend per share in respect of the financial year, from the 2015 five-year summary; excludes special dividends shown separately. Entity-history audit: worklist key 00029846 is the legacy UK Wolseley plc. From 23 November 2010 the listed FTSE parent was the Jersey-incorporated successor Wolseley plc (company no. 106605); the cited annual report is for that listed successor, so the dividend is retained against the worklist group key. AUDIT CORRECTION: post-2010 dividend previously attached to legacy UK company number 00029846 removed. The listed Wolseley parent was substituted/reincorporated after the 2010 reorganisation; successor-parent market data must not be carried across to this legacy legal entity without a row mapped to the correct issuer."
+00029846,2015,,,,,,,,,"Ordinary dividend per share in respect of the financial year, from the 2015 five-year summary; excludes special dividends shown separately. Entity-history audit: worklist key 00029846 is the legacy UK Wolseley plc. From 23 November 2010 the listed FTSE parent was the Jersey-incorporated successor Wolseley plc (company no. 106605); the cited annual report is for that listed successor, so the dividend is retained against the worklist group key. AUDIT CORRECTION: post-2010 dividend previously attached to legacy UK company number 00029846 removed. The listed Wolseley parent was substituted/reincorporated after the 2010 reorganisation; successor-parent market data must not be carried across to this legacy legal entity without a row mapped to the correct issuer."
+00030470,2008,,,,,,,4.955,https://device.report/m/47ed631b7aad561fd3f8096f8c9ec44aec485b138a9cc4ac5db641aae29fcf0e.pdf,Cobham plc 2008 annual report inspected: FY2008 ordinary dividend 4.955p (1.345p interim + 3.61p final). The report weighted-average EPS share denominator is deliberately not used for shares_outstanding. High-yield audit: existing Cobham FY2008/FY2009 dividends preserved. Weighted-average EPS share counts remain excluded from shares_outstanding; no exact 31-December issued count or price forced into these rows.
+00030470,2009,,,,,,,5.45,https://www.sambuz.com/doc/2009-preliminary-results-ppt-presentation-552414,Cobham plc 2009 preliminary-results material verifies FY2009 ordinary dividend 5.45p. No weighted-average EPS denominator is used for shares_outstanding; remaining fields stay blank pending exact year-end evidence. High-yield audit: existing Cobham FY2008/FY2009 dividends preserved. Weighted-average EPS share counts remain excluded from shares_outstanding; no exact 31-December issued count or price forced into these rows.
+00073800,2001,,,,,,,,,
+00073800,2002,,,,,,,,,
+00073800,2003,,,,,,,,,
+00073800,2004,,,,,,,,,
+00073800,2005,,,,,,,,,
+00073800,2006,,,,,,,,,
+00073800,2007,,,,,,,,,
+00073800,2008,,,,,,,,,
+00073800,2009,,,,,,,,,
+00073800,2010,,,,,,,,,
+00073800,2011,,,,,,,,,
+00073800,2012,,,,,,,,,
+00073800,2013,,,,,,,,,
+00073800,2014,,,,,,,,,
+00073800,2015,,,,,,,,,
+00073975,2002,,,,,,,,,
+00073975,2003,,,,,,,,,
+00073975,2004,,,,,,,,,
+00077536,2015,1197,https://www.globenewswire.com/en/Attachment/DownloadAttachment?articleid=814033&fileId=378855&filename=Investeringsforeningen_Nykredit_Invest_aarsrapport_2015_inkl_beholdningslister.pdf&filetype=3&islogo=0,1175914837,https://www.sec.gov/Archives/edgar/data/929869/000119312516496532/d115889dex152.htm,14075700598.89,https://www.globenewswire.com/en/Attachment/DownloadAttachment?articleid=814033&fileId=378855&filename=Investeringsforeningen_Nykredit_Invest_aarsrapport_2015_inkl_beholdningslister.pdf&filetype=3&islogo=0,29.7,https://www.sec.gov/Archives/edgar/data/929869/000119312516496532/d115889dex152.htm,"RELX PLC entity/year audit: SEC-hosted issuer 2015 annual report inspected. 1,175,914,837 is the gross issued and fully paid RELX PLC ordinary-share count at 31 December 2015; treasury/employee-benefit-trust adjusted and weighted-average EPS denominators are not substituted. FY2015 ordinary dividend is 29.7p (7.4p interim + 22.3p final). Price and market cap remain blank because an exact final-trading-day close was not re-verified to the same standard. Audited Nykredit holdings schedule explicitly dated 31-12-2015 reports RELX PLC at 1,197p. Existing 1,175,914,837 shares are the gross issued and fully paid ordinary-share count from the SEC-hosted issuer annual report, not a treasury-adjusted/EPS count. RELX 2015 Market cap computed as 1197p/100 × 1175914837 issued ordinary shares = £14075700598.89."
+00100097,2001,,,,,,,,,
+00100097,2002,,,,,,,,,
+00100097,2003,,,,,,,,,
+00100097,2004,,,,,,,,,
+00100097,2005,,,,,,,,,
+00100097,2006,,,,,,,,,
+00100097,2007,,,,,,,,,
+00166023,2001,,,,,,,,,
+00166023,2002,,,,,,,,,
+00166023,2008,,,,,,,,,
+00166023,2009,,,,,,,,,
+00166023,2010,,,,,,,,,
+00184594,2001,,,,,,,,,
+00184594,2002,,,,,,,,,
+00184594,2003,,,,,,,,,
+00184594,2004,,,,,,,,,
+00184594,2005,,,,,,,,,
+00191285,2002,,,,,,,,,
+00191285,2003,,,,,,,,,
+00191285,2004,,,,,,,,,
+00191285,2005,,,,,,,,,
+00191285,2006,,,,,,,,,
+00191285,2007,,,,,,,,,
+00191285,2008,,,,,,,21.0,https://www.annualreports.co.uk/HostedData/AnnualReportArchive/r/LSE_REX.L_2008.pdf,"Rexam PLC 2008 annual report inspected: total FY2008 ordinary dividend was 21.0p (8.7p interim plus 12.3p final). No exact absolute 31 December share count is inferred from the report table expressed in thousands; price, shares and market cap remain blank. The later 2009 rights-issue restatement of the 2008 comparative is deliberately not substituted for this originally declared FY2008 dividend."
+00191285,2009,,,876829017,https://www.annualreports.com/HostedData/AnnualReportArchive/r/LSE_REX.L_2009.pdf,,,8.0,https://www.annualreports.com/HostedData/AnnualReportArchive/r/LSE_REX.L_2009.pdf,"Rexam PLC 2009 annual report inspected. The company had exactly 876,829,017 ordinary shares in issue at 31 December 2009. The report documents the 29 July 2009 4-for-11 rights issue of 233,799,459 new shares at 150p; the post-rights year-end issued count is used rather than the weighted-average EPS denominator or rounded share figures. FY2009 ordinary dividend is 8.0p, with no interim dividend. The report restates the 2008 comparative for the rights issue, so that restated comparative is not transferred to the 2008 row. Price and market cap remain blank without a separately verified exact final-trading-day close."
+00191285,2010,,,876864000,https://www.annualreports.com/HostedData/AnnualReportArchive/r/LSE_REX.L_2011.pdf,,,12.0,https://www.annualreports.com/HostedData/AnnualReportArchive/r/LSE_REX.L_2011.pdf,"Rexam PLC issuer annual report 2011 comparative data: 876,864,000 issued and fully paid ordinary shares at 31 Dec 2010; total dividend per share for FY2010 12.0p."
+00191285,2011,352.8,https://www.annualreports.com/HostedData/AnnualReportArchive/r/LSE_REX.L_2011.pdf,877031000,https://www.annualreports.com/HostedData/AnnualReportArchive/r/LSE_REX.L_2011.pdf,3094165368.0,https://www.annualreports.com/HostedData/AnnualReportArchive/r/LSE_REX.L_2011.pdf,14.4,https://www.annualreports.com/HostedData/AnnualReportArchive/r/LSE_REX.L_2011.pdf,"Rexam PLC issuer annual report 2011: market price at 31 Dec 2011 £3.528 (=352.8p; 30 Dec was final LSE trading day), 877,031,000 issued and fully paid ordinary shares at 31 Dec, total FY2011 dividend 14.4p. Market cap computed as 352.8p/100 × 877,031,000 shares."
+00191285,2012,,,,,,,,,
+00191285,2013,530.5,https://www.nykreditinvest.dk/siteassets/pdfer/fonds-rapporter/arsrapporter/nykredit-invest/aarsrapport_2014_investeringsforeningen_nykredit_invest.pdf,791961000,https://s1.q4cdn.com/288660599/files/doc_downloads/reports_and_publications/Rexam-2014-Annual-Report.pdf,4201353105.000,https://www.nykreditinvest.dk/siteassets/pdfer/fonds-rapporter/arsrapporter/nykredit-invest/aarsrapport_2014_investeringsforeningen_nykredit_invest.pdf,17.4,https://s1.q4cdn.com/288660599/files/doc_downloads/reports_and_publications/Rexam-2014-Annual-Report.pdf,"Entity/capital audit: Rexam PLC (company 00191285) underwent a 9-for-10 ordinary-share consolidation in 2013. The 2014 issuer annual report comparative share-capital note gives 791,961,000 issued and fully paid ordinary shares at 31 December 2013. 2013 ordinary dividend is 5.7p interim + 11.7p final = 17.4p; excludes the separate return-of-cash capital transaction. Audited Nykredit 31-12-2014 schedule supplies 31-12-2013 comparative REXAM PLC quote 530.5p. Existing 791,961,000 shares preserved from issuer capital research; market cap uses same year-end capital basis. Rexam 2013 Market cap computed as 530.5p/100 × 791961000 issued ordinary shares = £4201353105.000."
+00218019,2001,,,,,,,,,
+00218019,2002,,,,,,,,,
+00218019,2003,,,,,,,,,
+00218019,2004,,,,,,,,,
+00218019,2005,,,,,,,,,
+00218019,2006,,,,,,,,,
+00229231,2001,,,,,,,,,
+00238525,2001,,,,,,,,,
+00238525,2003,,,,,,,,,
+00238525,2004,,,,,,,,,
+00238525,2005,,,,,,,,,
+00238525,2006,,,,,,,,,
+00238525,2007,,,,,,,,,
+00238525,2008,,,,,,,,,
+00238525,2009,,,,,,,,,
+00308372,2001,,,,,,,,,
+00308372,2002,,,,,,,,,
+00308372,2003,,,,,,,,,
+00308372,2004,,,,,,,,,
+00308372,2005,,,,,,,,,
+00308372,2006,,,,,,,,,
+00337663,2001,,,,,,,,,
+00337663,2002,,,,,,,,,
+00337663,2003,,,,,,,,,
+00337663,2004,,,,,,,,,
+00337663,2005,,,,,,,,,
+00358949,2001,,,,,,,,,
+00358949,2002,,,,,,,,,
+00358949,2003,,,,,,,,,
+00358949,2004,,,,,,,,,
+00358949,2005,,,,,,,,,
+00358949,2006,,,,,,,,,
+00358949,2007,,,,,,,,,
+00358949,2008,,,,,,,,,
+00358949,2009,,,,,,,,,
+00358949,2010,,,,,,,,,
+00358949,2011,,,,,,,,,
+00358949,2012,,,,,,,,,
+00358949,2013,261,https://www.nykreditinvest.dk/siteassets/pdfer/fonds-rapporter/arsrapporter/nykredit-invest/aarsrapport_2014_investeringsforeningen_nykredit_invest.pdf,,,,,,,Audited Nykredit holdings schedule gives WM MORRISON SUPERMARKETS at 261p on 31-12-2013. No market cap computed without exact same-date issued ordinary shares.
+00358949,2014,184.2,https://www.globenewswire.com/en/Attachment/DownloadAttachment?articleid=814033&fileId=378855&filename=Investeringsforeningen_Nykredit_Invest_aarsrapport_2015_inkl_beholdningslister.pdf&filetype=3&islogo=0,,,,,,,Audited Nykredit holdings schedule gives WM MORRISON SUPERMARKETS at 184.2p on 31-12-2014. No market cap computed without exact same-date issued ordinary shares.
+00432989,2011,,,,,,,,,
+00432989,2012,,,,,,,,,
+00432989,2013,,,,,,,12.75,https://www.meggitt.com/wp-content/uploads/2018/11/full-year-results-2014.pdf,"Meggitt plc issuer full-year results inspected; FY2013 total ordinary dividend verified as 12.75p. Source share figures are rounded/other definitions, so exact 31 December issued shares are not inferred; price and market cap remain blank."
+00432989,2014,519,https://www.globenewswire.com/en/Attachment/DownloadAttachment?articleid=814033&fileId=378855&filename=Investeringsforeningen_Nykredit_Invest_aarsrapport_2015_inkl_beholdningslister.pdf&filetype=3&islogo=0,,,,,13.75,https://www.meggitt.com/wp-content/uploads/2018/11/full-year-results-2014.pdf,"Meggitt plc issuer full-year results inspected; FY2014 total ordinary dividend verified as 13.75p. Source share figures are rounded/other definitions, so exact 31 December issued shares are not inferred; price and market cap remain blank. Audited Nykredit schedule dated 31-12-2015 includes 31-12-2014 comparative MEGGITT PLC quote 519p; used as exact 2014 year-end price. Market cap remains blank without exact 31-Dec issued-share count."
+01299733,2001,,,,,,,,,
+01299733,2002,,,,,,,,,
+01299733,2003,,,,,,,,,
+01631639,2001,,,,,,,,,"High-yield audit: historical Logica legal entity reviewed, but no metric populated because candidate evidence did not meet requested primary/exact-date standard. Blanks are intentional."
+01682048,2001,,,,,,,8.5,https://www.investegate.co.uk/announcement/rns/eneraqua-technologies--etp/final-results-/339561,"Enterprise Oil PLC 2001 audited final-results announcement inspected. FY2001 ordinary dividend is 8.5p (3.15p interim plus 5.35p final). The company repurchased and cancelled shares during 2001, but the announcement does not establish an exact 31 December issued ordinary-share count; shares, price and market cap therefore remain blank. High-yield audit: existing Enterprise Oil FY2001 8.5p dividend preserved. No exact 31-Dec-2001 issued-share count or final-trading-day close established strongly enough for remaining fields."
+01777777,2001,,,,,,,,,
+01777777,2002,,,,,,,,,
+01777777,2003,,,,,,,,,
+01777777,2004,,,,,,,,,
+01777777,2005,,,,,,,,,
+01777777,2006,,,,,,,,,
+01777777,2007,,,,,,,,,
+01777777,2008,,,,,,,,,
+01777777,2009,,,,,,,,,
+01777777,2010,,,,,,,,,
+02122142,2011,607.5,https://www.hl.co.uk/__data/assets/pdf_file/0008/15413147/2011-Report-and-Financial-Statements.pdf,474318625,https://www.hl.co.uk/__data/assets/pdf_file/0008/15413147/2011-Report-and-Financial-Statements.pdf,2881485646.875,https://www.hl.co.uk/__data/assets/pdf_file/0008/15413147/2011-Report-and-Financial-Statements.pdf,12.91,https://www.annualreports.com/HostedData/AnnualReportArchive/h/LSE_HL_2012.pdf,Hargreaves Lansdown plc FY2011 ordinary dividend is 12.91p; special dividends are excluded from annual_dividend_pence. FISCAL-YEAR-END AUDIT: shares_outstanding is the issuer-reported issued and fully paid ordinary share count at 30 June 2011. FISCAL-YEAR-END AUDIT: issuer report states the closing market price at 30 June 2011 was £6.075 (607.5p). Hargreaves Lansdown FY2011 Market cap computed as 607.5p/100 × 474318625 issued ordinary shares = £2881485646.875.
+02122142,2012,529.5,https://www.hl.co.uk/__data/assets/pdf_file/0006/15413145/2012-Report-and-Financial-Statements.pdf,474318625,https://www.hl.co.uk/__data/assets/pdf_file/0006/15413145/2012-Report-and-Financial-Statements.pdf,2511517119.375,https://www.hl.co.uk/__data/assets/pdf_file/0006/15413145/2012-Report-and-Financial-Statements.pdf,15.75,https://www.annualreports.com/HostedData/AnnualReportArchive/h/LSE_HL_2012.pdf,"Hargreaves Lansdown plc FY2012 ordinary dividend is 15.75p; special dividends are excluded from annual_dividend_pence. Issuer interim financial statements at 31 December 2012 give exactly 474,318,625 issued and fully paid 0.4p ordinary shares; exact calendar-year-end issued count, not a weighted-average EPS denominator. FISCAL-YEAR-END AUDIT: shares_outstanding is the issuer-reported issued and fully paid ordinary share count at 30 June 2012. FISCAL-YEAR-END AUDIT: issuer report states the closing market price at 30 June 2012 was £5.295 (529.5p). Hargreaves Lansdown FY2012 Market cap computed as 529.5p/100 × 474318625 issued ordinary shares = £2511517119.375."
+02122142,2013,,,474318625,https://www.hl.co.uk/__data/assets/pdf_file/0008/7404857/2013-Report-and-Financial-Statements.pdf,,,20.68,https://www.annualreports.com/HostedData/AnnualReportArchive/h/LSE_HL_2013.pdf,"Hargreaves Lansdown plc FY2013 ordinary dividend is 20.68p; special dividends are excluded from annual_dividend_pence. Issuer interim financial statements at 31 December 2013 give exactly 474,318,625 issued and fully paid 0.4p ordinary shares; exact calendar-year-end issued count, not a weighted-average EPS denominator. Audited Nykredit holdings schedule explicitly dated 31-12-2013 reports Hargreaves Lansdown PLC at 1354p; used as the exact year-end ordinary-share quote. Hargreaves Lansdown Market cap computed as 1354p/100 × 474318625 issued ordinary shares = £6422274182.50. FISCAL-YEAR-END AUDIT: shares_outstanding is the issuer-reported issued and fully paid ordinary share count at 30 June 2013. FISCAL-YEAR-END AUDIT CORRECTION: prior 31-December price removed because the company financial year ends 30 June; no exact 30-June/final-prior-trading-day close has been retained without direct verification. FISCAL-YEAR-END AUDIT CORRECTION: prior market cap based on 31-December price removed; recomputation deferred until an exact fiscal-year-end price is verified."
+02122142,2014,,,474318625,https://www.investegate.co.uk/announcement/rns/hargreaves-lansdown--hl./final-results/3663430,,,22.39,https://www.annualreports.com/HostedData/AnnualReportArchive/h/LSE_HL_2014.pdf,"Hargreaves Lansdown plc FY2014 ordinary dividend is 22.39p; special dividends are excluded from annual_dividend_pence. Issuer interim financial statements at 31 December 2014 give exactly 474,318,625 issued and fully paid 0.4p ordinary shares; exact calendar-year-end issued count, not a weighted-average EPS denominator. Audited Nykredit holdings schedule explicitly dated 31-12-2014 reports Hargreaves Lansdown PLC at 1012p; used as the exact year-end ordinary-share quote. Hargreaves Lansdown Market cap computed as 1012p/100 × 474318625 issued ordinary shares = £4800104485.00. FISCAL-YEAR-END AUDIT: shares_outstanding is the issuer-reported issued and fully paid ordinary share count at 30 June 2014. FISCAL-YEAR-END AUDIT CORRECTION: prior 31-December price removed because the company financial year ends 30 June; no exact 30-June/final-prior-trading-day close has been retained without direct verification. FISCAL-YEAR-END AUDIT CORRECTION: prior market cap based on 31-December price removed; recomputation deferred until an exact fiscal-year-end price is verified."
+02122142,2015,,,474318625,https://www.investegate.info/announcement/rns/hargreaves-lansdown--hl./final-results/4178174,,,21.60,https://www.annualreports.com/HostedData/AnnualReportArchive/h/LSE_HL_2015.pdf,"Hargreaves Lansdown plc FY2015 ordinary dividend is 21.60p; special dividends are excluded from annual_dividend_pence. Issuer interim financial statements at 31 December 2015 give exactly 474,318,625 issued and fully paid 0.4p ordinary shares; exact calendar-year-end issued count, not a weighted-average EPS denominator. Audited Nykredit holdings schedule explicitly dated 31-12-2015 reports Hargreaves Lansdown PLC at 1506p; used as the exact year-end ordinary-share quote. Hargreaves Lansdown Market cap computed as 1506p/100 × 474318625 issued ordinary shares = £7143238492.50. FISCAL-YEAR-END AUDIT: shares_outstanding is the issuer-reported issued and fully paid ordinary share count at 30 June 2015. FISCAL-YEAR-END AUDIT CORRECTION: prior 31-December price removed because the company financial year ends 30 June; no exact 30-June/final-prior-trading-day close has been retained without direct verification. FISCAL-YEAR-END AUDIT CORRECTION: prior market cap based on 31-December price removed; recomputation deferred until an exact fiscal-year-end price is verified."
+02159282,2001,,,274967263,https://www.sec.gov/Archives/edgar/data/877799/000119312503015239/d20f.htm,,,,,"SEC-hosted Celltech filing explicitly states 274,967,263 ordinary shares at 31 December 2001 after 1,121,616 option-exercise shares during the year. Exact year-end issued count used; preference shares and later option exercises excluded."
+02247735,2001,,,,,,,,,
+02247735,2002,,,,,,,,,
+02247735,2003,,,,,,,,,
+02247735,2004,,,,,,,,,
+02247735,2005,,,,,,,,,
+02247735,2006,,,,,,,,,
+02247735,2007,,,,,,,,,
+02247735,2008,,,,,,,,,
+02247735,2009,,,,,,,,,
+02247735,2010,,,,,,,,,
+02247735,2011,,,,,,,,,Audited Nykredit holdings schedule explicitly dated 31-12-2011 reports the listed Sky/British Sky Broadcasting ordinary share at 732.5p; name change to Sky plc is respected. FISCAL-YEAR-END AUDIT CORRECTION: 31-December quote removed because the issuer financial year ends 30 June; retain blank until exact 30-June/final-prior-trading-day evidence is directly verified.
+02247735,2012,,,,,,,25.4,https://www.annualreports.com/HostedData/AnnualReportArchive/S/LSE_SKY_2015.pdf,"Audited Nykredit holdings schedule explicitly dated 31-12-2012 reports the listed Sky/British Sky Broadcasting ordinary share at 767p; name change to Sky plc is respected. Issuer annual report verifies total ordinary dividend for financial year ended 30 June 2012 of 25.4p; financial-year metric, not calendar-year cash paid. FISCAL-YEAR-END AUDIT CORRECTION: 31-December quote removed because the issuer financial year ends 30 June; retain blank until exact 30-June/final-prior-trading-day evidence is directly verified."
+02247735,2013,,,,,,,30.0,https://www.annualreports.com/HostedData/AnnualReportArchive/S/LSE_SKY_2015.pdf,"Audited Nykredit holdings schedule explicitly dated 31-12-2013 reports the listed Sky/British Sky Broadcasting ordinary share at 844p; name change to Sky plc is respected. Issuer annual report verifies total ordinary dividend for financial year ended 30 June 2013 of 30.0p; financial-year metric, not calendar-year cash paid. FISCAL-YEAR-END AUDIT CORRECTION: 31-December quote removed because the issuer financial year ends 30 June; retain blank until exact 30-June/final-prior-trading-day evidence is directly verified."
+02247735,2014,,,,,,,32.0,https://www.annualreports.com/HostedData/AnnualReportArchive/b/LSE_BSY_2014.pdf,"Audited Nykredit holdings schedule explicitly dated 31-12-2014 reports the listed Sky/British Sky Broadcasting ordinary share at 899p; name change to Sky plc is respected. Issuer annual report verifies total ordinary dividend for financial year ended 30 June 2014 of 32.0p; financial-year metric, not calendar-year cash paid. FISCAL-YEAR-END AUDIT CORRECTION: 31-December quote removed because the issuer financial year ends 30 June; retain blank until exact 30-June/final-prior-trading-day evidence is directly verified."
+02247735,2015,,,,,,,32.8,https://www.annualreports.com/HostedData/AnnualReportArchive/S/LSE_SKY_2015.pdf,"Audited Nykredit holdings schedule explicitly dated 31-12-2015 reports the listed Sky/British Sky Broadcasting ordinary share at 1112p; name change to Sky plc is respected. Issuer annual report verifies total ordinary dividend for financial year ended 30 June 2015 of 32.8p; financial-year metric, not calendar-year cash paid. FISCAL-YEAR-END AUDIT CORRECTION: 31-December quote removed because the issuer financial year ends 30 June; retain blank until exact 30-June/final-prior-trading-day evidence is directly verified."
+02280426,2014,291.3,https://www.directlinegroup.co.uk/content/dam/dlg/corporate/images-and-documents/investors/results-and-reports/2015/FY2014Results/annual-report-and-accounts-dlg-2014.pdf.downloadasset.pdf,1500000000,https://www.directlinegroup.co.uk/content/dam/dlg/corporate/images-and-documents/investors/results-and-reports/2015/FY2014Results/annual-report-and-accounts-dlg-2014.pdf.downloadasset.pdf,4369500000.000,https://www.directlinegroup.co.uk/content/dam/dlg/corporate/images-and-documents/investors/results-and-reports/2015/FY2014Results/annual-report-and-accounts-dlg-2014.pdf.downloadasset.pdf,13.2,https://www.directlinegroup.co.uk/content/dam/dlg/corporate/images-and-documents/investors/results-and-reports/2015/FY2014Results/annual-report-and-accounts-dlg-2014.pdf.downloadasset.pdf,"Direct Line Insurance Group plc 2014 annual report inspected: 31 December share price 291.3p; 1,500,000,000 fully paid 10p ordinary shares at 31 December; FY2014 regular ordinary dividend 13.2p. Special dividends excluded. Market cap computed on the same year-end capital basis."
+02280426,2015,407.5,https://www.annualreports.com/HostedData/AnnualReportArchive/D/LSE_DLG_2015.pdf,1375000000,https://www.annualreports.com/HostedData/AnnualReportArchive/D/LSE_DLG_2015.pdf,5603125000.000,https://www.annualreports.com/HostedData/AnnualReportArchive/D/LSE_DLG_2015.pdf,13.8,https://www.annualreports.com/HostedData/AnnualReportArchive/D/LSE_DLG_2015.pdf,"Direct Line Insurance Group plc 2015 annual report inspected: 31 December share price £4.075 converted to 407.5p; year-end issued capital 1,375,000,000 ordinary shares. The 30 June 2015 11-for-12 consolidation reduced 1.5bn old shares to 1.375bn new shares; post-consolidation basis used consistently. FY2015 regular ordinary dividend 13.8p; special interim dividends excluded."
+02294747,2001,,,,,,,,,
+02294747,2002,,,,,,,,,
+02294747,2003,,,,,,,,,
+02339826,2008,138.1,https://static.rsagroup.com/rsa/investors/company-performance/annual-reports/2008-annual-report-and-accounts.pdf,3329435791,https://static.rsagroup.com/rsa/investors/company-performance/annual-reports/2008-annual-report-and-accounts.pdf,4597950827.371,https://static.rsagroup.com/rsa/investors/company-performance/annual-reports/2008-annual-report-and-accounts.pdf,7.71,https://static.rsagroup.com/rsa/investors/company-performance/annual-reports/2008-annual-report-and-accounts.pdf,RSA Insurance Group plc FY2008 issuer annual report inspected. The requested price is the ordinary-share closing market price on the last dealing day of the calendar year (138.1p). Gross issued and fully paid ordinary shares at 31 December are 3329435791; employee-share-trust/own-share holdings are not deducted because they remain part of issued ordinary share capital and are not a weighted-average EPS denominator. FY2008 ordinary dividend is 7.71p (interim plus final for that financial year). Market cap is computed as 138.1/100 × 3329435791 on the identical year-end capital basis. Preference shares are excluded.
+02339826,2009,120.6,https://static.rsagroup.com/rsa/investors/company-performance/annual-reports/2009-annual-report-final.pdf,3420173187,https://static.rsagroup.com/rsa/investors/company-performance/annual-reports/2009-annual-report-final.pdf,4124728863.522,https://static.rsagroup.com/rsa/investors/company-performance/annual-reports/2009-annual-report-final.pdf,8.25,https://static.rsagroup.com/rsa/investors/company-performance/annual-reports/2009-annual-report-final.pdf,RSA Insurance Group plc FY2009 issuer annual report inspected. The requested price is the ordinary-share closing market price on the last dealing day of the calendar year (120.6p). Gross issued and fully paid ordinary shares at 31 December are 3420173187; employee-share-trust/own-share holdings are not deducted because they remain part of issued ordinary share capital and are not a weighted-average EPS denominator. FY2009 ordinary dividend is 8.25p (interim plus final for that financial year). Market cap is computed as 120.6/100 × 3420173187 on the identical year-end capital basis. Preference shares are excluded.
+02339826,2010,125.2,https://static.rsagroup.com/rsa/investors/company-performance/annual-reports/annual-report-and-accounts-2010.pdf,3495950877,https://static.rsagroup.com/rsa/investors/company-performance/annual-reports/annual-report-and-accounts-2010.pdf,4376930498.004,https://static.rsagroup.com/rsa/investors/company-performance/annual-reports/annual-report-and-accounts-2010.pdf,8.82,https://static.rsagroup.com/rsa/investors/company-performance/annual-reports/annual-report-and-accounts-2010.pdf,RSA Insurance Group plc FY2010 issuer annual report inspected. The requested price is the ordinary-share closing market price on the last dealing day of the calendar year (125.2p). Gross issued and fully paid ordinary shares at 31 December are 3495950877; employee-share-trust/own-share holdings are not deducted because they remain part of issued ordinary share capital and are not a weighted-average EPS denominator. FY2010 ordinary dividend is 8.82p (interim plus final for that financial year). Market cap is computed as 125.2/100 × 3495950877 on the identical year-end capital basis. Preference shares are excluded.
+02339826,2011,105.2,https://static.rsagroup.com/rsa/investors/company-performance/annual-reports/rsa-annual-report-2011.pdf,3531021230,https://static.rsagroup.com/rsa/investors/company-performance/annual-reports/rsa-annual-report-2011.pdf,3714634333.960,https://static.rsagroup.com/rsa/investors/company-performance/annual-reports/rsa-annual-report-2011.pdf,9.16,https://static.rsagroup.com/rsa/investors/company-performance/annual-reports/rsa-annual-report-2011.pdf,RSA Insurance Group plc FY2011 issuer annual report inspected. The requested price is the ordinary-share closing market price on the last dealing day of the calendar year (105.2p). Gross issued and fully paid ordinary shares at 31 December are 3531021230; employee-share-trust/own-share holdings are not deducted because they remain part of issued ordinary share capital and are not a weighted-average EPS denominator. FY2011 ordinary dividend is 9.16p (interim plus final for that financial year). Market cap is computed as 105.2/100 × 3531021230 on the identical year-end capital basis. Preference shares are excluded.
+02339826,2012,125.7,https://static.rsagroup.com/rsa/investors/company-performance/annual-reports/rsa-annual-report-and-accounts-2012.pdf,3595951315,https://static.rsagroup.com/rsa/investors/company-performance/annual-reports/rsa-annual-report-and-accounts-2012.pdf,4520110802.955,https://static.rsagroup.com/rsa/investors/company-performance/annual-reports/rsa-annual-report-and-accounts-2012.pdf,7.31,https://static.rsagroup.com/rsa/investors/company-performance/annual-reports/rsa-annual-report-and-accounts-2012.pdf,RSA Insurance Group plc FY2012 issuer annual report inspected. The requested price is the ordinary-share closing market price on the last dealing day of the calendar year (125.7p). Gross issued and fully paid ordinary shares at 31 December are 3595951315; employee-share-trust/own-share holdings are not deducted because they remain part of issued ordinary share capital and are not a weighted-average EPS denominator. FY2012 ordinary dividend is 7.31p (interim plus final for that financial year). Market cap is computed as 125.7/100 × 3595951315 on the identical year-end capital basis. Preference shares are excluded.
+02339826,2013,91.4,https://static.rsagroup.com/rsa/investors/company-performance/annual-reports/rsa-annual-report-2013-final.pdf,3681798995,https://static.rsagroup.com/rsa/investors/company-performance/annual-reports/rsa-annual-report-2013-final.pdf,3365164281.43,https://static.rsagroup.com/rsa/investors/company-performance/annual-reports/rsa-annual-report-2013-final.pdf,2.28,https://static.rsagroup.com/rsa/investors/company-performance/annual-reports/rsa-annual-report-2013-final.pdf,"RSA Insurance Group plc 2013 issuer annual report: closing market price on 31 Dec 2013 91.4p; 3,681,798,995 issued and fully paid ordinary shares at 31 Dec 2013. Market cap computed as 91.4p/100 × 3,681,798,995 shares. FY2013 dividend left blank because the later rights issue/consolidation causes restated dividend comparatives and the exact declared-on-original-capital-basis total was not sufficiently verified. RSA 2013 annual report re-audited: 3,681,798,995 ordinary shares at 31 December 2013 and last-dealing-day close 91.4p confirm the existing capital basis. FY2013 total ordinary dividend was 2.28p, consisting solely of the interim because no final dividend was declared. The 2014 rights issue and subsequent 1-for-5 consolidation are later events and are not used to retro-adjust this 2013 row."
+02339826,2014,435,https://static.rsagroup.com/rsa/investors/company-performance/annual-reports/rsa-annual-report-and-accounts-2014.pdf,1015486873,https://static.rsagroup.com/rsa/investors/company-performance/annual-reports/rsa-annual-report-and-accounts-2014.pdf,4417367897.55,https://static.rsagroup.com/rsa/investors/company-performance/annual-reports/rsa-annual-report-and-accounts-2014.pdf,2.0,https://static.rsagroup.com/rsa/investors/company-performance/annual-reports/rsa-annual-report-and-accounts-2014.pdf,"RSA Insurance Group plc 2014 issuer annual report: closing market price on 31 Dec 2014 435p; 1,015,486,873 issued ordinary shares at 31 Dec 2014 after the 3-for-8 rights issue and subdivision/5:1 consolidation; FY2014 total ordinary dividend 2.0p (no interim). Market cap computed as 435p/100 × 1,015,486,873 shares."
+02339826,2015,426.5,https://static.rsagroup.com/rsa/investors/company-performance/annual-reports/rsa-insurance-group-plc-annual-report-2015c.pdf,1017059842,https://static.rsagroup.com/rsa/investors/company-performance/annual-reports/rsa-insurance-group-plc-annual-report-2015c.pdf,4337760226.13,https://static.rsagroup.com/rsa/investors/company-performance/annual-reports/rsa-insurance-group-plc-annual-report-2015c.pdf,10.5,https://static.rsagroup.com/rsa/investors/company-performance/annual-reports/rsa-insurance-group-plc-annual-report-2015c.pdf,"RSA Insurance Group plc issuer annual report: mid-market closing price at 31 Dec 2015 £4.265 (=426.5p); 1,017,059,842 ordinary shares in issue at 31 Dec 2015; total FY2015 ordinary dividend 10.5p (3.5p interim + 7.0p final). Market cap computed as 426.5p/100 × 1,017,059,842 issued ordinary shares. Employee trust own shares are not deducted because requested field is ordinary shares actually in issue."
+02366627,2005,,,,,,,,,
+02366627,2006,,,,,,,,,
+02366627,2007,,,,,,,,,
+03263713,2001,,,,,,,,,
+03263713,2002,,,,,,,,,
+03263713,2003,,,,,,,,,
+03263713,2004,,,,,,,,,
+03263713,2005,,,,,,,,,
+03263713,2006,,,,,,,,,
+03263713,2007,,,,,,,,,
+03299793,2001,,,,,,,,,
+03299793,2002,,,,,,,,,
+03299793,2003,,,,,,,,,
+03299793,2004,,,,,,,,,
+03299793,2005,,,,,,,,,
+03299793,2006,,,,,,,,,
+03477402,2001,,,,,,,,,
+03477402,2002,,,,,,,,,
+03477402,2003,,,,,,,,,
+03477402,2004,,,,,,,,,
+03477402,2005,,,,,,,,,
+03477402,2006,,,,,,,,,
+03477402,2007,,,,,,,,,
+03586615,2001,755,https://www.acri.it/_upload/bilanci/2617_B_01.pdf,654362630,https://www.eonenergy.com/content/dam/eon-energy-com/Files/about-eon/reporting/financial-reports/2001_powergenplc_annual_report.pdf,4940437856.5,https://www.acri.it/_upload/bilanci/2617_B_01.pdf,36.8,https://www.eonenergy.com/content/dam/eon-energy-com/Files/about-eon/reporting/financial-reports/2001_powergenplc_annual_report.pdf,"Powergen PLC 2001 issuer annual report inspected: exactly 654,362,630 ordinary shares of 50p were in issue at 31 December 2001 and FY2001 dividend was 36.8p per ordinary share. A securities portfolio explicitly headed 31/12/2001 lists POWERGEN PLC at GBP 7.5500, converted to 755p. Market cap is computed on the same capital basis as 755/100 × 654,362,630 = £4,940,437,856.50. The later 2002 E.ON acquisition is not allowed to alter the 2001 issuer/capital basis."
+03685527,2014,,,1316838051,https://www.annualreports.com/HostedData/AnnualReportArchive/I/LSE_INTU_2014.pdf,,,13.7,https://www.annualreports.com/HostedData/AnnualReportArchive/I/LSE_INTU_2014.pdf,"intu properties plc 2014 annual report inspected. Exact issued and fully paid ordinary shares at 31 December: 1,316,838,051. Report documents 2-for-7 rights issue of 278,241,628 new shares at 180p; post-rights year-end count used. FY2014 ordinary dividend 13.7p on rights-adjusted basis. Price and market cap remain blank without exact final-trading-day close."
+03685527,2015,,,1344661827,https://www.annualreports.com/HostedData/AnnualReportArchive/I/LSE_INTU_2015.pdf,,,13.7,https://www.annualreports.com/HostedData/AnnualReportArchive/I/LSE_INTU_2015.pdf,"intu properties plc 2015 annual report inspected. Exact issued and fully paid ordinary shares at 31 December: 1,344,661,827; FY2015 ordinary dividend 13.7p. Price and market cap remain blank without exact final-trading-day close."
+03690065,2001,,,,,,,,,
+03690065,2002,,,,,,,,,
+03690065,2003,,,,,,,,,
+03690065,2004,,,,,,,,,
+03690065,2005,,,,,,,,,
+03690065,2006,,,,,,,,,
+03690065,2007,,,,,,,,,
+03690065,2008,957,https://www.annualreports.co.uk/HostedData/AnnualReportArchive/b/LSE_BG_2008.pdf,3582000000,https://www.annualreports.co.uk/HostedData/AnnualReportArchive/b/LSE_BG_2008.pdf,34279740000,https://www.annualreports.co.uk/HostedData/AnnualReportArchive/b/LSE_BG_2008.pdf,11.23,https://www.annualreports.co.uk/HostedData/AnnualReportArchive/b/LSE_BG_2008.pdf,"Annual report reports issued shares as 3,582m; stored as 3,582,000,000 and flagged estimate because disclosure is rounded to millions. Market cap computed as year-end price × shares in issue; share-count provenance is in shares_source_url. Estimate inherits rounded share-count disclosure."
+03690065,2009,1122,https://www.yumpu.com/en/document/view/12210693/annual-report-and-accounts-2009-bg-group,3595000000,https://www.yumpu.com/en/document/view/12210693/annual-report-and-accounts-2009-bg-group,40335900000,https://www.yumpu.com/en/document/view/12210693/annual-report-and-accounts-2009-bg-group,12.35,https://www.shell.com/investors/information-for-shareholders/bg-documents/recommended-cash-and-share-offer-for-bg-group-plc-by-royal-dutch-shell-plc/_jcr_content/root/main/section/simple_90034901/text_970341755.multi.stream/1664200414751/2f45eaea416cdac0c7046f41b6b868317b56ee00/bg-group-plcs-annual-report-and-audited-accounts-for-the-year-ended-31-december-2013-updt.pdf,"Annual report reports issued shares as 3,595m; stored as 3,595,000,000 and flagged estimate because disclosure is rounded to millions. Market cap computed as year-end price × shares in issue; share-count provenance is in shares_source_url. Estimate inherits rounded share-count disclosure."
+03690065,2010,1296,https://www.rns-pdf.londonstockexchange.com/rns/9005D_-2011-3-30.pdf,3606000000,https://www.rns-pdf.londonstockexchange.com/rns/9005D_-2011-3-30.pdf,46733760000,https://www.rns-pdf.londonstockexchange.com/rns/9005D_-2011-3-30.pdf,13.66,https://www.shell.com/investors/information-for-shareholders/bg-documents/_jcr_content/root/main/section/link_list_copy/links/item2.stream/1663748587333/6c17ab0ea67ceafe6f3d214ee0a1478087bc1d30/bg-group-2014-annual-report.pdf,"Annual report shareholder profile reports 3,606m shares; stored as 3,606,000,000 and flagged estimate because disclosure is rounded to millions. Market cap computed as year-end price × shares in issue; share-count provenance is in shares_source_url. Estimate inherits rounded share-count disclosure."
+03690065,2011,,,,,,,14.82,https://www.shell.com/investors/information-for-shareholders/bg-documents/_jcr_content/root/main/section/link_list_copy/links/item2.stream/1663748587333/6c17ab0ea67ceafe6f3d214ee0a1478087bc1d30/bg-group-2014-annual-report.pdf,
+03690065,2012,1012,https://www.shell.com/investors/information-for-shareholders/bg-documents/recommended-cash-and-share-offer-for-bg-group-plc-by-royal-dutch-shell-plc/_jcr_content/root/main/section/simple_90034901/text_970341755.multi.stream/1664200505774/e75d310f5bb616c737f4f34ef3a66f1c65eba624/bg-group-plcs-annual-report-and-audited-accounts-for-the-year-ended-31-december-2012-updt.pdf,3614135535,https://www.shell.com/investors/information-for-shareholders/bg-documents/recommended-cash-and-share-offer-for-bg-group-plc-by-royal-dutch-shell-plc/_jcr_content/root/main/section/simple_90034901/text_970341755.multi.stream/1664200505774/e75d310f5bb616c737f4f34ef3a66f1c65eba624/bg-group-plcs-annual-report-and-audited-accounts-for-the-year-ended-31-december-2012-updt.pdf,36575051614,https://www.shell.com/investors/information-for-shareholders/bg-documents/recommended-cash-and-share-offer-for-bg-group-plc-by-royal-dutch-shell-plc/_jcr_content/root/main/section/simple_90034901/text_970341755.multi.stream/1664200505774/e75d310f5bb616c737f4f34ef3a66f1c65eba624/bg-group-plcs-annual-report-and-audited-accounts-for-the-year-ended-31-december-2012-updt.pdf,16.67,https://www.shell.com/investors/information-for-shareholders/bg-documents/_jcr_content/root/main/section/link_list_copy/links/item2.stream/1663748587333/6c17ab0ea67ceafe6f3d214ee0a1478087bc1d30/bg-group-2014-annual-report.pdf,"Annual report shareholder profile gives 3,614,135,535 shares at 31 December 2012. Market cap computed as year-end price × shares in issue; share-count provenance is in shares_source_url."
+03690065,2013,,,3618513746,https://www.marketscreener.com/quote/stock/BG-GROUP-4001264/news/BG-Group-plc-Total-Voting-Rights-17742288/,,,18.02,https://www.shell.com/investors/information-for-shareholders/bg-documents/_jcr_content/root/main/section/link_list_copy/links/item2.stream/1663748587333/6c17ab0ea67ceafe6f3d214ee0a1478087bc1d30/bg-group-2014-annual-report.pdf,"31 December 2013 total voting rights announcement gives 3,618,513,746 ordinary shares in issue (including treasury)."
+03690065,2014,865,https://www.globenewswire.com/en/Attachment/DownloadAttachment?articleid=814033&fileId=378855&filename=Investeringsforeningen_Nykredit_Invest_aarsrapport_2015_inkl_beholdningslister.pdf&filetype=3&islogo=0,3621000000,https://www.shell.com/investors/information-for-shareholders/bg-documents/_jcr_content/root/main/section/link_list_copy/links/item1.stream/1663748571300/7fda6f06a204426235d99edd3a17ce87df3f5815/bg-group-2015-annual-report.pdf,,,17.99,https://www.shell.com/investors/information-for-shareholders/bg-documents/_jcr_content/root/main/section/link_list_copy/links/item2.stream/1663748587333/6c17ab0ea67ceafe6f3d214ee0a1478087bc1d30/bg-group-2014-annual-report.pdf,"2015 annual report comparative reports 2014 issued shares as 3,621m; stored as 3,621,000,000 and flagged estimate because disclosure is rounded to millions. Audit: legacy static Shell URL replaced with the live Shell-hosted copy of the same 2015 annual report. Audited Nykredit holdings schedule explicitly reports BG GROUP PLC at 865p on 31-12-2014. Market cap deliberately not computed from existing rounded share count unless exact compatible issued count is established. Existing transaction-era dividend treatment preserved."
+03690065,2015,985,https://www.globenewswire.com/en/Attachment/DownloadAttachment?articleid=814033&fileId=378855&filename=Investeringsforeningen_Nykredit_Invest_aarsrapport_2015_inkl_beholdningslister.pdf&filetype=3&islogo=0,3622000000,https://www.shell.com/investors/information-for-shareholders/bg-documents/_jcr_content/root/main/section/link_list_copy/links/item1.stream/1663748571300/7fda6f06a204426235d99edd3a17ce87df3f5815/bg-group-2015-annual-report.pdf,,,9.22,https://www.shell.com/investors/information-for-shareholders/bg-documents/_jcr_content/root/main/section/link_list_copy/links/item1.stream/1663748571300/7fda6f06a204426235d99edd3a17ce87df3f5815/bg-group-2015-annual-report.pdf,"2015 annual report reports issued shares as 3,622m; stored as 3,622,000,000 and flagged estimate because disclosure is rounded to millions. 2015 BG ordinary dividend is the 9.22p interim dividend; the annual report states no further BG final dividend was paid because the Shell combination became effective before Shell's Q4 dividend record date. Audit: legacy static Shell URL replaced with the live Shell-hosted copy of the same 2015 annual report. Audited Nykredit holdings schedule explicitly reports BG GROUP PLC at 985p on 31-12-2015. Market cap deliberately not computed from existing rounded share count unless exact compatible issued count is established. Existing transaction-era dividend treatment preserved."
+03771147,2001,,,,,,,12.10,https://www.sec.gov/Archives/edgar/data/1100427/000104746904037255/a2146222z20-f.htm,SEC-hosted Allied Domecq issuer filing gives total ordinary dividend per share for FY2001 of 12.10p. ADS dividend figures are not used; ordinary-share pence series is used.
+03771147,2002,,,,,,,13.00,https://www.sec.gov/Archives/edgar/data/1100427/000104746904037255/a2146222z20-f.htm,SEC-hosted Allied Domecq issuer filing gives total ordinary dividend per share for FY2002 of 13.00p. ADS dividend figures are not used; ordinary-share pence series is used.
+03771147,2003,,,,,,,14.00,https://www.sec.gov/Archives/edgar/data/1100427/000104746904037255/a2146222z20-f.htm,SEC-hosted Allied Domecq issuer filing gives total ordinary dividend per share for FY2003 of 14.00p. ADS dividend figures are not used; ordinary-share pence series is used.
+03771147,2004,,,,,,,15.50,https://www.sec.gov/Archives/edgar/data/1100427/000104746904037255/a2146222z20-f.htm,SEC-hosted Allied Domecq issuer filing gives total ordinary dividend per share for FY2004 of 15.50p. ADS dividend figures are not used; ordinary-share pence series is used.
+03811373,2004,,,,,,,,,
+03811373,2006,,,,,,,,,
+03900804,2001,156,https://www.acri.it/_upload/bilanci/2617_B_01.pdf,,,,,,,"Lattice Group PLC 2001 price evidence: a securities portfolio explicitly headed 31/12/2001 lists LATTICE GROUP PLC at GBP 1.5600, converted to 156p. The group changed its reporting year-end around the subsequent merger period, so no fiscal-period dividend is forced into this calendar-year row without a clean FY2001 definition. Exact 31 December issued shares and market cap remain blank. High-yield audit: existing Lattice 156p exact 31-12-2001 price preserved. Lattice changed financial year-end and reported a 15-month period to 31 March 2002, so no artificial FY2001 dividend is inserted."
+03902746,2001,,,,,,,,,
+03902746,2002,,,,,,,,,
+03962410,2001,,,,,,,,,
+03962410,2002,,,,,,,,,
+03962410,2003,,,,,,,,,
+04190816,2001,,,,,,,,,"BT 2001 deliberately remains unresolved: BT Group plc was inserted as listed holding company during the November 2001 reorganisation, while British Telecommunications plc was the prior listed entity. No metric is moved across that entity transition without exact post-substitution capital/date evidence."
+04190816,2002,,,,,,,2.0,https://www.bt.com/about/investors/individual-shareholders/dividends,"BT Group plc official dividend history: row 2002 uses total ordinary dividend for financial year ending 31 March 2002: 2.0p (interim + final), not dividends merely paid in calendar year."
+04190816,2003,,,,,,,6.5,https://www.bt.com/about/investors/individual-shareholders/dividends,"BT Group plc official dividend history: row 2003 uses total ordinary dividend for financial year ending 31 March 2003: 6.5p (interim + final), not dividends merely paid in calendar year."
+04190816,2004,,,,,,,8.5,https://www.bt.com/about/investors/individual-shareholders/dividends,"BT Group plc official dividend history: row 2004 uses total ordinary dividend for financial year ending 31 March 2004: 8.5p (interim + final), not dividends merely paid in calendar year."
+04190816,2005,,,,,,,10.4,https://www.bt.com/about/investors/individual-shareholders/dividends,"BT Group plc official dividend history: row 2005 uses total ordinary dividend for financial year ending 31 March 2005: 10.4p (interim + final), not dividends merely paid in calendar year."
+04190816,2006,,,,,,,11.9,https://www.bt.com/about/investors/individual-shareholders/dividends,"BT Group plc official dividend history: row 2006 uses total ordinary dividend for financial year ending 31 March 2006: 11.9p (interim + final), not dividends merely paid in calendar year."
+04190816,2007,,,,,,,15.1,https://www.bt.com/about/investors/individual-shareholders/dividends,"BT Group plc official dividend history: row 2007 uses total ordinary dividend for financial year ending 31 March 2007: 15.1p (interim + final), not dividends merely paid in calendar year."
+04190816,2008,,,,,,,15.8,https://www.bt.com/about/investors/individual-shareholders/dividends,"BT Group plc official dividend history: row 2008 uses total ordinary dividend for financial year ending 31 March 2008: 15.8p (interim + final), not dividends merely paid in calendar year."
+04190816,2009,,,,,,,6.5,https://www.bt.com/about/investors/individual-shareholders/dividends,"BT Group plc official dividend history: row 2009 uses total ordinary dividend for financial year ending 31 March 2009: 6.5p (interim + final), not dividends merely paid in calendar year."
+04190816,2010,,,,,,,6.9,https://www.bt.com/about/investors/individual-shareholders/dividends,"BT Group plc official dividend history: row 2010 uses total ordinary dividend for financial year ending 31 March 2010: 6.9p (interim + final), not dividends merely paid in calendar year."
+04190816,2011,185.6,https://www.annualreports.co.uk/HostedData/AnnualReportArchive/b/LSE_BT_2011.pdf,8151227029,https://www.annualreports.co.uk/HostedData/AnnualReportArchive/b/LSE_BT_2011.pdf,15128677365.824,https://www.annualreports.co.uk/HostedData/AnnualReportArchive/b/LSE_BT_2011.pdf,7.4,https://www.bt.com/about/investors/individual-shareholders/dividends,"BT Group plc official dividend history: row 2011 uses total ordinary dividend for financial year ending 31 March 2011: 7.4p (interim + final), not dividends merely paid in calendar year. Audited Nykredit 31-12-2011 holdings schedule reports BT Group PLC at 190.9p, used as exact year-end quoted ordinary-share price. FISCAL-YEAR-END AUDIT: issuer annual report states BT ordinary-share market price at 31 March 2011 was 185.6p. FISCAL-YEAR-END AUDIT: allotted, called up and fully paid ordinary share capital at 31 March 2011 comprised 8,151,227,029 ordinary shares of 5p. BT Group FY2011 Market cap computed as 185.6p/100 × 8151227029 issued ordinary shares = £15128677365.824."
+04190816,2012,226.4,https://www.annualreports.com/HostedData/AnnualReportArchive/b/LSE_BT_2012.pdf,8151227029,https://www.sec.gov/Archives/edgar/data/756620/000119312512245853/d354337dex152.htm,18454377993.656,https://www.annualreports.com/HostedData/AnnualReportArchive/b/LSE_BT_2012.pdf,8.3,https://www.bt.com/about/investors/individual-shareholders/dividends,"BT Group plc official dividend history: row 2012 uses total ordinary dividend for financial year ending 31 March 2012: 8.3p (interim + final), not dividends merely paid in calendar year. Audited Nykredit 31-12-2012 holdings schedule reports BT Group PLC at 231.1p, used as exact year-end quoted ordinary-share price. FISCAL-YEAR-END AUDIT: issuer annual report states BT ordinary-share market price at 31 March 2012 was 226.4p. FISCAL-YEAR-END AUDIT: allotted, called up and fully paid ordinary share capital at 31 March 2012 comprised 8,151,227,029 ordinary shares of 5p. BT Group FY2012 Market cap computed as 226.4p/100 × 8151227029 issued ordinary shares = £18454377993.656."
+04190816,2013,278,https://www.annualreports.co.uk/HostedData/AnnualReportArchive/b/LSE_BT_2013.pdf,8151227029,https://www.sec.gov/Archives/edgar/data/756620/000119312513232197/d540034dex152.htm,22660411140.62,https://www.annualreports.co.uk/HostedData/AnnualReportArchive/b/LSE_BT_2013.pdf,9.5,https://www.bt.com/about/investors/individual-shareholders/dividends,"BT Group plc official dividend history: row 2013 uses total ordinary dividend for financial year ending 31 March 2013: 9.5p (interim + final), not dividends merely paid in calendar year. Audited Nykredit 31-12-2013 holdings schedule reports BT Group PLC at 379.4p, used as exact year-end quoted ordinary-share price. FISCAL-YEAR-END AUDIT: issuer annual report states BT ordinary-share market price at 31 March 2013 was 278p. FISCAL-YEAR-END AUDIT: allotted, called up and fully paid ordinary share capital at 31 March 2013 comprised 8,151,227,029 ordinary shares of 5p. BT Group FY2013 Market cap computed as 278p/100 × 8151227029 issued ordinary shares = £22660411140.62."
+04190816,2014,,,8151227029,https://www.sec.gov/Archives/edgar/data/756620/000119312514208810/d727763dex152.htm,,,10.9,https://www.bt.com/about/investors/individual-shareholders/dividends,"BT Group plc official dividend history: row 2014 uses total ordinary dividend for financial year ending 31 March 2014: 10.9p (interim + final), not dividends merely paid in calendar year. Audited Nykredit 31-12-2014 holdings schedule reports BT Group PLC at 401.5p, used as exact year-end quoted ordinary-share price. FISCAL-YEAR-END AUDIT: issuer/SEC annual report states allotted, called up and fully paid ordinary share capital at 31 March 2014 comprised 8,151,227,029 ordinary shares. FISCAL-YEAR-END AUDIT CORRECTION: prior 31-December quote removed; exact 31-March close not retained without direct point-date verification. FISCAL-YEAR-END AUDIT CORRECTION: market cap left blank pending exact 31-March price."
+04190816,2015,,,,,,,12.4,https://www.bt.com/about/investors/individual-shareholders/dividends,"BT Group plc official dividend history: row 2015 uses total ordinary dividend for financial year ending 31 March 2015: 12.4p (interim + final), not dividends merely paid in calendar year. Audited Nykredit 31-12-2015 holdings schedule reports BT Group PLC at 471.7p, used as exact year-end quoted ordinary-share price. FISCAL-YEAR-END AUDIT CORRECTION: prior 31-December quote removed; exact 31-March close not retained without direct point-date verification. FISCAL-YEAR-END AUDIT CORRECTION: market cap left blank pending exact 31-March price and exact 31-March issued-share count on the same capital basis."
+04190833,2001,,,,,,,,,
+04190833,2002,,,,,,,,,
+04190833,2003,,,,,,,,,
+04190833,2004,,,,,,,,,
+04190833,2005,,,,,,,,,
+04191106,2002,,,,,,,,,
+04191106,2003,,,,,,,,,
+04191106,2010,,,,,,,,,
+04191106,2011,,,,,,,,,
+04191106,2012,,,,,,,,,
+04191106,2013,373.3,https://www.nykreditinvest.dk/siteassets/pdfer/fonds-rapporter/arsrapporter/nykredit-invest/aarsrapport_2014_investeringsforeningen_nykredit_invest.pdf,,,,,,,Audited Nykredit 31-12-2013 holdings schedule reports GKN PLC at 373.3p. Other metrics remain blank pending exact calendar-year-end capital and FY-dividend evidence on correct holding-company basis.
+04191106,2014,344,https://www.nykreditinvest.dk/siteassets/pdfer/fonds-rapporter/arsrapporter/nykredit-invest/aarsrapport_2014_investeringsforeningen_nykredit_invest.pdf,,,,,,,Audited Nykredit 31-12-2014 holdings schedule reports GKN PLC at 344p. Other metrics remain blank pending exact calendar-year-end capital and FY-dividend evidence on correct holding-company basis.
+04191106,2015,308.4,https://www.globenewswire.com/en/Attachment/DownloadAttachment?articleid=814033&fileId=378855&filename=Investeringsforeningen_Nykredit_Invest_aarsrapport_2015_inkl_beholdningslister.pdf&filetype=3&islogo=0,,,,,,,Audited Nykredit 31-12-2015 holdings schedule reports GKN PLC at 308.4p. Other metrics remain blank pending exact calendar-year-end capital and FY-dividend evidence on correct holding-company basis.
+04191122,2001,,,,,,,,,
+04191122,2002,,,,,,,,,
+04212563,2004,,,,,,,16.5,https://www.annualreports.com/HostedData/AnnualReportArchive/w/LSE_WMH.L_2004.pdf,"William Hill PLC FY2004 audit: annual report for the 52 weeks ended 28 December 2004 states total ordinary dividend per share of 16.5p (5.5p interim + 11.0p final). The financial-year dividend is valid for the requested dividend metric, but the 28 December reporting date is not assumed to equal calendar year-end for shares or price; those fields remain blank pending exact 31 December evidence. High-yield audit: existing William Hill values preserved. Exact final-trading-day price not added without inspected exact-date quote. 2013 existing 867,234,226 issued-share count is post 2-for-9 rights issue and remains on that capital basis."
+04212563,2013,,,867234226,https://www.annualreports.com/HostedData/AnnualReportArchive/w/LSE_WMH.L_2013.pdf,,,11.6,https://www.annualreports.com/HostedData/AnnualReportArchive/w/LSE_WMH.L_2013.pdf,"William Hill PLC 2013 entity/capital audit: issuer annual report gives 867,234,226 called-up, allotted and fully paid ordinary shares of 10p at 31 December 2013. It documents the 5 April 2013 2-for-9 rights issue, including 156.9m rights shares; the post-rights year-end issued count is used rather than weighted-average or treasury/employee-benefit-trust denominators. FY2013 ordinary dividend is 11.6p (3.7p interim + 7.9p final). Exact final-trading-day price was not verified strongly enough, so price and market cap remain blank. High-yield audit: existing William Hill values preserved. Exact final-trading-day price not added without inspected exact-date quote. 2013 existing 867,234,226 issued-share count is post 2-for-9 rights issue and remains on that capital basis."
+04345939,2002,,,,,,,,,
+04345939,2003,,,,,,,,,
+04345939,2004,,,,,,,,,
+04345939,2005,,,,,,,,,
+04345939,2006,,,,,,,,,
+04345939,2007,3550,https://www.annualreports.com/HostedData/AnnualReportArchive/x/LSE_XTA_2008.pdf,971666920,https://www.annualreports.com/HostedData/AnnualReportArchive/x/LSE_XTA_2008.pdf,34494175660,https://www.annualreports.com/HostedData/AnnualReportArchive/x/LSE_XTA_2008.pdf,,,"Entity-history audit: company 04345939 was Xstrata plc from 18 February 2002 until 7 May 2013. Year-end price is the issuer-reported LSE closing price in GBP converted to pence (×100). Shares are issued, called-up and fully paid ordinary shares at 31 December, not the treasury-adjusted/weighted-average EPS share count. Market cap computed as year-end price (pence)/100 × issued ordinary shares."
+04345939,2008,640,https://www.annualreports.com/HostedData/AnnualReportArchive/x/LSE_XTA_2008.pdf,977670540,https://www.annualreports.com/HostedData/AnnualReportArchive/x/LSE_XTA_2008.pdf,6257091456,https://www.annualreports.com/HostedData/AnnualReportArchive/x/LSE_XTA_2008.pdf,,,"Entity-history audit: company 04345939 was Xstrata plc from 18 February 2002 until 7 May 2013. Year-end price is the issuer-reported LSE closing price in GBP converted to pence (×100). Shares are issued, called-up and fully paid ordinary shares at 31 December, not the treasury-adjusted/weighted-average EPS share count. Market cap computed as year-end price (pence)/100 × issued ordinary shares."
+04345939,2009,1121,https://www.annualreports.com/HostedData/AnnualReportArchive/x/LSE_XTA_2009.pdf,2939011620,https://www.annualreports.com/HostedData/AnnualReportArchive/x/LSE_XTA_2009.pdf,32946320260.2,https://www.annualreports.com/HostedData/AnnualReportArchive/x/LSE_XTA_2009.pdf,,,"Entity-history audit: company 04345939 was Xstrata plc from 18 February 2002 until 7 May 2013. Year-end price is the issuer-reported LSE closing price in GBP converted to pence (×100). Shares are issued, called-up and fully paid ordinary shares at 31 December, not the treasury-adjusted/weighted-average EPS share count. Market cap computed as year-end price (pence)/100 × issued ordinary shares."
+04345939,2010,1506,https://www.annualreports.com/HostedData/AnnualReportArchive/x/LSE_XTA_2010.pdf,2964692076,https://www.annualreports.com/HostedData/AnnualReportArchive/x/LSE_XTA_2010.pdf,44648262664.56,https://www.annualreports.com/HostedData/AnnualReportArchive/x/LSE_XTA_2010.pdf,,,"Entity-history audit: company 04345939 was Xstrata plc from 18 February 2002 until 7 May 2013. Year-end price is the issuer-reported LSE closing price in GBP converted to pence (×100). Shares are issued, called-up and fully paid ordinary shares at 31 December, not the treasury-adjusted/weighted-average EPS share count. Market cap computed as year-end price (pence)/100 × issued ordinary shares."
+04345939,2011,978,https://www.annualreports.com/HostedData/AnnualReportArchive/x/LSE_XTA_2011.pdf,2964692076,https://www.annualreports.com/HostedData/AnnualReportArchive/x/LSE_XTA_2011.pdf,28994688503.28,https://www.annualreports.com/HostedData/AnnualReportArchive/x/LSE_XTA_2011.pdf,,,"Entity-history audit: company 04345939 was Xstrata plc from 18 February 2002 until 7 May 2013. Year-end price is the issuer-reported LSE closing price in GBP converted to pence (×100). Shares are issued, called-up and fully paid ordinary shares at 31 December, not the treasury-adjusted/weighted-average EPS share count. Market cap computed as year-end price (pence)/100 × issued ordinary shares."
+04345939,2012,1059,https://data.fca.org.uk/artefacts/NSM/data-migration/51398501.pdf,3002692076,https://data.fca.org.uk/artefacts/NSM/data-migration/51398501.pdf,31798509084.84,https://data.fca.org.uk/artefacts/NSM/data-migration/51398501.pdf,,,"Entity-history audit: company 04345939 was Xstrata plc from 18 February 2002 until 7 May 2013. Year-end price is the issuer-reported LSE closing price in GBP converted to pence (×100). Shares are issued, called-up and fully paid ordinary shares at 31 December, not the treasury-adjusted/weighted-average EPS share count. Market cap computed as year-end price (pence)/100 × issued ordinary shares."
+04452715,2006,,,,,,,,,
+04740415,2006,,,,,,,,,
+04740415,2007,,,,,,,,,
+04740415,2008,,,,,,,,,
+04740415,2009,,,,,,,,,
+04740415,2010,,,,,,,,,
+04740415,2011,,,,,,,,,
+04740415,2012,,,,,,,,,
+04886115,2008,,,,,,,,,
+04886115,2009,,,,,,,,,
+04886115,2010,,,,,,,,,
+04886115,2015,,,,,,,,,
+04992207,2007,244.75,https://www.g4s.com/-/media/g4s/global/indexed-files/files/annual-reports/ara_2007.pdf,1280710738,https://www.g4s.com/-/media/g4s/global/indexed-files/files/annual-reports/ara_2007.pdf,3134539531.2550,https://www.g4s.com/-/media/g4s/global/indexed-files/files/annual-reports/ara_2007.pdf,4.96,https://www.g4s.com/-/media/g4s/global/indexed-files/files/annual-reports/ara_2007.pdf,"G4S plc entity/year audit: annual report for year ended 31 December 2007 inspected. shares_outstanding uses gross ordinary shares actually in issue at 31 December (1280710738); employee benefit trust/own-share accounting is not subtracted because the requested metric is issued ordinary shares, not the treasury-adjusted EPS denominator. Year-end/final-trading-day ordinary-share price verified as 244.75p; market cap computed as price_pence/100 × issued ordinary shares. FY2007 ordinary dividend verified as 4.96p. "
+04992207,2008,205,https://www.g4s.com/-/media/g4s/global/indexed-files/files/annual-reports/ara_2008.pdf,1408298639,https://www.g4s.com/-/media/g4s/global/indexed-files/files/annual-reports/ara_2008.pdf,2887012209.95,https://www.g4s.com/-/media/g4s/global/indexed-files/files/annual-reports/ara_2008.pdf,6.43,https://www.g4s.com/-/media/g4s/global/indexed-files/files/annual-reports/ara_2008.pdf,"G4S plc entity/year audit: annual report for year ended 31 December 2008 inspected. shares_outstanding uses gross ordinary shares actually in issue at 31 December (1408298639); employee benefit trust/own-share accounting is not subtracted because the requested metric is issued ordinary shares, not the treasury-adjusted EPS denominator. Year-end/final-trading-day ordinary-share price verified as 205p; market cap computed as price_pence/100 × issued ordinary shares. FY2008 ordinary dividend verified as 6.43p. "
+04992207,2009,260.6,https://www.stockomendation.com/companies/gfs-g4s/historical-data?page=15,1410518639,https://www.g4s.com/-/media/g4s/global/indexed-files/files/annual-reports/ara_2009.pdf,3675811573.234,https://www.stockomendation.com/companies/gfs-g4s/historical-data?page=15,7.18,https://www.g4s.com/-/media/g4s/global/indexed-files/files/annual-reports/ara_2009.pdf,"G4S plc entity/year audit: annual report for year ended 31 December 2009 inspected. shares_outstanding uses gross ordinary shares actually in issue at 31 December (1410518639); employee benefit trust/own-share accounting is not subtracted because the requested metric is issued ordinary shares, not the treasury-adjusted EPS denominator. No sufficiently strong exact final-trading-day price was verified in this pass, so price and market cap remain blank. FY2009 ordinary dividend verified as 7.18p. Exact 31 December 2009 closing price verified from historical daily-price data after confirming G4S entity/ticker/date; used only after issuer identity and fiscal year-end basis were already established. G4S FY2009 Market cap computed as 260.6p/100 × 1410518639 issued ordinary shares = £3675811573.234."
+04992207,2010,254.6,https://www.stockomendation.com/companies/gfs-g4s/historical-data?page=14,1410618639,https://www.g4s.com/-/media/g4s/global/indexed-files/files/annual-reports/ar-2010-and-csr-2010/ara_2010.pdf,3591435054.894,https://www.stockomendation.com/companies/gfs-g4s/historical-data?page=14,7.90,https://www.g4s.com/-/media/g4s/global/indexed-files/files/annual-reports/ar-2010-and-csr-2010/ara_2010.pdf,"G4S plc entity/year audit: annual report for year ended 31 December 2010 inspected. shares_outstanding uses gross ordinary shares actually in issue at 31 December (1410618639); employee benefit trust/own-share accounting is not subtracted because the requested metric is issued ordinary shares, not the treasury-adjusted EPS denominator. No sufficiently strong exact final-trading-day price was verified in this pass, so price and market cap remain blank. FY2010 ordinary dividend verified as 7.90p. Exact 31 December 2010 closing price verified from historical daily-price data after confirming G4S entity/ticker/date; used only after issuer identity and fiscal year-end basis were already established. G4S FY2010 Market cap computed as 254.6p/100 × 1410618639 issued ordinary shares = £3591435054.894."
+04992207,2011,271.8,https://www.g4s.com/-/media/g4s/global/indexed-files/files/annual-reports/ara_2011.pdf,1410668639,https://www.g4s.com/-/media/g4s/global/indexed-files/files/annual-reports/ara_2011.pdf,3834197360.802,https://www.g4s.com/-/media/g4s/global/indexed-files/files/annual-reports/ara_2011.pdf,8.53,https://www.g4s.com/-/media/g4s/global/indexed-files/files/annual-reports/ara_2011.pdf,"G4S plc entity/year audit: annual report for year ended 31 December 2011 inspected. shares_outstanding uses gross ordinary shares actually in issue at 31 December (1410668639); employee benefit trust/own-share accounting is not subtracted because the requested metric is issued ordinary shares, not the treasury-adjusted EPS denominator. Year-end/final-trading-day ordinary-share price verified as 271.8p; market cap computed as price_pence/100 × issued ordinary shares. FY2011 ordinary dividend verified as 8.53p. "
+04992207,2012,256.5,https://www.annualreports.com/HostedData/AnnualReportArchive/g/LSE_GFS_2012.pdf,1410668639,https://www.annualreports.com/HostedData/AnnualReportArchive/g/LSE_GFS_2012.pdf,3618365059.035,https://www.annualreports.com/HostedData/AnnualReportArchive/g/LSE_GFS_2012.pdf,8.96,https://www.annualreports.com/HostedData/AnnualReportArchive/g/LSE_GFS_2012.pdf,"G4S plc entity/year audit: annual report for year ended 31 December 2012 inspected. shares_outstanding uses gross ordinary shares actually in issue at 31 December (1410668639); employee benefit trust/own-share accounting is not subtracted because the requested metric is issued ordinary shares, not the treasury-adjusted EPS denominator. Year-end/final-trading-day ordinary-share price verified as 256.5p; market cap computed as price_pence/100 × issued ordinary shares. FY2012 ordinary dividend verified as 8.96p. "
+04992207,2013,262.5,https://www.g4s.com/-/media/g4s/global/indexed-files/files/annual-reports/ar-2013-extracts/ara_2013.pdf,1551594436,https://www.g4s.com/-/media/g4s/global/indexed-files/files/annual-reports/ar-2013-extracts/ara_2013.pdf,4072935394.500,https://www.g4s.com/-/media/g4s/global/indexed-files/files/annual-reports/ar-2013-extracts/ara_2013.pdf,8.96,https://www.g4s.com/-/media/g4s/global/indexed-files/files/annual-reports/ar-2013-extracts/ara_2013.pdf,"G4S plc entity/year audit: annual report for year ended 31 December 2013 inspected. shares_outstanding uses gross ordinary shares actually in issue at 31 December (1551594436); employee benefit trust/own-share accounting is not subtracted because the requested metric is issued ordinary shares, not the treasury-adjusted EPS denominator. Year-end/final-trading-day ordinary-share price verified as 262.5p; market cap computed as price_pence/100 × issued ordinary shares. FY2013 ordinary dividend verified as 8.96p. The 2013 capital basis reflects the 2013 placing that increased issued shares. "
+04992207,2014,277.9,https://www.g4s.com/-/media/g4s/global/indexed-files/files/annual-reports/ar-2014/ara_2014.pdf,1551594436,https://www.g4s.com/-/media/g4s/global/indexed-files/files/annual-reports/ar-2014/ara_2014.pdf,4311880937.644,https://www.g4s.com/-/media/g4s/global/indexed-files/files/annual-reports/ar-2014/ara_2014.pdf,9.24,https://www.g4s.com/-/media/g4s/global/indexed-files/files/annual-reports/ar-2014/ara_2014.pdf,"G4S plc entity/year audit: annual report for year ended 31 December 2014 inspected. shares_outstanding uses gross ordinary shares actually in issue at 31 December (1551594436); employee benefit trust/own-share accounting is not subtracted because the requested metric is issued ordinary shares, not the treasury-adjusted EPS denominator. Year-end/final-trading-day ordinary-share price verified as 277.9p; market cap computed as price_pence/100 × issued ordinary shares. FY2014 ordinary dividend verified as 9.24p. "
+05186841,2001,,,,,,,,,
+05186841,2005,,,,,,,,,
+05186841,2006,,,,,,,,,
+05186841,2007,,,,,,,,,
+05186841,2008,,,,,,,,,
+05186841,2009,,,,,,,,,
+05186841,2010,,,,,,,,,
+05186841,2011,,,,,,,,,
+05757208,2001,,,,,,,,,
+05757208,2002,,,,,,,,,
+05757208,2003,,,,,,,,,
+05757208,2004,,,,,,,,,
+05757208,2005,,,,,,,,,
+05863533,2006,,,,,,,,,
+05863533,2007,,,,,,,,,
+05863533,2008,,,,,,,,,
+05863533,2009,,,,,,,14.7,https://www.annualreports.co.uk/HostedData/AnnualReportArchive/h/LSE_HOME_2009.pdf,Home Retail Group plc 2009 annual report: FY2009 total ordinary dividend 14.7p. February fiscal balance-sheet date is not substituted for 31 December shares.
+06023510,2008,,,,,,,,,
+06023510,2009,,,,,,,,,
+06023510,2010,,,,,,,,,
+06023510,2011,,,,,,,,,
+06023510,2012,,,,,,,,,
+06072876,2007,,,,,,,,,
+06072876,2008,,,,,,,,,
+06072876,2009,,,,,,,,,
+06072876,2010,,,,,,,,,
+06072876,2012,,,,,,,,,
+06072876,2013,,,,,,,,,
+06091951,2007,,,,,,,,,
+06091951,2008,,,,,,,,,
+06091951,2009,,,,,,,,,
+06497379,2008,,,,,,,,,
+06497379,2009,,,,,,,,,
+06534088,2007,,,,,,,,,
+06722436,2008,,,,,,,,,
+06722436,2009,,,,,,,,,
+06722436,2010,,,,,,,,,
+06722436,2011,,,,,,,,,
+06722436,2012,,,,,,,,,
+06722436,2013,,,,,,,,,
+07108619,2010,,,,,,,,,
+07108619,2011,,,,,,,,,
+08577185,2006,,,,,,,,,
+08700412,2015,450,https://www.annualreports.com/HostedData/AnnualReportArchive/M/LSE_MERL_2015.pdf,,,,,6.5,https://www.merlinentertainments.biz/media/1193/annual-report-and-accounts-2015-printer-version.pdf,"Merlin Entertainments plc: audited Nykredit holdings schedule dated 31-12-2015 reports 455.5p. Issuer 2015 annual report gives FY2015 ordinary dividend 6.5p (2.1p interim + 4.4p final). Fiscal-year share count at 26 December is not substituted for 31 December shares_outstanding, so shares and market cap remain blank. FISCAL-YEAR-END AUDIT CORRECTION: prior 31-December 455.5p quote removed. Issuer 2015 annual report states a £4.50 share price as at 26 December 2015; stored as 450p for the fiscal-year-end price."
+08762327,2015,307.3,https://www.hkexnews.hk/listedco/listconews/sehk/2016/0314/ltn20160314061.pdf,2000000000,https://www.lse.co.uk/rns/WPG/final-results-njujk436qeh2gtx.html?page=10,6146000000.000,https://www.hkexnews.hk/listedco/listconews/sehk/2016/0314/ltn20160314061.pdf,0,https://www.lse.co.uk/rns/WPG/final-results-njujk436qeh2gtx.html?page=10,"Worldpay Group plc entity/capital audit: Companies House confirms 2015 PLC and October 2015 consolidation/subdivision. Issuer results explicitly state 2,000,000,000 shares in issue at end-2015. No FY2015 dividend was recommended; stored 0p is a verified genuine zero, not placeholder. db x-trackers audited Statement of Investments as at 31 December 2015 holds 56,040 Worldpay Group PLC shares with GBP market value £172,211; £172,211/56,040 = £3.073001... per share, rounded to 307.3p; non-literal derivation documented because market value is rounded to whole pounds. Worldpay Group 2015 Market cap computed as 307.3p/100 × 2000000000 issued ordinary shares = £6146000000.000."
+08815102,2003,,,,,,,,,
+08815102,2004,,,,,,,,,
+08815102,2005,,,,,,,,,
+08815102,2006,,,,,,,,,
+08815102,2007,,,,,,,,,
+09132358,2005,,,,,,,,,
+09132358,2006,,,,,,,,,
+09132358,2007,,,,,,,,,
+09132358,2008,,,,,,,,,
+09132358,2009,,,,,,,,,
+09132358,2010,,,,,,,,,
+09132358,2011,,,,,,,,,
+09132358,2012,,,,,,,,,
+09406669,2001,,,,,,,,,
+09406669,2002,,,,,,,,,
+09406669,2003,,,,,,,,,
+09496208,2007,,,,,,,,,
+09496208,2008,,,,,,,,,
+09496208,2009,,,,,,,,,
+09496208,2010,,,,,,,,,
+09496208,2011,,,,,,,,,
+09496208,2012,,,,,,,,,
+09496208,2013,,,,,,,,,
+10517727,2004,,,,,,,,,
+10517727,2005,,,,,,,,,
+10517727,2006,,,,,,,,,
+10517727,2007,,,,,,,,,
+11299879,2001,,,,,,,,,
+11299879,2010,,,,,,,,,
+11299879,2011,,,,,,,,,
+11299879,2012,,,,,,,,,
+11299879,2013,,,,,,,,,
+11299879,2014,,,,,,,,,
+11299879,2015,,,,,,,,,
+11606773,2006,,,,,,,,,
+11606773,2007,,,,,,,,,
+11606773,2008,,,,,,,,,
+11606773,2009,,,,,,,,,
+11606773,2010,,,,,,,,,
+11606773,2011,,,,,,,,,
+11606773,2012,,,,,,,,,
+11606773,2013,,,,,,,,,
+11606773,2014,,,,,,,,,
+11606773,2015,,,,,,,,,
+12620781,2001,,,,,,,,,
+12620781,2002,,,,,,,,,
+12620781,2003,,,,,,,,,
+12620781,2004,,,,,,,,,
+12664251,2002,,,,,,,,,
+12664251,2003,,,,,,,,,
+14236527,2002,,,,,,,,,
+14236527,2003,,,,,,,,,
+14236527,2004,,,,,,,,,
+14236527,2005,,,,,,,,,
+14236527,2006,,,,,,,,,
+14236527,2007,,,,,,,,,
+14236527,2008,,,,,,,,,
+14236527,2009,,,,,,,,,
+14240638,2013,,,,,,,,,
+14240638,2014,,,,,,,,,
+14240638,2015,,,,,,,,,
+14696069,2002,,,,,,,,,
+14696069,2003,,,,,,,,,
+14696069,2004,,,,,,,,,
+15998687,2014,,,,,,,,,
+15998687,2015,,,,,,,,,
+16051356,2009,,,,,,,,,
+16051356,2010,,,,,,,,,
+16051356,2011,,,,,,,,,
+16051356,2012,,,,,,,,,
+16051356,2013,,,,,,,,,
+16133984,2012,,,,,,,,,
+16133984,2013,,,,,,,,,
+16133984,2014,,,,,,,,,
+16133984,2015,,,,,,,,,
+16351760,2001,,,,,,,,,
+16351760,2002,,,,,,,,,
+16351760,2003,,,,,,,,,
+16351760,2004,,,,,,,,,
+16351760,2005,,,,,,,,,
+16351760,2006,,,,,,,,,
+RC000404,2005,,,,,,,,,
+SC001731,2008,,,,,,,,,
+SC001731,2009,,,,,,,,,
+SC001731,2010,,,,,,,,,
+SC117120,2001,,,,,,,,,
+SC117120,2002,,,,,,,,,
+SC117120,2003,,,,,,,,,
+SC117120,2004,,,,,,,,,
+SC117120,2005,,,,,,,,,
+SC117120,2006,,,,,,,,,
+SC177553,2009,,,273473338,https://www.annualreports.com/HostedData/AnnualReportArchive/a/LSE_AGK_2009.pdf,,,12.60,https://www.annualreports.com/HostedData/AnnualReportArchive/a/LSE_AGK_2009.pdf,"Aggreko plc entity/capital audit: annual report for year ended 31 December 2009 inspected. Exact ordinary shares in issue at 31 December: 273473338; FY2009 ordinary dividend: 12.60p. Exact final-trading-day ordinary-share price was not independently established strongly enough, so price and market cap remain blank."
+SC177553,2010,,,274318271,https://www.annualreports.co.uk/HostedData/AnnualReportArchive/a/LSE_AGK_2010.pdf,,,18.90,https://www.annualreports.co.uk/HostedData/AnnualReportArchive/a/LSE_AGK_2010.pdf,"Aggreko plc entity/capital audit: annual report for year ended 31 December 2010 inspected. Exact ordinary shares in issue at 31 December: 274318271; FY2010 ordinary dividend: 18.90p. Exact final-trading-day ordinary-share price was not independently established strongly enough, so price and market cap remain blank."
+SC177553,2011,2017,https://www.nykreditinvest.dk/siteassets/pdfer/fonds-rapporter/arsrapporter/nykredit-invest/aarsrapport_2012_investeringsforeningen_nykredit_invest_inkl_beholdningslister.pdf,266719246,https://www.annualreports.com/HostedData/AnnualReportArchive/a/LSE_AGK_2011.pdf,5379727191.82,https://www.nykreditinvest.dk/siteassets/pdfer/fonds-rapporter/arsrapporter/nykredit-invest/aarsrapport_2012_investeringsforeningen_nykredit_invest_inkl_beholdningslister.pdf,20.79,https://www.annualreports.com/HostedData/AnnualReportArchive/a/LSE_AGK_2011.pdf,"Aggreko plc entity/capital audit: annual report for year ended 31 December 2011 inspected. Exact ordinary shares in issue at 31 December: 266719246; FY2011 ordinary dividend: 20.79p. 2011 return-of-capital/share-capital reorganisation audited; the annual report post-consolidation 31 December ordinary-share count is used. Exact final-trading-day ordinary-share price was not independently established strongly enough, so price and market cap remain blank. Audited Nykredit holdings schedule explicitly dated 31-12-2011 reports Aggreko PLC at 2017p. Existing shares value is the exact 31 December issued ordinary-share count from issuer report. Aggreko Market cap computed as 2017p/100 × 266719246 issued ordinary shares = £5379727191.82."
+SC177553,2012,1740,https://www.nykreditinvest.dk/siteassets/pdfer/fonds-rapporter/arsrapporter/nykredit-invest/aarsrapport_2012_investeringsforeningen_nykredit_invest_inkl_beholdningslister.pdf,268366083,https://www.annualreports.com/HostedData/AnnualReportArchive/a/LSE_AGK_2012.pdf,4669569844.2,https://www.nykreditinvest.dk/siteassets/pdfer/fonds-rapporter/arsrapporter/nykredit-invest/aarsrapport_2012_investeringsforeningen_nykredit_invest_inkl_beholdningslister.pdf,23.91,https://www.annualreports.com/HostedData/AnnualReportArchive/a/LSE_AGK_2012.pdf,"Aggreko plc entity/capital audit: annual report for year ended 31 December 2012 inspected. Exact ordinary shares in issue at 31 December: 268366083; FY2012 ordinary dividend: 23.91p. Exact final-trading-day ordinary-share price was not independently established strongly enough, so price and market cap remain blank. Audited Nykredit holdings schedule explicitly dated 31-12-2012 reports Aggreko PLC at 1740p. Existing shares value is the exact 31 December issued ordinary-share count from issuer report. Aggreko Market cap computed as 1740p/100 × 268366083 issued ordinary shares = £4669569844.2."
+SC177553,2013,1709,https://seg-social.pt/documents/10152/438902/Rel_Ativ_Contas_FEFSS_2013/39f5aed0-9f86-41bf-8b0f-0a400c0ac313/39f5aed0-9f86-41bf-8b0f-0a400c0ac313,269029545,https://www.annualreports.com/HostedData/AnnualReportArchive/a/LSE_AGK_2013.pdf,4597714924.05,https://seg-social.pt/documents/10152/438902/Rel_Ativ_Contas_FEFSS_2013/39f5aed0-9f86-41bf-8b0f-0a400c0ac313/39f5aed0-9f86-41bf-8b0f-0a400c0ac313,26.30,https://www.annualreports.com/HostedData/AnnualReportArchive/a/LSE_AGK_2013.pdf,"Aggreko plc entity/capital audit: annual report for year ended 31 December 2013 inspected. Exact ordinary shares in issue at 31 December: 269029545; FY2013 ordinary dividend: 26.30p. Exact final-trading-day ordinary-share price was not independently established strongly enough, so price and market cap remain blank. Exact 31-12-2013 closing quote independently verified at GBP17.09 (1709p) in an audited public fund holdings schedule identifying Aggreko PLC. Aggreko FY2013 Market cap computed as 1709p/100 × 269029545 issued ordinary shares = £4597714924.05."
+SC177553,2014,1504,https://www.nykreditinvest.dk/siteassets/pdfer/fonds-rapporter/arsrapporter/nykredit-invest/aarsrapport_2014_investeringsforeningen_nykredit_invest.pdf,256118395,https://www.annualreports.com/HostedData/AnnualReportArchive/a/LSE_AGK_2014.pdf,3852020660.80,https://www.nykreditinvest.dk/siteassets/pdfer/fonds-rapporter/arsrapporter/nykredit-invest/aarsrapport_2014_investeringsforeningen_nykredit_invest.pdf,27.12,https://www.annualreports.com/HostedData/AnnualReportArchive/a/LSE_AGK_2014.pdf,"Aggreko plc entity/capital audit: annual report for year ended 31 December 2014 inspected. Exact ordinary shares in issue at 31 December: 256118395; FY2014 ordinary dividend: 27.12p. 2014 included a return of capital and 79-for-83 ordinary-share consolidation; the post-reorganisation ordinary-share count is used. B shares/deferred shares are excluded and the 75p B-share capital return is not an ordinary FY dividend. Exact final-trading-day ordinary-share price was not independently established strongly enough, so price and market cap remain blank. Audited Nykredit holdings schedule explicitly dated 31-12-2014 reports Aggreko PLC at 1504p. Existing shares value is the exact 31 December issued ordinary-share count from issuer report. 2014 capital basis is post return-of-capital and 79-for-83 ordinary-share consolidation; B shares/deferred shares are not mixed into the quoted ordinary-share basis. Aggreko Market cap computed as 1504p/100 × 256118395 issued ordinary shares = £3852020660.80."
+SC218813,2001,,,,,,,,,
+SC218813,2002,,,,,,,,,
+SC218813,2003,,,,,,,,,
+SC218813,2004,,,,,,,,,
+SC218813,2005,,,,,,,,,
+SC218813,2006,,,,,,,,,
+SC218813,2007,,,,,,,,,
+SC218813,2008,,,,,,,,,
+SC270184,2007,,,,,,,,,
+SC270184,2008,,,,,,,,,
+,2001,,,,,,,,,
+,2002,,,,,,,,,
+,2003,,,,,,,,,
+,2004,,,,,,,,,
+,2005,,,,,,,,,
+,2006,,,,,,,,,
+,2007,,,,,,,,,
+,2008,,,,,,,,,
+,2009,,,,,,,,,
+,2010,,,,,,,,,
+,2011,,,,,,,,,
+,2012,,,,,,,,,
+,2013,,,,,,,,,
+,2014,,,,,,,,,
+,2015,,,,,,,,,
