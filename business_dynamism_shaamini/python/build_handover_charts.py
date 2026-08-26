@@ -129,32 +129,6 @@ def main() -> int:
     a2.set_title("Insolvencies per year", loc="left", fontsize=10, color=INK)
     save(fig, "population_pulse.png")
 
-    # ── 4. Where the birth and death record still needs the extraction ───────
-    total = q("select count(*) from firm_master")[0][0]
-    registry = q("select count(*) from firm_master where birth_source = 'registry'")[0][0]
-    estimated = total - registry
-    dated = q("select count(*) from firm_master where death_date is not null")[0][0]
-    live = q('''select count(*) from firm_master f join companies c
-                on c."CompanyNumber" = f.company_number''')[0][0]
-    unknown = total - dated - live
-    fig, (a1, a2) = plt.subplots(1, 2, figsize=(7.8, 2.5))
-    a1.barh(["Estimated from\ncompany number", "Real registry date"],
-            [estimated, registry], color=[AMBER, NAVY], height=0.6)
-    a1.set_title("Birth dates", loc="left", fontsize=10, color=INK)
-    a2.barh(["Fate unknown", "On the live register", "Dated exit"],
-            [unknown, live, dated], color=[RED, NAVY, TEAL], height=0.6)
-    a2.set_title("Death record", loc="left", fontsize=10, color=INK)
-    for ax in (a1, a2):
-        ax.grid(axis="x")
-        ax.set_axisbelow(True)
-        for side in ("top", "right", "left"):
-            ax.spines[side].set_visible(False)
-        ax.xaxis.set_major_formatter(FuncFormatter(lambda v, _: f"{v/1e6:.0f}M" if v else "0"))
-        ax.tick_params(axis="y", length=0)
-    save(fig, "record_completeness.png")
-
-    print(f"\n  birth dates: {registry:,} sourced / {estimated:,} estimated")
-    print(f"  death record: {dated:,} dated · {live:,} live · {unknown:,} unknown fate")
     return 0
 
 

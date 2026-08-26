@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""build_handover_doc.py — render HANDOVER.md as HANDOVER.docx.
+"""build_handover_doc.py — render newhandover.md as newhandover.docx.
 
 The markdown file is the single source of truth; this produces the Word version
 for circulation. Run after editing the handover or redrawing its charts:
@@ -23,8 +23,8 @@ from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.shared import Inches, Pt, RGBColor
 
 REPO = Path(__file__).resolve().parent.parent
-SRC = REPO / "HANDOVER.md"
-DEST = REPO / "HANDOVER.docx"
+SRC = REPO / "newhandover.md"
+DEST = REPO / "newhandover.docx"
 
 INK = RGBColor(0x1A, 0x1C, 0x22)
 MUT = RGBColor(0x5C, 0x62, 0x70)
