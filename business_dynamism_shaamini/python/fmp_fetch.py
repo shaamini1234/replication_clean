@@ -19,6 +19,7 @@ Note: FMP's free tier is often US-only. If FTSE (.L) rows come back empty, that'
 a plan limit, not a bug — the per-ticker log will show it plainly.
 """
 import os, sys, time, requests, psycopg2, psycopg2.extras
+from _neon import PASSWORD as _NEON_PASSWORD
 
 KEY = os.environ.get("FMP_KEY", "PASTE_KEYHERE")
 if KEY == "PASTE_KEYHERE":
@@ -27,7 +28,7 @@ BASE = "https://financialmodelingprep.com/api/v3"
 DO_SP = "--sp500" in sys.argv
 
 PG = dict(host="ep-nameless-fire-atkh5lxj.c-9.us-east-1.aws.neon.tech", dbname="neondb",
-          user="neondb_owner", password="npg_q1uDNWofte0n", sslmode="require", connect_timeout=25)
+          user="neondb_owner", password=_NEON_PASSWORD, sslmode="require", connect_timeout=25)
 
 def get(path, **q):
     q["apikey"] = KEY

@@ -23,6 +23,7 @@ Run (validate on 3 first, then full):
 import sys, time, itertools, requests, psycopg2, psycopg2.extras
 from pathlib import Path
 from lxml import etree
+from _neon import PASSWORD as _NEON_PASSWORD
 
 KEYS = [k.strip() for k in (Path.home()/"ch_api_keys.txt").read_text().splitlines() if k.strip()]
 if not KEYS:
@@ -32,7 +33,7 @@ PER_REQ = 0.55 / len(KEYS)          # keep each key under 600 req / 5 min
 
 FH   = "https://api.company-information.service.gov.uk/company/{}/filing-history"
 PG = dict(host="ep-nameless-fire-atkh5lxj.c-9.us-east-1.aws.neon.tech", dbname="neondb",
-          user="neondb_owner", password="npg_q1uDNWofte0n", sslmode="require", connect_timeout=25)
+          user="neondb_owner", password=_NEON_PASSWORD, sslmode="require", connect_timeout=25)
 
 LIMIT = None
 if "--limit" in sys.argv:

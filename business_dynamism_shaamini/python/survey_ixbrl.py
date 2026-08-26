@@ -4,11 +4,12 @@ filing and record which document formats CH actually offers (iXBRL vs PDF-only).
 Tells us how many firms this route can ever cover before we commit to it."""
 import time, itertools, requests, psycopg2
 from pathlib import Path
+from _neon import PASSWORD as _NEON_PASSWORD
 
 KEYS = [k.strip() for k in (Path.home()/"ch_api_keys.txt").read_text().splitlines() if k.strip()]
 keycycle = itertools.cycle(KEYS); PER = 0.55/len(KEYS)
 PG = dict(host="ep-nameless-fire-atkh5lxj.c-9.us-east-1.aws.neon.tech", dbname="neondb",
-          user="neondb_owner", password="npg_q1uDNWofte0n", sslmode="require", connect_timeout=25)
+          user="neondb_owner", password=_NEON_PASSWORD, sslmode="require", connect_timeout=25)
 
 def get(url, **q):
     time.sleep(PER)

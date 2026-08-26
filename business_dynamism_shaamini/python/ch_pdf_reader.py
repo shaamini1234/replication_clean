@@ -35,6 +35,7 @@ Run:
 """
 import sys, os, re, io, time, csv, itertools, requests, psycopg2
 from pathlib import Path
+from _neon import PASSWORD as _NEON_PASSWORD
 
 # ---------------- config ----------------
 KEYS = [k.strip() for k in (Path.home()/"ch_api_keys.txt").read_text().splitlines() if k.strip()]
@@ -42,7 +43,7 @@ if not KEYS:
     sys.exit("no keys in ~/ch_api_keys.txt")
 keycycle = itertools.cycle(KEYS); PER = 0.55/len(KEYS)
 PG = dict(host="ep-nameless-fire-atkh5lxj.c-9.us-east-1.aws.neon.tech", dbname="neondb",
-          user="neondb_owner", password="npg_q1uDNWofte0n", sslmode="require", connect_timeout=25)
+          user="neondb_owner", password=_NEON_PASSWORD, sslmode="require", connect_timeout=25)
 ARG = sys.argv
 def argval(flag, default):
     return ARG[ARG.index(flag)+1] if flag in ARG else default

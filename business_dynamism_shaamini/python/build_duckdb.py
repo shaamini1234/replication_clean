@@ -8,7 +8,7 @@ import os, sys, duckdb, datetime
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PARQUET = os.path.join(BASE, "output", "v1_20260819")
 DBFILE  = os.environ.get("BD_DUCKDB") or os.path.join(BASE, "database", "business_dynamism.duckdb")
-NEON = "postgresql://neondb_owner:npg_q1uDNWofte0n@ep-nameless-fire-atkh5lxj.c-9.us-east-1.aws.neon.tech/neondb?sslmode=require"
+from _neon import NEON_URL as NEON
 stage = sys.argv[1]
 
 def pq(con, t):

@@ -20,7 +20,7 @@ Coverage reality: SEC XBRL shares exist ~2009+, so this fills 2009+ strongly. Pr
 shares/market cap come from the separately-committed audited file (SP500_marketdata_filled*).
 """
 import os, sys, time, io, csv, requests, psycopg2, psycopg2.extras
-NEON="postgresql://neondb_owner:npg_q1uDNWofte0n@ep-nameless-fire-atkh5lxj.c-9.us-east-1.aws.neon.tech/neondb?sslmode=require"
+from _neon import NEON_URL as NEON
 UA={"User-Agent":"BritishProgress-Research research@britishprogress.org"}
 LIMIT=int(sys.argv[sys.argv.index("--limit")+1]) if "--limit" in sys.argv else None
 

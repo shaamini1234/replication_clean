@@ -22,9 +22,7 @@ import psycopg2
 import psycopg2.extras
 import requests
 
-NEON = ("postgresql://neondb_owner:npg_q1uDNWofte0n"
-        "@ep-nameless-fire-atkh5lxj.c-9.us-east-1.aws.neon.tech"
-        "/neondb?sslmode=require")
+from _neon import NEON_URL as NEON
 KEYS_FILE = Path.home() / "ch_api_keys.txt"
 API       = "https://api.company-information.service.gov.uk/company/{}"
 LOG_DIR   = Path.home() / "ch_extract"

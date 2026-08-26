@@ -11,6 +11,9 @@ database/*.wal
 #    python/fetch_ons_geography.py — ~235 MB zip + boundaries) ──
 source_inputs/ons/
 
+# ── Secrets: the Neon credential lives here, never in git ──
+.env
+
 # ── Python ──
 __pycache__/
 *.py[cod]

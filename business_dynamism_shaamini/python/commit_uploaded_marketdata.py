@@ -20,7 +20,7 @@ Verified 2026-08-24:
                  dates as founding. Nothing to do here for founding.
 """
 import glob, os, sys, pandas as pd, numpy as np, psycopg2, psycopg2.extras
-NEON="postgresql://neondb_owner:npg_q1uDNWofte0n@ep-nameless-fire-atkh5lxj.c-9.us-east-1.aws.neon.tech/neondb?sslmode=require"
+from _neon import NEON_URL as NEON
 HERE=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 def num(x):
     v=pd.to_numeric(x,errors="coerce"); return None if pd.isna(v) else (int(v) if float(v).is_integer() else float(v))

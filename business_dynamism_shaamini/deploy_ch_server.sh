@@ -13,6 +13,10 @@
 #        journalctl -u chextract -f
 # It's resumable — skips the ~354k already done and continues the Neon queue.
 # ============================================================================
+# The Neon credential is read from .env at the repo root (gitignored) and
+# passed to the VM service; it is no longer written into this file.
+[ -f "$(dirname "$0")/.env" ] && { set -a; . "$(dirname "$0")/.env"; set +a; }
+: "${NEON_URL:?set NEON_URL in .env — see .env.example}"
 set -euo pipefail
 USER_NAME="$(whoami)"
 HOME_DIR="$HOME"
@@ -45,6 +49,7 @@ Resumable (skips done), crash-resilient (systemd restart), rate-limit aware.
 Keys in ~/ch_api_keys.txt (one per line).
 """
 import logging
+import os
 import logging.handlers
 import queue
 import threading
@@ -55,9 +60,7 @@ import psycopg2
 import psycopg2.extras
 import requests
 
-NEON = ("postgresql://neondb_owner:npg_q1uDNWofte0n"
-        "@ep-nameless-fire-atkh5lxj.c-9.us-east-1.aws.neon.tech"
-        "/neondb?sslmode=require")
+NEON = os.environ["NEON_URL"]
 KEYS_FILE = Path.home() / "ch_api_keys.txt"
 API       = "https://api.company-information.service.gov.uk/company/{}"
 LOG_DIR   = Path.home() / "ch_extract"

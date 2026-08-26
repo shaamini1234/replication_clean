@@ -21,7 +21,9 @@ set -euo pipefail
 cd "$(dirname "$0")"
 
 # ---------------- CONFIG (edit here as the project grows) -------------------
-NEON="postgresql://neondb_owner:npg_q1uDNWofte0n@ep-nameless-fire-atkh5lxj.c-9.us-east-1.aws.neon.tech/neondb?sslmode=require"
+# Neon credential comes from .env at the repo root (gitignored), not from this file.
+[ -f "$(dirname "$0")/.env" ] && { set -a; . "$(dirname "$0")/.env"; set +a; }
+NEON="${NEON_URL:?set NEON_URL in .env — see .env.example}"
 LOCAL_DB="business_dynamism"
 
 # Neon tables to bring down to local. Add new crawl/API tables here as you make
