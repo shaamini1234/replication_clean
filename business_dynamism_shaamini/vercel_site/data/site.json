@@ -1,0 +1,4515 @@
+{
+ "charts": {
+  "c_age": {
+   "data": {
+    "datasets": [
+     {
+      "backgroundColor": "#c8860a",
+      "barPercentage": 1,
+      "borderRadius": 2,
+      "categoryPercentage": 1,
+      "data": [
+       1820,
+       20054,
+       37673,
+       42923,
+       40523,
+       37261,
+       32186,
+       27155,
+       22747,
+       19088,
+       15861,
+       13147,
+       11151,
+       9393,
+       7996,
+       6784,
+       5880,
+       4996,
+       4423,
+       3859,
+       3493,
+       3145,
+       2986,
+       2541,
+       2301,
+       2010,
+       2410,
+       2190,
+       1625,
+       1408,
+       1384,
+       1339,
+       1252,
+       1130,
+       1129,
+       871,
+       764,
+       852,
+       1013,
+       1098,
+       839,
+       594,
+       558,
+       518,
+       559,
+       712,
+       644,
+       717,
+       535,
+       430,
+       470,
+       455,
+       591,
+       683,
+       596,
+       461,
+       482,
+       444,
+       951,
+       799,
+       1059
+      ],
+      "tips": [
+       "1,820 firms",
+       "20,054 firms",
+       "37,673 firms",
+       "42,923 firms",
+       "40,523 firms",
+       "37,261 firms",
+       "32,186 firms",
+       "27,155 firms",
+       "22,747 firms",
+       "19,088 firms",
+       "15,861 firms",
+       "13,147 firms",
+       "11,151 firms",
+       "9,393 firms",
+       "7,996 firms",
+       "6,784 firms",
+       "5,880 firms",
+       "4,996 firms",
+       "4,423 firms",
+       "3,859 firms",
+       "3,493 firms",
+       "3,145 firms",
+       "2,986 firms",
+       "2,541 firms",
+       "2,301 firms",
+       "2,010 firms",
+       "2,410 firms",
+       "2,190 firms",
+       "1,625 firms",
+       "1,408 firms",
+       "1,384 firms",
+       "1,339 firms",
+       "1,252 firms",
+       "1,130 firms",
+       "1,129 firms",
+       "871 firms",
+       "764 firms",
+       "852 firms",
+       "1,013 firms",
+       "1,098 firms",
+       "839 firms",
+       "594 firms",
+       "558 firms",
+       "518 firms",
+       "559 firms",
+       "712 firms",
+       "644 firms",
+       "717 firms",
+       "535 firms",
+       "430 firms",
+       "470 firms",
+       "455 firms",
+       "591 firms",
+       "683 firms",
+       "596 firms",
+       "461 firms",
+       "482 firms",
+       "444 firms",
+       "951 firms",
+       "799 firms",
+       "1,059 firms"
+      ]
+     }
+    ],
+    "labels": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12",
+     "13",
+     "14",
+     "15",
+     "16",
+     "17",
+     "18",
+     "19",
+     "20",
+     "21",
+     "22",
+     "23",
+     "24",
+     "25",
+     "26",
+     "27",
+     "28",
+     "29",
+     "30",
+     "31",
+     "32",
+     "33",
+     "34",
+     "35",
+     "36",
+     "37",
+     "38",
+     "39",
+     "40",
+     "41",
+     "42",
+     "43",
+     "44",
+     "45",
+     "46",
+     "47",
+     "48",
+     "49",
+     "50",
+     "51",
+     "52",
+     "53",
+     "54",
+     "55",
+     "56",
+     "57",
+     "58",
+     "59",
+     "60"
+    ]
+   },
+   "options": {
+    "maintainAspectRatio": false,
+    "plugins": {
+     "legend": {
+      "display": false
+     }
+    },
+    "responsive": true,
+    "scales": {
+     "x": {
+      "grid": {
+       "display": false
+      },
+      "ticks": {
+       "maxTicksLimit": 13
+      },
+      "title": {
+       "display": true,
+       "text": "age at insolvency (years)"
+      }
+     },
+     "y": {
+      "grid": {
+       "color": "#eceae4"
+      },
+      "max": 50000,
+      "min": 0,
+      "ticks": {
+       "stepSize": 10000
+      }
+     }
+    }
+   },
+   "tickLabels": {
+    "y": {
+     "0": "0",
+     "10000": "10k",
+     "20000": "20k",
+     "30000": "30k",
+     "40000": "40k",
+     "50000": "50k"
+    }
+   },
+   "tooltipTitles": [
+    "Age 0",
+    "Age 1",
+    "Age 2",
+    "Age 3",
+    "Age 4",
+    "Age 5",
+    "Age 6",
+    "Age 7",
+    "Age 8",
+    "Age 9",
+    "Age 10",
+    "Age 11",
+    "Age 12",
+    "Age 13",
+    "Age 14",
+    "Age 15",
+    "Age 16",
+    "Age 17",
+    "Age 18",
+    "Age 19",
+    "Age 20",
+    "Age 21",
+    "Age 22",
+    "Age 23",
+    "Age 24",
+    "Age 25",
+    "Age 26",
+    "Age 27",
+    "Age 28",
+    "Age 29",
+    "Age 30",
+    "Age 31",
+    "Age 32",
+    "Age 33",
+    "Age 34",
+    "Age 35",
+    "Age 36",
+    "Age 37",
+    "Age 38",
+    "Age 39",
+    "Age 40",
+    "Age 41",
+    "Age 42",
+    "Age 43",
+    "Age 44",
+    "Age 45",
+    "Age 46",
+    "Age 47",
+    "Age 48",
+    "Age 49",
+    "Age 50",
+    "Age 51",
+    "Age 52",
+    "Age 53",
+    "Age 54",
+    "Age 55",
+    "Age 56",
+    "Age 57",
+    "Age 58",
+    "Age 59",
+    "Age 60"
+   ],
+   "type": "bar"
+  },
+  "c_churn": {
+   "bands": [
+    {
+     "label": "global financial crisis",
+     "x0": 6.5,
+     "x1": 8.5
+    },
+    {
+     "label": "pandemic",
+     "x0": 18.5,
+     "x1": 19.5
+    }
+   ],
+   "data": {
+    "datasets": [
+     {
+      "backgroundColor": "#c8860a",
+      "borderColor": "#c8860a",
+      "borderWidth": 2.5,
+      "data": [
+       21.0,
+       14.0,
+       9.0,
+       7.0,
+       11.0,
+       14.0,
+       18.0,
+       19.0,
+       12.0,
+       7.0,
+       10.0,
+       7.0,
+       9.0,
+       9.0,
+       7.0,
+       11.0,
+       9.0,
+       10.0,
+       8.0,
+       9.0,
+       9.0,
+       15.0,
+       10.0,
+       12.0
+      ],
+      "fill": false,
+      "label": "FTSE 100",
+      "pointRadius": 2,
+      "tension": 0.3,
+      "tips": [
+       "FTSE 100: 21 of 100 replaced, 21.0%",
+       "FTSE 100: 14 of 100 replaced, 14.0%",
+       "FTSE 100: 9 of 100 replaced, 9.0%",
+       "FTSE 100: 7 of 100 replaced, 7.0%",
+       "FTSE 100: 11 of 100 replaced, 11.0%",
+       "FTSE 100: 14 of 100 replaced, 14.0%",
+       "FTSE 100: 18 of 100 replaced, 18.0%",
+       "FTSE 100: 19 of 100 replaced, 19.0%",
+       "FTSE 100: 12 of 100 replaced, 12.0%",
+       "FTSE 100: 7 of 100 replaced, 7.0%",
+       "FTSE 100: 10 of 100 replaced, 10.0%",
+       "FTSE 100: 7 of 100 replaced, 7.0%",
+       "FTSE 100: 9 of 100 replaced, 9.0%",
+       "FTSE 100: 9 of 100 replaced, 9.0%",
+       "FTSE 100: 7 of 100 replaced, 7.0%",
+       "FTSE 100: 11 of 100 replaced, 11.0%",
+       "FTSE 100: 9 of 100 replaced, 9.0%",
+       "FTSE 100: 10 of 100 replaced, 10.0%",
+       "FTSE 100: 8 of 100 replaced, 8.0%",
+       "FTSE 100: 9 of 100 replaced, 9.0%",
+       "FTSE 100: 9 of 100 replaced, 9.0%",
+       "FTSE 100: 15 of 100 replaced, 15.0%",
+       "FTSE 100: 10 of 100 replaced, 10.0%",
+       "FTSE 100: 12 of 100 replaced, 12.0%"
+      ]
+     },
+     {
+      "backgroundColor": "#2e6fb0",
+      "borderColor": "#2e6fb0",
+      "borderWidth": 2.5,
+      "data": [
+       6.0,
+       4.2,
+       1.8,
+       3.8,
+       3.2,
+       6.4,
+       7.6,
+       7.0,
+       5.8,
+       2.8,
+       3.8,
+       3.6,
+       3.8,
+       3.2,
+       6.0,
+       6.2,
+       5.4,
+       4.8,
+       5.8,
+       4.0,
+       4.2,
+       4.4,
+       3.8,
+       4.0
+      ],
+      "fill": false,
+      "label": "S&P 500",
+      "pointRadius": 2,
+      "tension": 0.3,
+      "tips": [
+       "S&P 500: 30 of 500 replaced, 6.0%",
+       "S&P 500: 21 of 500 replaced, 4.2%",
+       "S&P 500: 9 of 500 replaced, 1.8%",
+       "S&P 500: 19 of 500 replaced, 3.8%",
+       "S&P 500: 16 of 500 replaced, 3.2%",
+       "S&P 500: 32 of 500 replaced, 6.4%",
+       "S&P 500: 38 of 500 replaced, 7.6%",
+       "S&P 500: 35 of 500 replaced, 7.0%",
+       "S&P 500: 29 of 500 replaced, 5.8%",
+       "S&P 500: 14 of 500 replaced, 2.8%",
+       "S&P 500: 19 of 500 replaced, 3.8%",
+       "S&P 500: 18 of 500 replaced, 3.6%",
+       "S&P 500: 19 of 500 replaced, 3.8%",
+       "S&P 500: 16 of 500 replaced, 3.2%",
+       "S&P 500: 30 of 500 replaced, 6.0%",
+       "S&P 500: 31 of 500 replaced, 6.2%",
+       "S&P 500: 27 of 500 replaced, 5.4%",
+       "S&P 500: 24 of 500 replaced, 4.8%",
+       "S&P 500: 29 of 500 replaced, 5.8%",
+       "S&P 500: 20 of 500 replaced, 4.0%",
+       "S&P 500: 21 of 500 replaced, 4.2%",
+       "S&P 500: 22 of 500 replaced, 4.4%",
+       "S&P 500: 19 of 500 replaced, 3.8%",
+       "S&P 500: 20 of 500 replaced, 4.0%"
+      ]
+     }
+    ],
+    "labels": [
+     "2001",
+     "2002",
+     "2003",
+     "2004",
+     "2005",
+     "2006",
+     "2007",
+     "2008",
+     "2009",
+     "2010",
+     "2011",
+     "2012",
+     "2013",
+     "2014",
+     "2015",
+     "2016",
+     "2017",
+     "2018",
+     "2019",
+     "2020",
+     "2021",
+     "2022",
+     "2023",
+     "2024"
+    ]
+   },
+   "options": {
+    "interaction": {
+     "intersect": false,
+     "mode": "index"
+    },
+    "maintainAspectRatio": false,
+    "plugins": {
+     "legend": {
+      "align": "end",
+      "labels": {
+       "boxWidth": 8,
+       "usePointStyle": true
+      },
+      "position": "top"
+     }
+    },
+    "responsive": true,
+    "scales": {
+     "x": {
+      "grid": {
+       "display": false
+      },
+      "ticks": {
+       "maxTicksLimit": 12
+      }
+     },
+     "y": {
+      "grid": {
+       "color": "#eceae4"
+      },
+      "max": 25,
+      "min": 0,
+      "ticks": {
+       "stepSize": 5
+      },
+      "title": {
+       "display": true,
+       "text": "constituents replaced, % of the index"
+      }
+     }
+    }
+   },
+   "tickLabels": {
+    "y": {
+     "0": "0%",
+     "10": "10%",
+     "15": "15%",
+     "20": "20%",
+     "25": "25%",
+     "5": "5%"
+    }
+   },
+   "type": "line"
+  },
+  "c_conc": {
+   "bands": [
+    {
+     "label": "global financial crisis",
+     "x0": 2008,
+     "x1": 2009.5
+    },
+    {
+     "label": "pandemic",
+     "x0": 2019.5,
+     "x1": 2020.5
+    }
+   ],
+   "data": {
+    "datasets": [
+     {
+      "backgroundColor": "#2e6fb0",
+      "borderColor": "#2e6fb0",
+      "borderWidth": 2.5,
+      "data": [
+       {
+        "x": 2009,
+        "y": 21.5
+       },
+       {
+        "x": 2010,
+        "y": 21.5
+       },
+       {
+        "x": 2011,
+        "y": 24.0
+       },
+       {
+        "x": 2012,
+        "y": 25.0
+       },
+       {
+        "x": 2014,
+        "y": 22.4
+       },
+       {
+        "x": 2015,
+        "y": 20.6
+       },
+       {
+        "x": 2016,
+        "y": 20.8
+       },
+       {
+        "x": 2017,
+        "y": 21.8
+       },
+       {
+        "x": 2018,
+        "y": 23.0
+       },
+       {
+        "x": 2020,
+        "y": 28.4
+       },
+       {
+        "x": 2022,
+        "y": 25.7
+       },
+       {
+        "x": 2023,
+        "y": 34.4
+       }
+      ],
+      "fill": false,
+      "label": "S&P 500 top-10",
+      "pointRadius": 2,
+      "tension": 0.3,
+      "tips": [
+       "S&P 500 top-10: 21.5%",
+       "S&P 500 top-10: 21.5%",
+       "S&P 500 top-10: 24.0%",
+       "S&P 500 top-10: 25.0%",
+       "S&P 500 top-10: 22.4%",
+       "S&P 500 top-10: 20.6%",
+       "S&P 500 top-10: 20.8%",
+       "S&P 500 top-10: 21.8%",
+       "S&P 500 top-10: 23.0%",
+       "S&P 500 top-10: 28.4%",
+       "S&P 500 top-10: 25.7%",
+       "S&P 500 top-10: 34.4%"
+      ]
+     },
+     {
+      "backgroundColor": "#c8860a",
+      "borderColor": "#c8860a",
+      "borderWidth": 2.5,
+      "data": [
+       {
+        "x": 2016,
+        "y": 42.5
+       },
+       {
+        "x": 2018,
+        "y": 47.0
+       },
+       {
+        "x": 2019,
+        "y": 44.9
+       },
+       {
+        "x": 2020,
+        "y": 41.8
+       },
+       {
+        "x": 2021,
+        "y": 41.9
+       },
+       {
+        "x": 2022,
+        "y": 47.9
+       },
+       {
+        "x": 2023,
+        "y": 45.2
+       },
+       {
+        "x": 2024,
+        "y": 44.4
+       }
+      ],
+      "fill": false,
+      "label": "FTSE 100 top-10",
+      "pointRadius": 2,
+      "tension": 0.3,
+      "tips": [
+       "FTSE 100 top-10: 42.5%",
+       "FTSE 100 top-10: 47.0%",
+       "FTSE 100 top-10: 44.9%",
+       "FTSE 100 top-10: 41.8%",
+       "FTSE 100 top-10: 41.9%",
+       "FTSE 100 top-10: 47.9%",
+       "FTSE 100 top-10: 45.2%",
+       "FTSE 100 top-10: 44.4%"
+      ]
+     }
+    ]
+   },
+   "options": {
+    "maintainAspectRatio": false,
+    "parsing": false,
+    "plugins": {
+     "legend": {
+      "align": "end",
+      "labels": {
+       "boxWidth": 8,
+       "usePointStyle": true
+      },
+      "position": "top"
+     }
+    },
+    "responsive": true,
+    "scales": {
+     "x": {
+      "grid": {
+       "display": false
+      },
+      "max": 2025,
+      "min": 2008,
+      "ticks": {
+       "stepSize": 2
+      },
+      "type": "linear"
+     },
+     "y": {
+      "grid": {
+       "color": "#eceae4"
+      },
+      "max": 50,
+      "min": 0,
+      "ticks": {
+       "stepSize": 10
+      },
+      "title": {
+       "display": true,
+       "text": "top-10 share of index value (%)"
+      }
+     }
+    }
+   },
+   "tickLabels": {
+    "x": {
+     "2008": "2008",
+     "2009": "2009",
+     "2010": "2010",
+     "2011": "2011",
+     "2012": "2012",
+     "2013": "2013",
+     "2014": "2014",
+     "2015": "2015",
+     "2016": "2016",
+     "2017": "2017",
+     "2018": "2018",
+     "2019": "2019",
+     "2020": "2020",
+     "2021": "2021",
+     "2022": "2022",
+     "2023": "2023",
+     "2024": "2024",
+     "2025": "2025"
+    },
+    "y": {
+     "0": "0%",
+     "10": "10%",
+     "20": "20%",
+     "30": "30%",
+     "40": "40%",
+     "50": "50%"
+    }
+   },
+   "type": "line"
+  },
+  "c_cycle": {
+   "bands": [
+    {
+     "label": "global financial crisis",
+     "x0": 8.5,
+     "x1": 10.5
+    },
+    {
+     "label": "pandemic",
+     "x0": 20.5,
+     "x1": 21.5
+    }
+   ],
+   "data": {
+    "datasets": [
+     {
+      "backgroundColor": "rgba(31,56,100,.07)",
+      "borderColor": "#1f3864",
+      "borderWidth": 2.5,
+      "data": [
+       6883,
+       6317,
+       4896,
+       7205,
+       6194,
+       6415,
+       7338,
+       11370,
+       17505,
+       24345,
+       22582,
+       18377,
+       19135,
+       18075,
+       16902,
+       15822,
+       14473,
+       14109,
+       17334,
+       17696,
+       16784,
+       12548,
+       14865,
+       22772,
+       25526,
+       24480,
+       24383,
+       14627
+      ],
+      "fill": true,
+      "label": "",
+      "pointBackgroundColor": [
+       "#1f3864",
+       "#1f3864",
+       "#1f3864",
+       "#1f3864",
+       "#1f3864",
+       "#1f3864",
+       "#1f3864",
+       "#1f3864",
+       "#1f3864",
+       "#1f3864",
+       "#1f3864",
+       "#1f3864",
+       "#1f3864",
+       "#1f3864",
+       "#1f3864",
+       "#1f3864",
+       "#1f3864",
+       "#1f3864",
+       "#1f3864",
+       "#1f3864",
+       "#1f3864",
+       "#1f3864",
+       "#1f3864",
+       "#1f3864",
+       "#1f3864",
+       "#1f3864",
+       "#1f3864",
+       "#c9ccd2"
+      ],
+      "pointRadius": 2,
+      "tension": 0.3,
+      "tips": [
+       "6,883 insolvencies",
+       "6,317 insolvencies",
+       "4,896 insolvencies",
+       "7,205 insolvencies",
+       "6,194 insolvencies",
+       "6,415 insolvencies",
+       "7,338 insolvencies",
+       "11,370 insolvencies",
+       "17,505 insolvencies",
+       "24,345 insolvencies",
+       "22,582 insolvencies",
+       "18,377 insolvencies",
+       "19,135 insolvencies",
+       "18,075 insolvencies",
+       "16,902 insolvencies",
+       "15,822 insolvencies",
+       "14,473 insolvencies",
+       "14,109 insolvencies",
+       "17,334 insolvencies",
+       "17,696 insolvencies",
+       "16,784 insolvencies",
+       "12,548 insolvencies",
+       "14,865 insolvencies",
+       "22,772 insolvencies",
+       "25,526 insolvencies",
+       "24,480 insolvencies",
+       "24,383 insolvencies",
+       "14,627 insolvencies (partial year)"
+      ]
+     }
+    ],
+    "labels": [
+     "1999",
+     "2000",
+     "2001",
+     "2002",
+     "2003",
+     "2004",
+     "2005",
+     "2006",
+     "2007",
+     "2008",
+     "2009",
+     "2010",
+     "2011",
+     "2012",
+     "2013",
+     "2014",
+     "2015",
+     "2016",
+     "2017",
+     "2018",
+     "2019",
+     "2020",
+     "2021",
+     "2022",
+     "2023",
+     "2024",
+     "2025",
+     "2026"
+    ]
+   },
+   "options": {
+    "maintainAspectRatio": false,
+    "plugins": {
+     "legend": {
+      "display": false
+     }
+    },
+    "responsive": true,
+    "scales": {
+     "x": {
+      "grid": {
+       "display": false
+      },
+      "ticks": {
+       "maxTicksLimit": 14
+      }
+     },
+     "y": {
+      "grid": {
+       "color": "#eceae4"
+      },
+      "max": 30000,
+      "min": 0,
+      "ticks": {
+       "stepSize": 10000
+      },
+      "title": {
+       "display": true,
+       "text": "insolvencies"
+      }
+     }
+    }
+   },
+   "tickLabels": {
+    "y": {
+     "0": "0",
+     "10000": "10k",
+     "20000": "20k",
+     "30000": "30k"
+    }
+   },
+   "type": "line"
+  },
+  "c_div": {
+   "bands": [
+    {
+     "label": "global financial crisis",
+     "x0": 6.5,
+     "x1": 8.5
+    },
+    {
+     "label": "pandemic",
+     "x0": 18.5,
+     "x1": 19.5
+    }
+   ],
+   "data": {
+    "datasets": [
+     {
+      "backgroundColor": "rgba(31,56,100,.07)",
+      "borderColor": "#1f3864",
+      "borderWidth": 2.5,
+      "data": [
+       54,
+       60,
+       65,
+       67,
+       77,
+       92,
+       100,
+       99,
+       50,
+       48,
+       57,
+       60,
+       64,
+       62,
+       66,
+       69,
+       81,
+       75,
+       84,
+       54,
+       67,
+       70,
+       73,
+       66
+      ],
+      "fill": true,
+      "label": "index (2007 = 100)",
+      "pointRadius": 2,
+      "tension": 0.3,
+      "tips": [
+       "index 54 (£39.7bn)",
+       "index 60 (£44.0bn)",
+       "index 65 (£47.4bn)",
+       "index 67 (£49.1bn)",
+       "index 77 (£56.2bn)",
+       "index 92 (£67.3bn)",
+       "index 100 (£73.0bn)",
+       "index 99 (£72.4bn)",
+       "index 50 (£36.8bn)",
+       "index 48 (£35.3bn)",
+       "index 57 (£41.3bn)",
+       "index 60 (£43.6bn)",
+       "index 64 (£46.7bn)",
+       "index 62 (£45.6bn)",
+       "index 66 (£47.9bn)",
+       "index 69 (£50.5bn)",
+       "index 81 (£59.2bn)",
+       "index 75 (£54.4bn)",
+       "index 84 (£61.0bn)",
+       "index 54 (£39.7bn)",
+       "index 67 (£49.2bn)",
+       "index 70 (£50.9bn)",
+       "index 73 (£52.9bn)",
+       "index 66 (£48.1bn)"
+      ]
+     }
+    ],
+    "labels": [
+     "2001",
+     "2002",
+     "2003",
+     "2004",
+     "2005",
+     "2006",
+     "2007",
+     "2008",
+     "2009",
+     "2010",
+     "2011",
+     "2012",
+     "2013",
+     "2014",
+     "2015",
+     "2016",
+     "2017",
+     "2018",
+     "2019",
+     "2020",
+     "2021",
+     "2022",
+     "2023",
+     "2024"
+    ]
+   },
+   "options": {
+    "maintainAspectRatio": false,
+    "plugins": {
+     "legend": {
+      "display": false
+     }
+    },
+    "responsive": true,
+    "scales": {
+     "x": {
+      "grid": {
+       "display": false
+      }
+     },
+     "y": {
+      "grid": {
+       "color": "#eceae4"
+      },
+      "max": 100,
+      "min": 0,
+      "ticks": {
+       "stepSize": 20
+      },
+      "title": {
+       "display": true,
+       "text": "index (2007 = 100)"
+      }
+     }
+    }
+   },
+   "tickLabels": {
+    "y": {
+     "0": "0",
+     "100": "100",
+     "20": "20",
+     "40": "40",
+     "60": "60",
+     "80": "80"
+    }
+   },
+   "type": "line"
+  },
+  "c_earn": {
+   "bands": [
+    {
+     "label": "global financial crisis",
+     "x0": 3.5,
+     "x1": 5.5
+    },
+    {
+     "label": "pandemic",
+     "x0": 15.5,
+     "x1": 16.5
+    }
+   ],
+   "data": {
+    "datasets": [
+     {
+      "backgroundColor": "rgba(74,122,69,.07)",
+      "borderColor": "#4a7a45",
+      "borderWidth": 2.5,
+      "data": [
+       347,
+       443,
+       489,
+       575,
+       299,
+       238,
+       361,
+       432,
+       424,
+       474,
+       535,
+       481,
+       504,
+       554,
+       636,
+       679,
+       540,
+       925,
+       939,
+       894,
+       968,
+       1051
+      ],
+      "fill": true,
+      "label": "median net income",
+      "pointRadius": 2,
+      "tension": 0.3,
+      "tips": [
+       "median $347m per constituent",
+       "median $443m per constituent",
+       "median $489m per constituent",
+       "median $575m per constituent",
+       "median $299m per constituent",
+       "median $238m per constituent",
+       "median $361m per constituent",
+       "median $432m per constituent",
+       "median $424m per constituent",
+       "median $474m per constituent",
+       "median $535m per constituent",
+       "median $481m per constituent",
+       "median $504m per constituent",
+       "median $554m per constituent",
+       "median $636m per constituent",
+       "median $679m per constituent",
+       "median $540m per constituent",
+       "median $925m per constituent",
+       "median $939m per constituent",
+       "median $894m per constituent",
+       "median $968m per constituent",
+       "median $1,051m per constituent"
+      ]
+     }
+    ],
+    "labels": [
+     "2004",
+     "2005",
+     "2006",
+     "2007",
+     "2008",
+     "2009",
+     "2010",
+     "2011",
+     "2012",
+     "2013",
+     "2014",
+     "2015",
+     "2016",
+     "2017",
+     "2018",
+     "2019",
+     "2020",
+     "2021",
+     "2022",
+     "2023",
+     "2024",
+     "2025"
+    ]
+   },
+   "options": {
+    "maintainAspectRatio": false,
+    "plugins": {
+     "legend": {
+      "display": false
+     }
+    },
+    "responsive": true,
+    "scales": {
+     "x": {
+      "grid": {
+       "display": false
+      }
+     },
+     "y": {
+      "grid": {
+       "color": "#eceae4"
+      },
+      "max": 1250.0,
+      "min": 0,
+      "ticks": {
+       "stepSize": 250.0
+      },
+      "title": {
+       "display": true,
+       "text": "median net income ($m)"
+      }
+     }
+    }
+   },
+   "tickLabels": {
+    "y": {
+     "0": "$0m",
+     "1000": "$1,000m",
+     "1250": "$1,250m",
+     "250": "$250m",
+     "500": "$500m",
+     "750": "$750m"
+    }
+   },
+   "type": "line"
+  },
+  "c_entry": {
+   "bands": [
+    {
+     "label": "global financial crisis",
+     "x0": 8.5,
+     "x1": 10.5
+    },
+    {
+     "label": "pandemic",
+     "x0": 20.5,
+     "x1": 21.5
+    }
+   ],
+   "data": {
+    "datasets": [
+     {
+      "backgroundColor": "rgba(74,122,69,.07)",
+      "borderColor": "#4a7a45",
+      "borderWidth": 2.5,
+      "data": [
+       11.26,
+       11.98,
+       11.25,
+       16.25,
+       20.38,
+       13.58,
+       13.68,
+       14.62,
+       15.79,
+       12.37,
+       12.69,
+       13.54,
+       14.09,
+       13.67,
+       13.39,
+       13.37,
+       12.54,
+       11.38,
+       10.1,
+       9.72,
+       9.28,
+       8.92,
+       8.12,
+       7.24,
+       7.22,
+       5.87
+      ],
+      "fill": true,
+      "label": "Entry rate (left)",
+      "pointRadius": 2,
+      "tension": 0.3,
+      "tips": [
+       "11.3% of the active stock",
+       "12.0% of the active stock",
+       "11.2% of the active stock",
+       "16.2% of the active stock",
+       "20.4% of the active stock",
+       "13.6% of the active stock",
+       "13.7% of the active stock",
+       "14.6% of the active stock",
+       "15.8% of the active stock",
+       "12.4% of the active stock",
+       "12.7% of the active stock",
+       "13.5% of the active stock",
+       "14.1% of the active stock",
+       "13.7% of the active stock",
+       "13.4% of the active stock",
+       "13.4% of the active stock",
+       "12.5% of the active stock",
+       "11.4% of the active stock",
+       "10.1% of the active stock",
+       "9.7% of the active stock",
+       "9.3% of the active stock",
+       "8.9% of the active stock",
+       "8.1% of the active stock",
+       "7.2% of the active stock",
+       "7.2% of the active stock",
+       "5.9% of the active stock"
+      ],
+      "yAxisID": "y"
+     },
+     {
+      "backgroundColor": "#5c6270",
+      "borderColor": "#5c6270",
+      "borderWidth": 1.5,
+      "data": [
+       54010,
+       63080,
+       65542,
+       104357,
+       150675,
+       120067,
+       136462,
+       164685,
+       201849,
+       180560,
+       204435,
+       242479,
+       283518,
+       310924,
+       343247,
+       385724,
+       407475,
+       413663,
+       406153,
+       427788,
+       445627,
+       466196,
+       459646,
+       440979,
+       469304,
+       407383
+      ],
+      "fill": false,
+      "label": "Incorporations (right)",
+      "pointRadius": 0,
+      "tension": 0.3,
+      "tips": [
+       "54,010 new companies",
+       "63,080 new companies",
+       "65,542 new companies",
+       "104,357 new companies",
+       "150,675 new companies",
+       "120,067 new companies",
+       "136,462 new companies",
+       "164,685 new companies",
+       "201,849 new companies",
+       "180,560 new companies",
+       "204,435 new companies",
+       "242,479 new companies",
+       "283,518 new companies",
+       "310,924 new companies",
+       "343,247 new companies",
+       "385,724 new companies",
+       "407,475 new companies",
+       "413,663 new companies",
+       "406,153 new companies",
+       "427,788 new companies",
+       "445,627 new companies",
+       "466,196 new companies",
+       "459,646 new companies",
+       "440,979 new companies",
+       "469,304 new companies",
+       "407,383 new companies"
+      ],
+      "yAxisID": "y1"
+     }
+    ],
+    "labels": [
+     "1999",
+     "2000",
+     "2001",
+     "2002",
+     "2003",
+     "2004",
+     "2005",
+     "2006",
+     "2007",
+     "2008",
+     "2009",
+     "2010",
+     "2011",
+     "2012",
+     "2013",
+     "2014",
+     "2015",
+     "2016",
+     "2017",
+     "2018",
+     "2019",
+     "2020",
+     "2021",
+     "2022",
+     "2023",
+     "2024"
+    ]
+   },
+   "options": {
+    "interaction": {
+     "intersect": false,
+     "mode": "index"
+    },
+    "maintainAspectRatio": false,
+    "plugins": {
+     "legend": {
+      "align": "end",
+      "labels": {
+       "boxWidth": 8,
+       "usePointStyle": true
+      },
+      "position": "top"
+     }
+    },
+    "responsive": true,
+    "scales": {
+     "x": {
+      "grid": {
+       "display": false
+      }
+     },
+     "y": {
+      "grid": {
+       "color": "#eceae4"
+      },
+      "max": 25,
+      "min": 0,
+      "ticks": {
+       "stepSize": 5
+      },
+      "title": {
+       "display": true,
+       "text": "new companies as % of the active stock"
+      }
+     },
+     "y1": {
+      "grid": {
+       "display": false
+      },
+      "max": 500000,
+      "min": 0,
+      "position": "right",
+      "ticks": {
+       "stepSize": 100000
+      },
+      "title": {
+       "display": true,
+       "text": "incorporations"
+      }
+     }
+    }
+   },
+   "tickLabels": {
+    "y": {
+     "0": "0%",
+     "10": "10%",
+     "15": "15%",
+     "20": "20%",
+     "25": "25%",
+     "5": "5%"
+    },
+    "y1": {
+     "0": "0",
+     "100000": "100k",
+     "200000": "200k",
+     "300000": "300k",
+     "400000": "400k",
+     "500000": "500k"
+    }
+   },
+   "type": "line"
+  },
+  "c_exit_types": {
+   "bands": [
+    {
+     "label": "global financial crisis",
+     "x0": 8.5,
+     "x1": 10.5
+    },
+    {
+     "label": "pandemic",
+     "x0": 20.5,
+     "x1": 21.5
+    }
+   ],
+   "data": {
+    "datasets": [
+     {
+      "backgroundColor": "#b5432f",
+      "borderColor": "#b5432f",
+      "borderWidth": 2.5,
+      "data": [
+       23,
+       11,
+       9,
+       42,
+       79,
+       101,
+       115,
+       3694,
+       6729,
+       11176,
+       13317,
+       11455,
+       11976,
+       11941,
+       11525,
+       10700,
+       10133,
+       9909,
+       13213,
+       13198,
+       12051,
+       9788,
+       13597,
+       19554,
+       21129,
+       19542,
+       19276
+      ],
+      "fill": false,
+      "label": "Creditors' voluntary liquidation",
+      "pointRadius": 0,
+      "tension": 0.3,
+      "tips": [
+       "Creditors' voluntary liquidation: 23",
+       "Creditors' voluntary liquidation: 11",
+       "Creditors' voluntary liquidation: 9",
+       "Creditors' voluntary liquidation: 42",
+       "Creditors' voluntary liquidation: 79",
+       "Creditors' voluntary liquidation: 101",
+       "Creditors' voluntary liquidation: 115",
+       "Creditors' voluntary liquidation: 3,694",
+       "Creditors' voluntary liquidation: 6,729",
+       "Creditors' voluntary liquidation: 11,176",
+       "Creditors' voluntary liquidation: 13,317",
+       "Creditors' voluntary liquidation: 11,455",
+       "Creditors' voluntary liquidation: 11,976",
+       "Creditors' voluntary liquidation: 11,941",
+       "Creditors' voluntary liquidation: 11,525",
+       "Creditors' voluntary liquidation: 10,700",
+       "Creditors' voluntary liquidation: 10,133",
+       "Creditors' voluntary liquidation: 9,909",
+       "Creditors' voluntary liquidation: 13,213",
+       "Creditors' voluntary liquidation: 13,198",
+       "Creditors' voluntary liquidation: 12,051",
+       "Creditors' voluntary liquidation: 9,788",
+       "Creditors' voluntary liquidation: 13,597",
+       "Creditors' voluntary liquidation: 19,554",
+       "Creditors' voluntary liquidation: 21,129",
+       "Creditors' voluntary liquidation: 19,542",
+       "Creditors' voluntary liquidation: 19,276"
+      ]
+     },
+     {
+      "backgroundColor": "#4a7a45",
+      "borderColor": "#4a7a45",
+      "borderWidth": 2.5,
+      "data": [
+       46,
+       578,
+       1001,
+       45,
+       98,
+       126,
+       191,
+       1470,
+       3040,
+       4373,
+       2521,
+       2754,
+       2616,
+       3514,
+       4874,
+       6201,
+       7675,
+       10480,
+       8081,
+       8920,
+       9715,
+       13815,
+       14474,
+       10152,
+       9750,
+       12015,
+       8670
+      ],
+      "fill": false,
+      "label": "Members' voluntary (solvent)",
+      "pointRadius": 0,
+      "tension": 0.3,
+      "tips": [
+       "Members' voluntary (solvent): 46",
+       "Members' voluntary (solvent): 578",
+       "Members' voluntary (solvent): 1,001",
+       "Members' voluntary (solvent): 45",
+       "Members' voluntary (solvent): 98",
+       "Members' voluntary (solvent): 126",
+       "Members' voluntary (solvent): 191",
+       "Members' voluntary (solvent): 1,470",
+       "Members' voluntary (solvent): 3,040",
+       "Members' voluntary (solvent): 4,373",
+       "Members' voluntary (solvent): 2,521",
+       "Members' voluntary (solvent): 2,754",
+       "Members' voluntary (solvent): 2,616",
+       "Members' voluntary (solvent): 3,514",
+       "Members' voluntary (solvent): 4,874",
+       "Members' voluntary (solvent): 6,201",
+       "Members' voluntary (solvent): 7,675",
+       "Members' voluntary (solvent): 10,480",
+       "Members' voluntary (solvent): 8,081",
+       "Members' voluntary (solvent): 8,920",
+       "Members' voluntary (solvent): 9,715",
+       "Members' voluntary (solvent): 13,815",
+       "Members' voluntary (solvent): 14,474",
+       "Members' voluntary (solvent): 10,152",
+       "Members' voluntary (solvent): 9,750",
+       "Members' voluntary (solvent): 12,015",
+       "Members' voluntary (solvent): 8,670"
+      ]
+     },
+     {
+      "backgroundColor": "#c8860a",
+      "borderColor": "#c8860a",
+      "borderWidth": 2.5,
+      "data": [
+       5775,
+       5060,
+       3373,
+       6145,
+       4945,
+       4147,
+       4635,
+       4800,
+       8361,
+       7812,
+       5239,
+       4105,
+       4495,
+       3789,
+       3314,
+       3498,
+       2842,
+       2812,
+       2753,
+       2939,
+       2982,
+       1326,
+       451,
+       1968,
+       2803,
+       3261,
+       3508
+      ],
+      "fill": false,
+      "label": "Winding-up order (court)",
+      "pointRadius": 0,
+      "tension": 0.3,
+      "tips": [
+       "Winding-up order (court): 5,775",
+       "Winding-up order (court): 5,060",
+       "Winding-up order (court): 3,373",
+       "Winding-up order (court): 6,145",
+       "Winding-up order (court): 4,945",
+       "Winding-up order (court): 4,147",
+       "Winding-up order (court): 4,635",
+       "Winding-up order (court): 4,800",
+       "Winding-up order (court): 8,361",
+       "Winding-up order (court): 7,812",
+       "Winding-up order (court): 5,239",
+       "Winding-up order (court): 4,105",
+       "Winding-up order (court): 4,495",
+       "Winding-up order (court): 3,789",
+       "Winding-up order (court): 3,314",
+       "Winding-up order (court): 3,498",
+       "Winding-up order (court): 2,842",
+       "Winding-up order (court): 2,812",
+       "Winding-up order (court): 2,753",
+       "Winding-up order (court): 2,939",
+       "Winding-up order (court): 2,982",
+       "Winding-up order (court): 1,326",
+       "Winding-up order (court): 451",
+       "Winding-up order (court): 1,968",
+       "Winding-up order (court): 2,803",
+       "Winding-up order (court): 3,261",
+       "Winding-up order (court): 3,508"
+      ]
+     },
+     {
+      "backgroundColor": "#2e6fb0",
+      "borderColor": "#2e6fb0",
+      "borderWidth": 2.5,
+      "data": [
+       28,
+       22,
+       48,
+       17,
+       257,
+       1570,
+       2308,
+       2682,
+       2321,
+       5165,
+       3937,
+       2769,
+       2607,
+       2308,
+       2047,
+       1603,
+       1489,
+       1383,
+       1365,
+       1555,
+       1750,
+       1433,
+       817,
+       1249,
+       1594,
+       1677,
+       1599
+      ],
+      "fill": false,
+      "label": "Administration",
+      "pointRadius": 0,
+      "tension": 0.3,
+      "tips": [
+       "Administration: 28",
+       "Administration: 22",
+       "Administration: 48",
+       "Administration: 17",
+       "Administration: 257",
+       "Administration: 1,570",
+       "Administration: 2,308",
+       "Administration: 2,682",
+       "Administration: 2,321",
+       "Administration: 5,165",
+       "Administration: 3,937",
+       "Administration: 2,769",
+       "Administration: 2,607",
+       "Administration: 2,308",
+       "Administration: 2,047",
+       "Administration: 1,603",
+       "Administration: 1,489",
+       "Administration: 1,383",
+       "Administration: 1,365",
+       "Administration: 1,555",
+       "Administration: 1,750",
+       "Administration: 1,433",
+       "Administration: 817",
+       "Administration: 1,249",
+       "Administration: 1,594",
+       "Administration: 1,677",
+       "Administration: 1,599"
+      ]
+     },
+     {
+      "backgroundColor": "#2a8f86",
+      "borderColor": "#2a8f86",
+      "borderWidth": 2.5,
+      "data": [
+       1057,
+       1224,
+       1466,
+       1001,
+       913,
+       597,
+       280,
+       194,
+       94,
+       192,
+       89,
+       48,
+       57,
+       37,
+       16,
+       21,
+       9,
+       5,
+       3,
+       4,
+       1,
+       1,
+       0,
+       1,
+       0,
+       0,
+       0
+      ],
+      "fill": false,
+      "label": "Administrative receivership",
+      "pointRadius": 0,
+      "tension": 0.3,
+      "tips": [
+       "Administrative receivership: 1,057",
+       "Administrative receivership: 1,224",
+       "Administrative receivership: 1,466",
+       "Administrative receivership: 1,001",
+       "Administrative receivership: 913",
+       "Administrative receivership: 597",
+       "Administrative receivership: 280",
+       "Administrative receivership: 194",
+       "Administrative receivership: 94",
+       "Administrative receivership: 192",
+       "Administrative receivership: 89",
+       "Administrative receivership: 48",
+       "Administrative receivership: 57",
+       "Administrative receivership: 37",
+       "Administrative receivership: 16",
+       "Administrative receivership: 21",
+       "Administrative receivership: 9",
+       "Administrative receivership: 5",
+       "Administrative receivership: 3",
+       "Administrative receivership: 4",
+       "Administrative receivership: 1",
+       "Administrative receivership: 1",
+       "Administrative receivership: 0",
+       "Administrative receivership: 1",
+       "Administrative receivership: 0",
+       "Administrative receivership: 0",
+       "Administrative receivership: 0"
+      ]
+     }
+    ],
+    "labels": [
+     "1999",
+     "2000",
+     "2001",
+     "2002",
+     "2003",
+     "2004",
+     "2005",
+     "2006",
+     "2007",
+     "2008",
+     "2009",
+     "2010",
+     "2011",
+     "2012",
+     "2013",
+     "2014",
+     "2015",
+     "2016",
+     "2017",
+     "2018",
+     "2019",
+     "2020",
+     "2021",
+     "2022",
+     "2023",
+     "2024",
+     "2025"
+    ]
+   },
+   "options": {
+    "interaction": {
+     "intersect": false,
+     "mode": "index"
+    },
+    "maintainAspectRatio": false,
+    "plugins": {
+     "legend": {
+      "align": "end",
+      "labels": {
+       "boxWidth": 8,
+       "usePointStyle": true
+      },
+      "position": "top"
+     }
+    },
+    "responsive": true,
+    "scales": {
+     "x": {
+      "grid": {
+       "display": false
+      },
+      "ticks": {
+       "maxTicksLimit": 12
+      }
+     },
+     "y": {
+      "grid": {
+       "color": "#eceae4"
+      },
+      "max": 25000,
+      "min": 0,
+      "ticks": {
+       "stepSize": 5000
+      },
+      "title": {
+       "display": true,
+       "text": "notices"
+      }
+     }
+    }
+   },
+   "tickLabels": {
+    "y": {
+     "0": "0",
+     "10000": "10k",
+     "15000": "15k",
+     "20000": "20k",
+     "25000": "25k",
+     "5000": "5k"
+    }
+   },
+   "type": "line"
+  },
+  "c_exitmix": {
+   "bands": [
+    {
+     "label": "global financial crisis",
+     "x0": 8.5,
+     "x1": 10.5
+    },
+    {
+     "label": "pandemic",
+     "x0": 20.5,
+     "x1": 21.5
+    }
+   ],
+   "data": {
+    "datasets": [
+     {
+      "backgroundColor": "rgba(181,67,47,.08)",
+      "borderColor": "#b5432f",
+      "borderWidth": 2.5,
+      "data": [
+       99.3,
+       91.6,
+       83.0,
+       99.4,
+       98.4,
+       98.1,
+       97.5,
+       88.6,
+       85.2,
+       84.8,
+       90.0,
+       87.0,
+       88.0,
+       83.7,
+       77.6,
+       71.8,
+       65.3,
+       57.4,
+       68.2,
+       66.5,
+       63.3,
+       47.6,
+       50.7,
+       69.2,
+       72.4,
+       67.1,
+       73.8
+      ],
+      "fill": true,
+      "label": "insolvent %",
+      "pointRadius": 2,
+      "tension": 0.3,
+      "tips": [
+       "99% of exits insolvent",
+       "92% of exits insolvent",
+       "83% of exits insolvent",
+       "99% of exits insolvent",
+       "98% of exits insolvent",
+       "98% of exits insolvent",
+       "98% of exits insolvent",
+       "89% of exits insolvent",
+       "85% of exits insolvent",
+       "85% of exits insolvent",
+       "90% of exits insolvent",
+       "87% of exits insolvent",
+       "88% of exits insolvent",
+       "84% of exits insolvent",
+       "78% of exits insolvent",
+       "72% of exits insolvent",
+       "65% of exits insolvent",
+       "57% of exits insolvent",
+       "68% of exits insolvent",
+       "66% of exits insolvent",
+       "63% of exits insolvent",
+       "48% of exits insolvent",
+       "51% of exits insolvent",
+       "69% of exits insolvent",
+       "72% of exits insolvent",
+       "67% of exits insolvent",
+       "74% of exits insolvent"
+      ]
+     }
+    ],
+    "labels": [
+     "1999",
+     "2000",
+     "2001",
+     "2002",
+     "2003",
+     "2004",
+     "2005",
+     "2006",
+     "2007",
+     "2008",
+     "2009",
+     "2010",
+     "2011",
+     "2012",
+     "2013",
+     "2014",
+     "2015",
+     "2016",
+     "2017",
+     "2018",
+     "2019",
+     "2020",
+     "2021",
+     "2022",
+     "2023",
+     "2024",
+     "2025"
+    ]
+   },
+   "options": {
+    "maintainAspectRatio": false,
+    "plugins": {
+     "legend": {
+      "display": false
+     }
+    },
+    "responsive": true,
+    "scales": {
+     "x": {
+      "grid": {
+       "display": false
+      }
+     },
+     "y": {
+      "grid": {
+       "color": "#eceae4"
+      },
+      "max": 100,
+      "min": 0,
+      "ticks": {
+       "stepSize": 20
+      },
+      "title": {
+       "display": true,
+       "text": "% of dated exits insolvent"
+      }
+     }
+    }
+   },
+   "tickLabels": {
+    "y": {
+     "0": "0%",
+     "100": "100%",
+     "20": "20%",
+     "40": "40%",
+     "60": "60%",
+     "80": "80%"
+    }
+   },
+   "type": "line"
+  },
+  "c_ftsesec": {
+   "bands": [
+    {
+     "label": "early-1990s recession",
+     "x0": 6.5,
+     "x1": 8.5
+    },
+    {
+     "label": "global financial crisis",
+     "x0": 24.5,
+     "x1": 26.5
+    },
+    {
+     "label": "pandemic",
+     "x0": 36.5,
+     "x1": 37.5
+    }
+   ],
+   "data": {
+    "datasets": [
+     {
+      "backgroundColor": "#2e6fb0",
+      "borderColor": "#2e6fb0",
+      "borderWidth": 3,
+      "data": [
+       2.0,
+       2.0,
+       2.0,
+       3.0,
+       3.0,
+       3.0,
+       1.0,
+       1.0,
+       0.0,
+       0.0,
+       0.0,
+       0.0,
+       0.0,
+       0.0,
+       0.0,
+       0.0,
+       7.0,
+       9.0,
+       3.0,
+       1.0,
+       1.0,
+       1.0,
+       1.0,
+       1.0,
+       1.0,
+       2.0,
+       2.0,
+       3.0,
+       2.0,
+       2.0,
+       2.0,
+       2.0,
+       2.0,
+       2.0,
+       3.0,
+       3.0,
+       3.0,
+       4.0,
+       4.0,
+       3.0,
+       2.0,
+       2.0
+      ],
+      "fill": false,
+      "label": "Information Technology",
+      "pointRadius": 0,
+      "tension": 0.35,
+      "tips": [
+       "Information Technology: 2.0%",
+       "Information Technology: 2.0%",
+       "Information Technology: 2.0%",
+       "Information Technology: 3.0%",
+       "Information Technology: 3.0%",
+       "Information Technology: 3.0%",
+       "Information Technology: 1.0%",
+       "Information Technology: 1.0%",
+       "Information Technology: 0.0%",
+       "Information Technology: 0.0%",
+       "Information Technology: 0.0%",
+       "Information Technology: 0.0%",
+       "Information Technology: 0.0%",
+       "Information Technology: 0.0%",
+       "Information Technology: 0.0%",
+       "Information Technology: 0.0%",
+       "Information Technology: 7.0%",
+       "Information Technology: 9.0%",
+       "Information Technology: 3.0%",
+       "Information Technology: 1.0%",
+       "Information Technology: 1.0%",
+       "Information Technology: 1.0%",
+       "Information Technology: 1.0%",
+       "Information Technology: 1.0%",
+       "Information Technology: 1.0%",
+       "Information Technology: 2.0%",
+       "Information Technology: 2.0%",
+       "Information Technology: 3.0%",
+       "Information Technology: 2.0%",
+       "Information Technology: 2.0%",
+       "Information Technology: 2.0%",
+       "Information Technology: 2.0%",
+       "Information Technology: 2.0%",
+       "Information Technology: 2.0%",
+       "Information Technology: 3.0%",
+       "Information Technology: 3.0%",
+       "Information Technology: 3.0%",
+       "Information Technology: 4.0%",
+       "Information Technology: 4.0%",
+       "Information Technology: 3.0%",
+       "Information Technology: 2.0%",
+       "Information Technology: 2.0%"
+      ]
+     },
+     {
+      "backgroundColor": "#4a7a45",
+      "borderColor": "#4a7a45",
+      "borderWidth": 2.5,
+      "data": [
+       20.0,
+       19.0,
+       21.0,
+       21.0,
+       21.0,
+       21.0,
+       21.0,
+       20.0,
+       21.0,
+       20.0,
+       17.0,
+       17.0,
+       17.0,
+       18.0,
+       15.0,
+       17.0,
+       15.0,
+       15.0,
+       17.0,
+       18.0,
+       18.0,
+       18.0,
+       17.0,
+       16.0,
+       13.0,
+       13.0,
+       12.0,
+       11.0,
+       12.0,
+       12.0,
+       13.0,
+       12.0,
+       11.0,
+       11.0,
+       11.0,
+       12.0,
+       11.0,
+       11.0,
+       10.0,
+       11.0,
+       12.0,
+       11.0
+      ],
+      "fill": false,
+      "label": "Consumer Staples",
+      "pointRadius": 0,
+      "tension": 0.35,
+      "tips": [
+       "Consumer Staples: 20.0%",
+       "Consumer Staples: 19.0%",
+       "Consumer Staples: 21.0%",
+       "Consumer Staples: 21.0%",
+       "Consumer Staples: 21.0%",
+       "Consumer Staples: 21.0%",
+       "Consumer Staples: 21.0%",
+       "Consumer Staples: 20.0%",
+       "Consumer Staples: 21.0%",
+       "Consumer Staples: 20.0%",
+       "Consumer Staples: 17.0%",
+       "Consumer Staples: 17.0%",
+       "Consumer Staples: 17.0%",
+       "Consumer Staples: 18.0%",
+       "Consumer Staples: 15.0%",
+       "Consumer Staples: 17.0%",
+       "Consumer Staples: 15.0%",
+       "Consumer Staples: 15.0%",
+       "Consumer Staples: 17.0%",
+       "Consumer Staples: 18.0%",
+       "Consumer Staples: 18.0%",
+       "Consumer Staples: 18.0%",
+       "Consumer Staples: 17.0%",
+       "Consumer Staples: 16.0%",
+       "Consumer Staples: 13.0%",
+       "Consumer Staples: 13.0%",
+       "Consumer Staples: 12.0%",
+       "Consumer Staples: 11.0%",
+       "Consumer Staples: 12.0%",
+       "Consumer Staples: 12.0%",
+       "Consumer Staples: 13.0%",
+       "Consumer Staples: 12.0%",
+       "Consumer Staples: 11.0%",
+       "Consumer Staples: 11.0%",
+       "Consumer Staples: 11.0%",
+       "Consumer Staples: 12.0%",
+       "Consumer Staples: 11.0%",
+       "Consumer Staples: 11.0%",
+       "Consumer Staples: 10.0%",
+       "Consumer Staples: 11.0%",
+       "Consumer Staples: 12.0%",
+       "Consumer Staples: 11.0%"
+      ]
+     },
+     {
+      "backgroundColor": "#b5432f",
+      "borderColor": "#b5432f",
+      "borderWidth": 2.5,
+      "data": [
+       15.0,
+       13.0,
+       12.0,
+       12.0,
+       11.0,
+       13.0,
+       12.0,
+       13.0,
+       11.0,
+       11.0,
+       11.0,
+       11.0,
+       10.0,
+       8.0,
+       6.0,
+       5.0,
+       8.0,
+       7.0,
+       6.0,
+       9.0,
+       9.0,
+       11.0,
+       11.0,
+       13.0,
+       10.0,
+       11.0,
+       13.0,
+       14.0,
+       16.0,
+       17.0,
+       11.0,
+       10.0,
+       10.0,
+       12.0,
+       13.0,
+       13.0,
+       13.0,
+       14.0,
+       13.0,
+       11.0,
+       10.0,
+       9.0
+      ],
+      "fill": false,
+      "label": "Materials",
+      "pointRadius": 0,
+      "tension": 0.35,
+      "tips": [
+       "Materials: 15.0%",
+       "Materials: 13.0%",
+       "Materials: 12.0%",
+       "Materials: 12.0%",
+       "Materials: 11.0%",
+       "Materials: 13.0%",
+       "Materials: 12.0%",
+       "Materials: 13.0%",
+       "Materials: 11.0%",
+       "Materials: 11.0%",
+       "Materials: 11.0%",
+       "Materials: 11.0%",
+       "Materials: 10.0%",
+       "Materials: 8.0%",
+       "Materials: 6.0%",
+       "Materials: 5.0%",
+       "Materials: 8.0%",
+       "Materials: 7.0%",
+       "Materials: 6.0%",
+       "Materials: 9.0%",
+       "Materials: 9.0%",
+       "Materials: 11.0%",
+       "Materials: 11.0%",
+       "Materials: 13.0%",
+       "Materials: 10.0%",
+       "Materials: 11.0%",
+       "Materials: 13.0%",
+       "Materials: 14.0%",
+       "Materials: 16.0%",
+       "Materials: 17.0%",
+       "Materials: 11.0%",
+       "Materials: 10.0%",
+       "Materials: 10.0%",
+       "Materials: 12.0%",
+       "Materials: 13.0%",
+       "Materials: 13.0%",
+       "Materials: 13.0%",
+       "Materials: 14.0%",
+       "Materials: 13.0%",
+       "Materials: 11.0%",
+       "Materials: 10.0%",
+       "Materials: 9.0%"
+      ]
+     },
+     {
+      "backgroundColor": "#c8860a",
+      "borderColor": "#c8860a",
+      "borderWidth": 2.5,
+      "data": [
+       13.0,
+       15.0,
+       14.0,
+       14.0,
+       16.0,
+       16.0,
+       18.0,
+       16.0,
+       17.0,
+       14.0,
+       15.0,
+       17.0,
+       18.0,
+       18.0,
+       17.0,
+       18.0,
+       12.0,
+       14.0,
+       14.0,
+       16.0,
+       13.0,
+       12.0,
+       11.0,
+       8.0,
+       12.0,
+       16.0,
+       16.0,
+       18.0,
+       18.0,
+       20.0,
+       23.0,
+       20.0,
+       17.0,
+       16.0,
+       15.0,
+       15.0,
+       16.0,
+       14.0,
+       17.0,
+       16.0,
+       18.0,
+       18.0
+      ],
+      "fill": false,
+      "label": "Industrials",
+      "pointRadius": 0,
+      "tension": 0.35,
+      "tips": [
+       "Industrials: 13.0%",
+       "Industrials: 15.0%",
+       "Industrials: 14.0%",
+       "Industrials: 14.0%",
+       "Industrials: 16.0%",
+       "Industrials: 16.0%",
+       "Industrials: 18.0%",
+       "Industrials: 16.0%",
+       "Industrials: 17.0%",
+       "Industrials: 14.0%",
+       "Industrials: 15.0%",
+       "Industrials: 17.0%",
+       "Industrials: 18.0%",
+       "Industrials: 18.0%",
+       "Industrials: 17.0%",
+       "Industrials: 18.0%",
+       "Industrials: 12.0%",
+       "Industrials: 14.0%",
+       "Industrials: 14.0%",
+       "Industrials: 16.0%",
+       "Industrials: 13.0%",
+       "Industrials: 12.0%",
+       "Industrials: 11.0%",
+       "Industrials: 8.0%",
+       "Industrials: 12.0%",
+       "Industrials: 16.0%",
+       "Industrials: 16.0%",
+       "Industrials: 18.0%",
+       "Industrials: 18.0%",
+       "Industrials: 20.0%",
+       "Industrials: 23.0%",
+       "Industrials: 20.0%",
+       "Industrials: 17.0%",
+       "Industrials: 16.0%",
+       "Industrials: 15.0%",
+       "Industrials: 15.0%",
+       "Industrials: 16.0%",
+       "Industrials: 14.0%",
+       "Industrials: 17.0%",
+       "Industrials: 16.0%",
+       "Industrials: 18.0%",
+       "Industrials: 18.0%"
+      ]
+     }
+    ],
+    "labels": [
+     "1983",
+     "1984",
+     "1985",
+     "1986",
+     "1987",
+     "1988",
+     "1989",
+     "1990",
+     "1991",
+     "1992",
+     "1993",
+     "1994",
+     "1995",
+     "1996",
+     "1997",
+     "1998",
+     "1999",
+     "2000",
+     "2001",
+     "2002",
+     "2003",
+     "2004",
+     "2005",
+     "2006",
+     "2007",
+     "2008",
+     "2009",
+     "2010",
+     "2011",
+     "2012",
+     "2013",
+     "2014",
+     "2015",
+     "2016",
+     "2017",
+     "2018",
+     "2019",
+     "2020",
+     "2021",
+     "2022",
+     "2023",
+     "2024"
+    ]
+   },
+   "options": {
+    "interaction": {
+     "intersect": false,
+     "mode": "index"
+    },
+    "maintainAspectRatio": false,
+    "plugins": {
+     "legend": {
+      "align": "end",
+      "labels": {
+       "boxWidth": 8,
+       "usePointStyle": true
+      },
+      "position": "top"
+     }
+    },
+    "responsive": true,
+    "scales": {
+     "x": {
+      "grid": {
+       "display": false
+      },
+      "ticks": {
+       "maxTicksLimit": 9
+      }
+     },
+     "y": {
+      "grid": {
+       "color": "#eceae4"
+      },
+      "max": 25,
+      "min": 0,
+      "ticks": {
+       "stepSize": 5
+      },
+      "title": {
+       "display": true,
+       "text": "% of index membership"
+      }
+     }
+    }
+   },
+   "tickLabels": {
+    "y": {
+     "0": "0%",
+     "10": "10%",
+     "15": "15%",
+     "20": "20%",
+     "25": "25%",
+     "5": "5%"
+    }
+   },
+   "type": "line"
+  },
+  "c_geo": {
+   "variants": [
+    {
+     "key": "live",
+     "label": "Live companies",
+     "spec": {
+      "data": {
+       "datasets": [
+        {
+         "backgroundColor": "#1f3864",
+         "borderRadius": 4,
+         "data": [
+          1739275,
+          636293,
+          578188,
+          432022,
+          395403,
+          374339,
+          356489,
+          314567,
+          270681,
+          188550,
+          134160,
+          91119
+         ],
+         "tips": [
+          "1,739,275 companies",
+          "636,293 companies",
+          "578,188 companies",
+          "432,022 companies",
+          "395,403 companies",
+          "374,339 companies",
+          "356,489 companies",
+          "314,567 companies",
+          "270,681 companies",
+          "188,550 companies",
+          "134,160 companies",
+          "91,119 companies"
+         ]
+        }
+       ],
+       "labels": [
+        "London",
+        "South East",
+        "North West",
+        "East of England",
+        "West Midlands",
+        "South West",
+        "Yorkshire & Humber",
+        "Scotland",
+        "East Midlands",
+        "Wales",
+        "North East",
+        "Northern Ireland"
+       ]
+      },
+      "options": {
+       "indexAxis": "y",
+       "maintainAspectRatio": false,
+       "plugins": {
+        "legend": {
+         "display": false
+        }
+       },
+       "responsive": true,
+       "scales": {
+        "x": {
+         "grid": {
+          "color": "#eceae4"
+         },
+         "max": 2000000,
+         "min": 0,
+         "ticks": {
+          "stepSize": 500000
+         }
+        },
+        "y": {
+         "grid": {
+          "display": false
+         }
+        }
+       }
+      },
+      "tickLabels": {
+       "x": {
+        "0": "0",
+        "1000000": "1.0M",
+        "1500000": "1.5M",
+        "2000000": "2.0M",
+        "500000": "500k"
+       }
+      },
+      "type": "bar"
+     }
+    },
+    {
+     "key": "insolvent",
+     "label": "Insolvencies",
+     "spec": {
+      "data": {
+       "datasets": [
+        {
+         "backgroundColor": "#b5432f",
+         "borderRadius": 4,
+         "data": [
+          75273,
+          37611,
+          30006,
+          27039,
+          25662,
+          20277,
+          17947,
+          17253,
+          8764,
+          8306,
+          5975,
+          780
+         ],
+         "tips": [
+          "75,273 insolvencies",
+          "37,611 insolvencies",
+          "30,006 insolvencies",
+          "27,039 insolvencies",
+          "25,662 insolvencies",
+          "20,277 insolvencies",
+          "17,947 insolvencies",
+          "17,253 insolvencies",
+          "8,764 insolvencies",
+          "8,306 insolvencies",
+          "5,975 insolvencies",
+          "780 insolvencies"
+         ]
+        }
+       ],
+       "labels": [
+        "London",
+        "North West",
+        "South East",
+        "Yorkshire & Humber",
+        "West Midlands",
+        "East of England",
+        "South West",
+        "East Midlands",
+        "North East",
+        "Wales",
+        "Scotland",
+        "Northern Ireland"
+       ]
+      },
+      "options": {
+       "indexAxis": "y",
+       "maintainAspectRatio": false,
+       "plugins": {
+        "legend": {
+         "display": false
+        }
+       },
+       "responsive": true,
+       "scales": {
+        "x": {
+         "grid": {
+          "color": "#eceae4"
+         },
+         "max": 80000,
+         "min": 0,
+         "ticks": {
+          "stepSize": 20000
+         }
+        },
+        "y": {
+         "grid": {
+          "display": false
+         }
+        }
+       }
+      },
+      "tickLabels": {
+       "x": {
+        "0": "0",
+        "20000": "20k",
+        "40000": "40k",
+        "60000": "60k",
+        "80000": "80k"
+       }
+      },
+      "type": "bar"
+     }
+    }
+   ]
+  },
+  "c_ind": {
+   "data": {
+    "datasets": [
+     {
+      "backgroundColor": "#b5432f",
+      "borderRadius": 4,
+      "data": [
+       9.2,
+       7.7,
+       4.6,
+       4.4,
+       3.9,
+       3.5
+      ],
+      "tips": [
+       "9.2% insolvent",
+       "7.7% insolvent",
+       "4.6% insolvent",
+       "4.4% insolvent",
+       "3.9% insolvent",
+       "3.5% insolvent"
+      ]
+     }
+    ],
+    "labels": [
+     "Licensed restaurants",
+     "Public houses and bars",
+     "Unlicensed restaurants and cafes",
+     "Other activities of employment placement agencies",
+     "Construction of commercial buildings",
+     "Other specialised construction activities n.e.c."
+    ]
+   },
+   "options": {
+    "indexAxis": "y",
+    "maintainAspectRatio": false,
+    "plugins": {
+     "legend": {
+      "display": false
+     }
+    },
+    "responsive": true,
+    "scales": {
+     "x": {
+      "grid": {
+       "color": "#eceae4"
+      },
+      "max": 10,
+      "min": 0,
+      "ticks": {
+       "stepSize": 2
+      },
+      "title": {
+       "display": true,
+       "text": "% ever insolvent"
+      }
+     },
+     "y": {
+      "grid": {
+       "display": false
+      }
+     }
+    }
+   },
+   "tickLabels": {
+    "x": {
+     "0": "0%",
+     "10": "10%",
+     "2": "2%",
+     "4": "4%",
+     "6": "6%",
+     "8": "8%"
+    }
+   },
+   "type": "bar"
+  },
+  "c_mech": {
+   "data": {
+    "datasets": [
+     {
+      "backgroundColor": [
+       "#b5432f",
+       "#b5432f",
+       "#b5432f",
+       "#4a7a45",
+       "#b5432f",
+       "#b5432f"
+      ],
+      "borderRadius": 4,
+      "data": [
+       340863,
+       247305,
+       176616,
+       171966,
+       56138,
+       14807
+      ],
+      "tips": [
+       "340,863 notices",
+       "247,305 notices",
+       "176,616 notices",
+       "171,966 notices",
+       "56,138 notices",
+       "14,807 notices"
+      ]
+     }
+    ],
+    "labels": [
+     "Creditors' voluntary liquidation",
+     "Petition to wind up",
+     "Winding-up order (court)",
+     "Members' voluntary (solvent)",
+     "Administration",
+     "Administrative receivership"
+    ]
+   },
+   "options": {
+    "indexAxis": "y",
+    "maintainAspectRatio": false,
+    "plugins": {
+     "legend": {
+      "display": false
+     }
+    },
+    "responsive": true,
+    "scales": {
+     "x": {
+      "grid": {
+       "color": "#eceae4"
+      },
+      "max": 400000,
+      "min": 0,
+      "ticks": {
+       "stepSize": 100000
+      }
+     },
+     "y": {
+      "grid": {
+       "display": false
+      }
+     }
+    }
+   },
+   "tickLabels": {
+    "x": {
+     "0": "0",
+     "100000": "100k",
+     "200000": "200k",
+     "300000": "300k",
+     "400000": "400k"
+    }
+   },
+   "type": "bar"
+  },
+  "c_panel": {
+   "bands": [
+    {
+     "label": "global financial crisis",
+     "x0": 6.5,
+     "x1": 8.5
+    },
+    {
+     "label": "pandemic",
+     "x0": 18.5,
+     "x1": 19.5
+    }
+   ],
+   "data": {
+    "datasets": [
+     {
+      "backgroundColor": "rgba(31,56,100,.07)",
+      "borderColor": "#1f3864",
+      "borderWidth": 2.5,
+      "data": [
+       99.0,
+       77.4,
+       86.3,
+       90.8,
+       99.5,
+       109.3,
+       100.0,
+       55.8,
+       63.9,
+       67.4,
+       63.3,
+       68.2,
+       77.3,
+       75.4,
+       69.6,
+       79.6,
+       87.0,
+       73.7,
+       81.6,
+       67.6,
+       79.8,
+       87.0,
+       87.0,
+       92.3
+      ],
+      "fill": true,
+      "label": "index (2007 = 100)",
+      "pointRadius": 2,
+      "tension": 0.3,
+      "tips": [
+       "index 99.0 (£1.49 trillion)",
+       "index 77.4 (£1.16 trillion)",
+       "index 86.3 (£1.30 trillion)",
+       "index 90.8 (£1.36 trillion)",
+       "index 99.5 (£1.49 trillion)",
+       "index 109.3 (£1.64 trillion)",
+       "index 100.0 (£1.50 trillion)",
+       "index 55.8 (£0.84 trillion)",
+       "index 63.9 (£0.96 trillion)",
+       "index 67.4 (£1.01 trillion)",
+       "index 63.3 (£0.95 trillion)",
+       "index 68.2 (£1.02 trillion)",
+       "index 77.3 (£1.16 trillion)",
+       "index 75.4 (£1.13 trillion)",
+       "index 69.6 (£1.05 trillion)",
+       "index 79.6 (£1.20 trillion)",
+       "index 87.0 (£1.31 trillion)",
+       "index 73.7 (£1.11 trillion)",
+       "index 81.6 (£1.23 trillion)",
+       "index 67.6 (£1.02 trillion)",
+       "index 79.8 (£1.20 trillion)",
+       "index 87.0 (£1.31 trillion)",
+       "index 87.0 (£1.31 trillion)",
+       "index 92.3 (£1.39 trillion)"
+      ]
+     }
+    ],
+    "labels": [
+     "2001",
+     "2002",
+     "2003",
+     "2004",
+     "2005",
+     "2006",
+     "2007",
+     "2008",
+     "2009",
+     "2010",
+     "2011",
+     "2012",
+     "2013",
+     "2014",
+     "2015",
+     "2016",
+     "2017",
+     "2018",
+     "2019",
+     "2020",
+     "2021",
+     "2022",
+     "2023",
+     "2024"
+    ]
+   },
+   "options": {
+    "maintainAspectRatio": false,
+    "plugins": {
+     "legend": {
+      "display": false
+     }
+    },
+    "responsive": true,
+    "scales": {
+     "x": {
+      "grid": {
+       "display": false
+      }
+     },
+     "y": {
+      "grid": {
+       "color": "#eceae4"
+      },
+      "max": 125.0,
+      "min": 0,
+      "ticks": {
+       "stepSize": 25.0
+      },
+      "title": {
+       "display": true,
+       "text": "index (2007 = 100)"
+      }
+     }
+    }
+   },
+   "tickLabels": {
+    "y": {
+     "0": "0",
+     "100": "100",
+     "125": "125",
+     "25": "25",
+     "50": "50",
+     "75": "75"
+    }
+   },
+   "type": "line"
+  },
+  "c_pulse": {
+   "bands": [
+    {
+     "label": "global financial crisis",
+     "x0": 8.5,
+     "x1": 10.5
+    },
+    {
+     "label": "pandemic",
+     "x0": 20.5,
+     "x1": 21.5
+    }
+   ],
+   "data": {
+    "datasets": [
+     {
+      "backgroundColor": "rgba(74,122,69,.07)",
+      "borderColor": "#4a7a45",
+      "borderWidth": 2.5,
+      "data": [
+       54010,
+       63080,
+       65542,
+       104357,
+       150675,
+       120067,
+       136462,
+       164685,
+       201849,
+       180560,
+       204435,
+       242479,
+       283518,
+       310924,
+       343247,
+       385724,
+       407475,
+       413663,
+       406153,
+       427788,
+       445627,
+       466196,
+       459646,
+       440979,
+       469304,
+       407383
+      ],
+      "fill": true,
+      "label": "New companies (left)",
+      "pointRadius": 0,
+      "tension": 0.3,
+      "tips": [
+       "54,010 new companies",
+       "63,080 new companies",
+       "65,542 new companies",
+       "104,357 new companies",
+       "150,675 new companies",
+       "120,067 new companies",
+       "136,462 new companies",
+       "164,685 new companies",
+       "201,849 new companies",
+       "180,560 new companies",
+       "204,435 new companies",
+       "242,479 new companies",
+       "283,518 new companies",
+       "310,924 new companies",
+       "343,247 new companies",
+       "385,724 new companies",
+       "407,475 new companies",
+       "413,663 new companies",
+       "406,153 new companies",
+       "427,788 new companies",
+       "445,627 new companies",
+       "466,196 new companies",
+       "459,646 new companies",
+       "440,979 new companies",
+       "469,304 new companies",
+       "407,383 new companies"
+      ],
+      "yAxisID": "y"
+     },
+     {
+      "backgroundColor": "#b5432f",
+      "borderColor": "#b5432f",
+      "borderWidth": 2.5,
+      "data": [
+       6883,
+       6317,
+       4896,
+       7205,
+       6194,
+       6415,
+       7338,
+       11370,
+       17505,
+       24345,
+       22582,
+       18377,
+       19135,
+       18075,
+       16902,
+       15822,
+       14473,
+       14109,
+       17334,
+       17696,
+       16784,
+       12548,
+       14865,
+       22772,
+       25526,
+       24480
+      ],
+      "fill": false,
+      "label": "Insolvencies (right)",
+      "pointRadius": 0,
+      "tension": 0.3,
+      "tips": [
+       "6,883 insolvencies",
+       "6,317 insolvencies",
+       "4,896 insolvencies",
+       "7,205 insolvencies",
+       "6,194 insolvencies",
+       "6,415 insolvencies",
+       "7,338 insolvencies",
+       "11,370 insolvencies",
+       "17,505 insolvencies",
+       "24,345 insolvencies",
+       "22,582 insolvencies",
+       "18,377 insolvencies",
+       "19,135 insolvencies",
+       "18,075 insolvencies",
+       "16,902 insolvencies",
+       "15,822 insolvencies",
+       "14,473 insolvencies",
+       "14,109 insolvencies",
+       "17,334 insolvencies",
+       "17,696 insolvencies",
+       "16,784 insolvencies",
+       "12,548 insolvencies",
+       "14,865 insolvencies",
+       "22,772 insolvencies",
+       "25,526 insolvencies",
+       "24,480 insolvencies"
+      ],
+      "yAxisID": "y1"
+     }
+    ],
+    "labels": [
+     "1999",
+     "2000",
+     "2001",
+     "2002",
+     "2003",
+     "2004",
+     "2005",
+     "2006",
+     "2007",
+     "2008",
+     "2009",
+     "2010",
+     "2011",
+     "2012",
+     "2013",
+     "2014",
+     "2015",
+     "2016",
+     "2017",
+     "2018",
+     "2019",
+     "2020",
+     "2021",
+     "2022",
+     "2023",
+     "2024"
+    ]
+   },
+   "options": {
+    "interaction": {
+     "intersect": false,
+     "mode": "index"
+    },
+    "maintainAspectRatio": false,
+    "plugins": {
+     "legend": {
+      "align": "end",
+      "labels": {
+       "boxWidth": 8,
+       "usePointStyle": true
+      },
+      "position": "top"
+     }
+    },
+    "responsive": true,
+    "scales": {
+     "x": {
+      "grid": {
+       "display": false
+      }
+     },
+     "y": {
+      "grid": {
+       "color": "#eceae4"
+      },
+      "max": 500000,
+      "min": 0,
+      "ticks": {
+       "stepSize": 100000
+      },
+      "title": {
+       "display": true,
+       "text": "new companies"
+      }
+     },
+     "y1": {
+      "grid": {
+       "display": false
+      },
+      "max": 30000,
+      "min": 0,
+      "position": "right",
+      "ticks": {
+       "stepSize": 10000
+      },
+      "title": {
+       "display": true,
+       "text": "insolvencies"
+      }
+     }
+    }
+   },
+   "tickLabels": {
+    "y": {
+     "0": "0",
+     "100000": "100k",
+     "200000": "200k",
+     "300000": "300k",
+     "400000": "400k",
+     "500000": "500k"
+    },
+    "y1": {
+     "0": "0",
+     "10000": "10k",
+     "20000": "20k",
+     "30000": "30k"
+    }
+   },
+   "type": "line"
+  },
+  "c_quartile": {
+   "data": {
+    "datasets": [
+     {
+      "backgroundColor": "#c8860a",
+      "borderRadius": 4,
+      "data": [
+       18.5,
+       17.9,
+       22.8,
+       40.7
+      ],
+      "tips": [
+       "18.5% of departures (30)",
+       "17.9% of departures (29)",
+       "22.8% of departures (37)",
+       "40.7% of departures (66)"
+      ]
+     }
+    ],
+    "labels": [
+     "Largest quarter",
+     "Second",
+     "Third",
+     "Smallest quarter"
+    ]
+   },
+   "options": {
+    "maintainAspectRatio": false,
+    "plugins": {
+     "legend": {
+      "display": false
+     }
+    },
+    "responsive": true,
+    "scales": {
+     "x": {
+      "grid": {
+       "display": false
+      }
+     },
+     "y": {
+      "grid": {
+       "color": "#eceae4"
+      },
+      "max": 50,
+      "min": 0,
+      "ticks": {
+       "stepSize": 10
+      },
+      "title": {
+       "display": true,
+       "text": "% of departures"
+      }
+     }
+    }
+   },
+   "tickLabels": {
+    "y": {
+     "0": "0%",
+     "10": "10%",
+     "20": "20%",
+     "30": "30%",
+     "40": "40%",
+     "50": "50%"
+    }
+   },
+   "type": "bar"
+  },
+  "c_size": {
+   "data": {
+    "datasets": [
+     {
+      "backgroundColor": "#2e6fb0",
+      "borderRadius": 4,
+      "data": [
+       3.1,
+       5.3,
+       5.1,
+       3.0
+      ],
+      "tips": [
+       "3.1% insolvent",
+       "5.3% insolvent",
+       "5.1% insolvent",
+       "3.0% insolvent"
+      ]
+     }
+    ],
+    "labels": [
+     "Micro",
+     "Small",
+     "Medium",
+     "Large"
+    ]
+   },
+   "options": {
+    "maintainAspectRatio": false,
+    "plugins": {
+     "legend": {
+      "display": false
+     }
+    },
+    "responsive": true,
+    "scales": {
+     "x": {
+      "grid": {
+       "display": false
+      }
+     },
+     "y": {
+      "grid": {
+       "color": "#eceae4"
+      },
+      "max": 6,
+      "min": 0,
+      "ticks": {
+       "stepSize": 2
+      },
+      "title": {
+       "display": true,
+       "text": "% ever insolvent"
+      }
+     }
+    }
+   },
+   "tickLabels": {
+    "y": {
+     "0": "0%",
+     "2": "2%",
+     "4": "4%",
+     "6": "6%"
+    }
+   },
+   "type": "bar"
+  },
+  "c_survival": {
+   "data": {
+    "datasets": [
+     {
+      "backgroundColor": "#1f3864",
+      "borderColor": "#1f3864",
+      "borderWidth": 2.5,
+      "data": [
+       100.0,
+       99.97,
+       99.5,
+       98.43,
+       97.16,
+       95.98,
+       94.84,
+       93.84,
+       92.95,
+       92.18,
+       91.51,
+       90.97,
+       90.52,
+       90.13,
+       89.82,
+       89.55,
+       89.32,
+       89.08,
+       88.86,
+       88.64
+      ],
+      "fill": false,
+      "label": "born 1999–2007 (pre-crisis) · insolvency",
+      "pointRadius": 0,
+      "tension": 0.1,
+      "tips": [
+       "born 1999–2007 (pre-crisis): 100.0% still trading at age 0",
+       "born 1999–2007 (pre-crisis): 100.0% still trading at age 1",
+       "born 1999–2007 (pre-crisis): 99.5% still trading at age 2",
+       "born 1999–2007 (pre-crisis): 98.4% still trading at age 3",
+       "born 1999–2007 (pre-crisis): 97.2% still trading at age 4",
+       "born 1999–2007 (pre-crisis): 96.0% still trading at age 5",
+       "born 1999–2007 (pre-crisis): 94.8% still trading at age 6",
+       "born 1999–2007 (pre-crisis): 93.8% still trading at age 7",
+       "born 1999–2007 (pre-crisis): 93.0% still trading at age 8",
+       "born 1999–2007 (pre-crisis): 92.2% still trading at age 9",
+       "born 1999–2007 (pre-crisis): 91.5% still trading at age 10",
+       "born 1999–2007 (pre-crisis): 91.0% still trading at age 11",
+       "born 1999–2007 (pre-crisis): 90.5% still trading at age 12",
+       "born 1999–2007 (pre-crisis): 90.1% still trading at age 13",
+       "born 1999–2007 (pre-crisis): 89.8% still trading at age 14",
+       "born 1999–2007 (pre-crisis): 89.5% still trading at age 15",
+       "born 1999–2007 (pre-crisis): 89.3% still trading at age 16",
+       "born 1999–2007 (pre-crisis): 89.1% still trading at age 17",
+       "born 1999–2007 (pre-crisis): 88.9% still trading at age 18",
+       "born 1999–2007 (pre-crisis): 88.6% still trading at age 19"
+      ]
+     },
+     {
+      "backgroundColor": "#1f3864",
+      "borderColor": "#1f3864",
+      "borderDash": [
+       4,
+       3
+      ],
+      "borderWidth": 1.5,
+      "data": [
+       100.0,
+       99.96,
+       99.47,
+       98.37,
+       97.05,
+       95.81,
+       94.58,
+       93.47,
+       92.44,
+       91.51,
+       90.67,
+       89.95,
+       89.32,
+       88.75,
+       88.23,
+       87.74,
+       87.31,
+       86.88,
+       86.48,
+       86.08
+      ],
+      "fill": false,
+      "label": "born 1999–2007 (pre-crisis) · any exit",
+      "pointRadius": 0,
+      "tension": 0.1,
+      "tips": [
+       "born 1999–2007 (pre-crisis): 100.0% not yet dissolved at age 0",
+       "born 1999–2007 (pre-crisis): 100.0% not yet dissolved at age 1",
+       "born 1999–2007 (pre-crisis): 99.5% not yet dissolved at age 2",
+       "born 1999–2007 (pre-crisis): 98.4% not yet dissolved at age 3",
+       "born 1999–2007 (pre-crisis): 97.0% not yet dissolved at age 4",
+       "born 1999–2007 (pre-crisis): 95.8% not yet dissolved at age 5",
+       "born 1999–2007 (pre-crisis): 94.6% not yet dissolved at age 6",
+       "born 1999–2007 (pre-crisis): 93.5% not yet dissolved at age 7",
+       "born 1999–2007 (pre-crisis): 92.4% not yet dissolved at age 8",
+       "born 1999–2007 (pre-crisis): 91.5% not yet dissolved at age 9",
+       "born 1999–2007 (pre-crisis): 90.7% not yet dissolved at age 10",
+       "born 1999–2007 (pre-crisis): 90.0% not yet dissolved at age 11",
+       "born 1999–2007 (pre-crisis): 89.3% not yet dissolved at age 12",
+       "born 1999–2007 (pre-crisis): 88.8% not yet dissolved at age 13",
+       "born 1999–2007 (pre-crisis): 88.2% not yet dissolved at age 14",
+       "born 1999–2007 (pre-crisis): 87.7% not yet dissolved at age 15",
+       "born 1999–2007 (pre-crisis): 87.3% not yet dissolved at age 16",
+       "born 1999–2007 (pre-crisis): 86.9% not yet dissolved at age 17",
+       "born 1999–2007 (pre-crisis): 86.5% not yet dissolved at age 18",
+       "born 1999–2007 (pre-crisis): 86.1% not yet dissolved at age 19"
+      ]
+     },
+     {
+      "backgroundColor": "#b5432f",
+      "borderColor": "#b5432f",
+      "borderWidth": 2.5,
+      "data": [
+       100.0,
+       99.96,
+       99.48,
+       98.61,
+       97.68,
+       96.89,
+       96.22,
+       95.69,
+       95.25,
+       94.89,
+       94.55,
+       94.24,
+       94.02,
+       93.84,
+       93.61,
+       93.36,
+       93.08,
+       92.84
+      ],
+      "fill": false,
+      "label": "born 2008–2009 (into the crisis) · insolvency",
+      "pointRadius": 0,
+      "tension": 0.1,
+      "tips": [
+       "born 2008–2009 (into the crisis): 100.0% still trading at age 0",
+       "born 2008–2009 (into the crisis): 100.0% still trading at age 1",
+       "born 2008–2009 (into the crisis): 99.5% still trading at age 2",
+       "born 2008–2009 (into the crisis): 98.6% still trading at age 3",
+       "born 2008–2009 (into the crisis): 97.7% still trading at age 4",
+       "born 2008–2009 (into the crisis): 96.9% still trading at age 5",
+       "born 2008–2009 (into the crisis): 96.2% still trading at age 6",
+       "born 2008–2009 (into the crisis): 95.7% still trading at age 7",
+       "born 2008–2009 (into the crisis): 95.2% still trading at age 8",
+       "born 2008–2009 (into the crisis): 94.9% still trading at age 9",
+       "born 2008–2009 (into the crisis): 94.5% still trading at age 10",
+       "born 2008–2009 (into the crisis): 94.2% still trading at age 11",
+       "born 2008–2009 (into the crisis): 94.0% still trading at age 12",
+       "born 2008–2009 (into the crisis): 93.8% still trading at age 13",
+       "born 2008–2009 (into the crisis): 93.6% still trading at age 14",
+       "born 2008–2009 (into the crisis): 93.4% still trading at age 15",
+       "born 2008–2009 (into the crisis): 93.1% still trading at age 16",
+       "born 2008–2009 (into the crisis): 92.8% still trading at age 17"
+      ]
+     },
+     {
+      "backgroundColor": "#b5432f",
+      "borderColor": "#b5432f",
+      "borderDash": [
+       4,
+       3
+      ],
+      "borderWidth": 1.5,
+      "data": [
+       100.0,
+       99.93,
+       99.43,
+       98.52,
+       97.52,
+       96.61,
+       95.76,
+       95.04,
+       94.38,
+       93.83,
+       93.36,
+       92.9,
+       92.5,
+       92.13,
+       91.74,
+       91.35,
+       90.94,
+       90.56
+      ],
+      "fill": false,
+      "label": "born 2008–2009 (into the crisis) · any exit",
+      "pointRadius": 0,
+      "tension": 0.1,
+      "tips": [
+       "born 2008–2009 (into the crisis): 100.0% not yet dissolved at age 0",
+       "born 2008–2009 (into the crisis): 99.9% not yet dissolved at age 1",
+       "born 2008–2009 (into the crisis): 99.4% not yet dissolved at age 2",
+       "born 2008–2009 (into the crisis): 98.5% not yet dissolved at age 3",
+       "born 2008–2009 (into the crisis): 97.5% not yet dissolved at age 4",
+       "born 2008–2009 (into the crisis): 96.6% not yet dissolved at age 5",
+       "born 2008–2009 (into the crisis): 95.8% not yet dissolved at age 6",
+       "born 2008–2009 (into the crisis): 95.0% not yet dissolved at age 7",
+       "born 2008–2009 (into the crisis): 94.4% not yet dissolved at age 8",
+       "born 2008–2009 (into the crisis): 93.8% not yet dissolved at age 9",
+       "born 2008–2009 (into the crisis): 93.4% not yet dissolved at age 10",
+       "born 2008–2009 (into the crisis): 92.9% not yet dissolved at age 11",
+       "born 2008–2009 (into the crisis): 92.5% not yet dissolved at age 12",
+       "born 2008–2009 (into the crisis): 92.1% not yet dissolved at age 13",
+       "born 2008–2009 (into the crisis): 91.7% not yet dissolved at age 14",
+       "born 2008–2009 (into the crisis): 91.3% not yet dissolved at age 15",
+       "born 2008–2009 (into the crisis): 90.9% not yet dissolved at age 16",
+       "born 2008–2009 (into the crisis): 90.6% not yet dissolved at age 17"
+      ]
+     },
+     {
+      "backgroundColor": "#2e6fb0",
+      "borderColor": "#2e6fb0",
+      "borderWidth": 2.5,
+      "data": [
+       100.0,
+       99.97,
+       99.69,
+       99.25,
+       98.75,
+       98.25,
+       97.77,
+       97.33
+      ],
+      "fill": false,
+      "label": "born 2010–2019 (recovery) · insolvency",
+      "pointRadius": 0,
+      "tension": 0.1,
+      "tips": [
+       "born 2010–2019 (recovery): 100.0% still trading at age 0",
+       "born 2010–2019 (recovery): 100.0% still trading at age 1",
+       "born 2010–2019 (recovery): 99.7% still trading at age 2",
+       "born 2010–2019 (recovery): 99.2% still trading at age 3",
+       "born 2010–2019 (recovery): 98.8% still trading at age 4",
+       "born 2010–2019 (recovery): 98.2% still trading at age 5",
+       "born 2010–2019 (recovery): 97.8% still trading at age 6",
+       "born 2010–2019 (recovery): 97.3% still trading at age 7"
+      ]
+     },
+     {
+      "backgroundColor": "#2e6fb0",
+      "borderColor": "#2e6fb0",
+      "borderDash": [
+       4,
+       3
+      ],
+      "borderWidth": 1.5,
+      "data": [
+       100.0,
+       99.96,
+       99.63,
+       99.07,
+       98.37,
+       97.65,
+       96.97,
+       96.32
+      ],
+      "fill": false,
+      "label": "born 2010–2019 (recovery) · any exit",
+      "pointRadius": 0,
+      "tension": 0.1,
+      "tips": [
+       "born 2010–2019 (recovery): 100.0% not yet dissolved at age 0",
+       "born 2010–2019 (recovery): 100.0% not yet dissolved at age 1",
+       "born 2010–2019 (recovery): 99.6% not yet dissolved at age 2",
+       "born 2010–2019 (recovery): 99.1% not yet dissolved at age 3",
+       "born 2010–2019 (recovery): 98.4% not yet dissolved at age 4",
+       "born 2010–2019 (recovery): 97.7% not yet dissolved at age 5",
+       "born 2010–2019 (recovery): 97.0% not yet dissolved at age 6",
+       "born 2010–2019 (recovery): 96.3% not yet dissolved at age 7"
+      ]
+     },
+     {
+      "backgroundColor": "#2a8f86",
+      "borderColor": "#2a8f86",
+      "borderWidth": 2.5,
+      "data": [
+       100.0,
+       99.99,
+       99.91,
+       99.69,
+       99.38
+      ],
+      "fill": false,
+      "label": "born 2020–2022 (pandemic onward) · insolvency",
+      "pointRadius": 0,
+      "tension": 0.1,
+      "tips": [
+       "born 2020–2022 (pandemic onward): 100.0% still trading at age 0",
+       "born 2020–2022 (pandemic onward): 100.0% still trading at age 1",
+       "born 2020–2022 (pandemic onward): 99.9% still trading at age 2",
+       "born 2020–2022 (pandemic onward): 99.7% still trading at age 3",
+       "born 2020–2022 (pandemic onward): 99.4% still trading at age 4"
+      ]
+     },
+     {
+      "backgroundColor": "#2a8f86",
+      "borderColor": "#2a8f86",
+      "borderDash": [
+       4,
+       3
+      ],
+      "borderWidth": 1.5,
+      "data": [
+       100.0,
+       99.99,
+       99.88,
+       99.6,
+       99.22
+      ],
+      "fill": false,
+      "label": "born 2020–2022 (pandemic onward) · any exit",
+      "pointRadius": 0,
+      "tension": 0.1,
+      "tips": [
+       "born 2020–2022 (pandemic onward): 100.0% not yet dissolved at age 0",
+       "born 2020–2022 (pandemic onward): 100.0% not yet dissolved at age 1",
+       "born 2020–2022 (pandemic onward): 99.9% not yet dissolved at age 2",
+       "born 2020–2022 (pandemic onward): 99.6% not yet dissolved at age 3",
+       "born 2020–2022 (pandemic onward): 99.2% not yet dissolved at age 4"
+      ]
+     }
+    ],
+    "labels": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12",
+     "13",
+     "14",
+     "15",
+     "16",
+     "17",
+     "18",
+     "19"
+    ]
+   },
+   "options": {
+    "interaction": {
+     "intersect": false,
+     "mode": "index"
+    },
+    "maintainAspectRatio": false,
+    "plugins": {
+     "legend": {
+      "align": "end",
+      "labels": {
+       "boxWidth": 8,
+       "usePointStyle": true
+      },
+      "position": "top"
+     }
+    },
+    "responsive": true,
+    "scales": {
+     "x": {
+      "grid": {
+       "display": false
+      },
+      "ticks": {
+       "maxTicksLimit": 11
+      },
+      "title": {
+       "display": true,
+       "text": "years since incorporation"
+      }
+     },
+     "y": {
+      "grid": {
+       "color": "#eceae4"
+      },
+      "max": 100,
+      "min": 85,
+      "ticks": {
+       "stepSize": 5
+      },
+      "title": {
+       "display": true,
+       "text": "% still trading"
+      }
+     }
+    }
+   },
+   "tickLabels": {
+    "y": {
+     "100": "100%",
+     "85": "85%",
+     "90": "90%",
+     "95": "95%"
+    }
+   },
+   "type": "line"
+  },
+  "c_tech": {
+   "data": {
+    "datasets": [
+     {
+      "backgroundColor": "#2e6fb0",
+      "borderRadius": 3,
+      "data": [
+       31.8,
+       11.7,
+       10.8,
+       10.7,
+       9.2,
+       8.9,
+       6.4,
+       3.6,
+       2.4,
+       2.2,
+       2.2
+      ],
+      "label": "S&P 500",
+      "tips": [
+       "S&P 500: 31.8%",
+       "S&P 500: 11.7%",
+       "S&P 500: 10.8%",
+       "S&P 500: 10.7%",
+       "S&P 500: 9.2%",
+       "S&P 500: 8.9%",
+       "S&P 500: 6.4%",
+       "S&P 500: 3.6%",
+       "S&P 500: 2.4%",
+       "S&P 500: 2.2%",
+       "S&P 500: 2.2%"
+      ]
+     },
+     {
+      "backgroundColor": "#c8860a",
+      "borderRadius": 3,
+      "data": [
+       1.0,
+       12.3,
+       7.0,
+       18.7,
+       3.5,
+       12.6,
+       17.6,
+       11.3,
+       1.1,
+       10.3,
+       4.7
+      ],
+      "label": "FTSE 100",
+      "tips": [
+       "FTSE 100: 1.0%",
+       "FTSE 100: 12.3%",
+       "FTSE 100: 7.0%",
+       "FTSE 100: 18.7%",
+       "FTSE 100: 3.5%",
+       "FTSE 100: 12.6%",
+       "FTSE 100: 17.6%",
+       "FTSE 100: 11.3%",
+       "FTSE 100: 1.1%",
+       "FTSE 100: 10.3%",
+       "FTSE 100: 4.7%"
+      ]
+     }
+    ],
+    "labels": [
+     "Information Technology",
+     "Health Care",
+     "Consumer Discretionary",
+     "Financials",
+     "Communication Services",
+     "Industrials",
+     "Consumer Staples",
+     "Energy",
+     "Real Estate",
+     "Materials",
+     "Utilities"
+    ]
+   },
+   "options": {
+    "indexAxis": "y",
+    "maintainAspectRatio": false,
+    "plugins": {
+     "legend": {
+      "align": "end",
+      "labels": {
+       "boxWidth": 8,
+       "usePointStyle": true
+      },
+      "position": "top"
+     }
+    },
+    "responsive": true,
+    "scales": {
+     "x": {
+      "grid": {
+       "color": "#eceae4"
+      },
+      "max": 40,
+      "min": 0,
+      "ticks": {
+       "stepSize": 10
+      },
+      "title": {
+       "display": true,
+       "text": "share of index market value, 2023 (%)"
+      }
+     },
+     "y": {
+      "grid": {
+       "display": false
+      }
+     }
+    }
+   },
+   "tickLabels": {
+    "x": {
+     "0": "0%",
+     "10": "10%",
+     "20": "20%",
+     "30": "30%",
+     "40": "40%"
+    }
+   },
+   "type": "bar"
+  },
+  "c_vg": {
+   "data": {
+    "datasets": [
+     {
+      "backgroundColor": [
+       "#2e6fb0",
+       "#c8860a"
+      ],
+      "borderRadius": 5,
+      "data": [
+       1.12,
+       0.69
+      ],
+      "tips": [
+       "Market-to-book: 1.12×",
+       "Market-to-book: 0.69×"
+      ]
+     }
+    ],
+    "labels": [
+     "S&P 500",
+     "FTSE 100"
+    ]
+   },
+   "options": {
+    "maintainAspectRatio": false,
+    "plugins": {
+     "legend": {
+      "display": false
+     }
+    },
+    "responsive": true,
+    "scales": {
+     "x": {
+      "grid": {
+       "display": false
+      }
+     },
+     "y": {
+      "grid": {
+       "color": "#eceae4"
+      },
+      "max": 1.5,
+      "min": 0,
+      "ticks": {
+       "stepSize": 0.5
+      },
+      "title": {
+       "display": true,
+       "text": "market value ÷ book assets, 2023 (×)"
+      }
+     }
+    }
+   },
+   "tickLabels": {
+    "y": {
+     "0": "0",
+     "0.5": "0.5×",
+     "1": "1×",
+     "1.5": "1.5×"
+    }
+   },
+   "type": "bar"
+  },
+  "c_young": {
+   "bands": [
+    {
+     "label": "global financial crisis",
+     "x0": 8.5,
+     "x1": 10.5
+    },
+    {
+     "label": "pandemic",
+     "x0": 20.5,
+     "x1": 21.5
+    }
+   ],
+   "data": {
+    "datasets": [
+     {
+      "backgroundColor": "rgba(181,67,47,.08)",
+      "borderColor": "#b5432f",
+      "borderWidth": 2.5,
+      "data": [
+       1.38,
+       1.101,
+       0.713,
+       1.047,
+       0.692,
+       0.581,
+       0.619,
+       0.834,
+       0.781,
+       1.002,
+       0.932,
+       0.675,
+       0.617,
+       0.526,
+       0.469,
+       0.405,
+       0.344,
+       0.305,
+       0.418,
+       0.372,
+       0.299,
+       0.192,
+       0.265,
+       0.368,
+       0.341,
+       0.263,
+       0.266
+      ],
+      "fill": true,
+      "label": "Rate (left)",
+      "pointRadius": 2,
+      "tension": 0.3,
+      "tips": [
+       "1.38% of firms aged five or under",
+       "1.10% of firms aged five or under",
+       "0.71% of firms aged five or under",
+       "1.05% of firms aged five or under",
+       "0.69% of firms aged five or under",
+       "0.58% of firms aged five or under",
+       "0.62% of firms aged five or under",
+       "0.83% of firms aged five or under",
+       "0.78% of firms aged five or under",
+       "1.00% of firms aged five or under",
+       "0.93% of firms aged five or under",
+       "0.68% of firms aged five or under",
+       "0.62% of firms aged five or under",
+       "0.53% of firms aged five or under",
+       "0.47% of firms aged five or under",
+       "0.41% of firms aged five or under",
+       "0.34% of firms aged five or under",
+       "0.30% of firms aged five or under",
+       "0.42% of firms aged five or under",
+       "0.37% of firms aged five or under",
+       "0.30% of firms aged five or under",
+       "0.19% of firms aged five or under",
+       "0.27% of firms aged five or under",
+       "0.37% of firms aged five or under",
+       "0.34% of firms aged five or under",
+       "0.26% of firms aged five or under",
+       "0.27% of firms aged five or under"
+      ],
+      "yAxisID": "y"
+     },
+     {
+      "backgroundColor": "#1f3864",
+      "borderColor": "#1f3864",
+      "borderWidth": 2,
+      "data": [
+       3139,
+       2943,
+       2174,
+       3932,
+       3346,
+       3238,
+       3963,
+       6185,
+       6862,
+       9559,
+       9397,
+       7632,
+       7880,
+       7488,
+       7340,
+       7175,
+       6781,
+       6531,
+       9467,
+       8878,
+       7437,
+       4934,
+       6941,
+       9730,
+       9238,
+       7069,
+       6071
+      ],
+      "fill": false,
+      "label": "Insolvencies (right)",
+      "pointRadius": 0,
+      "tension": 0.3,
+      "tips": [
+       "3,139 insolvencies of firms aged five or under",
+       "2,943 insolvencies of firms aged five or under",
+       "2,174 insolvencies of firms aged five or under",
+       "3,932 insolvencies of firms aged five or under",
+       "3,346 insolvencies of firms aged five or under",
+       "3,238 insolvencies of firms aged five or under",
+       "3,963 insolvencies of firms aged five or under",
+       "6,185 insolvencies of firms aged five or under",
+       "6,862 insolvencies of firms aged five or under",
+       "9,559 insolvencies of firms aged five or under",
+       "9,397 insolvencies of firms aged five or under",
+       "7,632 insolvencies of firms aged five or under",
+       "7,880 insolvencies of firms aged five or under",
+       "7,488 insolvencies of firms aged five or under",
+       "7,340 insolvencies of firms aged five or under",
+       "7,175 insolvencies of firms aged five or under",
+       "6,781 insolvencies of firms aged five or under",
+       "6,531 insolvencies of firms aged five or under",
+       "9,467 insolvencies of firms aged five or under",
+       "8,878 insolvencies of firms aged five or under",
+       "7,437 insolvencies of firms aged five or under",
+       "4,934 insolvencies of firms aged five or under",
+       "6,941 insolvencies of firms aged five or under",
+       "9,730 insolvencies of firms aged five or under",
+       "9,238 insolvencies of firms aged five or under",
+       "7,069 insolvencies of firms aged five or under",
+       "6,071 insolvencies of firms aged five or under"
+      ],
+      "yAxisID": "y1"
+     }
+    ],
+    "labels": [
+     "1999",
+     "2000",
+     "2001",
+     "2002",
+     "2003",
+     "2004",
+     "2005",
+     "2006",
+     "2007",
+     "2008",
+     "2009",
+     "2010",
+     "2011",
+     "2012",
+     "2013",
+     "2014",
+     "2015",
+     "2016",
+     "2017",
+     "2018",
+     "2019",
+     "2020",
+     "2021",
+     "2022",
+     "2023",
+     "2024",
+     "2025"
+    ]
+   },
+   "options": {
+    "interaction": {
+     "intersect": false,
+     "mode": "index"
+    },
+    "maintainAspectRatio": false,
+    "plugins": {
+     "legend": {
+      "align": "end",
+      "labels": {
+       "boxWidth": 8,
+       "usePointStyle": true
+      },
+      "position": "top"
+     }
+    },
+    "responsive": true,
+    "scales": {
+     "x": {
+      "grid": {
+       "display": false
+      }
+     },
+     "y": {
+      "grid": {
+       "color": "#eceae4"
+      },
+      "max": 1.5,
+      "min": 0,
+      "ticks": {
+       "stepSize": 0.5
+      },
+      "title": {
+       "display": true,
+       "text": "% of firms aged five or under"
+      }
+     },
+     "y1": {
+      "grid": {
+       "display": false
+      },
+      "max": 10000,
+      "min": 0,
+      "position": "right",
+      "ticks": {
+       "stepSize": 2000
+      },
+      "title": {
+       "display": true,
+       "text": "insolvencies"
+      }
+     }
+    }
+   },
+   "tickLabels": {
+    "y": {
+     "0": "0.0%",
+     "0.5": "0.5%",
+     "1": "1.0%",
+     "1.5": "1.5%"
+    },
+    "y1": {
+     "0": "0",
+     "10000": "10k",
+     "2000": "2k",
+     "4000": "4k",
+     "6000": "6k",
+     "8000": "8k"
+    }
+   },
+   "type": "line"
+  }
+ },
+ "figures": {
+  "age_median": "7 yrs",
+  "ch_dissolved": "250,467",
+  "ch_profiles": "263,600",
+  "churn_first_year": "2001",
+  "churn_ftse_mean": "11.1 per cent",
+  "churn_ftse_peak_count": "twenty-one",
+  "churn_ftse_peak_pct": "21.0 per cent",
+  "churn_ftse_peak_year": "2001",
+  "churn_ftse_size": "100",
+  "churn_last_year": "2024",
+  "churn_mirrored": "thirty-two",
+  "churn_observations": "forty-eight",
+  "churn_ratio": "2.4 times",
+  "churn_sp_mean": "4.6 per cent",
+  "churn_sp_peak_count": "thirty-eight",
+  "churn_sp_peak_pct": "7.6 per cent",
+  "churn_sp_peak_year": "2007",
+  "churn_sp_size": "500",
+  "conc_ftse_avg_pct": "44 per cent",
+  "conc_ftse_first_year": "2016",
+  "conc_ftse_last_year": "2024",
+  "conc_sp_first_pct": "21 per cent",
+  "conc_sp_first_year": "2009",
+  "conc_sp_last_pct": "34 per cent",
+  "conc_sp_last_year": "2023",
+  "cycle_crisis_value": "24,000",
+  "cycle_crisis_year": "2008",
+  "cycle_partial_month": "August",
+  "cycle_partial_year": "2026",
+  "cycle_recent_value": "25,500",
+  "cycle_recent_year": "2023",
+  "cycle_trough_year": "2020",
+  "div_base_total": "£73.0bn",
+  "div_base_year": "2007",
+  "div_last_gap": "34 per cent below",
+  "div_last_year": "2024",
+  "div_n": "33",
+  "div_second_cut_year": "2020",
+  "div_trough_phrase": "fell by roughly half",
+  "div_trough_year": "2010",
+  "dq_ceiling": "12 per cent",
+  "dq_dropped_count": "four",
+  "dq_dropped_years": "2013, 2019, 2021, 2024",
+  "earn_base": "$575m",
+  "earn_base_year": "2007",
+  "earn_crisis_phrase": "fell by roughly three-fifths",
+  "earn_gap": "83 per cent above",
+  "earn_last": "$1,051m",
+  "earn_last_year": "2025",
+  "earn_trough": "$238m",
+  "earn_trough_year": "2009",
+  "entry_change": "fell by roughly half",
+  "entry_first_pct": "11.3 per cent",
+  "entry_first_year": "1999",
+  "entry_last_pct": "5.9 per cent",
+  "entry_last_year": "2024",
+  "entry_peak_pct": "20.4 per cent",
+  "entry_peak_year": "2003",
+  "exitmix_first_pct": "99 per cent",
+  "exitmix_first_year": "1999",
+  "exitmix_last_pct": "74 per cent",
+  "exitmix_last_year": "2025",
+  "exitmix_low_pct": "48 per cent",
+  "exitmix_low_year": "2020",
+  "fsec_faller": "consumer staples",
+  "fsec_faller_first": "20 per cent",
+  "fsec_faller_last": "11 per cent",
+  "fsec_first_year": "1983",
+  "fsec_it_avg": "2 per cent",
+  "fsec_last_year": "2024",
+  "fsec_riser": "industrials",
+  "fsec_riser_first": "13 per cent",
+  "fsec_riser_last": "18 per cent",
+  "geo_second_region": "South East",
+  "geo_third_region": "North West",
+  "geo_top_pct": "32 per cent",
+  "geo_top_region": "London",
+  "geo_unmapped_pct": "36 per cent",
+  "gva_ceiling": "£10bn",
+  "gva_computable_pct": "0.17 per cent",
+  "gva_excluded": "two",
+  "head_constituents": "1,646",
+  "head_firm_years": "39.4M",
+  "head_gazette": "1.0M",
+  "head_uk_firms": "7.9M",
+  "heat_cell_km": "4 km",
+  "heat_cells": "11,274",
+  "heat_max": "332,926",
+  "heat_top_decile_share": "81 per cent",
+  "ind_count": "45",
+  "ind_median_pct": "2.0 per cent",
+  "ind_min_firms": "20,000",
+  "ind_ratio": "4.6 times",
+  "ind_top1_name": "Licensed restaurants",
+  "ind_top1_pct": "9.2 per cent",
+  "ind_top2_name": "Public houses and bars",
+  "ind_top2_pct": "7.7 per cent",
+  "map_gva_areas": "316",
+  "map_gva_head_name": "City of London",
+  "map_gva_head_value": "£901,129",
+  "map_gva_min_firms": "50",
+  "map_gva_prod_name": "City of London",
+  "map_gva_prod_value": "£85k",
+  "map_gva_second_name": "Westminster",
+  "map_gva_second_value": "£12.0bn",
+  "map_gva_top_name": "City of London",
+  "map_gva_top_value": "£14.1bn",
+  "map_itl_areas": "182",
+  "map_itl_pc_top_name": "Westminster and City of London",
+  "map_itl_pc_top_value": "1,019",
+  "map_itl_top_name": "Westminster and City of London",
+  "map_itl_top_value": "232,342",
+  "map_lad_areas": "361",
+  "map_lad_top_name": "Camden",
+  "map_lad_top_value": "168,225",
+  "map_lad_worst_name": "Cheltenham",
+  "map_lad_worst_rate": "17.5 per cent",
+  "map_match_pct": "98 per cent",
+  "map_msoa_areas": "7,264",
+  "map_msoa_company_pct": "93 per cent",
+  "map_msoa_top_name": "Camden 028",
+  "map_msoa_top_value": "114,733",
+  "map_msoa_worst_name": "Barnet 021",
+  "map_msoa_worst_rate": "68.7 per cent",
+  "map_pc_areas": "344",
+  "map_pc_median": "62",
+  "map_pc_missing": "19",
+  "map_pc_top_name": "City of London",
+  "map_pc_top_value": "4,214",
+  "mech_solvent_pct": "25 per cent",
+  "mech_top_label": "creditors' voluntary liquidation",
+  "mixt_solvent_peak": "14,474",
+  "mixt_solvent_peak_year": "2021",
+  "mixt_types": "five",
+  "panel_base_value": "£1.50 trillion",
+  "panel_base_year": "2007",
+  "panel_drop_pct": "44 per cent",
+  "panel_drop_year": "2008",
+  "panel_gap": "8 per cent below",
+  "panel_last_year": "2024",
+  "panel_n": "33",
+  "panel_start_year": "2001",
+  "panel_years_after": "seventeen",
+  "pulse_first_inc": "54,000",
+  "pulse_first_year": "1999",
+  "pulse_insolv_avg": "22,000",
+  "pulse_insolv_years": "2021–2025",
+  "pulse_multiple": "ninefold",
+  "pulse_peak_inc": "469,000",
+  "pulse_peak_year": "2023",
+  "quart_bottom_pct": "40.7 per cent",
+  "quart_events": "162",
+  "quart_ratio": "2.2 times",
+  "quart_top_pct": "18.5 per cent",
+  "quart_year_count": "eight",
+  "quart_years": "2016–2024",
+  "sec_ftse_it_pct": "1 per cent",
+  "sec_ftse_top1": "financials",
+  "sec_ftse_top2": "consumer staples",
+  "sec_ftse_top3": "industrials",
+  "sec_it_change": "rose by roughly three-quarters",
+  "sec_it_first_year": "2009",
+  "sec_sp_it_pct": "32 per cent",
+  "sec_year": "2023",
+  "size_pct_large": "3.0 per cent",
+  "size_pct_medium": "5.1 per cent",
+  "size_pct_micro": "3.1 per cent",
+  "size_pct_small": "5.3 per cent",
+  "size_pct_unknown": "13.1 per cent",
+  "snapshot_missing_pct": "82.5 per cent",
+  "surv_bands": "four",
+  "surv_first_five": "4.0 per cent",
+  "surv_max_age": "19",
+  "surv_oldest_age": "19",
+  "surv_oldest_anyexit": "13.9 per cent",
+  "surv_oldest_insolvency": "11.4 per cent",
+  "surv_oldest_label": "born 1999–2007 (pre-crisis)",
+  "vg_ftse_exfin": "0.90x",
+  "vg_ftse_fund_year": "2022",
+  "vg_ftse_it_pct": "1 per cent",
+  "vg_ftse_mb": "0.69 times",
+  "vg_ftse_n": "99",
+  "vg_sp_exfin": "1.29x",
+  "vg_sp_it_pct": "32 per cent",
+  "vg_sp_mb": "1.12 times",
+  "vg_year": "2023",
+  "young_crisis_count": "9,559",
+  "young_crisis_pct": "1.00 per cent",
+  "young_crisis_year": "2008",
+  "young_last_pct": "0.27 per cent",
+  "young_last_year": "2025",
+  "young_peak_count": "9,730",
+  "young_peak_count_year": "2022",
+  "young_trough_pct": "0.19 per cent",
+  "young_trough_year": "2020"
+ },
+ "meta": {
+  "built_at": "2026-08-26T19:27:04+01:00",
+  "complete_years": {
+   "gazette": [
+    1999,
+    2025
+   ],
+   "incorporations_to": 2024
+  },
+  "database": "business_dynamism_v2_20260824d.duckdb",
+  "database_built_at": "2026-08-20T16:54:51",
+  "database_note": "v2: + ftse100_consolidated (CH-register enriched), + sp500_consolidated, + sp500_sec_supplement; sp500_financials shares+source_urls filled from SEC EDGAR 2026-08-20",
+  "generator": "python/build_site_data.py",
+  "latest_notice": "2026-08-11"
+ },
+ "text": {
+  "head_constituents_label": "FTSE&nbsp;100 + S&amp;P&nbsp;500 constituents tracked",
+  "map_attribution": "Boundaries and postcode geography: Office for National Statistics, licensed under the Open Government Licence v3.0. Contains OS data &copy; Crown copyright and database right 2026."
+ }
+}

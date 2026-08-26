@@ -36,10 +36,27 @@ The DuckDB file is the portable, Claude-accessible mirror. UK tables join on **C
 `business_dynamism_report.html` (manager-facing), `analysis.html`, `database_explorer.html`,
 `findings.html`, `database_overview.html`, `entrant_analysis.html`.
 
+## 3b. Public site (`vercel_site/`)
+A self-contained static site, deploy-ready for Vercel. `python/build_site_data.py` queries the
+DuckDB and writes every figure, chart series, axis tick and prose number into
+`vercel_site/data/site.json`; `vercel_site/index.html` holds no numbers and does no arithmetic — it
+renders what the build produced. Sections follow the August 2026 visualisations
+review: survival curves by birth cohort, an age-specific hazard rate (invariant
+to how long a firm has existed), young-firm failure by the year it happened,
+entry rate as a ratio alongside the absolute count, index entrant share, the
+granular exit mix, recession shading on every time series, Tobin's Q framing for
+the valuation gap, and three choropleths (UK local authorities, England & Wales
+MSOAs, value added by area). Rebuild after any database change with
+`python python/build_site_data.py --verify` (the `--verify` flag is a wiring gate: it fails if the
+page references a figure the build did not produce, if a figure goes unused, if a canvas has no
+chart spec, or if any number has been hardcoded into the prose). Deploy notes: `vercel_site/README.md`.
+
 ## 4. Scripts (`python/`, `sql/`)
 `sql/01..12` build the derived spine on local Postgres. `python/` has the current tooling:
 `build_duckdb.py` (assemble the DB), `build_consolidated_csvs.py`, `sec_shares_provenance.py`,
 `build_entrant_analysis.py` + `build_entrant_chart.py` + `merge_adjudication.py`,
+`build_site_data.py` (the public site's back end: DuckDB → `vercel_site/data/*.json`),
+`fetch_ons_geography.py` (caches the ONS postcode directory + boundaries the maps need),
 `ch_api_extract.py` (CH dead-firm birth/death extractor), `ch_pdf_reader.py`/`ch_pdf_ocr_extract.py`
 (CH scanned-accounts OCR), `fmp_fetch.py`, `04_export_parquet.py`. `sync_and_rebuild.sh` pulls
 Neon→local and rebuilds; `deploy_ch_server.sh` deploys the CH extractor to a cloud VM.
@@ -77,6 +94,7 @@ separate US key space. Pre-XBRL (pre-2009) US and pre-2001 UK market data are st
 - `database/` — the canonical DuckDB + its `.zst` backup (NOTE: still in the old `business_shaamini/combined_dataset/` until tonight's bulk fetch finishes — see docs/CLEANUP_INSTRUCTIONS.md).
 - `deliverables/` — final outputs: `ftse_sources.xlsx`, `sp500_sources.xlsx`, per-parameter CSVs in `ftse/` and `sp500/`, finished analysis in `consolidated/`.
 - `reports/` — HTML views; open in a browser.
+- `vercel_site/` — the deploy-ready public site (static; every figure computed at build time).
 - `docs/` — specs and task briefs.
 - `source_inputs/` — raw inputs, uploaded agent files, worklists.
 - `python/`, `sql/` — code; `deploy_ch_server.sh`, `sync_and_rebuild.sh` — runners.

@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>UK Business Dynamism — evidence from the whole company population</title>
+<meta name="description" content="The corporate lifecycle at whole-population scale: every registered UK company, its filed accounts and its dissolution, with the FTSE 100 and S&amp;P 500 as additional layers."/>
+<link rel="icon" href="favicon.svg" type="image/svg+xml"/>
+<script src="vendor/chart.umd.min.js"></script>
+<style>
+:root{--bg:#f7f6f3;--ink:#1a1c22;--mut:#5c6270;--line:#e2e0da;--card:#ffffff;
+--navy:#1f3864;--blue:#2e6fb0;--teal:#2a8f86;--amber:#c8860a;--red:#b5432f;--green:#4a7a45;--panel:#f0efe9;}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;line-height:1.62;-webkit-font-smoothing:antialiased}
+.wrap{max-width:940px;margin:0 auto;padding:0 24px}
+h1,h2,.big{font-family:Georgia,"Times New Roman",serif}
+header{padding:76px 0 34px}
+.kick{color:var(--teal);font-weight:700;letter-spacing:.14em;text-transform:uppercase;font-size:12px;margin-bottom:16px}
+h1{font-size:40px;line-height:1.14;font-weight:700;letter-spacing:-.01em;max-width:20ch;color:var(--navy)}
+.sub{color:var(--mut);font-size:18px;margin-top:18px;max-width:60ch}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;margin:40px 0 0;background:var(--line);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+.stat{background:var(--card);padding:18px 16px}
+.stat b{display:block;font-size:25px;font-weight:700;font-family:Georgia,serif;color:var(--navy)}
+.stat span{color:var(--mut);font-size:12.5px}
+.part{margin-top:56px;padding-top:10px;border-top:2px solid var(--navy)}
+.part span{font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--navy)}
+section{padding:40px 0;border-top:1px solid var(--line)}
+.lab{font-size:12px;color:var(--amber);font-weight:700;letter-spacing:.06em;text-transform:uppercase;margin-bottom:9px}
+h2{font-size:26px;font-weight:700;letter-spacing:-.01em;max-width:24ch;color:var(--ink)}
+.ins{color:#33373f;font-size:16.5px;margin-top:13px;max-width:66ch}
+.ins b{color:var(--navy)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:20px 20px 12px;margin-top:22px}
+.box{position:relative;height:330px;overflow:hidden}
+.box canvas{max-width:100%}
+.row{display:grid;grid-template-columns:1fr 1.5fr;gap:26px;align-items:center}
+.big{font-size:58px;font-weight:700;color:var(--navy);line-height:1}
+.tag{color:var(--mut);font-size:14px;margin-top:6px}
+.note{color:#7a808c;font-size:12.5px;margin-top:11px;max-width:66ch;font-style:italic}
+footer{padding:44px 0 72px;color:var(--mut);font-size:13.5px;border-top:1px solid var(--line);margin-top:40px}
+footer b{color:var(--ink)}
+@media(max-width:720px){.stats{grid-template-columns:repeat(2,1fr)}h1{font-size:31px}.row{grid-template-columns:1fr}.big{font-size:46px}}
+.geotog{display:inline-flex;gap:6px;background:#eef1f5;border:1px solid var(--line);border-radius:999px;padding:4px;margin-top:6px}
+.geotog button{background:transparent;border:0;color:var(--mut);font:inherit;font-weight:700;font-size:13.5px;padding:6px 15px;border-radius:999px;cursor:pointer}
+.geotog button.on{background:var(--navy);color:#fff}
+.geotog button:focus-visible{outline:2px solid var(--navy);outline-offset:2px}
+.gap{color:var(--red);font-style:italic}
+.mapbox{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;margin-top:22px}
+.choropleth{display:block;margin:0 auto;width:auto;height:auto;max-width:100%;max-height:76vh}
+.choropleth path{stroke:#fff;stroke-width:.4;vector-effect:non-scaling-stroke}
+.density rect{shape-rendering:crispEdges}
+.legend{display:flex;flex-wrap:wrap;gap:9px 16px;align-items:center;margin-top:12px;font-size:12px;color:var(--mut)}
+.legend-title{font-weight:700;color:var(--ink);width:100%;letter-spacing:.02em}
+.legend-bin{display:inline-flex;align-items:center;gap:5px}
+.legend-bin i{width:15px;height:10px;border-radius:2px;display:inline-block;border:1px solid rgba(0,0,0,.08)}
+#err{margin:16px 0 0;padding:12px 14px;border:1px solid var(--red);border-radius:8px;background:#fdf3f1;color:var(--red);font-size:14px}
+</style></head><body><div class="wrap">
+
+<p id="err" role="alert" hidden></p>
+
+<header>
+  <div class="kick">Centre for British Progress</div>
+  <h1>The corporate lifecycle at whole-population scale</h1>
+  <p class="sub">Every registered United Kingdom company, its filed accounts and the circumstances of its dissolution, with FTSE&nbsp;100 and S&amp;P&nbsp;500 constituents as additional layers. Coverage is of the population, not a sample.</p>
+  <div class="stats">
+    <div class="stat"><b data-f="head_uk_firms"></b><span>UK companies</span></div>
+    <div class="stat"><b data-f="head_firm_years"></b><span>firm-year records</span></div>
+    <div class="stat"><b data-f="head_constituents"></b><span data-t="head_constituents_label"></span></div>
+    <div class="stat"><b data-f="head_gazette"></b><span>Gazette notices</span></div>
+  </div>
+</header>
+
+<div class="part"><span>Part I &middot; The population</span></div>
+
+<section>
+  <div class="lab">Companies House &amp; the London Gazette</div>
+  <h2>Company formation and dissolution</h2>
+  <p class="ins">Annual incorporations rose from <b><span data-f="pulse_first_inc"></span></b> in <b><span data-f="pulse_first_year"></span></b> to <b><span data-f="pulse_peak_inc"></span></b> in <b><span data-f="pulse_peak_year"></span></b>, a <span data-f="pulse_multiple"></span> increase. Recorded insolvencies averaged <b><span data-f="pulse_insolv_avg"></span></b> a year over <span data-f="pulse_insolv_years"></span>.</p>
+  <div class="card"><div class="box"><canvas id="c_pulse" role="img" aria-label="Annual incorporations against annual insolvencies"></canvas></div></div>
+  <p class="note">Insolvencies are formal insolvent procedures recorded in the London Gazette; solvent liquidations and voluntary strike-offs are excluded. Incorporations run to the last complete year in the register snapshot. Shaded bands mark UK technical recessions.</p>
+</section>
+
+<section>
+  <div class="lab">Companies House &middot; entry rate</div>
+  <h2>Entry rate</h2>
+  <p class="ins">New companies as a share of the active stock <b><span data-f="entry_change"></span></b>, from <span data-f="entry_first_pct"></span> in <span data-f="entry_first_year"></span> to <span data-f="entry_last_pct"></span> in <span data-f="entry_last_year"></span>; the maximum was <span data-f="entry_peak_pct"></span> in <span data-f="entry_peak_year"></span>.</p>
+  <div class="card"><div class="box"><canvas id="c_entry" role="img" aria-label="Entry rate and absolute incorporations"></canvas></div></div>
+  <p class="note">Provisional. The active stock is cumulative incorporations less observed dissolutions; the dissolution record is incomplete, so the stock is overstated and the rate understated. The trend is more reliable than the level.</p>
+</section>
+
+<section>
+  <div class="lab">The London Gazette</div>
+  <h2>Routes to dissolution</h2>
+  <p class="ins">The most frequent route is <b><span data-f="mech_top_label"></span></b>. Solvent members&rsquo; voluntary liquidation accounts for <b><span data-f="mech_solvent_pct"></span></b> of winding-up notices.</p>
+  <div class="card"><div class="box" style="height:360px"><canvas id="c_mech" role="img" aria-label="Gazette notice counts by dissolution mechanism"></canvas></div></div>
+</section>
+
+<section>
+  <div class="lab">The London Gazette &middot; composition of exit</div>
+  <h2>Routes to dissolution over time</h2>
+  <p class="ins"><span data-f="mixt_types"></span> terminal notice types are distinguished. Solvent members&rsquo; voluntary liquidation peaked at <b><span data-f="mixt_solvent_peak"></span></b> notices in <span data-f="mixt_solvent_peak_year"></span>.</p>
+  <div class="card"><div class="box" style="height:330px"><canvas id="c_exit_types" role="img" aria-label="Gazette notices by dissolution mechanism over time"></canvas></div></div>
+</section>
+
+<section>
+  <div class="lab">Companies House &amp; the London Gazette</div>
+  <h2>Firm age at dissolution</h2>
+  <div class="row">
+    <div><div class="big" data-f="age_median"></div><div class="tag">median age at insolvency</div>
+      <p class="ins">Failure is concentrated in the years immediately following incorporation and declines thereafter among survivors.</p></div>
+    <div class="card"><div class="box" style="height:270px"><canvas id="c_age" role="img" aria-label="Distribution of firm age at insolvency"></canvas></div></div>
+  </div>
+</section>
+
+<section>
+  <div class="lab">Companies House &amp; the London Gazette &middot; geography</div>
+  <h2>Regional distribution</h2>
+  <p class="ins"><b><span data-f="geo_top_region"></span></b> accounts for <b><span data-f="geo_top_pct"></span></b> of mapped companies, followed by <span data-f="geo_second_region"></span> and <span data-f="geo_third_region"></span>. Insolvencies broadly track the distribution of registrations.</p>
+  <div style="text-align:center"><div class="geotog" data-toggle="c_geo" role="group" aria-label="Choose the measure to map"></div></div>
+  <div class="card"><div class="box" style="height:360px"><canvas id="c_geo" role="img" aria-label="Companies and insolvencies by region"></canvas></div></div>
+  <p class="note" style="text-align:center;max-width:520px;margin:8px auto 0">Region from the registered-office postcode; for dissolved companies, from the postcode in the Gazette notice. <span data-f="geo_unmapped_pct"></span> of insolvencies carry no mappable postcode. Scottish and Northern Irish insolvencies are under-counted, being notified in the Edinburgh and Belfast Gazettes.</p>
+</section>
+
+<section>
+  <div class="lab">Companies House &middot; geography</div>
+  <h2>Registrations by local authority</h2>
+  <p class="ins"><b><span data-f="map_match_pct"></span></b> of the register maps to one of <span data-f="map_lad_areas"></span> UK local authorities. <b><span data-f="map_lad_top_name"></span></b> holds the largest count, <span data-f="map_lad_top_value"></span>; <b><span data-f="map_lad_worst_name"></span></b> records the highest insolvency share, <span data-f="map_lad_worst_rate"></span>.</p>
+  <div data-map="map_lad.json">
+    <div style="text-align:center"><div class="geotog" data-map-toggle role="group" aria-label="Choose the measure to map"></div></div>
+    <div class="mapbox" data-map-figure></div>
+    <div class="legend" data-map-legend></div>
+  </div>
+  <p class="note">Counts and shares both reflect boundary size, so the third view normalises by population: <b><span data-f="map_pc_top_name"></span></b> has the most companies per head, <span data-f="map_pc_top_value"></span> per thousand residents against a median of <span data-f="map_pc_median"></span> across <span data-f="map_pc_areas"></span> authorities (<span data-f="map_pc_missing"></span> lack a population estimate and are unshaded). Companies are placed at their registered office, which need not be their place of trade: formation agents concentrate registrations at single addresses, raising both the count and the insolvency share of the districts concerned. <span data-t="map_attribution"></span></p>
+</section>
+
+<section>
+  <div class="lab">Companies House &middot; England and Wales by MSOA</div>
+  <h2>Registrations by Middle layer Super Output Area</h2>
+  <p class="ins"><b><span data-f="map_msoa_areas"></span></b> areas cover the <span data-f="map_msoa_company_pct"></span> of companies registered in England and Wales. <b><span data-f="map_msoa_top_name"></span></b> holds <span data-f="map_msoa_top_value"></span> registrations and <span data-f="map_msoa_worst_name"></span> an insolvency share of <span data-f="map_msoa_worst_rate"></span>; both reflect registered-office concentration rather than local trading conditions.</p>
+  <div data-map="map_msoa.json">
+    <div style="text-align:center"><div class="geotog" data-map-toggle role="group" aria-label="Choose the measure to map"></div></div>
+    <div class="mapbox" data-map-figure></div>
+    <div class="legend" data-map-legend></div>
+  </div>
+  <p class="note">Middle layer Super Output Areas are an England and Wales geography; Scotland uses Intermediate Zones and Northern Ireland Super Output Areas. The local-authority map covers the United Kingdom. <span data-t="map_attribution"></span></p>
+</section>
+
+<section>
+  <div class="lab">Companies House &middot; ITL3</div>
+  <h2>Registrations by ITL3 area</h2>
+  <p class="ins">Local authorities differ enormously in extent: a London borough and a rural county are the same kind of unit on the map but not on the ground. ITL3, the geography that replaced NUTS3 in the UK, aggregates to <b><span data-f="map_itl_areas"></span></b> larger and more comparable areas. <b><span data-f="map_itl_top_name"></span></b> holds the most registrations at <span data-f="map_itl_top_value"></span>; per head of population the highest is <b><span data-f="map_itl_pc_top_name"></span></b> at <span data-f="map_itl_pc_top_value"></span> companies per thousand residents.</p>
+  <div data-map="map_itl3.json">
+    <div style="text-align:center"><div class="geotog" data-map-toggle role="group" aria-label="Choose the measure to map"></div></div>
+    <div class="mapbox" data-map-figure></div>
+    <div class="legend" data-map-legend></div>
+  </div>
+  <p class="note">Aggregated from local authorities using the ONS ITL lookup. Population estimates cover Great Britain; Northern Ireland is unshaded on the per-capita view rather than estimated. <span data-t="map_attribution"></span></p>
+</section>
+
+<section>
+  <div class="lab">Companies House &middot; density</div>
+  <h2>Company density on a fixed grid</h2>
+  <p class="ins">A choropleth&rsquo;s colour depends partly on the size of the boundary it fills, which flatters large rural authorities and dilutes dense small ones. On a fixed grid of <b><span data-f="heat_cell_km"></span></b> cells every unit is the same size on the ground, so the pattern follows where companies are registered rather than how the administrative map is drawn. <span data-f="heat_cells"></span> cells are occupied; the densest holds <b><span data-f="heat_max"></span></b> registrations, and the busiest tenth of cells accounts for <b><span data-f="heat_top_decile_share"></span></b> of the register.</p>
+  <div data-map="map_heat.json" data-heat>
+    <div class="mapbox" data-map-figure></div>
+    <div class="legend" data-map-legend></div>
+  </div>
+  <p class="note">Each cell is coloured by the number of companies whose registered postcode falls inside it. Cell size is uniform in projected space, so no boundary geography enters the picture. <span data-t="map_attribution"></span></p>
+</section>
+
+<div class="part"><span>Part II &middot; Dynamics of failure</span></div>
+
+<section>
+  <div class="lab">The London Gazette</div>
+  <h2>Insolvency and the economic cycle</h2>
+  <p class="ins">Insolvencies peaked at <b><span data-f="cycle_crisis_value"></span></b> in <span data-f="cycle_crisis_year"></span>, fell to their lowest recent level in <span data-f="cycle_trough_year"></span> under government support measures, and reached <b><span data-f="cycle_recent_value"></span></b> in <span data-f="cycle_recent_year"></span>.</p>
+  <div class="card"><div class="box"><canvas id="c_cycle" role="img" aria-label="Annual insolvencies over time"></canvas></div></div>
+  <p class="note">The pandemic recession leaves no mark: insolvencies fell to their lowest level of the period during the deepest contraction on record, so a downturn is not identifiable from this series alone. <span data-f="cycle_partial_year"></span> (to <span data-f="cycle_partial_month"></span>) is a partial year. The insolvent-only series validates to within a few per cent of Insolvency Service totals.</p>
+</section>
+
+<section>
+  <div class="lab">The London Gazette &middot; composition of exit</div>
+  <h2>Insolvent share of dated exits</h2>
+  <p class="ins">The insolvent share fell from <b><span data-f="exitmix_first_pct"></span></b> in <span data-f="exitmix_first_year"></span> to <b><span data-f="exitmix_low_pct"></span></b> in <span data-f="exitmix_low_year"></span>, then rose to <b><span data-f="exitmix_last_pct"></span></b> in <span data-f="exitmix_last_year"></span>. The decline reflects a tax-driven increase in solvent members&rsquo; voluntary liquidations.</p>
+  <div class="card"><div class="box" style="height:290px"><canvas id="c_exitmix" role="img" aria-label="Insolvent share of dated company exits"></canvas></div></div>
+  <p class="note">The extract covers insolvency procedures &mdash; winding-up, administration, receivership &mdash; and not strike-off, which is the larger route out of the register: it is a subset of dissolution, not a census of it. Solvent and insolvent notices are also captured differently, so the split is indicative of the trend rather than exact.</p>
+</section>
+
+<section>
+  <div class="lab">Companies House &amp; the London Gazette &middot; survival analysis</div>
+  <h2>Survival by birth cohort</h2>
+  <p class="ins">Of the <b><span data-f="surv_oldest_label"></span></b> cohort, <b><span data-f="surv_oldest_insolvency"></span></b> had failed by age <span data-f="surv_oldest_age"></span> and <b><span data-f="surv_oldest_anyexit"></span></b> had left the register by any route. <span data-f="surv_first_five"></span> failed within five years.</p>
+  <div class="card"><div class="box" style="height:380px"><canvas id="c_survival" role="img" aria-label="Survival curves by birth cohort"></canvas></div></div>
+  <p class="note">Kaplan-Meier estimates for <span data-f="surv_bands"></span> cohorts, right-censored at the last complete Gazette year; each curve ends at the oldest age its whole cohort has been observed to reach, at most <span data-f="surv_max_age"></span> years. <b>Solid lines count insolvency only; dashed lines count any exit</b> &mdash; insolvency plus solvent liquidation and dissolution &mdash; so the gap between a cohort&rsquo;s two lines is the share that left the register without failing.</p>
+  <p class="note">Later cohorts sit above earlier ones, but this should not yet be read as companies surviving longer. The register snapshot carries no dissolution record at all: <b><span data-f="snapshot_missing_pct"></span></b> of companies with a dated Gazette dissolution are absent from it, and the shortfall is largest for the oldest dissolutions. Part of the apparent improvement is therefore missing deaths rather than longer lives; the Companies House extraction described at the foot of this page is what will separate the two.</p>
+</section>
+
+<section>
+  <div class="lab">Companies House &amp; the London Gazette</div>
+  <h2>Insolvency rate by size band</h2>
+  <p class="ins">Rates are hump-shaped in firm size: <b><span data-f="size_pct_small"></span></b> for small and <b><span data-f="size_pct_medium"></span></b> for medium companies, against <span data-f="size_pct_micro"></span> for micro and <span data-f="size_pct_large"></span> for large.</p>
+  <div class="card"><div class="box" style="height:280px"><canvas id="c_size" role="img" aria-label="Share of firms ever insolvent, by size band"></canvas></div></div>
+  <p class="note">Companies without usable accounts (<span data-f="size_pct_unknown"></span>) are excluded: the elevated rate is treated as a distress signal rather than a size category.</p>
+</section>
+
+<section>
+  <div class="lab">Companies House &amp; the London Gazette</div>
+  <h2>Insolvency rate by industry</h2>
+  <p class="ins"><b><span data-f="ind_top1_name"></span></b> (<span data-f="ind_top1_pct"></span>) and <b><span data-f="ind_top2_name"></span></b> (<span data-f="ind_top2_pct"></span>) record the highest rates, approximately <span data-f="ind_ratio"></span> the median of <span data-f="ind_median_pct"></span> across the <span data-f="ind_count"></span> industries with at least <span data-f="ind_min_firms"></span> companies.</p>
+  <div class="card"><div class="box" style="height:300px"><canvas id="c_ind" role="img" aria-label="Insolvency rate by industry"></canvas></div></div>
+</section>
+
+<section>
+  <div class="lab">Companies House &amp; the London Gazette</div>
+  <h2>Failure among companies aged five or under</h2>
+  <p class="ins">The failure rate peaked at <b><span data-f="young_crisis_pct"></span></b> in <span data-f="young_crisis_year"></span> (<span data-f="young_crisis_count"></span> insolvencies), fell to a minimum of <span data-f="young_trough_pct"></span> in <span data-f="young_trough_year"></span>, and stood at <span data-f="young_last_pct"></span> in <span data-f="young_last_year"></span>. The absolute count peaked later, at <b><span data-f="young_peak_count"></span></b> in <span data-f="young_peak_count_year"></span>, reflecting growth in the young-firm population.</p>
+  <div class="card"><div class="box" style="height:300px"><canvas id="c_young" role="img" aria-label="Insolvencies of firms aged five or under, rate and count"></canvas></div></div>
+  <p class="note">Measured against all companies incorporated in the preceding six years.</p>
+</section>
+
+<section>
+  <div class="lab">Companies House &middot; Gross Value Added</div>
+  <h2>Value added by area</h2>
+  <p class="ins"><b><span data-f="map_gva_top_name"></span></b> accounts for <span data-f="map_gva_top_value"></span> and <span data-f="map_gva_second_name"></span> for <span data-f="map_gva_second_value"></span>. Measured per resident, <b><span data-f="map_gva_head_name"></span></b> leads at <span data-f="map_gva_head_value"></span>, and per employee <span data-f="map_gva_prod_name"></span> at <span data-f="map_gva_prod_value"></span> &mdash; normalising by population rather than by area, since a small dense authority and a large rural one are not comparable on a raw total.</p>
+  <div data-map="map_gva.json">
+    <div style="text-align:center"><div class="geotog" data-map-toggle role="group" aria-label="Choose the value-added measure"></div></div>
+    <div class="mapbox" data-map-figure></div>
+    <div class="legend" data-map-legend></div>
+  </div>
+  <p class="note">Value added is staff costs plus operating profit, computable for <span data-f="gva_computable_pct"></span> of the panel &mdash; the companies filing a full profit-and-loss &mdash; so the map describes large filers rather than the economy. Depreciation is unavailable in the panel, making the figures a lower bound. <span data-f="gva_excluded"></span> firm-years exceeding <span data-f="gva_ceiling"></span> were excluded as implausible. <span data-f="map_gva_areas"></span> authorities meet the <span data-f="map_gva_min_firms"></span> firm-year threshold; the remainder are unshaded. <span data-t="map_attribution"></span></p>
+</section>
+
+<div class="part"><span>Part III &middot; Listed firms and the crisis</span></div>
+
+<section>
+  <div class="lab">FTSE 100 &middot; balanced panel</div>
+  <h2>Aggregate value of a balanced FTSE 100 panel</h2>
+  <p class="ins">A balanced panel of <b><span data-f="panel_n"></span></b> constituents with unbroken market-capitalisation coverage since <span data-f="panel_start_year"></span> was worth <b><span data-f="panel_base_value"></span></b> in <span data-f="panel_base_year"></span>. Its aggregate value fell <b><span data-f="panel_drop_pct"></span></b> in <span data-f="panel_drop_year"></span> and stood <b><span data-f="panel_gap"></span></b> the pre-crisis level in <span data-f="panel_last_year"></span>, <span data-f="panel_years_after"></span> years later.</p>
+  <div class="card"><div class="box"><canvas id="c_panel" role="img" aria-label="Indexed aggregate market value of a balanced FTSE 100 panel"></canvas></div></div>
+  <p class="note">The panel contains only companies that survived and remained listed, and therefore understates the destruction of value.</p>
+</section>
+
+<section>
+  <div class="lab">FTSE 100 &middot; dividends</div>
+  <h2>Dividends of a balanced FTSE 100 panel</h2>
+  <p class="ins">A panel of <b><span data-f="div_n"></span></b> continuously listed constituents distributed <b><span data-f="div_base_total"></span></b> in <span data-f="div_base_year"></span>. Total dividends <b><span data-f="div_trough_phrase"></span></b> by <span data-f="div_trough_year"></span> and remained <b><span data-f="div_last_gap"></span></b> the pre-crisis level in <span data-f="div_last_year"></span>; a second reduction occurred in <span data-f="div_second_cut_year"></span>.</p>
+  <div class="card"><div class="box"><canvas id="c_div" role="img" aria-label="Indexed total dividends of a balanced FTSE 100 panel"></canvas></div></div>
+</section>
+
+<section>
+  <div class="lab">FTSE 100 &amp; S&amp;P 500 &middot; index turnover</div>
+  <h2>Index turnover as a share of constituents</h2>
+  <p class="ins">The FTSE 100 replaces <b><span data-f="churn_ftse_mean"></span></b> of its membership in an average year against the S&amp;P 500&rsquo;s <b><span data-f="churn_sp_mean"></span></b>, approximately <span data-f="churn_ratio"></span> the rate. In absolute terms the S&amp;P moves more constituents &mdash; <span data-f="churn_sp_peak_count"></span> at its <span data-f="churn_sp_peak_year"></span> peak against <span data-f="churn_ftse_peak_count"></span> &mdash; but holds <span data-f="churn_sp_size"></span> places to the FTSE&rsquo;s <span data-f="churn_ftse_size"></span>. Turnover peaked at <span data-f="churn_ftse_peak_pct"></span> in <span data-f="churn_ftse_peak_year"></span> and <span data-f="churn_sp_peak_pct"></span> in <span data-f="churn_sp_peak_year"></span>.</p>
+  <div class="card"><div class="box" style="height:330px"><canvas id="c_churn" role="img" aria-label="Index turnover as a share of each index"></canvas></div></div>
+  <p class="note">Entrants as a percentage of index size, <span data-f="churn_first_year"></span> to <span data-f="churn_last_year"></span>. Both indices hold a fixed number of constituents, so departures mirror arrivals: the two are identical in <span data-f="churn_mirrored"></span> of <span data-f="churn_observations"></span> index-years.</p>
+</section>
+
+<section>
+  <div class="lab">FTSE 100 &middot; turnover by value</div>
+  <h2>Where index turnover happens</h2>
+  <p class="ins">An aggregate turnover rate says nothing about which constituents leave. Ranking each year&rsquo;s index by market capitalisation, <b><span data-f="quart_bottom_pct"></span></b> of departures come from the smallest quarter of the index against <b><span data-f="quart_top_pct"></span></b> from the largest, roughly <span data-f="quart_ratio"></span> the rate. Turnover is concentrated at the bottom of the index rather than spread across it.</p>
+  <div class="card"><div class="box" style="height:290px"><canvas id="c_quartile" role="img" aria-label="Share of FTSE 100 departures by market-capitalisation quartile"></canvas></div></div>
+  <p class="note"><span data-f="quart_events"></span> departures across the <span data-f="quart_year_count"></span> years in which every constituent carries a market capitalisation (<span data-f="quart_years"></span>); earlier years cannot be ranked because coverage is incomplete.</p>
+</section>
+
+<section>
+  <div class="lab">S&amp;P 500 &middot; earnings</div>
+  <h2>Median net income of S&amp;P 500 constituents</h2>
+  <p class="ins">Median net income was <b><span data-f="earn_base"></span></b> in <span data-f="earn_base_year"></span>, <b><span data-f="earn_crisis_phrase"></span></b> to <b><span data-f="earn_trough"></span></b> in <span data-f="earn_trough_year"></span>, and reached <b><span data-f="earn_last"></span></b> by <span data-f="earn_last_year"></span> &mdash; <span data-f="earn_gap"></span> the pre-crisis level.</p>
+  <div class="card"><div class="box"><canvas id="c_earn" role="img" aria-label="Median net income of S and P 500 constituents"></canvas></div></div>
+</section>
+
+<section>
+  <div class="lab">S&amp;P 500 &middot; industry composition</div>
+  <h2>Sector composition of index market value</h2>
+  <p class="ins">In <span data-f="sec_year"></span> information technology accounted for <b><span data-f="sec_sp_it_pct"></span></b> of S&amp;P 500 market value against <b><span data-f="sec_ftse_it_pct"></span></b> of the FTSE 100, whose largest sectors are <span data-f="sec_ftse_top1"></span>, <span data-f="sec_ftse_top2"></span> and <span data-f="sec_ftse_top3"></span>. The S&amp;P technology share <span data-f="sec_it_change"></span> from the start of the market-capitalisation record in <span data-f="sec_it_first_year"></span>.</p>
+  <div class="card"><div class="box" style="height:440px"><canvas id="c_tech" role="img" aria-label="Sector shares of index market value, S and P 500 against FTSE 100"></canvas></div></div>
+  <p class="note">Years in which one constituent exceeds <span data-f="dq_ceiling"></span> of index value are excluded from every share-of-total measure, that being the signature of a share count not adjusted for a stock split: <span data-f="dq_dropped_count"></span> years in all (<span data-f="dq_dropped_years"></span>).</p>
+</section>
+
+<section>
+  <div class="lab">FTSE 100 &middot; index structure</div>
+  <h2>FTSE 100 sector composition over time</h2>
+  <p class="ins">Information technology has averaged <b><span data-f="fsec_it_avg"></span></b> of FTSE 100 membership since <span data-f="fsec_first_year"></span>, without trend. Over the same period <span data-f="fsec_faller"></span> contracted from <span data-f="fsec_faller_first"></span> to <span data-f="fsec_faller_last"></span> and <span data-f="fsec_riser"></span> expanded from <span data-f="fsec_riser_first"></span> to <span data-f="fsec_riser_last"></span> by <span data-f="fsec_last_year"></span>.</p>
+  <div class="card"><div class="box"><canvas id="c_ftsesec" role="img" aria-label="Sector shares of FTSE 100 membership over time"></canvas></div></div>
+  <p class="note">Every constituent classified by hand; the statutory codes are holding-company dominated.</p>
+</section>
+
+<section>
+  <div class="lab">FTSE 100 &times; S&amp;P 500 &middot; Tobin&rsquo;s Q</div>
+  <h2>Tobin&rsquo;s Q in the two indices</h2>
+  <p class="ins">In <span data-f="vg_year"></span> the median S&amp;P 500 constituent traded at <b><span data-f="vg_sp_mb"></span></b> the book value of its assets, against <b><span data-f="vg_ftse_mb"></span></b> for the FTSE 100. Information technology accounts for <span data-f="vg_sp_it_pct"></span> of S&amp;P 500 market value and <span data-f="vg_ftse_it_pct"></span> of the FTSE 100&rsquo;s, indicating that the gap is substantially one of technology concentration. After Becker, Benmelech and Monteiro (2026).</p>
+  <div class="card"><div class="box" style="height:300px"><canvas id="c_vg" role="img" aria-label="Median market-to-book ratio, S and P 500 against FTSE 100"></canvas></div></div>
+  <p class="note">A Tobin&rsquo;s-Q proxy: market value divided by total assets, confined to the leading indices. The gap survives the exclusion of financials (S&amp;P <span data-f="vg_sp_exfin"></span> against FTSE <span data-f="vg_ftse_exfin"></span>). The FTSE figure rests on the <span data-f="vg_ftse_n"></span> constituents carrying total-assets data, fundamentals being available from <span data-f="vg_ftse_fund_year"></span>.</p>
+</section>
+
+<section>
+  <div class="lab">S&amp;P 500 &amp; FTSE 100 &middot; concentration</div>
+  <h2>Top-ten share of index value</h2>
+  <p class="ins">The ten largest S&amp;P 500 constituents accounted for <b><span data-f="conc_sp_first_pct"></span></b> of index value in <span data-f="conc_sp_first_year"></span> and <b><span data-f="conc_sp_last_pct"></span></b> in <span data-f="conc_sp_last_year"></span>. The FTSE 100 top ten averaged <b><span data-f="conc_ftse_avg_pct"></span></b> across <span data-f="conc_ftse_first_year"></span> to <span data-f="conc_ftse_last_year"></span>.</p>
+  <div class="card"><div class="box"><canvas id="c_conc" role="img" aria-label="Top-ten share of index value, S and P 500 against FTSE 100"></canvas></div></div>
+  <p class="note"><b>Provisional.</b> The UK figure exceeds the US throughout and rests on this project&rsquo;s own index-composition record; it has not been reconciled against an independent market-data source. Only years in which the market-capitalisation record covers almost every constituent are shown.</p>
+</section>
+
+<section>
+  <div class="lab">Forthcoming &middot; declining business dynamism</div>
+  <h2>Entry rates and the age structure of the population</h2>
+  <p class="ins">Whether entry rates are falling and the firm population ageing, as documented for the United States, requires knowing which companies are still trading. The dissolution record is incomplete: dissolved companies are not always marked as such, and the earliest years under-observe long-lived firms.</p>
+  <p class="ins">An extraction from the Companies House API is addressing this, recovering incorporation date, dissolution date, status and industry for every dissolved or former company. <b><span data-f="ch_profiles"></span></b> company profiles have been retrieved, <span data-f="ch_dissolved"></span> carrying a dissolution date.</p>
+</section>
+
+<footer>
+  Sources: <b>Companies House</b> (register and accounts) and <b>The London Gazette</b> (insolvency notices), joined on company number; <b>S&amp;P</b> and <b>FTSE</b> constituent and financial data. Insolvency denotes distress exits; solvent liquidations are excluded. Rates are computed among observed companies, and the age, industry, size and cohort contrasts are the robust signal. Every figure is computed from the database at build time; none is written into the page.
+</footer>
+
+</div>
+<script src="app.js"></script>
+</body></html>

@@ -7,6 +7,10 @@ database/*.wal
 # NOTE: source_inputs/ and reports/ are intentionally COMMITTED (kept in the repo).
 # Only the multi-GB database binaries above are excluded (GitHub's 100 MB limit).
 
+# ── ONS geography cache (build input for the maps; regenerate with
+#    python/fetch_ons_geography.py — ~235 MB zip + boundaries) ──
+source_inputs/ons/
+
 # ── Python ──
 __pycache__/
 *.py[cod]
