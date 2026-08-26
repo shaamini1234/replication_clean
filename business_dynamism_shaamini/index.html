@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>UK Business Dynamism — evidence from the whole company population</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+:root{--bg:#f7f6f3;--ink:#1a1c22;--mut:#5c6270;--line:#e2e0da;--card:#ffffff;
+--navy:#1f3864;--blue:#2e6fb0;--teal:#2a8f86;--amber:#c8860a;--red:#b5432f;--green:#4a7a45;--panel:#f0efe9;}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;line-height:1.62;-webkit-font-smoothing:antialiased}
+.wrap{max-width:940px;margin:0 auto;padding:0 24px}
+h1,h2,.big{font-family:Georgia,"Times New Roman",serif}
+header{padding:76px 0 34px}
+.kick{color:var(--teal);font-weight:700;letter-spacing:.14em;text-transform:uppercase;font-size:12px;margin-bottom:16px}
+h1{font-size:40px;line-height:1.14;font-weight:700;letter-spacing:-.01em;max-width:20ch;color:var(--navy)}
+.sub{color:var(--mut);font-size:18px;margin-top:18px;max-width:60ch}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;margin:40px 0 0;background:var(--line);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+.stat{background:var(--card);padding:18px 16px}
+.stat b{display:block;font-size:25px;font-weight:700;font-family:Georgia,serif;color:var(--navy)}
+.stat span{color:var(--mut);font-size:12.5px}
+.part{margin-top:56px;padding-top:10px;border-top:2px solid var(--navy)}
+.part span{font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--navy)}
+section{padding:40px 0;border-top:1px solid var(--line)}
+.lab{font-size:12px;color:var(--amber);font-weight:700;letter-spacing:.06em;text-transform:uppercase;margin-bottom:9px}
+h2{font-size:26px;font-weight:700;letter-spacing:-.01em;max-width:24ch;color:var(--ink)}
+.ins{color:#33373f;font-size:16.5px;margin-top:13px;max-width:66ch}
+.ins b{color:var(--navy)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:20px 20px 12px;margin-top:22px}
+.box{position:relative;height:330px}
+.row{display:grid;grid-template-columns:1fr 1.5fr;gap:26px;align-items:center}
+.big{font-size:58px;font-weight:700;color:var(--navy);line-height:1}
+.tag{color:var(--mut);font-size:14px;margin-top:6px}
+.note{color:#7a808c;font-size:12.5px;margin-top:11px;max-width:66ch;font-style:italic}
+footer{padding:44px 0 72px;color:var(--mut);font-size:13.5px;border-top:1px solid var(--line);margin-top:40px}
+footer b{color:var(--ink)}
+@media(max-width:720px){.stats{grid-template-columns:repeat(2,1fr)}h1{font-size:31px}.row{grid-template-columns:1fr}.big{font-size:46px}}
+.tbl{width:100%;border-collapse:collapse;margin-top:20px;font-size:14.5px}
+.tbl th,.tbl td{text-align:left;padding:9px 6px;border-bottom:1px solid var(--line)}
+.tbl td:last-child,.tbl th:last-child{text-align:right}
+.tbl th{color:var(--mut);font-weight:700}
+.tbl tr:last-child td{font-weight:700;border-top:2px solid var(--navy);border-bottom:none}
+.g2{display:grid;grid-template-columns:1.3fr 1fr;gap:24px;margin-top:22px;align-items:stretch}
+.nr{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:22px;font-size:14.5px;color:#33373f}
+.nr h4{font-family:Georgia,serif;color:var(--navy);font-size:17px;margin-bottom:10px}
+@media(max-width:720px){.g2{grid-template-columns:1fr}}
+.geo{display:grid;grid-template-columns:repeat(5,1fr);gap:7px;max-width:500px;margin:22px auto 8px}
+.geo .t{border-radius:8px;padding:10px 6px;text-align:center;min-height:62px;display:flex;flex-direction:column;justify-content:center;border:1px solid var(--line)}
+.geo .t b{font-size:14px;font-family:Georgia,serif;line-height:1.05}
+.geo .t span{font-size:10px;margin-top:3px;opacity:.9}
+.geotog{display:inline-flex;gap:6px;background:#eef1f5;border:1px solid var(--line);border-radius:999px;padding:4px;margin-top:6px}
+.geotog button{background:transparent;border:0;color:var(--mut);font:inherit;font-weight:700;font-size:13.5px;padding:6px 15px;border-radius:999px;cursor:pointer}
+.geotog button.on{background:var(--navy);color:#fff}
+</style></head><body><div class="wrap">
+
+<header>
+  <div class="kick">Centre for British Progress</div>
+  <h1>The corporate lifecycle at whole-population scale.</h1>
+  <p class="sub">A record of every registered United Kingdom company, its filed accounts, and the circumstances of its dissolution, with the constituents of the FTSE&nbsp;100 and S&amp;P&nbsp;500 incorporated as additional layers. Coverage extends to the entire population rather than a representative sample.</p>
+  <div class="stats">
+    <div class="stat"><b id="s1"></b><span>UK companies</span></div>
+    <div class="stat"><b id="s2"></b><span>firm-year records</span></div>
+    <div class="stat"><b>600</b><span>FTSE + S&amp;P constituents</span></div>
+    <div class="stat"><b id="s4"></b><span>Gazette notices</span></div>
+  </div>
+</header>
+
+<div class="part"><span>Part I · The population</span></div>
+
+<section>
+  <div class="lab">Companies House &amp; the London Gazette</div>
+  <h2>Company formation and dissolution over time.</h2>
+  <p class="ins">Company formation has risen sharply over a generation: annual incorporations grew from approximately <b>63,000 in 2000 to some 470,000 by 2020</b>, a sevenfold increase. Set against roughly 24,000 recorded insolvencies a year, the differential provides a measure of turnover within the corporate population.</p>
+  <div class="card"><div class="box"><canvas id="c_pulse"></canvas></div></div>
+  <p class="note">Insolvencies denote formal insolvent procedures recorded in the London Gazette; solvent members' voluntary liquidations and voluntary strike-offs are excluded.</p>
+</section>
+
+<section>
+  <div class="lab">The London Gazette</div>
+  <h2>The distribution of dissolution mechanisms.</h2>
+  <p class="ins">Creditors' voluntary liquidation constitutes the most frequent route to dissolution. A substantial proportion of winding-up notices, approximately one quarter, correspond to solvent members' voluntary liquidation, whereby financially sound companies are wound up at the discretion of their owners.</p>
+  <div class="card"><div class="box" style="height:360px"><canvas id="c_mech"></canvas></div></div>
+</section>
+
+<section>
+  <div class="lab">Companies House &amp; the London Gazette</div>
+  <h2>Firm age at dissolution.</h2>
+  <div class="row">
+    <div><div class="big" id="lifespan"></div><div class="tag">median age at insolvency</div>
+      <p class="ins">The hazard of failure is concentrated in the period immediately following incorporation and declines thereafter for the firms that survive it.</p></div>
+    <div class="card"><div class="box" style="height:270px"><canvas id="c_age"></canvas></div></div>
+  </div>
+</section>
+
+<section>
+  <div class="lab">Companies House &amp; the London Gazette &middot; geography</div>
+  <h2>Where British business lives, and where it fails.</h2>
+  <p class="ins">Company registrations concentrate heavily in the capital: <b>London alone accounts for approximately 30 per cent</b> of all UK companies, with the South East and North West next. Insolvencies broadly track that distribution.</p>
+  <div style="text-align:center"><div class="geotog" id="geotog"><button data-k="geo_companies" class="on">Live companies</button><button data-k="geo_insolvency">Insolvencies</button></div></div>
+  <div class="card"><div class="box" style="height:360px"><canvas id="c_geo"></canvas></div></div>
+  <p class="note" style="text-align:center;max-width:500px;margin:8px auto 0">Region from registered-office postcode. Scotland and Northern Ireland insolvencies are under-counted (they use the Edinburgh and Belfast Gazettes); about a fifth of notices lack a mappable postcode.</p>
+</section>
+
+<div class="part"><span>Part II · Dynamics of failure</span></div>
+
+<section>
+  <div class="lab">The London Gazette</div>
+  <h2>Insolvency and the economic cycle.</h2>
+  <p class="ins">Recorded insolvencies rose markedly during the 2008 financial crisis before subsiding through the subsequent decade. The pandemic year of 2020 registered no corresponding increase, a pattern consistent with the effect of government support measures. From 2021 insolvencies rose to the highest levels in the series, reaching approximately <b>24,500 in 2024</b>.</p>
+  <div class="card"><div class="box"><canvas id="c_cycle"></canvas></div></div>
+  <p class="note">2026 (to August) shown in grey as a partial year. The insolvent-only series validates to within a few per cent of the Insolvency Service's published totals.</p>
+</section>
+
+<section>
+  <div class="lab">The London Gazette &middot; composition of exit</div>
+  <h2>Not every winding-up is a failure.</h2>
+  <p class="ins">The insolvent share of dated exits fell from roughly <b>89 per cent in 2006 to 48 per cent in 2020</b>, before rising again to 67 per cent in 2024. The mid-period decline reflects a tax-driven surge in <b>solvent</b> members' voluntary liquidations, whereby owners closed healthy companies to realise gains; the recent rise reflects the post-pandemic insolvency wave.</p>
+  <div class="card"><div class="box" style="height:290px"><canvas id="c_exitmix"></canvas></div></div>
+  <p class="note">Solvent and insolvent winding-up notices are captured differently in the Gazette, so read the split as indicative of the trend rather than exact.</p>
+</section>
+
+<section>
+  <div class="lab">Companies House &amp; the London Gazette</div>
+  <h2>Insolvency risk is greatest for firms of intermediate size.</h2>
+  <p class="ins">Failure rates are hump-shaped in firm size. Small (5.3 per cent) and medium (5.1 per cent) firms fail at a higher rate than micro (3.1 per cent) or large firms (3.0 per cent). The elevated rate observed among firms lacking usable accounts is treated as a distress signal rather than a size category and is excluded.</p>
+  <div class="card"><div class="box" style="height:280px"><canvas id="c_size"></canvas></div></div>
+</section>
+
+<section>
+  <div class="lab">Companies House &amp; the London Gazette</div>
+  <h2>Failure concentrates in hospitality.</h2>
+  <p class="ins">Licensed restaurants (9.2 per cent) and public houses (7.7 per cent) exhibit insolvency rates approximately three times those of road freight or wholesale, with construction trades occupying an intermediate position. The pattern accords with the thin margins and demand sensitivity characteristic of these sectors.</p>
+  <div class="card"><div class="box" style="height:300px"><canvas id="c_ind"></canvas></div></div>
+</section>
+
+<section>
+  <div class="lab">Companies House &amp; the London Gazette</div>
+  <h2>The year of formation shapes survival.</h2>
+  <p class="ins">Among firms grouped by year of incorporation, the proportion becoming insolvent within five years is highest for cohorts entering shortly before the 2008 crisis and lowest for those of the calmer mid-2010s, before rising again for the 2018–19 cohorts. The macroeconomic environment into which a firm is born materially affects its early survival.</p>
+  <div class="card"><div class="box" style="height:290px"><canvas id="c_cohort"></canvas></div></div>
+</section>
+
+
+<section>
+  <div class="lab">Companies House &middot; Gross Value Added</div>
+  <p class="ins">Gross Value Added (staff costs plus operating profit plus depreciation) requires a full profit-and-loss statement, which most companies are exempt from filing. It is computable for only <b>0.17 per cent</b> of the panel. Where computable it totals approximately <b>&pound;297 billion</b> across those firm-years, a median of <b>&pound;3.2 million</b> per firm and about <b>&pound;50,000 per employee</b>. Economy-wide GVA is properly measured by the ONS Annual Business Survey.</p>
+  <table class="tbl">
+    <tr><th>Input parameter</th><th>Coverage of all filings</th></tr>
+    <tr><td>Staff costs</td><td>~1.1%</td></tr>
+    <tr><td>Operating profit</td><td>~0.9%</td></tr>
+    <tr><td>All inputs present &rarr; GVA computable</td><td>65,906 firm-years (0.17%)</td></tr>
+  </table>
+</section>
+
+<div class="part"><span>Part III · Listed firms and the 2008 crisis</span></div>
+
+<section>
+  <div class="lab">FTSE 100 · balanced panel</div>
+  <h2>UK large-cap value has not recovered from 2008.</h2>
+  <p class="ins">A balanced panel of <b id="np"></b> FTSE 100 constituents with continuous market-capitalisation coverage permits an unbiased measure of the crisis and its aftermath. Indexed to 2007, the panel's aggregate value fell by <b>44 per cent in 2008</b> and, seventeen years later, remained approximately <b>6 per cent below its pre-crisis level</b>. As the panel comprises only firms that survived and remained listed, it excludes the period's principal casualties and therefore constitutes a conservative estimate of the destruction of value.</p>
+  <div class="card"><div class="box"><canvas id="c_panel"></canvas></div></div>
+</section>
+
+<section>
+  <div class="lab">FTSE 100 &middot; dividends through the crisis</div>
+  <h2>UK large-cap dividends halved in 2009 and never recovered.</h2>
+  <p class="ins">The same balanced panel of continuously-listed constituents paid out <b id="dv07"></b> in dividends in 2007. As the crisis forced banks and others to suspend distributions, the panel's total dividends <b>fell by roughly half in 2009</b> and, indexed to 2007, remained about a third below the pre-crisis level in 2024 — with a second, sharp cut in the pandemic year of 2020.</p>
+  <div class="card"><div class="box"><canvas id="c_div"></canvas></div></div>
+</section>
+
+<section>
+  <div class="lab">FTSE 100</div>
+  <h2>The crisis reshuffled the index.</h2>
+  <p class="ins">Index turnover corroborates the disruption: eighteen to nineteen constituents entered or left the FTSE 100 in 2007 and 2008, against seven in the calmer years of 2010 to 2012.</p>
+  <div class="card"><div class="box" style="height:300px"><canvas id="c_churn"></canvas></div></div>
+</section>
+<section>
+  <div class="lab">S&amp;P 500</div>
+  <h2>The deeper US index churns harder.</h2>
+  <p class="ins">The S&amp;P 500 replaced thirty-five to thirty-eight constituents annually at the height of the crisis, a markedly higher rate of turnover than the FTSE 100, reflecting both its greater breadth and the intensity of reallocation within the US market.</p>
+  <div class="card"><div class="box" style="height:300px"><canvas id="c_churn_sp"></canvas></div></div>
+</section>
+
+<section>
+  <div class="lab">S&amp;P 500 &middot; earnings through the crisis</div>
+  <h2>American earnings collapsed, then nearly doubled.</h2>
+  <p class="ins">The median S&amp;P 500 constituent earned <b>$575m</b> in 2007. Profits more than halved through the crisis, to <b>$238m</b> in 2009, before recovering and continuing to grow: by 2024 the median constituent earned <b>$968m</b>, some two-thirds above its pre-crisis level. Where UK large-cap distributions stagnated, US large-cap earnings rebounded and expanded.</p>
+  <div class="card"><div class="box"><canvas id="c_earn"></canvas></div></div>
+</section>
+
+
+
+<section>
+  <div class="lab">S&amp;P 500 &middot; industry composition</div>
+  <h2>US value is concentrated in technology; the FTSE's is not.</h2>
+  <p class="ins">In 2023 information technology accounted for approximately <b>31 per cent</b> of S&amp;P 500 market value but only <b>1 per cent</b> of the FTSE 100. The two indices differ in structure across the board: American value concentrates in technology, whereas the FTSE's largest sectors are financials, consumer staples and industrials. IT's share of S&amp;P value has roughly doubled since 2010; a continuous series is omitted because the annual market-capitalisation data is too sparse in the most recent years to support a reliable trend.</p>
+  <div class="card"><div class="box" style="height:440px"><canvas id="c_tech"></canvas></div></div>
+</section>
+
+<section>
+  <div class="lab">FTSE 100 &middot; index structure since 1984</div>
+  <h2>The FTSE never grew a technology sector.</h2>
+  <p class="ins">Every constituent the index has held since 1984 has been classified by hand (the statutory codes being holding-company dominated). The result reveals a persistent structural feature: information technology has accounted for approximately <b>2 per cent</b> of FTSE 100 membership throughout, without trend. Over the same period consumer staples contracted from roughly 20 to 10 per cent and financials expanded from 15 to 23 per cent. The composition rotated among mature sectors while the scale-technology segment that came to dominate the S&amp;P 500 never emerged.</p>
+  <div class="card"><div class="box"><canvas id="c_ftsesec"></canvas></div></div>
+</section>
+
+<section>
+  <div class="lab">FTSE 100 &times; S&amp;P 500</div>
+  <h2>The valuation gap.</h2>
+  <p class="ins">Framed after Becker, Benmelech and Monteiro (2026), which documents a United States–Europe equity valuation gap concentrated in technology-intensive sectors. In 2023 the median S&amp;P 500 constituent traded at <b>1.11 times</b> the book value of its assets, against <b>0.76 times</b> for the FTSE 100. Information technology accounts for approximately <b>31 per cent</b> of S&amp;P 500 market value and approximately <b>1 per cent</b> of the FTSE 100 by market value, indicating that the valuation gap is substantially a gap in technology concentration.</p>
+  <div class="card"><div class="box" style="height:300px"><canvas id="c_vg"></canvas></div></div>
+  <p class="note">Confined to the leading indices rather than the full listed universe; UK sector shares use an analyst hand-classification of every constituent, the statutory codes being holding-company dominated. Market-to-book is a Tobin's-Q-style proxy (market value / total assets); the gap survives excluding financials (S&P 1.29x vs FTSE 0.90x) and the FTSE figure rests on the ~75 constituents with total-assets data (fundamentals from 2022).</p>
+</section>
+
+<section>
+  <div class="lab">S&amp;P 500 &amp; FTSE 100 &middot; concentration</div>
+  <h2>US value is concentrating in a handful of names.</h2>
+  <p class="ins">The ten largest S&amp;P 500 constituents accounted for about <b>21 per cent</b> of the index's value in 2015 and <b>34 per cent</b> by 2023 &mdash; the rise of the &ldquo;Magnificent Seven.&rdquo; The FTSE 100 has long been concentrated, its top ten steady at around <b>43 per cent</b>; the American market is converging on that level rather than remaining broad.</p>
+  <div class="card"><div class="box"><canvas id="c_conc"></canvas></div></div>
+</section>
+
+<section>
+  <div class="lab">Forthcoming &middot; declining business dynamism</div>
+  <h2>Is British business dynamism declining?</h2>
+  <p class="ins">The central question in the business-dynamism literature &mdash; whether entry rates are falling and the firm population ageing, as documented for the United States &mdash; is answerable from this database, but not yet reliably. Both measures depend on knowing which companies are still trading, and the death record is currently incomplete: dissolved firms are not always marked as such, and the earliest years under-observe long-lived firms.</p>
+  <p class="ins">A dedicated extraction is closing that gap now. A background process is querying the Companies House API for every dead or former company &mdash; recovering incorporation date, dissolution date, status and industry &mdash; so that the active population can be measured precisely in every year. Once complete, the entry rate and the age structure of the corporate population can be estimated on a consistent basis, and the question answered directly.</p>
+</section>
+
+<footer>
+  Source: <b>Companies House</b> (register and accounts) and <b>The London Gazette</b> (insolvency notices), joined by company number; <b>S&amp;P</b> and <b>FTSE</b> constituent and financial data. Insolvency denotes distress exits; solvent liquidations excluded. Rates are computed among observed firms; the age, industry, size and cohort contrasts are the robust signal. Every figure is sourced or omitted.
+</footer>
+
+</div>
+<script>
+const D={"head": {"uk_firms": 7877348, "firm_years": 39355385, "exits": 583548, "gazette": 1041575}, "ftse_panel": {"n": 39, "series": [[2005, 1.541, 99.5], [2006, 1.698, 109.7], [2007, 1.549, 100.0], [2008, 0.871, 56.2], [2009, 0.999, 64.5], [2010, 1.06, 68.5], [2011, 0.99, 63.9], [2012, 1.073, 69.3], [2013, 1.214, 78.4], [2014, 1.189, 76.7], [2015, 1.103, 71.2], [2016, 1.257, 81.1], [2017, 1.367, 88.2], [2018, 1.146, 74.0], [2019, 1.273, 82.2], [2020, 1.06, 68.4], [2021, 1.254, 81.0], [2022, 1.361, 87.9], [2023, 1.366, 88.2], [2024, 1.449, 93.6]]}, "ftse_churn": [[2000, 35, 34], [2001, 21, 21], [2002, 14, 14], [2003, 9, 9], [2004, 7, 7], [2005, 11, 11], [2006, 14, 14], [2007, 18, 19], [2008, 19, 19], [2009, 12, 12], [2010, 7, 7], [2011, 10, 11], [2012, 7, 7], [2013, 9, 9], [2014, 9, 9], [2015, 7, 7], [2016, 11, 11], [2017, 9, 9], [2018, 10, 10], [2019, 8, 9], [2020, 9, 11], [2021, 9, 9], [2022, 15, 15], [2023, 10, 10], [2024, 12, 12]], "pulse": [[2000, 63080, 6317], [2001, 65542, 4896], [2002, 104357, 7205], [2003, 150675, 6194], [2004, 120067, 6415], [2005, 136462, 7338], [2006, 164685, 11370], [2007, 201849, 17505], [2008, 180560, 24345], [2009, 204435, 22582], [2010, 242479, 18377], [2011, 283518, 19135], [2012, 310924, 18075], [2013, 343247, 16902], [2014, 385724, 15822], [2015, 407475, 14473], [2016, 413663, 14109], [2017, 406153, 17334], [2018, 427788, 17696], [2019, 445627, 16784], [2020, 466196, 12548], [2021, 459646, 14865], [2022, 440979, 22772], [2023, 469304, 25526], [2024, 407383, 24480]], "cycle": [[2005, 7338], [2006, 11370], [2007, 17505], [2008, 24345], [2009, 22582], [2010, 18377], [2011, 19135], [2012, 18075], [2013, 16902], [2014, 15822], [2015, 14473], [2016, 14109], [2017, 17334], [2018, 17696], [2019, 16784], [2020, 12548], [2021, 14865], [2022, 22772], [2023, 25526], [2024, 24480], [2025, 24383], [2026, 14627]], "gazette_types": [["creditors_voluntary_winding_up", 346856], ["petition_to_wind_up", 256379], ["winding_up_order_court", 183878], ["members_voluntary_winding_up", 173582], ["administration", 56152], ["administrative_receivership", 16680], ["restored_to_register", 5988], ["removed_from_register", 1991], ["unknown", 69]], "solvency": {"insolvent": 431104, "solvent": 152329}, "age_at_death": {"0": 1820, "1": 20054, "2": 37673, "3": 42923, "4": 40523, "5": 37261, "6": 32186, "7": 27155, "8": 22747, "9": 19088, "10": 15861, "11": 13147, "12": 11151, "13": 9393, "14": 7996, "15": 6784, "16": 5880, "17": 4996, "18": 4423, "19": 3859, "20": 3493, "21": 3145, "22": 2986, "23": 2541, "24": 2301, "25": 2010, "26": 2410, "27": 2190, "28": 1625, "29": 1408, "30": 1384, "31": 1339, "32": 1252, "33": 1130, "34": 1129, "35": 871, "36": 764, "37": 852, "38": 1013, "39": 1098, "40": 839, "41": 594, "42": 558, "43": 518, "44": 559, "45": 712, "46": 644, "47": 717, "48": 535, "49": 430, "50": 470, "51": 455, "52": 591, "53": 683, "54": 596, "55": 461, "56": 482, "57": 444, "58": 951, "59": 799, "60": 1059}, "median_lifespan": 6.0, "cohort": [[2004, 6.1], [2005, 6.2], [2006, 5.4], [2007, 4.1], [2008, 3.9], [2009, 3.7], [2010, 2.9], [2011, 2.6], [2012, 2.3], [2013, 2.1], [2014, 1.9], [2015, 1.8], [2016, 2.3], [2017, 1.9], [2018, 2.3], [2019, 2.6]], "size_bands": [["micro", 28313686], ["unknown", 7056344], ["small", 3630718], ["medium", 299134], ["large", 55503]], "size_rates": [["micro", 3.1], ["unknown", 13.1], ["small", 5.3], ["medium", 5.1], ["large", 3.0]], "industry_rates": [["Licensed restaurants", 9.2], ["Public houses and bars", 7.7], ["Unlicensed restaurants and cafes", 4.6], ["Construction of domestic buildings", 3.3], ["Freight transport by road", 2.9], ["Hairdressing and other beauty trea", 1.7]], "sp_med_rev": [[2000, 5.1], [2001, 3.6], [2002, 3.2], [2003, 4.0], [2004, 4.3], [2005, 4.8], [2006, 5.3], [2007, 6.6], [2008, 5.3], [2009, 4.5], [2010, 4.9], [2011, 5.3], [2012, 5.6], [2013, 5.9], [2014, 6.0], [2015, 5.9], [2016, 6.0], [2017, 6.5], [2018, 6.8], [2019, 6.7], [2020, 6.3], [2021, 7.8], [2022, 9.1], [2023, 9.3], [2024, 9.8]], "valuegap": {"sp_mb": 1.11, "ftse_mb": 0.76, "sp_tech": 31.3, "ftse_tech": 1.0}, "sp_churn": [[2000, 54, 54], [2001, 30, 26], [2002, 21, 23], [2003, 9, 9], [2004, 19, 18], [2005, 16, 14], [2006, 32, 32], [2007, 38, 38], [2008, 35, 34], [2009, 29, 28], [2010, 14, 16], [2011, 19, 19], [2012, 18, 18], [2013, 19, 19], [2014, 16, 14], [2015, 30, 27], [2016, 31, 27], [2017, 27, 28], [2018, 24, 24], [2019, 29, 29], [2020, 20, 20], [2021, 21, 21], [2022, 22, 24], [2023, 19, 19], [2024, 20, 20]], "tech_share": [[2010, 16.6], [2011, 16.0], [2012, 16.2], [2013, 26.7], [2014, 14.1], [2015, 14.7], [2016, 14.3], [2017, 16.0], [2018, 18.8], [2019, 25.5], [2020, 20.9], [2021, 7.9], [2022, 24.4], [2023, 31.3], [2024, 43.4]], "gva": {"computable": 65906, "pct": 0.17, "per_emp": 49734, "staff_pct": 1.1, "op_pct": 0.9, "agg_bn": 297, "median_m": 3.2}, "sp_sectors_2023": [["Information Technology", 13.75], ["Health Care", 5.06], ["Consumer Discretionary", 4.66], ["Financials", 4.63], ["Communication Services", 3.97], ["Industrials", 3.84], ["Consumer Staples", 2.75], ["Energy", 1.56], ["Real Estate", 1.03], ["Materials", 0.97], ["Utilities", 0.96], ["Commodity Contracts Brokers & Dealers", 0.06], ["Laboratory Analytical Instruments", 0.03], ["Real Estate Investment Trusts", 0.02], ["Hotels & Motels", 0.02], ["Semiconductors & Related Devices", 0.02], ["Investment Advice", 0.02], ["Security Brokers, Dealers & Flotation Companies", 0.02], ["Hospital & Medical Service Plans", 0.02], ["Plastic Materials, Synth Resins & Nonvulcan Elastomers", 0.02], ["Crude Petroleum & Natural Gas", 0.02], ["Services-Computer Programming Services", 0.02], ["Retail-Auto Dealers & Gasoline Stations", 0.02], ["Plastic Material, Synth Resin/Rubber, Cellulos (No Glass)", 0.02], ["Life Insurance", 0.02], ["Oil & Gas Field Machinery & Equipment", 0.02], ["Canned, Frozen & Preservd Fruit, Veg & Food Specialties", 0.02], ["Air Transportation, Scheduled", 0.01], ["Services-Management Consulting Services", 0.01], ["National Commercial Banks", 0.01], ["Wholesale-Motor Vehicles & Motor Vehicle Parts & Supplies", 0.01], ["Drilling Oil & Gas Wells", 0.01], ["Pumps & Pumping Equipment", 0.01], ["Metal Cans", 0.01], ["Perfumes, Cosmetics & Other Toilet Preparations", 0.01], ["Metal Mining", 0.01], ["Retail-Retail Stores, NEC", 0.01], ["Services-Computer Programming, Data Processing, Etc.", 0.01], ["Services-Business Services, NEC", 0.01], ["Retail-Department Stores", 0.01], ["Services-Auto Rental & Leasing (No Drivers)", 0.01], ["Motor Vehicle Parts & Accessories", 0.01], ["Newspapers: Publishing or  Publishing & Printing", 0.01], ["Chemicals & Allied Products", 0.01], ["Carpets & Rugs", 0.01], ["Grain Mill Products", 0.01], ["Retail-Computer & Computer Software Stores", 0.01], ["Services-Hospitals", 0.01], ["Miscellaneous Fabricated Metal Products", 0.01], ["Heavy Construction Other Than Bldg Const - Contractors", 0.01], ["Engines & Turbines", 0.01], ["Dolls & Stuffed Toys", 0.01], ["Plastics Products, NEC", 0.01], ["Services-Detective, Guard & Armored Car Services", 0.01], ["Natural Gas Transmission", 0.01], ["Surety Insurance", 0.01], ["Steel Pipe & Tubes", 0.01], ["Wholesale-Machinery, Equipment & Supplies", 0.01], ["Leather & Leather Products", 0.01], ["Electric Lighting & Wiring Equipment", 0.01], ["Lumber & Wood Products (No Furniture)", 0.01], ["Motorcycles, Bicycles & Parts", 0.01], ["Services-Personal Services", 0.0], ["Pharmaceutical Preparations", 0.0], ["Services-Computer Processing & Data Preparation", 0.0], ["Operative Builders", 0.0], ["Household Furniture", 0.0], ["Retail-Miscellaneous Shopping Goods Stores", 0.0], ["Tires & Inner Tubes", 0.0], ["Wholesale-Chemicals & Allied Products", 0.0], ["Arrangement of  Transportation of  Freight & Cargo", 0.0], ["Retail-Auto & Home Supply Stores", 0.0], ["Miscellaneous Electrical Machinery, Equipment & Supplies", 0.0], ["Services-Educational Services", 0.0], ["Glass Containers", 0.0], ["Biological Products, (No Diagnostic Substances)", 0.0], ["Telephone Communications (No Radiotelephone)", 0.0], ["Federal & Federally-Sponsored Credit Agencies", 0.0], ["Real Estate Agents & Managers (For Others)", 0.0], ["Retail-Catalog & Mail-Order Houses", 0.0], ["Retail-Family Clothing Stores", 0.0], ["Savings Institutions, Not Federally Chartered", 0.0], ["Blankbooks, Looseleaf Binders & Bookbindg & Relatd Work", 0.0], ["Footwear, (No Rubber)", 0.0], ["State Commercial Banks", 0.0], ["Construction Machinery & Equip", 0.0], ["Bituminous Coal & Lignite Surface Mining", 0.0], ["Measuring & Controlling Devices, NEC", 0.0], ["Watches, Clocks, Clockwork Operated Devices/Parts", 0.0], ["Electric & Other Services Combined", 0.0]], "gva_by_size": [["medium", 34234], ["small", 14119], ["large", 9673], ["micro", 7488], ["unknown", 392]], "sp_sector_share": {"2010": {"Information Technology": 16.6, "Financials": 15.5, "Health Care": 11.8, "Consumer Discretionary": 7.4, "Communication Services": 2.0, "Industrials": 12.7, "Consumer Staples": 12.7, "Energy": 8.1, "Materials": 3.1, "Utilities": 3.4, "Real Estate": 2.2}, "2011": {"Information Technology": 16.0, "Financials": 17.3, "Health Care": 10.7, "Consumer Discretionary": 7.6, "Communication Services": 3.6, "Industrials": 11.4, "Consumer Staples": 11.8, "Energy": 9.7, "Materials": 2.2, "Utilities": 3.3, "Real Estate": 2.3}, "2012": {"Information Technology": 16.2, "Financials": 17.4, "Health Care": 11.0, "Consumer Discretionary": 7.8, "Communication Services": 4.1, "Industrials": 10.9, "Consumer Staples": 11.1, "Energy": 8.5, "Materials": 2.9, "Utilities": 3.4, "Real Estate": 2.6}, "2013": {"Information Technology": 26.7, "Financials": 16.8, "Health Care": 10.2, "Consumer Discretionary": 6.9, "Communication Services": 3.9, "Industrials": 10.0, "Consumer Staples": 8.3, "Energy": 6.8, "Materials": 2.2, "Utilities": 2.6, "Real Estate": 2.1}, "2014": {"Information Technology": 14.1, "Financials": 13.7, "Health Care": 12.6, "Consumer Discretionary": 7.6, "Communication Services": 7.5, "Industrials": 10.6, "Consumer Staples": 8.9, "Energy": 7.0, "Materials": 2.3, "Utilities": 3.2, "Real Estate": 2.8}, "2015": {"Information Technology": 14.7, "Financials": 14.9, "Health Care": 12.7, "Consumer Discretionary": 8.9, "Communication Services": 9.5, "Industrials": 10.9, "Consumer Staples": 10.6, "Energy": 6.2, "Materials": 2.1, "Utilities": 3.1, "Real Estate": 3.1}, "2016": {"Information Technology": 14.3, "Financials": 14.8, "Health Care": 13.1, "Consumer Discretionary": 8.7, "Communication Services": 10.2, "Industrials": 11.1, "Consumer Staples": 10.5, "Energy": 5.8, "Materials": 2.2, "Utilities": 3.3, "Real Estate": 2.6}, "2017": {"Information Technology": 16.0, "Financials": 15.2, "Health Care": 12.4, "Consumer Discretionary": 8.9, "Communication Services": 10.8, "Industrials": 11.3, "Consumer Staples": 8.9, "Energy": 5.2, "Materials": 2.3, "Utilities": 3.0, "Real Estate": 2.7}, "2018": {"Information Technology": 18.8, "Financials": 13.6, "Health Care": 13.8, "Consumer Discretionary": 10.1, "Communication Services": 9.7, "Industrials": 10.2, "Consumer Staples": 8.5, "Energy": 4.6, "Materials": 2.2, "Utilities": 3.0, "Real Estate": 2.6}, "2019": {"Information Technology": 25.5, "Financials": 12.2, "Health Care": 11.5, "Consumer Discretionary": 9.6, "Communication Services": 10.0, "Industrials": 8.8, "Consumer Staples": 6.9, "Energy": 3.6, "Materials": 2.6, "Utilities": 4.2, "Real Estate": 2.8}, "2020": {"Information Technology": 20.9, "Financials": 12.4, "Health Care": 11.5, "Consumer Discretionary": 12.7, "Communication Services": 12.4, "Industrials": 8.7, "Consumer Staples": 7.4, "Energy": 2.4, "Materials": 2.7, "Utilities": 3.0, "Real Estate": 3.6}, "2021": {"Information Technology": 7.9, "Financials": 3.6, "Health Care": 3.9, "Consumer Discretionary": 45.0, "Communication Services": 31.2, "Industrials": 2.6, "Consumer Staples": 2.0, "Energy": 0.7, "Materials": 0.7, "Utilities": 0.8, "Real Estate": 0.9}, "2022": {"Information Technology": 24.4, "Financials": 11.9, "Health Care": 14.2, "Consumer Discretionary": 9.7, "Communication Services": 7.7, "Industrials": 9.4, "Consumer Staples": 8.1, "Energy": 4.0, "Materials": 2.5, "Utilities": 3.1, "Real Estate": 2.6}, "2023": {"Information Technology": 31.3, "Financials": 10.5, "Health Care": 11.5, "Consumer Discretionary": 10.6, "Communication Services": 9.0, "Industrials": 8.8, "Consumer Staples": 6.3, "Energy": 3.6, "Materials": 2.2, "Utilities": 2.2, "Real Estate": 2.3}}, "sp_sector_order": ["Information Technology", "Financials", "Health Care", "Consumer Discretionary", "Communication Services", "Industrials", "Consumer Staples", "Energy", "Materials", "Utilities", "Real Estate"], "ftse_sector_2023": {"Financials": 18.7, "Consumer Staples": 17.3, "Industrials": 12.6, "Health Care": 12.3, "Energy": 11.3, "Materials": 10.3, "Consumer Discretionary": 7.6, "Utilities": 4.7, "Communication Services": 3.1, "Real Estate": 1.1, "Information Technology": 1.0}, "ftse_sector_count": {"1984": {"Industrials": 14.1, "Communication Services": 5.1, "Information Technology": 3.0, "Financials": 20.2, "Materials": 14.1, "Consumer Staples": 18.2, "Consumer Discretionary": 11.1, "Energy": 6.1, "Health Care": 4.0, "Real Estate": 3.0, "Utilities": 1.0}, "1985": {"Materials": 13.1, "Industrials": 12.1, "Communication Services": 5.1, "Financials": 21.2, "Energy": 5.1, "Consumer Discretionary": 13.1, "Consumer Staples": 20.2, "Information Technology": 3.0, "Health Care": 4.0, "Real Estate": 3.0}, "1986": {"Financials": 15.3, "Industrials": 12.2, "Consumer Staples": 20.4, "Materials": 14.3, "Information Technology": 4.1, "Consumer Discretionary": 13.3, "Energy": 4.1, "Communication Services": 7.1, "Health Care": 5.1, "Utilities": 1.0, "Real Estate": 3.1}, "1987": {"Consumer Staples": 20.2, "Materials": 13.1, "Financials": 16.2, "Consumer Discretionary": 14.1, "Information Technology": 4.0, "Health Care": 5.1, "Industrials": 13.1, "Utilities": 1.0, "Energy": 4.0, "Real Estate": 3.0, "Communication Services": 6.1}, "1988": {"Communication Services": 6.1, "Financials": 13.3, "Materials": 15.3, "Industrials": 14.3, "Information Technology": 4.1, "Consumer Discretionary": 12.2, "Energy": 5.1, "Consumer Staples": 20.4, "Health Care": 5.1, "Utilities": 1.0, "Real Estate": 3.1}, "1989": {"Materials": 14.3, "Energy": 6.1, "Health Care": 5.1, "Industrials": 17.3, "Consumer Staples": 19.4, "Real Estate": 3.1, "Consumer Discretionary": 10.2, "Financials": 14.3, "Communication Services": 7.1, "Utilities": 1.0, "Information Technology": 2.0}, "1990": {"Communication Services": 5.1, "Materials": 14.1, "Financials": 15.2, "Consumer Discretionary": 9.1, "Consumer Staples": 20.2, "Industrials": 15.2, "Energy": 6.1, "Information Technology": 2.0, "Utilities": 5.1, "Health Care": 5.1, "Real Estate": 3.0}, "1991": {"Communication Services": 5.1, "Materials": 12.1, "Financials": 15.2, "Consumer Discretionary": 11.1, "Consumer Staples": 20.2, "Utilities": 8.1, "Industrials": 17.2, "Health Care": 5.1, "Energy": 4.0, "Real Estate": 2.0}, "1992": {"Consumer Discretionary": 12.2, "Utilities": 9.2, "Communication Services": 7.1, "Financials": 15.3, "Consumer Staples": 19.4, "Industrials": 14.3, "Materials": 11.2, "Energy": 5.1, "Health Care": 5.1, "Real Estate": 1.0}, "1993": {"Utilities": 10.2, "Communication Services": 7.1, "Materials": 11.2, "Financials": 17.3, "Consumer Discretionary": 11.2, "Consumer Staples": 16.3, "Energy": 4.1, "Industrials": 15.3, "Health Care": 5.1, "Real Estate": 2.0}, "1994": {"Materials": 11.1, "Energy": 4.0, "Utilities": 9.1, "Financials": 18.2, "Communication Services": 7.1, "Consumer Discretionary": 10.1, "Consumer Staples": 16.2, "Industrials": 17.2, "Health Care": 5.1, "Real Estate": 2.0}, "1995": {"Materials": 12.2, "Financials": 17.3, "Communication Services": 8.2, "Consumer Staples": 16.3, "Energy": 5.1, "Consumer Discretionary": 10.2, "Industrials": 16.3, "Utilities": 9.2, "Health Care": 4.1, "Real Estate": 1.0}, "1996": {"Energy": 5.1, "Materials": 8.2, "Financials": 16.3, "Communication Services": 10.2, "Consumer Staples": 17.3, "Industrials": 18.4, "Utilities": 8.2, "Consumer Discretionary": 11.2, "Health Care": 4.1, "Real Estate": 1.0}, "1997": {"Communication Services": 10.2, "Financials": 21.4, "Materials": 6.1, "Utilities": 10.2, "Industrials": 17.3, "Consumer Staples": 14.3, "Consumer Discretionary": 10.2, "Health Care": 4.1, "Energy": 4.1, "Real Estate": 2.0}, "1998": {"Communication Services": 13.3, "Financials": 21.4, "Utilities": 10.2, "Industrials": 18.4, "Consumer Staples": 16.3, "Consumer Discretionary": 9.2, "Materials": 5.1, "Health Care": 3.1, "Energy": 2.0, "Real Estate": 1.0}, "1999": {"Communication Services": 14.3, "Financials": 21.4, "Materials": 8.2, "Industrials": 12.2, "Utilities": 8.2, "Consumer Staples": 14.3, "Consumer Discretionary": 8.2, "Health Care": 3.1, "Real Estate": 1.0, "Energy": 2.0, "Information Technology": 7.1}, "2000": {"Consumer Staples": 14.1, "Materials": 7.1, "Real Estate": 2.0, "Utilities": 8.1, "Information Technology": 9.1, "Health Care": 5.1, "Communication Services": 14.1, "Industrials": 14.1, "Financials": 17.2, "Consumer Discretionary": 7.1, "Energy": 2.0}, "2001": {"Industrials": 14.0, "Health Care": 6.0, "Communication Services": 10.0, "Materials": 6.0, "Utilities": 10.0, "Consumer Staples": 16.0, "Consumer Discretionary": 9.0, "Financials": 19.0, "Energy": 4.0, "Real Estate": 3.0, "Information Technology": 3.0}, "2002": {"Communication Services": 9.0, "Materials": 9.0, "Industrials": 16.0, "Real Estate": 4.0, "Utilities": 6.0, "Consumer Staples": 16.0, "Consumer Discretionary": 10.0, "Financials": 20.0, "Energy": 3.0, "Health Care": 6.0, "Information Technology": 1.0}, "2003": {"Communication Services": 11.0, "Consumer Staples": 16.0, "Financials": 21.0, "Health Care": 6.0, "Utilities": 6.0, "Industrials": 13.0, "Materials": 9.0, "Consumer Discretionary": 11.0, "Real Estate": 3.0, "Energy": 3.0, "Information Technology": 1.0}, "2004": {"Communication Services": 11.0, "Consumer Staples": 16.0, "Financials": 18.0, "Health Care": 5.0, "Utilities": 6.0, "Industrials": 12.0, "Materials": 11.0, "Consumer Discretionary": 13.0, "Energy": 4.0, "Real Estate": 3.0, "Information Technology": 1.0}, "2005": {"Communication Services": 10.0, "Consumer Staples": 15.0, "Financials": 18.0, "Industrials": 11.0, "Health Care": 5.0, "Utilities": 8.0, "Consumer Discretionary": 13.0, "Materials": 11.0, "Real Estate": 4.0, "Energy": 4.0, "Information Technology": 1.0}, "2006": {"Consumer Staples": 15.0, "Financials": 21.0, "Communication Services": 8.0, "Real Estate": 5.0, "Health Care": 4.0, "Utilities": 9.0, "Industrials": 8.0, "Consumer Discretionary": 12.0, "Materials": 13.0, "Energy": 4.0, "Information Technology": 1.0}, "2007": {"Financials": 21.0, "Communication Services": 8.0, "Utilities": 8.0, "Industrials": 12.0, "Consumer Discretionary": 15.0, "Consumer Staples": 12.0, "Materials": 10.0, "Health Care": 4.0, "Real Estate": 4.0, "Energy": 5.0, "Information Technology": 1.0}, "2008": {"Communication Services": 7.0, "Financials": 21.0, "Industrials": 15.0, "Materials": 11.0, "Consumer Discretionary": 11.0, "Real Estate": 4.0, "Consumer Staples": 12.0, "Utilities": 8.0, "Energy": 5.0, "Health Care": 4.0, "Information Technology": 2.0}, "2009": {"Communication Services": 6.0, "Industrials": 16.0, "Materials": 13.0, "Financials": 19.0, "Energy": 6.0, "Real Estate": 5.0, "Consumer Discretionary": 12.0, "Utilities": 6.0, "Consumer Staples": 11.0, "Health Care": 4.0, "Information Technology": 2.0}, "2010": {"Materials": 14.0, "Industrials": 18.0, "Consumer Staples": 10.0, "Communication Services": 5.0, "Financials": 19.0, "Real Estate": 4.0, "Consumer Discretionary": 10.0, "Utilities": 6.0, "Health Care": 4.0, "Energy": 7.0, "Information Technology": 3.0}, "2011": {"Communication Services": 5.0, "Industrials": 18.0, "Materials": 16.0, "Financials": 18.0, "Energy": 7.0, "Real Estate": 4.0, "Consumer Discretionary": 9.0, "Utilities": 6.0, "Consumer Staples": 11.0, "Health Care": 4.0, "Information Technology": 2.0}, "2012": {"Industrials": 20.0, "Consumer Staples": 11.0, "Financials": 16.0, "Communication Services": 5.0, "Real Estate": 4.0, "Health Care": 4.0, "Materials": 17.0, "Consumer Discretionary": 10.0, "Utilities": 5.0, "Energy": 6.0, "Information Technology": 2.0}, "2013": {"Materials": 11.0, "Industrials": 23.0, "Consumer Staples": 12.0, "Communication Services": 5.0, "Financials": 17.0, "Health Care": 4.0, "Consumer Discretionary": 13.0, "Utilities": 5.0, "Energy": 5.0, "Real Estate": 3.0, "Information Technology": 2.0}, "2014": {"Consumer Staples": 12.0, "Financials": 19.0, "Industrials": 20.0, "Health Care": 4.0, "Communication Services": 5.0, "Consumer Discretionary": 15.0, "Materials": 10.0, "Utilities": 5.0, "Real Estate": 4.0, "Energy": 4.0, "Information Technology": 2.0}, "2015": {"Materials": 10.0, "Industrials": 17.0, "Real Estate": 4.0, "Communication Services": 6.0, "Financials": 19.0, "Consumer Discretionary": 17.0, "Utilities": 5.0, "Energy": 3.0, "Consumer Staples": 11.0, "Health Care": 5.0, "Information Technology": 3.0}, "2016": {"Communication Services": 6.0, "Consumer Staples": 11.0, "Financials": 18.0, "Consumer Discretionary": 16.0, "Industrials": 16.0, "Materials": 12.0, "Utilities": 5.0, "Health Care": 7.0, "Real Estate": 4.0, "Energy": 2.0, "Information Technology": 3.0}, "2017": {"Consumer Staples": 11.0, "Communication Services": 6.0, "Materials": 13.0, "Consumer Discretionary": 16.0, "Health Care": 6.0, "Financials": 18.0, "Industrials": 15.0, "Information Technology": 4.0, "Utilities": 5.0, "Real Estate": 4.0, "Energy": 2.0}, "2018": {"Materials": 13.0, "Consumer Discretionary": 16.0, "Real Estate": 3.0, "Financials": 18.0, "Utilities": 5.0, "Consumer Staples": 12.0, "Communication Services": 7.0, "Industrials": 15.0, "Energy": 3.0, "Information Technology": 3.0, "Health Care": 5.0}, "2019": {"Consumer Staples": 11.0, "Consumer Discretionary": 16.0, "Materials": 13.0, "Industrials": 16.0, "Financials": 19.0, "Information Technology": 3.0, "Utilities": 5.0, "Communication Services": 7.0, "Real Estate": 3.0, "Energy": 2.0, "Health Care": 5.0}, "2020": {"Consumer Staples": 11.0, "Financials": 21.0, "Consumer Discretionary": 16.0, "Materials": 14.0, "Industrials": 14.0, "Information Technology": 4.0, "Utilities": 5.0, "Communication Services": 6.0, "Real Estate": 3.0, "Energy": 2.0, "Health Care": 4.0}, "2021": {"Consumer Staples": 10.0, "Communication Services": 7.0, "Financials": 20.0, "Consumer Discretionary": 15.0, "Materials": 13.0, "Industrials": 17.0, "Health Care": 5.0, "Information Technology": 4.0, "Utilities": 4.0, "Real Estate": 3.0, "Energy": 2.0}, "2022": {"Consumer Staples": 11.0, "Financials": 21.0, "Communication Services": 7.0, "Consumer Discretionary": 16.0, "Materials": 11.0, "Industrials": 16.0, "Information Technology": 3.0, "Utilities": 5.0, "Real Estate": 4.0, "Energy": 2.0, "Health Care": 4.0}, "2023": {"Consumer Discretionary": 16.0, "Real Estate": 3.0, "Utilities": 5.0, "Financials": 20.0, "Consumer Staples": 11.0, "Industrials": 18.0, "Communication Services": 7.0, "Energy": 2.0, "Materials": 10.0, "Health Care": 6.0, "Information Technology": 2.0}, "2024": {"Consumer Staples": 10.0, "Financials": 23.0, "Communication Services": 7.0, "Consumer Discretionary": 14.0, "Materials": 9.0, "Industrials": 18.0, "Information Technology": 2.0, "Utilities": 5.0, "Real Estate": 5.0, "Energy": 2.0, "Health Care": 5.0}}, "ftse_div": {"n": 43, "series": [[2007, 76.4, 100], [2008, 75.0, 98], [2009, 39.2, 51], [2010, 37.4, 49], [2011, 44.3, 58], [2012, 46.2, 61], [2013, 49.7, 65], [2014, 48.6, 64], [2015, 50.6, 66], [2016, 54.3, 71], [2017, 62.6, 82], [2018, 57.9, 76], [2019, 64.8, 85], [2020, 41.8, 55], [2021, 52.1, 68], [2022, 54.4, 71], [2023, 56.5, 74], [2024, 51.7, 68]]}, "sp_netinc": [[2004, 347], [2005, 443], [2006, 489], [2007, 575], [2008, 299], [2009, 238], [2010, 361], [2011, 432], [2012, 424], [2013, 474], [2014, 535], [2015, 481], [2016, 504], [2017, 554], [2018, 636], [2019, 679], [2020, 540], [2021, 925], [2022, 939], [2023, 894], [2024, 968]], "hazard": [[0, 0.03], [1, 0.39], [2, 0.7], [3, 0.78], [4, 0.72], [5, 0.65], [6, 0.59], [7, 0.54], [8, 0.49], [9, 0.5], [10, 0.49], [11, 0.46], [12, 0.43], [13, 0.4], [14, 0.38], [15, 0.35]], "odds": [["No filed accounts (size unknown)", 4.31, "risk"], ["Hospitality sector", 4.18, "risk"], ["Construction sector", 2.04, "risk"], ["Born into the 2008 crisis", 2.0, "risk"], ["Retail sector", 1.06, "neutral"], ["Small firm", 0.76, "prot"], ["Medium firm", 0.58, "prot"], ["Professional services", 0.56, "prot"], ["Large firm", 0.49, "prot"], ["Real estate sector", 0.45, "prot"]], "geo_companies": {"London": 1699715, "South East": 718779, "North West": 617748, "West Midlands": 419141, "East of England": 398678, "South West": 374339, "Yorkshire": 356489, "Scotland": 314567, "East Midlands": 270681, "Wales": 188550, "North East": 134160, "N. Ireland": 91119}, "geo_insolvency": {"London": 138198, "North West": 66508, "South East": 57297, "Yorkshire": 45972, "West Midlands": 44814, "East of England": 32207, "South West": 30312, "East Midlands": 27717, "Wales": 14517, "North East": 14309, "Scotland": 8082, "N. Ireland": 5153}, "conc_sp": [[2009, 21.5], [2010, 21.5], [2011, 24.0], [2012, 25.0], [2013, 34.3], [2014, 22.4], [2015, 20.6], [2016, 20.8], [2017, 21.8], [2018, 23.0], [2019, 31.1], [2020, 28.4], [2021, 78.1], [2022, 25.7], [2023, 34.4]], "conc_ftse": [[2016, 42.5], [2018, 47.0], [2019, 44.9], [2020, 41.8], [2021, 41.9], [2022, 47.9], [2023, 45.2], [2024, 44.4]], "exit_insolv_pct": [[2006, 89], [2007, 85], [2008, 85], [2009, 90], [2010, 87], [2011, 88], [2012, 84], [2013, 78], [2014, 72], [2015, 65], [2016, 57], [2017, 68], [2018, 66], [2019, 63], [2020, 48], [2021, 51], [2022, 69], [2023, 72], [2024, 67]]};
+const f=n=>n>=1e6?(n/1e6).toFixed(1)+'M':n>=1e3?Math.round(n/1e3)+'k':''+n;
+s1.textContent=f(D.head.uk_firms); s2.textContent=f(D.head.firm_years); s4.textContent=f(D.head.gazette);
+lifespan.textContent=Math.round(D.median_lifespan)+' yrs';
+np.textContent=D.ftse_panel.n;
+Chart.defaults.color='#5c6270'; Chart.defaults.font.family='-apple-system,Segoe UI,Helvetica,Arial,sans-serif'; Chart.defaults.font.size=12;
+const G={color:'#eceae4'},NG={display:false},NAVY='#1f3864',BLUE='#2e6fb0',TEAL='#2a8f86',AMBER='#c8860a',RED='#b5432f',GREEN='#4a7a45',MUT='#5c6270';
+
+// pulse
+new Chart(c_pulse,{type:'line',data:{labels:D.pulse.map(r=>r[0]),datasets:[
+ {label:'New companies (left)',data:D.pulse.map(r=>r[1]),borderColor:GREEN,backgroundColor:'rgba(74,122,69,.07)',fill:true,tension:.35,pointRadius:0,borderWidth:2.5,yAxisID:'y'},
+ {label:'Insolvencies (right)',data:D.pulse.map(r=>r[2]),borderColor:RED,backgroundColor:'rgba(181,67,47,.06)',fill:false,tension:.35,pointRadius:0,borderWidth:2.5,yAxisID:'y1'}]},
+ options:{responsive:true,maintainAspectRatio:false,interaction:{mode:'index',intersect:false},plugins:{legend:{position:'top',align:'end',labels:{usePointStyle:true,boxWidth:8}},tooltip:{callbacks:{label:i=>i.dataset.label.replace(/ \((left|right)\)/,'')+': '+f(i.raw)}}},scales:{x:{grid:NG},y:{grid:G,beginAtZero:true,position:'left',title:{display:true,text:'new companies'},ticks:{callback:v=>f(v)}},y1:{grid:NG,beginAtZero:true,position:'right',title:{display:true,text:'insolvencies'},ticks:{callback:v=>f(v)}}}}});
+
+// mechanisms
+const LAB={creditors_voluntary_winding_up:"Creditors' voluntary liquidation",petition_to_wind_up:"Petition to wind up",winding_up_order_court:"Winding-up order (court)",members_voluntary_winding_up:"Members' voluntary (solvent)",administration:"Administration",administrative_receivership:"Administrative receivership"};
+const SOL=new Set(["members_voluntary_winding_up"]);
+const gt=D.gazette_types.filter(r=>LAB[r[0]]).slice(0,6);
+new Chart(c_mech,{type:'bar',data:{labels:gt.map(r=>LAB[r[0]]),datasets:[{data:gt.map(r=>r[1]),backgroundColor:gt.map(r=>SOL.has(r[0])?GREEN:RED),borderRadius:4}]},options:{indexAxis:'y',responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{label:i=>f(i.raw)+' notices'}}},scales:{x:{grid:G,beginAtZero:true,ticks:{callback:v=>f(v)}},y:{grid:NG}}}});
+
+// age
+const ak=Object.keys(D.age_at_death).map(Number).sort((a,b)=>a-b);
+new Chart(c_age,{type:'bar',data:{labels:ak,datasets:[{data:ak.map(k=>D.age_at_death[k]),backgroundColor:AMBER,borderRadius:2,barPercentage:1,categoryPercentage:1}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{title:i=>'Age '+i[0].label,label:i=>f(i.raw)+' firms'}}},scales:{x:{grid:NG,title:{display:true,text:'age at insolvency (years)'},ticks:{maxTicksLimit:12}},y:{grid:G,ticks:{callback:v=>f(v)}}}}});
+
+// cycle
+const cy=D.cycle;
+new Chart(c_cycle,{type:'bar',data:{labels:cy.map(r=>r[0]),datasets:[{data:cy.map(r=>r[1]),backgroundColor:cy.map(r=>r[0]===2026?'#c9ccd2':NAVY),borderRadius:3}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{label:i=>f(i.raw)+' insolvencies'+(cy[i.dataIndex][0]===2026?' (partial)':'')}}},scales:{x:{grid:NG},y:{grid:G,beginAtZero:true,ticks:{callback:v=>f(v)}}}}});
+
+// size rates
+const sr=D.size_rates.filter(r=>r[0]!=='unknown');const ord=['micro','small','medium','large'];sr.sort((a,b)=>ord.indexOf(a[0])-ord.indexOf(b[0]));
+new Chart(c_size,{type:'bar',data:{labels:sr.map(r=>r[0][0].toUpperCase()+r[0].slice(1)),datasets:[{data:sr.map(r=>r[1]),backgroundColor:BLUE,borderRadius:4}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{label:i=>i.raw+'% insolvent'}}},scales:{x:{grid:NG},y:{grid:G,beginAtZero:true,title:{display:true,text:'% ever insolvent'}}}}});
+
+// industry
+const ir=D.industry_rates;
+new Chart(c_ind,{type:'bar',data:{labels:ir.map(r=>r[0]),datasets:[{data:ir.map(r=>r[1]),backgroundColor:RED,borderRadius:4}]},options:{indexAxis:'y',responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{label:i=>i.raw+'% insolvent'}}},scales:{x:{grid:G,beginAtZero:true,title:{display:true,text:'% ever insolvent'}},y:{grid:NG}}}});
+
+// cohort
+new Chart(c_cohort,{type:'line',data:{labels:D.cohort.map(r=>r[0]),datasets:[{data:D.cohort.map(r=>r[1]),borderColor:NAVY,backgroundColor:'rgba(31,56,100,.07)',fill:true,tension:.3,pointRadius:2.5,borderWidth:2.5}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{title:i=>'Born '+i[0].label,label:i=>i.raw+'% insolvent within 5 yrs'}}},scales:{x:{grid:NG,title:{display:true,text:'year of incorporation'}},y:{grid:G,beginAtZero:true,title:{display:true,text:'% insolvent within 5 years'}}}}});
+
+// FTSE balanced panel
+const pn=D.ftse_panel.series;
+new Chart(c_panel,{type:'line',data:{labels:pn.map(r=>r[0]),datasets:[{label:'index (2007=100)',data:pn.map(r=>r[2]),borderColor:NAVY,backgroundColor:'rgba(31,56,100,.07)',fill:true,tension:.25,pointRadius:2,borderWidth:2.5}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{title:i=>i[0].label,label:i=>'index '+i.raw+' (£'+pn[i.dataIndex][1]+'tn)'}}},scales:{x:{grid:NG},y:{grid:G,title:{display:true,text:'aggregate market cap, 2007 = 100'},suggestedMin:50,suggestedMax:115}}}});
+
+// churn
+const ch=D.ftse_churn;
+new Chart(c_churn,{type:'bar',data:{labels:ch.map(r=>r[0]),datasets:[{label:'Joined',data:ch.map(r=>r[1]),backgroundColor:TEAL},{label:'Left',data:ch.map(r=>-r[2]),backgroundColor:AMBER}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{position:'top',align:'end',labels:{usePointStyle:true,boxWidth:8}},tooltip:{callbacks:{label:i=>i.dataset.label+': '+Math.abs(i.raw)}}},scales:{x:{grid:NG,stacked:true},y:{grid:G,stacked:true,title:{display:true,text:'constituents per year'},ticks:{callback:v=>Math.abs(v)}}}}});
+
+
+// S&P churn
+const sc=D.sp_churn;
+new Chart(c_churn_sp,{type:'bar',data:{labels:sc.map(r=>r[0]),datasets:[{label:'Joined',data:sc.map(r=>r[1]),backgroundColor:TEAL},{label:'Left',data:sc.map(r=>-r[2]),backgroundColor:AMBER}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{position:'top',align:'end',labels:{usePointStyle:true,boxWidth:8}},tooltip:{callbacks:{label:i=>i.dataset.label+': '+Math.abs(i.raw)}}},scales:{x:{grid:NG,stacked:true},y:{grid:G,stacked:true,title:{display:true,text:'constituents per year'},ticks:{callback:v=>Math.abs(v)}}}}});
+// S&P sector composition over time (100% stacked area) — IT in context
+// S&P vs FTSE sector composition of market value, 2023 (paired bars)
+const S23=D.sp_sector_share['2023'], F23=D.ftse_sector_2023;
+const secs=Object.keys(S23).sort((a,b)=>S23[b]-S23[a]);
+new Chart(c_tech,{type:'bar',data:{labels:secs,datasets:[
+ {label:'S&P 500',data:secs.map(x=>S23[x]),backgroundColor:BLUE,borderRadius:3},
+ {label:'FTSE 100',data:secs.map(x=>F23[x]||0),backgroundColor:AMBER,borderRadius:3}]},
+ options:{indexAxis:'y',responsive:true,maintainAspectRatio:false,plugins:{legend:{position:'top',align:'end',labels:{usePointStyle:true,boxWidth:8}},tooltip:{callbacks:{label:i=>i.dataset.label+': '+i.raw+'%'}}},scales:{x:{grid:G,beginAtZero:true,title:{display:true,text:'share of index market value, 2023 (%)'}},y:{grid:NG}}}});
+// FTSE sector trajectories over time — a few key sectors, unstacked lines
+const FSEC=[['Financials','#2e6fb0',3],['Consumer Staples','#4a7a45',2.5],['Materials','#b5432f',2.5],['Information Technology','#c8860a',3.5]];
+const fyr=Object.keys(D.ftse_sector_count).map(Number).sort((a,b)=>a-b);
+const fso=(y,k)=>D.ftse_sector_count[y][k]||0;
+const fds=FSEC.map(([k,col,w])=>({label:k,data:fyr.map(y=>fso(y,k)),borderColor:col,backgroundColor:col,fill:false,pointRadius:0,borderWidth:w,tension:.35}));
+new Chart(c_ftsesec,{type:'line',data:{labels:fyr,datasets:fds},options:{responsive:true,maintainAspectRatio:false,interaction:{mode:'index',intersect:false},plugins:{legend:{position:'top',align:'end',labels:{usePointStyle:true,boxWidth:8}},tooltip:{callbacks:{label:i=>i.dataset.label+': '+i.raw+'%'}}},scales:{x:{grid:NG,ticks:{maxTicksLimit:9}},y:{grid:G,beginAtZero:true,title:{display:true,text:'share of FTSE 100 constituents (%)'}}}}});
+
+// value gap
+new Chart(c_vg,{type:'bar',data:{labels:['S&P 500','FTSE 100'],datasets:[
+ {data:[D.valuegap.sp_mb,D.valuegap.ftse_mb],backgroundColor:[BLUE,AMBER],borderRadius:5}]},
+ options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},
+   tooltip:{callbacks:{label:i=>'Market-to-book: '+i.raw+'×'}}},
+   scales:{x:{grid:NG},y:{grid:G,beginAtZero:true,title:{display:true,text:'market value ÷ book assets, 2023 (×)'},ticks:{callback:v=>v+'×'}}}}});
+
+// FTSE dividends (balanced panel, indexed 2007=100)
+const dv=D.ftse_div.series; document.getElementById('dv07').textContent='£'+dv.find(r=>r[0]===2007)[1]+'bn';
+new Chart(c_div,{type:'line',data:{labels:dv.map(r=>r[0]),datasets:[{label:'index (2007=100)',data:dv.map(r=>r[2]),borderColor:NAVY,backgroundColor:'rgba(31,56,100,.07)',fill:true,tension:.25,pointRadius:2,borderWidth:2.5}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{title:i=>i[0].label,label:i=>'index '+i.raw+' (£'+dv[i.dataIndex][1]+'bn)'}}},scales:{x:{grid:NG},y:{grid:G,beginAtZero:true,suggestedMax:110,title:{display:true,text:'total dividends, 2007 = 100'}}}}});
+// S&P median net income ($m)
+const ni=D.sp_netinc;
+new Chart(c_earn,{type:'line',data:{labels:ni.map(r=>r[0]),datasets:[{label:'median net income',data:ni.map(r=>r[1]),borderColor:GREEN,backgroundColor:'rgba(74,122,69,.08)',fill:true,tension:.3,pointRadius:2,borderWidth:2.5}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{title:i=>i[0].label,label:i=>'median $'+i.raw+'m per constituent'}}},scales:{x:{grid:NG},y:{grid:G,beginAtZero:true,title:{display:true,text:'median net income ($m per constituent)'}}}}});
+
+
+
+// Geography tile-cartogram
+let geoChart;
+function drawGeo(key){const rows=Object.entries(D[key]).sort((a,b)=>b[1]-a[1]);
+  if(geoChart)geoChart.destroy();
+  geoChart=new Chart(c_geo,{type:'bar',data:{labels:rows.map(r=>r[0]),datasets:[{data:rows.map(r=>r[1]),backgroundColor:key==='geo_companies'?NAVY:RED,borderRadius:4}]},options:{indexAxis:'y',responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{label:i=>f(i.raw)+(key==='geo_companies'?' companies':' insolvencies')}}},scales:{x:{grid:G,beginAtZero:true,ticks:{callback:v=>f(v)}},y:{grid:NG}}}});}
+document.querySelectorAll('#geotog button').forEach(b=>b.onclick=()=>{document.querySelectorAll('#geotog button').forEach(x=>x.classList.remove('on'));b.classList.add('on');drawGeo(b.dataset.k);});
+drawGeo('geo_companies');
+
+// insolvent share of exits
+const em=D.exit_insolv_pct;
+new Chart(c_exitmix,{type:'line',data:{labels:em.map(r=>r[0]),datasets:[{label:'insolvent %',data:em.map(r=>r[1]),borderColor:RED,backgroundColor:'rgba(181,67,47,.08)',fill:true,tension:.3,pointRadius:2,borderWidth:2.5}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{title:i=>i[0].label,label:i=>i.raw+'% of exits insolvent'}}},scales:{x:{grid:NG},y:{grid:G,beginAtZero:true,max:100,title:{display:true,text:'insolvent share of dated exits (%)'}}}}});
+// index concentration
+new Chart(c_conc,{type:'line',data:{datasets:[
+ {label:'S&P 500 top-10',data:D.conc_sp.map(r=>({x:r[0],y:r[1]})),borderColor:BLUE,backgroundColor:'rgba(46,111,176,.07)',fill:false,tension:.3,pointRadius:2,borderWidth:2.5},
+ {label:'FTSE 100 top-10',data:D.conc_ftse.map(r=>({x:r[0],y:r[1]})),borderColor:AMBER,backgroundColor:'rgba(200,134,10,.07)',fill:false,tension:.3,pointRadius:2,borderWidth:2.5}]},
+ options:{responsive:true,maintainAspectRatio:false,parsing:false,plugins:{legend:{position:'top',align:'end',labels:{usePointStyle:true,boxWidth:8}},tooltip:{callbacks:{label:i=>i.dataset.label+': '+i.parsed.y+'%'}}},scales:{x:{type:'linear',grid:NG,ticks:{stepSize:2,callback:v=>v}},y:{grid:G,beginAtZero:true,title:{display:true,text:'top-10 share of index value (%)'}}}}});
+</script></body></html>

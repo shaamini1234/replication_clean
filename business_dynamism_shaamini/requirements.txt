@@ -15,3 +15,7 @@ requests
 yfinance                 # market prices for market-cap calc
 lxml                     # iXBRL / HTML parsing
 pdfplumber               # Companies House PDF extraction
+
+# Handover charts + Word rendering
+matplotlib
+python-docx
