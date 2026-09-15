@@ -1,0 +1,664 @@
+id,company_name,company_number,start_date,end_date,entry_type,exit_type,exit_name,source_url
+1,Eagle Star,,1984-01-02,1984-01-19,founding,removed,,
+2,Magnet & Southerns,02953047,1984-01-02,1984-04-02,founding,removed,,
+4,Barratt Development,15998687,1984-01-02,1984-07-02,founding,removed,,
+5,Bowater Corporation,,1984-01-02,1984-07-19,founding,removed,,
+6,Wimpey (George) & Co,,1984-01-02,1984-10-01,founding,removed,,
+8,MFI Furniture,,1984-01-02,1984-10-01,founding,removed,,
+10,Dowty Group,,1984-10-01,1985-01-02,added,removed,,
+11,Berisford (S & W),02707046,1984-01-02,1985-01-02,founding,removed,,
+12,RMC Group,09909380,1984-01-02,1985-01-02,founding,removed,,
+13,Dalgety,10274117,1984-01-02,1985-01-02,founding,removed,,
+14,Hambro Life,,1984-01-02,1985-02-01,founding,removed,,
+16,House of Fraser,10686681,1984-01-02,1985-04-01,founding,removed,,
+17,MFI Furniture,,1985-01-02,1985-04-01,added,removed,,
+18,Ranks Hovis McDougall,,1985-04-01,1985-07-01,added,removed,,
+19,Imperial Continental Gas Ass.,,1984-01-02,1985-07-01,founding,removed,,
+20,Debenhams,,1985-07-01,1985-08-06,added,removed,,
+21,Lonrho,02805337,1984-04-02,1985-10-01,added,removed,,
+23,Habitat Mothercare,07034919,1985-10-01,1986-01-08,added,removed,,
+24,British Home Stores,,1984-01-02,1986-01-08,founding,removed,,
+25,Exco International,,1984-01-02,1986-04-01,founding,removed,,
+27,Harrisons & Crosfield,05998739,1984-01-02,1986-04-01,founding,removed,,
+28,Ultramar,,1984-01-02,1986-04-01,founding,removed,,
+30,Distillers Company,,1984-01-02,1986-04-22,founding,removed,,
+32,Bank of Scotland,SC327000,1985-08-06,1986-07-01,added,removed,,
+33,Ferranti International,,1984-01-02,1986-07-01,founding,removed,,
+34,British & Commonwealth,,1984-01-02,1986-10-01,founding,removed,,
+35,BICC,16237399,1984-01-02,1986-10-01,founding,removed,,
+36,Smith Industries,17136683,1985-04-01,1986-10-01,added,removed,,
+38,Argyll Group,SC544125,1985-01-02,1987-01-02,added,removed,,
+39,Burmah Oil,06208775,1986-07-01,1987-01-02,added,removed,,
+40,Lucas Industries,,1986-04-01,1987-01-02,added,removed,,
+44,IC Gas,,1987-01-02,1987-04-27,added,removed,,
+45,GKN,04191106,1984-01-02,2018-04-24,founding,removed,,
+46,Lonrho,02805337,1986-01-08,1987-07-01,added,removed,,
+47,Unigate,,1986-10-01,1987-10-01,added,removed,,
+48,RMC Group,09909380,1986-04-22,1987-10-01,added,removed,,
+50,Blue Arrow,07767799,1987-10-01,1988-01-04,added,removed,,
+51,Jaguar,15049410,1985-02-01,1988-01-04,added,removed,,
+54,Dixons Group,12620781,1985-01-02,1988-04-05,added,removed,,
+55,Sedgwick,13595866,1984-01-02,1988-04-05,founding,removed,,
+57,Globe Investment Trust,,1984-01-02,1988-07-01,founding,removed,,
+58,Rowntree,,1984-01-02,1988-07-07,founding,removed,,
+59,Blue Arrow,07767799,1988-04-05,1988-10-03,added,removed,,
+61,Next,04412362,1987-04-27,1989-01-03,added,removed,,
+62,Williams Holdings,,1988-04-05,1989-01-03,added,removed,,
+63,Amstrad,15698920,1984-01-02,1989-04-03,founding,removed,,
+64,British & Commonwealth,,1987-04-01,1989-04-03,added,removed,,
+65,Coats Viyella,,1986-04-01,1989-04-03,added,removed,,
+66,Storehouse,,1986-01-08,1989-04-03,added,removed,,
+67,Gateway Corporation (Formerly,,1984-01-02,1989-07-17,founding,removed,,
+69,Consolidated Gold Fields,,1984-01-02,1989-08-08,founding,removed,,
+70,Plessey Co,,1984-01-02,1989-09-11,founding,removed,,
+71,Harrisons & Crosfield,05998739,1989-04-03,1989-10-02,added,removed,,
+73,Siebe,,1989-09-11,1990-01-02,added,removed,,
+74,ECC Group,15213063,1984-01-02,1990-04-02,founding,removed,,
+75,Cookson Group,16793203,1986-04-01,1990-07-02,added,removed,,
+76,Globe Investment Trust,,1990-01-02,1990-07-13,added,removed,,
+77,Burton Group,,1984-01-02,1990-10-01,founding,removed,,
+79,Taylor Woodrow,,1989-04-03,1990-10-01,added,removed,,
+80,Polly Peck,12181667,1984-01-02,1990-10-02,founding,removed,,
+81,BPB Industries,,1984-01-02,1991-01-02,founding,removed,,
+83,STC,,1984-01-02,1991-01-23,founding,removed,,
+84,Dalgety,10274117,1990-10-02,1991-04-02,added,removed,,
+85,GKN,04191106,1989-08-08,1991-04-02,added,removed,,
+86,Burmah Oil,06208775,1988-04-05,1991-04-02,added,removed,Burmah Castrol,
+87,Ranks Hovis McDougall,,1986-04-21,1991-07-01,added,removed,,
+88,Harrisons & Crosfield,05998739,1990-07-02,1991-07-01,added,removed,,
+90,Racal Electronics,09220362,1984-01-02,1991-09-16,founding,removed,,
+91,Ultramar,,1989-01-03,1991-10-01,added,removed,,
+93,Maxwell Communications,,1984-01-02,1991-12-04,founding,removed,,
+95,Lucus Industries,,1988-07-01,1992-01-02,added,removed,,
+96,BICC,16237399,1989-04-03,1992-01-02,added,removed,,
+97,Lonrho,02805337,1988-01-04,1992-04-01,added,removed,,
+94,ASDA Group (formerly Associated,01396513,1984-01-02,1992-01-02,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/01396513
+68,Beecham Group,00227531,1984-01-02,1989-07-27,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/00227531
+52,Britoil,SC077750,1984-01-02,1988-02-25,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/SC077750
+3,Edinburgh Investment Trust,SC034993,1984-01-02,1984-07-02,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/SC034993
+43,Hammerson Property,00360632,1984-01-02,1987-04-01,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/00360632
+99,Trafalgar House,16570860,1984-01-02,1992-04-01,founding,removed,,
+100,Tarmac,,1984-01-02,1992-04-01,founding,removed,,
+101,Laporte,,1992-01-02,1992-06-22,added,removed,,
+102,Eurotunnel,03583610,1991-01-02,1992-06-22,added,removed,,
+103,MEPC,05514581,1984-01-02,1992-06-22,founding,removed,,
+104,Midland Bank,,1984-01-02,1992-07-13,founding,removed,,
+105,Willis Corroon,,1991-01-02,1992-09-21,added,removed,,
+108,Hillsdown Holdings,11408139,1987-01-02,1992-09-21,added,removed,,
+110,RMC Group,09909380,1988-04-05,1992-09-21,added,removed,,
+111,BET,,1984-01-02,1992-12-21,founding,removed,,
+113,Smith (W.H.),05202036,1991-12-04,1993-03-22,added,removed,,
+116,Kwik Save Group,,1992-09-21,1993-06-21,added,removed,,
+119,De La Rue,03834125,1992-09-21,1993-09-20,added,removed,,
+120,Tate & Lyle,12283210,1991-01-23,1993-09-20,added,removed,,
+121,Scottish Hydro,SC585480,1992-09-21,1993-09-20,added,removed,Scottish Hydro,
+122,Rothmans International,03045251,1987-10-01,1993-10-25,added,removed,,
+123,MB-Caradon,,1992-01-02,1993-11-05,added,removed,,
+125,NFC,16271657,1991-11-26,1993-12-20,added,removed,,
+127,Scottish Hydro Electricity,SC585480,1993-12-20,1994-03-21,added,removed,Scottish Hydro,
+128,Anglian Water,07476767,1990-10-01,1994-03-21,added,removed,,
+129,Tarmac,,1994-03-21,1994-06-20,added,removed,,
+130,NFC,16271657,1994-03-21,1994-09-19,added,removed,,
+131,Coats Viyella,,1992-04-01,1994-09-19,added,removed,,
+133,Warburg S.G.,,1993-06-21,1995-07-26,added,removed,Warburg SG Group,
+134,Caradon PLC,12966997,1993-11-05,1995-09-18,added,removed,Caradon,
+135,MEPC,05514581,1993-09-20,1995-09-18,added,removed,,
+136,United Biscuits,08169000,1984-01-02,1995-09-18,founding,removed,,
+137,Eastern Group,,1984-01-02,1995-09-19,founding,removed,,
+140,Arjo Wiggins Appleton plc,00961440,1984-01-02,1995-12-18,founding,removed,,
+141,London Electricity,10681760,1995-10-23,1995-12-18,added,removed,London Electricity plc,
+142,De La Rue,03834125,1994-03-21,1995-12-18,added,removed,De La Rue plc,
+145,TSB Group,,1987-01-02,1995-12-28,added,removed,,
+146,Forte plc,,1984-01-02,1996-01-31,founding,removed,,
+150,Sun Alliance Group plc,,1984-01-02,1996-07-18,founding,removed,,
+152,Thorn EMI plc,03158105,1984-01-02,1996-08-17,founding,removed,,
+153,Cookson Group,16793203,1995-07-26,1996-08-17,added,removed,Cookson Group plc,
+156,Coutaulds,SC003388,1984-01-02,1996-12-23,founding,removed,,
+158,Williams Holdings,,1991-04-02,1997-02-14,added,removed,,
+162,Burton Group plc,,1995-12-18,1997-06-23,added,removed,Burton Group,
+163,Tate & Lyle,12283210,1995-03-17,1997-09-22,added,removed,,
+164,Hanson,,1984-01-02,1997-09-22,founding,removed,,
+165,Imperial Tobacco Group,00073800,1996-09-30,1997-09-22,added,removed,Imperial Tobacco Group,
+166,Mercury Asset Management,,1996-12-23,1997-09-22,added,removed,,
+167,Burmah Castrol,,1984-01-02,1997-09-22,founding,removed,,
+170,RMC Group,09909380,1993-06-21,1997-12-22,added,removed,,
+171,Blue Circle Industries,,1984-01-02,1997-12-22,founding,removed,,
+172,TI Group,,1992-09-21,1997-12-22,added,removed,,
+173,Mercury Asset Management,,1997-12-22,1997-12-24,added,removed,,
+174,Dixons Group,12620781,1995-12-28,1998-03-23,added,removed,Dixons,
+175,The Energy Group,03613919,1984-01-02,1998-05-21,founding,removed,,
+176,General Accident,SC119505,1984-01-02,1998-06-02,founding,removed,,
+178,Next,04412362,1996-06-24,1998-06-22,added,removed,,
+181,British Steel,12303256,1988-12-21,1998-09-21,added,removed,,
+182,Rank Group,,1984-01-02,1998-09-21,founding,removed,,
+183,Blue Circle Industries,,1997-12-24,1998-09-21,added,removed,,
+184,RMC Group,09909380,1998-06-02,1998-09-21,added,removed,,
+187,Misys,,1998-05-21,1998-12-21,added,removed,,
+188,Nycomed Amersham,,1997-12-17,1998-12-21,added,removed,,
+189,Sema Group,16640835,1998-09-21,1998-12-21,added,removed,,
+191,BTR,,1984-01-02,1999-02-04,founding,removed,,
+192,Siebe,,1992-04-01,1999-02-04,added,removed,,
+180,B.A.T. Industries Plc,00233112,1984-01-02,1998-09-08,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/00233112
+149,REXAM (formerly Bowater Group),00191285,1984-01-02,1996-06-24,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/00191285
+109,British Aerospace,01470151,1984-01-02,1992-09-21,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/01470151
+114,English China Clays,00154236,1984-01-02,1993-06-01,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/00154236
+115,Fisons,00044687,1984-01-02,1993-06-21,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/00044687
+169,Grand Metropolitan,00291848,1984-01-02,1997-12-17,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/00291848
+106,Pilkington,00041495,1984-01-02,1992-09-21,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/00041495
+159,Redland,00137294,1984-01-02,1997-02-24,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/00137294
+143,Sears plc,00120271,1984-01-02,1995-12-18,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/00120271
+161,Smith & Nephew,00324357,1984-01-02,1997-06-23,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/00324357
+195,Williams,,1997-09-22,1999-03-22,added,removed,,
+196,Tomkins,12664251,1992-01-02,1999-03-22,added,removed,,
+199,Guardian Royal Exchange PLC,,1984-01-02,1999-05-10,founding,removed,,
+200,Next,04412362,1999-05-10,1999-06-21,added,removed,,
+201,Sema Group Plc,16640835,1999-03-29,1999-06-21,added,removed,Sema Group,
+204,Stagecoach Holdings,SC212093,1998-06-22,1999-09-20,added,removed,,
+205,EMAP,14696069,1999-03-22,1999-09-20,added,removed,,
+206,British Steel Plc,12303256,1999-07-28,1999-10-06,added,removed,British Steel,
+208,Orange,12670975,1996-06-24,1999-11-24,added,removed,Orange Plc,
+209,General Electric Company,12657712,1984-01-02,1999-11-30,founding,removed,,
+212,NatWest,11785532,1984-01-02,,founding,current,,
+215,Hanson,,1998-12-21,2000-03-20,added,removed,,
+220,Imperial Tobacco Group,00073800,1998-12-21,2000-03-20,added,removed,Imperial Tobacco Group,
+222,Cable & Wireless Communications,09909999,1984-01-02,2000-05-12,founding,removed,,
+224,Kingston Communications,,2000-03-20,2000-06-19,added,removed,,
+225,Psion,11353526,2000-03-20,2000-06-19,added,removed,,
+226,Thus,06798969,2000-03-20,2000-06-19,added,removed,,
+227,Baltimore Technologies,,2000-03-20,2000-06-19,added,removed,,
+228,SLPH,03680472,1984-01-02,2000-07-12,founding,removed,,
+230,Compass,11466170,1998-03-23,2000-07-27,added,removed,Compass Group,
+232,Hanson,,2000-06-19,2000-09-18,added,removed,,
+237,P & O,RC000404,1984-01-02,2000-10-23,founding,removed,,
+238,Freeserve,10215539,2000-03-20,2000-10-23,added,removed,,
+239,Woolwich,15712439,1997-09-22,2000-10-26,added,removed,,
+240,Baltimore Technologies,,2000-09-18,2000-12-18,added,removed,,
+241,EMAP,14696069,2000-03-20,2000-12-18,added,removed,,
+242,Sema Group,16640835,1999-09-20,2000-12-18,added,removed,Sema,
+244,Bookham Technology,,2000-06-19,2000-12-18,added,removed,,
+247,Granada Compass,,2000-07-27,2001-02-02,added,removed,,
+250,Autonomy Corporation,,2000-12-18,2001-03-19,added,removed,,
+251,Sema,05224547,2001-03-19,2001-04-10,added,removed,Sema,
+252,Railtrack,17225057,1996-07-18,2001-06-18,added,removed,Railtrack Group,
+253,Blue Circle Industries,,1999-06-21,2001-07-12,added,removed,,
+255,Bank of Scotland,SC327000,1990-10-01,2001-09-10,added,removed,,
+256,Halifax,,1997-06-23,2001-09-10,added,removed,Halifax Group,
+258,Misys,,1999-03-22,2001-09-24,added,removed,,
+260,Colt Telecom Group,,1998-09-21,2001-09-24,added,removed,,
+264,Marconi,SC639139,1999-11-30,2001-09-24,added,removed,,
+266,United News & Media,,1996-06-24,2001-11-19,added,removed,United Business Media,
+267,GKN,04191106,1994-06-20,2001-12-24,added,removed,,
+270,Innogy Holdings,,2001-09-24,2002-05-29,added,removed,Innogy Hldgs,
+271,ARM Holdings,11299879,1999-12-20,2002-06-24,added,removed,,
+272,Electrocomponents,,2000-09-18,2002-06-24,added,removed,,
+277,International Power,05186841,1984-01-02,2002-09-23,founding,removed,,
+279,Brambles Industries,,2001-08-07,2002-12-23,added,removed,,
+280,Cable & Wireless,02983774,2000-03-20,2002-12-23,added,removed,,
+284,Royal & Sun Alliance Insurance,00100097,1984-01-02,2003-03-24,founding,removed,,
+289,Provident Financial,,2003-03-24,2003-12-22,added,removed,,
+213,Associated British Foods,00293262,1984-01-02,2000-03-20,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/00293262
+245,Glaxo Wellcome,00480080,1984-01-02,2000-12-27,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/00480080
+223,Norwich Union,02468686,1997-09-22,2000-05-30,added,removed,Norwich Union Plc,https://find-and-update.company-information.service.gov.uk/company/02468686
+214,Allied Domecq,03771147,1984-01-02,2000-03-20,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/03771147
+218,PowerGen,03586615,1991-04-02,2000-03-20,added,removed,,https://find-and-update.company-information.service.gov.uk/company/03586615
+216,Whitbread,04120344,1984-01-02,2000-03-20,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/04120344
+211,British Energy,SC270184,1997-12-22,1999-12-20,added,removed,,https://find-and-update.company-information.service.gov.uk/company/SC270184
+293,Nycomed Amersham,09406669,2000-03-20,2004-04-08,added,removed,Amersham,
+294,GKN PLC,04191106,2002-05-29,2004-06-21,added,removed,GKN,
+297,Tomkins,12664251,2002-09-23,2004-12-20,added,removed,,
+298,Cairn Energy,SC787001,2004-09-20,2005-03-21,added,removed,,
+304,Emap,14696069,2002-10-21,2005-09-19,added,removed,,
+310,P&O,RC000404,2005-12-08,2006-03-09,added,removed,,
+312,Cable & Wireless,02983774,2003-03-24,2006-06-19,added,removed,,
+313,Ladbrokes,,1984-01-02,2006-06-19,founding,removed,,
+314,BAA,05757208,1987-10-01,2006-06-30,added,removed,,
+315,Alliance Unichem,,2002-09-23,2006-07-31,added,removed,,
+316,BOC,00337663,1984-01-02,2006-09-05,founding,removed,,
+319,GUS,,1984-01-02,2006-10-11,founding,removed,,
+320,Partygaming,,2005-09-19,2006-10-11,added,removed,,
+321,Brambles Industries,,2005-12-13,2006-11-27,added,removed,,
+323,Cairn Energy,SC787001,2005-09-19,2007-03-19,added,removed,,
+326,Scottish Power,SC193794,1991-07-01,2007-04-20,added,removed,,
+329,Hanson,,2000-12-27,2007-08-22,added,removed,,
+331,Segro,13246881,1984-01-02,2007-09-24,founding,removed,,
+333,Invesco Plc,,1984-01-02,2007-12-04,founding,removed,,
+336,Tate & Lyle,12283210,2004-12-20,2007-12-24,added,removed,,
+338,DSG International,,1984-01-02,2007-12-24,founding,removed,,
+340,Barratt Developments,15998687,2007-06-18,2007-12-24,added,removed,,
+341,Northern Rock,16351760,2001-09-24,2007-12-24,added,removed,,
+344,Yell Group,08815102,2003-09-22,2008-03-26,added,removed,,
+347,Resolution,,2006-09-18,2008-04-30,added,removed,,
+351,Tate & Lyle,12283210,2008-03-26,2008-06-23,added,removed,,
+352,Carphone Warehouse,06534088,2007-09-24,2008-09-22,added,removed,Carphone Warehouse Group,
+353,Enterprise Inns,10517727,2004-03-22,2008-09-22,added,removed,,
+357,Lonmin,,2006-06-19,2008-12-22,added,removed,,
+358,Petrofac,16051356,2008-06-23,2008-12-22,added,removed,,
+362,First Group,,2007-12-24,2009-03-23,added,removed,,
+363,London Stock Exchange Group,05369106,1984-01-02,2010-06-21,founding,removed,,
+365,Tate & Lyle,12283210,2008-12-22,2009-03-23,added,removed,,
+366,Amlin,,2008-12-22,2009-06-22,added,removed,,
+369,Reuters,03477402,1984-07-02,2009-09-10,added,removed,Thomson Reuters,
+373,Resolution,,1984-01-02,2010-03-22,founding,removed,,
+375,Cable & Wireless,02983774,2006-11-27,2010-09-20,added,removed,Cable and Wireless Worldwide,
+377,Segro,13246881,2009-09-21,2010-09-20,added,removed,,
+378,Cobham,,2008-03-26,2010-12-20,added,removed,,
+381,African Barrick Gold,,2010-06-21,2011-03-21,added,removed,,
+386,Autonomy Corporation,,2008-09-22,2011-10-07,added,removed,,
+387,Inmarsat,04886115,2008-09-22,2011-12-19,added,removed,,
+389,Lonmin,,2009-03-23,2011-12-19,added,removed,,
+370,Balfour Beatty,00395826,1984-01-02,2009-09-21,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/00395826
+334,Imperial Chemical Industries,00218019,1984-01-02,2007-12-20,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/00218019
+301,Shell Transport & Trading Co,00054485,1984-01-02,2005-07-20,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/00054485
+290,Mitchells & Butlers,04551498,1984-01-02,2003-12-22,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/04551498
+355,ITV,04967001,1984-01-02,2008-09-22,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/04967001
+328,Alliance Boots,04452715,1984-01-02,2007-06-26,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/04452715
+318,Schroders,03909886,1994-09-19,2006-09-18,added,removed,,https://find-and-update.company-information.service.gov.uk/company/03909886
+371,Pennon Group,02366640,1984-01-02,2009-09-21,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/02366640
+390,Cairn Energy,SC787001,2007-12-24,2012-03-19,added,removed,,
+392,Man Group,,2001-09-24,2012-06-18,added,removed,,
+393,International Power,05186841,2005-03-21,2012-06-29,added,removed,,
+394,ICAP,,2006-06-30,2012-09-24,added,removed,,
+398,Kazakhmys,09132358,2005-12-19,2013-03-18,added,removed,,
+402,Eurasian Natural Resources,,2008-03-26,2013-09-23,added,removed,,
+406,AMEC,09496208,2007-12-20,2014-03-24,added,removed,Amec,
+407,Tate & Lyle,12283210,2011-06-20,2014-03-24,added,removed,,
+410,Barratt Developments,15998687,2014-03-24,2014-09-22,added,removed,,
+414,Petrofac,16051356,2009-03-23,2014-12-22,added,removed,,
+416,Friends Provident,,2001-09-24,2015-04-13,added,removed,Friends Life Group,
+422,BG Group,,1984-01-02,2016-02-15,founding,removed,,
+424,Hikma Pharmaceuticals,,2015-03-20,2016-03-21,added,removed,,
+425,Aberdeen Asset Management,16133984,2012-03-19,2016-03-21,added,removed,,
+426,Sports Direct International,11775757,2013-09-23,2016-03-21,added,removed,,
+427,Inmarsat,04886115,2015-06-22,2016-06-20,added,removed,,
+429,ARM Holdings,11299879,1984-01-02,2016-09-05,founding,removed,,
+430,Berkeley Group Holdings,,2015-09-21,2016-09-19,added,removed,,
+432,Polymetal International,,2016-09-19,2016-12-19,added,removed,,
+434,Dixons Carphone,,2014-09-22,2017-03-20,added,removed,,
+435,Hikma Pharmaceuticals,,2016-06-20,2017-06-19,added,removed,,
+437,Royal Mail,14240638,2013-12-23,2017-09-18,added,removed,,
+438,Provident Financial,,2015-12-21,2017-09-18,added,removed,,
+442,Worldpay Group,,2015-12-21,2018-01-15,added,removed,,
+446,Old Mutual,,1999-09-20,2018-06-28,added,removed,,
+448,Royal Mail,14240638,2018-03-19,2018-12-24,added,removed,,
+449,Shire Pharmaceuticals,02031674,2000-10-26,2018-12-24,added,removed,Shire,
+450,Randgold Resources,,2008-12-22,2018-12-31,added,removed,,
+451,GVC Holdings,,2018-06-18,2019-03-18,added,removed,,
+453,Hikma Pharmaceuticals,,2018-12-24,2019-06-24,added,removed,,
+462,TUI AG,,2014-12-17,2020-03-23,added,removed,,
+482,Polymetal International,,2019-09-23,2022-03-21,added,removed,,
+485,Royal Mail,14240638,2021-05-28,2022-06-20,added,removed,,
+461,Kingfisher,01664812,1984-01-02,2020-03-23,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/01664812
+400,Wolseley,00029846,2009-06-22,2013-06-24,added,removed,Polymetal,https://find-and-update.company-information.service.gov.uk/company/00029846
+480,BHP Group Plc,03196209,1984-01-02,2022-01-31,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/03196209
+397,Intu Properties,03685527,1984-01-02,2013-03-18,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/03685527
+409,William Hill,04212563,1984-01-02,2014-06-23,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/04212563
+452,Wood Group (John),SC278251,1984-01-02,2019-03-18,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/SC278251
+483,Ferguson,SC246627,1984-01-02,2022-05-12,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/SC246627
+464,NMC Health,07712220,1984-01-02,2020-04-27,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/07712220
+455,Marks and Spencer Group,04256886,1984-01-02,2019-09-23,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/04256886
+489,Abrdn,,1984-01-02,2022-09-19,founding,removed,,
+490,Hikma Pharmaceuticals,,2019-09-23,2022-09-19,added,removed,,
+499,Abrdn,,2022-12-19,2023-09-18,added,removed,,
+503,CRH,,2011-12-19,2023-09-25,added,removed,,
+507,Paddy Power Betfair,,2016-03-21,2024-05-31,added,removed,Flutter Entertainment,
+511,Smurfit Kappa Group,,2016-12-19,2024-07-08,added,removed,Smufit Kappa Group,
+514,B8M European Value Retail,,2020-09-21,2024-12-23,added,removed,B&M European Value Retail,
+518,Unite Group,,2022-06-20,2025-09-22,added,removed,,
+519,WPP Group,02670617,1998-06-22,2025-12-22,added,removed,WPP,
+523,Hikma Pharmaceuticals,,2023-09-18,2026-03-23,added,removed,,
+524,Charterhouse J Rothschild,,1984-01-19,,added,exit_unresolved,,
+525,Woolworths,06732228,1984-07-02,,added,exit_unresolved,,
+526,Dee Corporation,,1985-01-02,,added,exit_unresolved,,
+527,British Printing &,,1986-07-01,,added,exit_unresolved,,
+528,Amstrad Consumer,,1986-10-01,,added,exit_unresolved,,
+529,British Gas,08811254,1986-12-09,,added,exit_unresolved,,
+530,Argyll Group,SC544125,1987-04-01,,added,exit_unresolved,,
+531,Polly Peck International,,1989-10-02,,added,exit_unresolved,,
+532,North West Water,03528619,1990-04-02,,added,exit_unresolved,,
+534,National Power,12818602,1991-04-02,,added,exit_unresolved,,
+536,ECC Group,15213063,1992-04-01,,added,exit_unresolved,,
+537,Bowater,09876996,1992-04-01,,added,exit_unresolved,,
+539,Burmah Castrol,,1992-09-21,,added,exit_unresolved,,
+542,Eastern Electricity,,1993-12-20,,added,exit_unresolved,,
+543,British Sky Broadcasting,09399778,1995-09-18,,added,exit_unresolved,,
+544,National Grid Group plc,04031152,1995-12-11,,added,current,,
+545,Foreign & Colonial Invest,,1995-12-18,,added,exit_unresolved,,
+546,Energy Group,,1997-02-24,,added,exit_unresolved,,
+547,Billiton,,1997-09-22,,added,exit_unresolved,,
+548,Sun Life & Provincial,,1997-09-22,,added,exit_unresolved,,
+552,Scottish & Southern Energy,,1998-12-16,,added,current,SSE,
+553,Dixons Group,12620781,1998-12-21,,added,exit_unresolved,,
+554,South African Breweries,,1999-03-22,,added,exit_unresolved,,
+558,Imperial Tobacco,01860181,2000-07-27,,added,exit_unresolved,,
+559,Canary Wharf Group,04191122,2000-10-17,,added,exit_unresolved,,
+561,GlaxoSmithKline,12215835,2000-12-27,,added,current,,
+564,Next,04412362,2001-06-18,,added,current,,
+570,Liberty International,14236527,2002-12-23,,added,exit_unresolved,,
+575,Slough Estates,08577185,2006-07-31,,added,exit_unresolved,,
+576,Standard Life,11606773,2006-09-18,,added,current,,
+582,Foreign & Colonial,,2009-03-23,,added,exit_unresolved,,
+563,Granada,03962410,2001-02-02,,added,exit_unresolved,,https://find-and-update.company-information.service.gov.uk/company/03962410
+494,Intermediate Capital Grup,02234775,1984-01-02,2022-12-19,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/02234775
+585,Resolution,,2010-09-20,,added,exit_unresolved,,
+586,Tomkins,12664251,2010-09-20,,added,exit_unresolved,,
+587,Glencore,,2011-05-25,,added,current,,
+589,Coca-Cola HBC AG,,2013-09-23,,added,current,Coca-Cola HBC,
+592,Barratt Developments,15998687,2014-12-22,,added,current,,
+598,Segro,13246881,2017-06-19,,added,current,,
+599,Berkeley Group Holdings,,2017-09-18,,added,exit_unresolved,,
+603,Spirax-Sarco Engineering,15436803,2018-12-24,,added,current,,
+607,Intermediate Capital Group,14840880,2023-12-18,,added,current,,
+609,GVC Holdings,,2020-06-22,,added,current,Entain,
+611,Pershing Square Holdings,,2020-12-21,,added,current,,
+640,IHG Hotels & Resorts,05134420,1984-01-02,,founding,current,,
+649,Reckitt,06270876,1984-01-02,,founding,current,,
+653,United Utilities,06559020,1984-01-02,,founding,current,,
+654,Aberdeen Asset Management,16133984,1984-01-02,,founding,current,,
+660,Computacenter,03110569,1984-01-02,,founding,current,,
+663,Land Securities,04369054,1984-01-02,,founding,current,,
+15,Enterprise Oil,01682048,1984-07-19,1985-04-01,added,removed,,https://find-and-update.company-information.service.gov.uk/company/01682048
+72,Granada Group,00290076,1984-10-01,1990-01-02,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00290076
+41,Willis Faber,01386469,1984-10-01,1987-04-01,added,removed,,https://find-and-update.company-information.service.gov.uk/company/01386469
+265,British Telecom,01800000,1984-12-04,2001-11-19,added,removed,British Telecommunications,https://find-and-update.company-information.service.gov.uk/company/01800000
+168,Guinness (Arthur) & Son,00510607,1985-04-01,1997-12-17,added,removed,Guinness,https://find-and-update.company-information.service.gov.uk/company/00510607
+31,Abbey Life,00710383,1985-07-01,1986-07-01,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00710383
+42,Scottish & Newcastle,SC016288,1986-01-02,1987-04-01,added,removed,,https://find-and-update.company-information.service.gov.uk/company/SC016288
+132,Wellcome,01955498,1986-04-01,1995-03-17,added,removed,,https://find-and-update.company-information.service.gov.uk/company/01955498
+49,Saatchi & Saatchi,00231824,1986-07-01,1987-10-01,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00231824
+53,Bunzl,00358948,1986-10-01,1988-04-05,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00358948
+639,BP,00102498,1984-01-02,,founding,current,,https://find-and-update.company-information.service.gov.uk/company/00102498
+659,Barclays,00048839,1984-01-02,,founding,current,,https://find-and-update.company-information.service.gov.uk/company/00048839
+650,Sainsbury's,00185647,1984-01-02,,founding,current,,https://find-and-update.company-information.service.gov.uk/company/00185647
+641,Legal & General,01417162,1984-01-02,,founding,current,,https://find-and-update.company-information.service.gov.uk/company/01417162
+646,Pearson,00053723,1984-01-02,,founding,current,,https://find-and-update.company-information.service.gov.uk/company/00053723
+645,Prudential,01397169,1984-01-02,,founding,current,,https://find-and-update.company-information.service.gov.uk/company/01397169
+647,RELX,00077536,1984-01-02,,founding,current,,https://find-and-update.company-information.service.gov.uk/company/00077536
+648,Rio Tinto,00719885,1984-01-02,,founding,current,,https://find-and-update.company-information.service.gov.uk/company/00719885
+651,Tesco,00445790,1984-01-02,,founding,current,,https://find-and-update.company-information.service.gov.uk/company/00445790
+652,Unilever,00041424,1984-01-02,,founding,current,,https://find-and-update.company-information.service.gov.uk/company/00041424
+642,Lloyds Banking Group,SC095000,1984-01-02,,founding,current,,https://find-and-update.company-information.service.gov.uk/company/SC095000
+658,Aviva,02468686,1984-01-02,,founding,current,,https://find-and-update.company-information.service.gov.uk/company/02468686
+656,Investec,03633621,1984-01-02,,founding,current,,https://find-and-update.company-information.service.gov.uk/company/03633621
+662,International Airlines Group,FC029884,1984-01-02,,founding,current,,https://find-and-update.company-information.service.gov.uk/company/FC029884
+661,Croda International,00206132,1984-01-02,,founding,current,,https://find-and-update.company-information.service.gov.uk/company/00206132
+655,Babcock International Group,02342138,1984-01-02,,founding,current,,https://find-and-update.company-information.service.gov.uk/company/02342138
+657,Melrose Industries,09800044,1984-01-02,,founding,current,,https://find-and-update.company-information.service.gov.uk/company/09800044
+643,M&G,11444019,1984-01-02,,founding,current,,https://find-and-update.company-information.service.gov.uk/company/11444019
+619,Dowlais Group,14591224,2023-04-25,,added,exit_unresolved,,https://find-and-update.company-information.service.gov.uk/company/14591224
+275,British Airways,01777777,1987-04-01,2002-09-23,added,removed,,https://find-and-update.company-information.service.gov.uk/company/01777777
+89,Hammerson Property,00360632,1987-07-01,1991-07-01,added,removed,Hammerson Properties,https://find-and-update.company-information.service.gov.uk/company/00360632
+112,Rolls Royce,01003142,1987-07-01,1992-12-21,added,removed,,https://find-and-update.company-information.service.gov.uk/company/01003142
+217,Scottish & Newcastle,SC016288,1988-01-04,2000-03-20,added,removed,,https://find-and-update.company-information.service.gov.uk/company/SC016288
+185,Enterprise Oil,01682048,1988-02-25,1998-09-21,added,removed,,https://find-and-update.company-information.service.gov.uk/company/01682048
+60,Abbey Life,00710383,1988-07-07,1988-12-21,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00710383
+117,London and Scottish Marine,01008965,1988-10-03,1993-06-21,added,removed,London and Scottish Marine Oil,https://find-and-update.company-information.service.gov.uk/company/01008965
+82,Standard Chartered,00966425,1989-01-03,1991-01-02,added,removed,Standard & Chartered,https://find-and-update.company-information.service.gov.uk/company/00966425
+78,Carlton Communications,00348312,1989-04-03,1990-10-01,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00348312
+296,Abbey National,02294747,1989-07-17,2004-11-16,added,removed,,https://find-and-update.company-information.service.gov.uk/company/02294747
+246,SmithKline Beecham,02337959,1989-07-27,2000-12-27,added,removed,,https://find-and-update.company-information.service.gov.uk/company/02337959
+219,Thames Water,02366623,1990-01-02,2000-03-20,added,removed,,https://find-and-update.company-information.service.gov.uk/company/02366623
+533,Wiggins Teape Appleton,00968654,1990-07-13,,added,exit_unresolved,,https://find-and-update.company-information.service.gov.uk/company/00968654
+210,Severn Trent,02366619,1990-10-01,1999-12-20,added,removed,,https://find-and-update.company-information.service.gov.uk/company/02366619
+139,Inchcape,00609782,1991-07-01,1995-12-11,added,removed,Inchcape plc,https://find-and-update.company-information.service.gov.uk/company/00609782
+317,Rentokil,00218107,1991-07-01,2006-09-18,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00218107
+535,Vodafone Group,01833679,1991-09-16,,added,current,,https://find-and-update.company-information.service.gov.uk/company/01833679
+124,Northern Foods,00471864,1991-10-01,1993-12-20,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00471864
+257,Carlton Communications,00348312,1992-06-22,2001-09-24,added,removed,Carlton Communication,https://find-and-update.company-information.service.gov.uk/company/00348312
+229,Granada Group,00290076,1992-06-22,2000-07-27,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00290076
+107,Royal Insurance,01516396,1992-06-22,1992-09-21,added,removed,,https://find-and-update.company-information.service.gov.uk/company/01516396
+538,HSBC Holdings,00617987,1992-07-13,,added,current,,https://find-and-update.company-information.service.gov.uk/company/00617987
+118,Southern Electric,SC117119,1992-09-21,1993-06-21,added,removed,,https://find-and-update.company-information.service.gov.uk/company/SC117119
+151,Royal Insurance,01516396,1992-12-21,1996-07-18,added,removed,,https://find-and-update.company-information.service.gov.uk/company/01516396
+540,Standard Chartered,00966425,1992-12-21,,added,current,,https://find-and-update.company-information.service.gov.uk/company/00966425
+202,ASDA Group,01396513,1993-03-22,1999-07-28,added,removed,Asda Group Plc,https://find-and-update.company-information.service.gov.uk/company/01396513
+198,Zeneca Group,02723534,1993-06-01,1999-04-06,added,removed,Zeneca,https://find-and-update.company-information.service.gov.uk/company/02723534
+541,British Aerospace,01470151,1993-06-21,,added,current,,https://find-and-update.company-information.service.gov.uk/company/01470151
+177,Wolseley,00029846,1993-06-21,1998-06-22,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00029846
+233,Rolls Royce,01003142,1993-09-20,2000-09-18,added,removed,,https://find-and-update.company-information.service.gov.uk/company/01003142
+361,3i Group,01142830,1994-09-19,2009-03-23,added,removed,,https://find-and-update.company-information.service.gov.uk/company/01142830
+138,Fisons,00044687,1995-09-18,1995-10-23,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00044687
+179,London and Scottish Marine,01008965,1995-09-18,1998-09-08,added,removed,London and Scottish Marine Oil,https://find-and-update.company-information.service.gov.uk/company/01008965
+144,Midlands Electricity,02366928,1995-09-19,1995-12-18,added,removed,Midlands Electricity plc,https://find-and-update.company-information.service.gov.uk/company/02366928
+160,Argos plc,01081551,1995-12-18,1997-03-24,added,removed,Argos,https://find-and-update.company-information.service.gov.uk/company/01081551
+157,Pilkington plc,00041495,1995-12-18,1996-12-23,added,removed,Pilkington,https://find-and-update.company-information.service.gov.uk/company/00041495
+203,Smiths Industries plc,00391027,1995-12-18,1999-09-20,added,removed,Smiths Industries,https://find-and-update.company-information.service.gov.uk/company/00391027
+148,Greenalls Group plc,00014504,1996-01-31,1996-06-24,added,removed,Greenalls Group,https://find-and-update.company-information.service.gov.uk/company/00014504
+276,EMI Group plc,00229231,1996-08-17,2002-09-23,added,removed,EMI Group,https://find-and-update.company-information.service.gov.uk/company/00229231
+154,Thorn plc,03182775,1996-08-17,1996-09-23,added,removed,Thorn,https://find-and-update.company-information.service.gov.uk/company/03182775
+197,LucasVarity,03207774,1996-09-23,1999-03-29,added,removed,,https://find-and-update.company-information.service.gov.uk/company/03207774
+287,Hays,02150950,1996-12-23,2003-06-23,added,removed,,https://find-and-update.company-information.service.gov.uk/company/02150950
+467,Centrica,03033654,1997-02-14,2020-06-22,added,removed,,https://find-and-update.company-information.service.gov.uk/company/03033654
+190,British Land,00621920,1997-03-24,1998-12-21,added,removed,British Land Co,https://find-and-update.company-information.service.gov.uk/company/00621920
+348,Alliance & Leicester,03263713,1997-06-23,2008-06-23,added,removed,,https://find-and-update.company-information.service.gov.uk/company/03263713
+549,Diageo,00023307,1997-12-17,,added,current,,https://find-and-update.company-information.service.gov.uk/company/00023307
+550,Amvescap,00308372,1997-12-22,,added,exit_unresolved,,https://find-and-update.company-information.service.gov.uk/company/00308372
+236,Allied Zurich,03525388,1998-09-08,2000-10-17,added,removed,,https://find-and-update.company-information.service.gov.uk/company/03525388
+551,British American Tobacco,03407696,1998-09-08,,added,current,,https://find-and-update.company-information.service.gov.uk/company/03407696
+207,Securicor,00057379,1998-09-21,1999-11-11,added,removed,Securicor Plc,https://find-and-update.company-information.service.gov.uk/company/00057379
+261,Telewest Communications,SC080891,1998-09-21,2001-09-24,added,removed,,https://find-and-update.company-information.service.gov.uk/company/SC080891
+193,Gallaher Group,03299793,1998-12-21,1999-03-22,added,removed,,https://find-and-update.company-information.service.gov.uk/company/03299793
+311,Daily Mail & General Trust,00184594,1999-02-04,2006-06-19,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00184594
+285,BTR Siebe,00166023,1999-02-04,2003-03-24,added,removed,Invensys,https://find-and-update.company-information.service.gov.uk/company/00166023
+262,Energis,03438871,1999-03-22,2001-09-24,added,removed,,https://find-and-update.company-information.service.gov.uk/company/03438871
+555,AstraZeneca,02723534,1999-04-06,,added,current,,https://find-and-update.company-information.service.gov.uk/company/02723534
+556,Anglo American,03564138,1999-06-21,,added,current,,https://find-and-update.company-information.service.gov.uk/company/03564138
+557,Sage Group,02231246,1999-09-20,,added,current,,https://find-and-update.company-information.service.gov.uk/company/02231246
+235,Corus Group,03811373,1999-10-06,2000-09-18,added,removed,,https://find-and-update.company-information.service.gov.uk/company/03811373
+273,Logica Plc,01631639,1999-11-11,2002-06-24,added,removed,Logica,https://find-and-update.company-information.service.gov.uk/company/01631639
+221,Wolseley Plc,00029846,1999-11-24,2000-03-20,added,removed,Wolseley,https://find-and-update.company-information.service.gov.uk/company/00029846
+259,CMG,00930965,1999-12-20,2001-09-24,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00930965
+286,Capita Group,02081330,2000-03-20,2003-06-23,added,removed,,https://find-and-update.company-information.service.gov.uk/company/02081330
+268,Celltech Group,02159282,2000-03-20,2002-03-18,added,removed,Celltech,https://find-and-update.company-information.service.gov.uk/company/02159282
+302,Allied Domecq,03771147,2000-05-12,2005-07-26,added,removed,,https://find-and-update.company-information.service.gov.uk/company/03771147
+231,Associated British Foods,00293262,2000-05-30,2000-09-18,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00293262
+249,Ocean Group (now Exel),00073975,2000-06-19,2001-03-19,added,removed,Exel,https://find-and-update.company-information.service.gov.uk/company/00073975
+234,Scottish & Newcastle,SC016288,2000-06-19,2000-09-18,added,removed,,https://find-and-update.company-information.service.gov.uk/company/SC016288
+274,PowerGen Plc,03586615,2000-07-12,2002-07-02,added,removed,Powergen,https://find-and-update.company-information.service.gov.uk/company/03586615
+254,Dimension Data Holdings,03704278,2000-09-18,2001-08-07,added,removed,,https://find-and-update.company-information.service.gov.uk/company/03704278
+248,Granada Media,03106798,2000-09-18,2001-02-02,added,removed,,https://find-and-update.company-information.service.gov.uk/company/03106798
+263,Spirent,00720989,2000-09-18,2001-09-24,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00720989
+278,Lattice Group PLC,03900804,2000-10-23,2002-10-21,added,removed,Lattice,https://find-and-update.company-information.service.gov.uk/company/03900804
+243,P & O Princess Cruises PLC,03902746,2000-10-23,2000-12-18,added,removed,P & O Princess Cruises,https://find-and-update.company-information.service.gov.uk/company/03902746
+560,Associated British Foods,00293262,2000-12-18,,added,current,,https://find-and-update.company-information.service.gov.uk/company/00293262
+282,Rolls Royce,01003142,2000-12-18,2003-03-24,added,removed,,https://find-and-update.company-information.service.gov.uk/company/01003142
+291,Safeway,01299733,2000-12-18,2004-03-08,added,removed,,https://find-and-update.company-information.service.gov.uk/company/01299733
+423,Smiths Group,00137013,2000-12-18,2016-03-21,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00137013
+562,Compass Group,04083914,2001-02-02,,added,current,,https://find-and-update.company-information.service.gov.uk/company/04083914
+346,Scottish & Newcastle,SC016288,2001-03-19,2008-04-28,added,removed,,https://find-and-update.company-information.service.gov.uk/company/SC016288
+420,Morrison (Wm.),00358949,2001-04-10,2015-12-21,added,removed,Morrison (Wm) Supermarkets,https://find-and-update.company-information.service.gov.uk/company/00358949
+565,Smith & Nephew PLC,00324357,2001-07-12,,added,current,,https://find-and-update.company-information.service.gov.uk/company/00324357
+325,Gallaher Group,03299793,2001-09-10,2007-04-17,added,removed,,https://find-and-update.company-information.service.gov.uk/company/03299793
+566,HBOS,SC218813,2001-09-10,,added,exit_unresolved,,https://find-and-update.company-information.service.gov.uk/company/SC218813
+498,British Land Co,00621920,2001-09-24,2023-06-19,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00621920
+269,Enterprise Oil,01682048,2001-09-24,2002-05-10,added,removed,,https://find-and-update.company-information.service.gov.uk/company/01682048
+567,Severn Trent,02366619,2001-09-24,,added,current,,https://find-and-update.company-information.service.gov.uk/company/02366619
+364,Wolseley,00029846,2001-09-24,2009-03-23,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00029846
+568,BT Group,04190816,2001-11-19,,added,current,,https://find-and-update.company-information.service.gov.uk/company/04190816
+309,mmO2,04190833,2001-11-19,2006-01-26,added,removed,O2,https://find-and-update.company-information.service.gov.uk/company/04190833
+468,P&O Princess Cruises,03902746,2001-12-24,2020-06-22,added,removed,Carnival,https://find-and-update.company-information.service.gov.uk/company/03902746
+281,Corus Group,03811373,2002-03-18,2002-12-23,added,removed,,https://find-and-update.company-information.service.gov.uk/company/03811373
+306,Exel,00073975,2002-05-10,2005-12-13,added,removed,Exel,https://find-and-update.company-information.service.gov.uk/company/00073975
+300,Bunzl,00358948,2002-06-24,2005-06-20,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00358948
+479,Johnson Matthey,00033774,2002-06-24,2021-12-20,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00033774
+569,Xstrata,04345939,2002-06-24,,added,exit_unresolved,,https://find-and-update.company-information.service.gov.uk/company/04345939
+295,Bradford & Bingley,03938288,2002-07-02,2004-09-20,added,removed,,https://find-and-update.company-information.service.gov.uk/company/03938288
+411,Rexam,00191285,2002-09-23,2014-09-22,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00191285
+283,British Airways,01777777,2002-12-23,2003-03-24,added,removed,,https://find-and-update.company-information.service.gov.uk/company/01777777
+307,Whitbread,04120344,2002-12-23,2005-12-19,added,removed,,https://find-and-update.company-information.service.gov.uk/company/04120344
+292,Foreign & Col Invest Trust,00012901,2003-03-24,2004-03-22,added,removed,Foreign & Col Inv Trust,https://find-and-update.company-information.service.gov.uk/company/00012901
+288,Kelda Group,02366627,2003-03-24,2003-09-22,added,removed,,https://find-and-update.company-information.service.gov.uk/company/02366627
+473,Royal & Sun Alliance,02339826,2003-06-23,2021-05-28,added,removed,RSA Insurance Group,https://find-and-update.company-information.service.gov.uk/company/02339826
+571,Rolls Royce,01003142,2003-06-23,,added,current,,https://find-and-update.company-information.service.gov.uk/company/01003142
+572,British Airways,01777777,2003-12-22,,added,exit_unresolved,,https://find-and-update.company-information.service.gov.uk/company/01777777
+303,Hays,02150950,2003-12-22,2005-09-19,added,removed,,https://find-and-update.company-information.service.gov.uk/company/02150950
+573,Antofagasta,01627889,2004-03-08,,added,current,,https://find-and-update.company-information.service.gov.uk/company/01627889
+308,William Hill,04212563,2004-04-08,2005-12-19,added,removed,,https://find-and-update.company-information.service.gov.uk/company/04212563
+433,Capita Group,02081330,2004-06-21,2017-03-20,added,removed,Capita,https://find-and-update.company-information.service.gov.uk/company/02081330
+299,Corus Group,03811373,2004-11-16,2005-06-20,added,removed,,https://find-and-update.company-information.service.gov.uk/company/03811373
+305,BPB,00147271,2005-06-20,2005-12-08,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00147271
+443,Hammerson,00360632,2005-06-20,2018-03-19,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00360632
+574,Royal Dutch Shell A&B,04366849,2005-07-20,,added,current,Shell Transport & Trading Co,https://find-and-update.company-information.service.gov.uk/company/04366849
+332,Kelda Group,02366627,2005-07-26,2007-09-24,added,removed,,https://find-and-update.company-information.service.gov.uk/company/02366627
+349,Persimmon,05525338,2005-12-19,2008-06-23,added,removed,,https://find-and-update.company-information.service.gov.uk/company/05525338
+322,British Energy Group,SC270184,2006-01-26,2006-12-18,added,removed,,https://find-and-update.company-information.service.gov.uk/company/SC270184
+324,Corus Group,03811373,2006-03-09,2007-03-30,added,removed,,https://find-and-update.company-information.service.gov.uk/company/03811373
+330,Drax Group,05562053,2006-06-19,2007-09-24,added,removed,,https://find-and-update.company-information.service.gov.uk/company/05562053
+405,Vedanta Resources,04740415,2006-06-19,2013-12-23,added,removed,,https://find-and-update.company-information.service.gov.uk/company/04740415
+327,Bradford & Bingley,03938288,2006-09-05,2007-06-18,added,removed,,https://find-and-update.company-information.service.gov.uk/company/03938288
+577,Experian Group,03720393,2006-10-11,,added,current,,https://find-and-update.company-information.service.gov.uk/company/03720393
+350,Home Retail Group,05863533,2006-10-11,2008-06-23,added,removed,,https://find-and-update.company-information.service.gov.uk/company/05863533
+368,Whitbread,04120344,2006-12-18,2009-06-22,added,removed,,https://find-and-update.company-information.service.gov.uk/company/04120344
+337,Daily Mail & General Trust,00184594,2007-03-19,2007-12-24,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00184594
+578,Schroders,03909886,2007-03-30,,added,current,,https://find-and-update.company-information.service.gov.uk/company/03909886
+335,Punch Taverns,03752645,2007-04-17,2007-12-24,added,removed,,https://find-and-update.company-information.service.gov.uk/company/03752645
+339,Mitchells & Butlers,04551498,2007-04-20,2007-12-24,added,removed,,https://find-and-update.company-information.service.gov.uk/company/04551498
+579,British Energy Group,SC270184,2007-06-26,,added,exit_unresolved,,https://find-and-update.company-information.service.gov.uk/company/SC270184
+345,Rentokil Initial,05393279,2007-08-22,2008-03-26,added,removed,,https://find-and-update.company-information.service.gov.uk/company/05393279
+343,Taylor Wimpey,00296805,2007-09-24,2008-03-26,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00296805
+415,Tullow Oil,03919249,2007-09-24,2015-03-20,added,removed,,https://find-and-update.company-information.service.gov.uk/company/03919249
+581,Admiral Group,03849958,2007-12-24,,added,current,,https://find-and-update.company-information.service.gov.uk/company/03849958
+419,G4S,04992207,2007-12-24,2015-12-21,added,removed,,https://find-and-update.company-information.service.gov.uk/company/04992207
+342,Kelda Group,02366627,2007-12-24,2008-02-07,added,removed,,https://find-and-update.company-information.service.gov.uk/company/02366627
+383,TUI Travel,06072876,2007-12-24,2011-06-20,added,removed,,https://find-and-update.company-information.service.gov.uk/company/06072876
+374,Thomas Cook Group,06091951,2007-12-24,2010-06-21,added,removed,,https://find-and-update.company-information.service.gov.uk/company/06091951
+380,Alliance Trust,SC001731,2008-02-07,2011-03-21,added,removed,,https://find-and-update.company-information.service.gov.uk/company/SC001731
+360,Wood Group (John),SC278251,2008-04-28,2008-12-22,added,removed,,https://find-and-update.company-information.service.gov.uk/company/SC278251
+379,Bunzl,00358948,2008-04-30,2011-03-21,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00358948
+367,Drax Group,05562053,2008-06-23,2009-06-22,added,removed,,https://find-and-update.company-information.service.gov.uk/company/05562053
+354,Ferrexpo,05432915,2008-06-23,2008-09-22,added,removed,,https://find-and-update.company-information.service.gov.uk/company/05432915
+382,Invensys,00166023,2008-06-23,2011-05-25,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00166023
+356,Fresnillo,06344120,2008-09-22,2008-12-22,added,removed,,https://find-and-update.company-information.service.gov.uk/company/06344120
+359,Stagecoach Group,SC100764,2008-09-22,2008-12-22,added,removed,,https://find-and-update.company-information.service.gov.uk/company/SC100764
+376,Home Retail Group,05863533,2008-12-22,2010-09-20,added,removed,,https://find-and-update.company-information.service.gov.uk/company/05863533
+403,Serco Group,02048608,2008-12-22,2013-09-23,added,removed,,https://find-and-update.company-information.service.gov.uk/company/02048608
+458,Fresnillo,06344120,2009-03-23,2019-12-23,added,removed,,https://find-and-update.company-information.service.gov.uk/company/06344120
+583,Intertek Group,04267576,2009-03-23,,added,current,,https://find-and-update.company-information.service.gov.uk/company/04267576
+385,3i Group,01142830,2009-06-22,2011-09-19,added,removed,,https://find-and-update.company-information.service.gov.uk/company/01142830
+512,Burberry Group,03458224,2009-09-10,2024-09-23,added,removed,,https://find-and-update.company-information.service.gov.uk/company/03458224
+372,Rentokil Initial,05393279,2009-09-21,2009-12-21,added,removed,,https://find-and-update.company-information.service.gov.uk/company/05393279
+584,Whitbread,04120344,2009-09-21,,added,current,,https://find-and-update.company-information.service.gov.uk/company/04120344
+417,Aggreko,SC177553,2009-12-21,2015-06-22,added,removed,,https://find-and-update.company-information.service.gov.uk/company/SC177553
+388,Investec,03633621,2010-03-22,2011-12-19,added,removed,,https://find-and-update.company-information.service.gov.uk/company/03633621
+391,Essar energy,07108619,2010-06-21,2012-03-19,added,removed,Essar Energy,https://find-and-update.company-information.service.gov.uk/company/07108619
+418,Weir Group,SC002934,2010-09-20,2015-09-21,added,removed,,https://find-and-update.company-information.service.gov.uk/company/SC002934
+413,IMI,00714275,2010-12-20,2014-12-22,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00714275
+504,Hargreaves Lansdown,02122142,2011-03-21,2023-12-18,added,removed,,https://find-and-update.company-information.service.gov.uk/company/02122142
+469,ITV,04967001,2011-03-21,2020-09-21,added,removed,,https://find-and-update.company-information.service.gov.uk/company/04967001
+384,Wood Group (John),SC278251,2011-03-21,2011-09-19,added,removed,,https://find-and-update.company-information.service.gov.uk/company/SC278251
+395,Ashmore Group,03675683,2011-09-19,2012-09-24,added,removed,,https://find-and-update.company-information.service.gov.uk/company/03675683
+588,Bunzl,00358948,2011-09-19,,added,current,,https://find-and-update.company-information.service.gov.uk/company/00358948
+421,Meggitt,00432989,2011-10-07,2015-12-21,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00432989
+399,Evraz,07784342,2011-12-19,2013-06-24,added,removed,,https://find-and-update.company-information.service.gov.uk/company/07784342
+404,Croda International,00206132,2012-03-19,2013-12-23,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00206132
+441,Babcock International Group,02342138,2012-06-18,2017-12-18,added,removed,,https://find-and-update.company-information.service.gov.uk/company/02342138
+396,Pennon Group,02366640,2012-06-29,2012-12-24,added,removed,,https://find-and-update.company-information.service.gov.uk/company/02366640
+408,Melrose,04763064,2012-09-24,2014-06-23,added,removed,Melrose Industries,https://find-and-update.company-information.service.gov.uk/company/04763064
+401,Wood Group (John),SC278251,2012-09-24,2013-09-23,added,removed,,https://find-and-update.company-information.service.gov.uk/company/SC278251
+412,TUI Travel,06072876,2012-12-24,2014-12-17,added,removed,,https://find-and-update.company-information.service.gov.uk/company/06072876
+454,Easyjet,03959649,2013-03-18,2019-06-24,added,removed,,https://find-and-update.company-information.service.gov.uk/company/03959649
+580,London Stock Exchange,02075721,2013-03-18,,added,current,,https://find-and-update.company-information.service.gov.uk/company/02075721
+502,Persimmon,05525338,2013-06-24,2023-09-18,added,removed,,https://find-and-update.company-information.service.gov.uk/company/05525338
+431,Travis Perkins,00824821,2013-06-24,2016-12-19,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00824821
+590,Mondi,06209386,2013-09-23,,added,exit_unresolved,,https://find-and-update.company-information.service.gov.uk/company/06209386
+521,Ashtead Group,01807982,2013-12-23,2026-03-02,added,removed,,https://find-and-update.company-information.service.gov.uk/company/01807982
+510,St. James's Place,03183415,2014-03-24,2024-06-24,added,removed,,https://find-and-update.company-information.service.gov.uk/company/03183415
+591,3i Group,01142830,2014-06-23,,added,current,,https://find-and-update.company-information.service.gov.uk/company/01142830
+436,Intu Properties,03685527,2014-06-23,2017-06-19,added,removed,,https://find-and-update.company-information.service.gov.uk/company/03685527
+457,Direct Line Insurance Group,02280426,2014-09-22,2019-09-23,added,removed,,https://find-and-update.company-information.service.gov.uk/company/02280426
+517,Taylor Wimpey,00296805,2014-12-22,2025-09-22,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00296805
+440,Merlin Entertainments,08700412,2015-04-13,2017-12-18,added,removed,,https://find-and-update.company-information.service.gov.uk/company/08700412
+593,DCC,04709270,2015-12-21,,added,current,,https://find-and-update.company-information.service.gov.uk/company/04709270
+428,Rexam,00191285,2016-02-15,2016-06-27,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00191285
+594,Informa,08860726,2016-03-21,,added,current,,https://find-and-update.company-information.service.gov.uk/company/08860726
+444,Mediclinic International plc,08338604,2016-03-21,2018-06-18,added,removed,Mediclinic International,https://find-and-update.company-information.service.gov.uk/company/08338604
+471,Morrison (Wm) Supermarkets,00358949,2016-03-21,2021-03-22,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00358949
+595,Smiths Group,00137013,2016-06-27,,added,current,,https://find-and-update.company-information.service.gov.uk/company/00137013
+456,Micro Focus International,05134647,2016-09-05,2019-09-23,added,removed,,https://find-and-update.company-information.service.gov.uk/company/05134647
+439,ConvaTec Group,10361298,2016-12-19,2017-12-18,added,removed,,https://find-and-update.company-information.service.gov.uk/company/10361298
+597,Rentokil Initial,05393279,2017-03-20,,added,current,,https://find-and-update.company-information.service.gov.uk/company/05393279
+596,Scottish Mortgage Investment,SC007058,2017-03-20,,added,current,,https://find-and-update.company-information.service.gov.uk/company/SC007058
+445,G4S,04992207,2017-06-19,2018-06-18,added,removed,,https://find-and-update.company-information.service.gov.uk/company/04992207
+463,NMC Health,07712220,2017-09-18,2020-03-23,added,removed,NMC Health*,https://find-and-update.company-information.service.gov.uk/company/07712220
+601,Halma,00040932,2017-12-18,,added,current,,https://find-and-update.company-information.service.gov.uk/company/00040932
+447,Just Eat,06947854,2017-12-18,2018-12-24,added,removed,,https://find-and-update.company-information.service.gov.uk/company/06947854
+600,Smith (DS),01377658,2017-12-18,,added,exit_unresolved,,https://find-and-update.company-information.service.gov.uk/company/01377658
+481,Evraz,07784342,2018-01-15,2022-03-21,added,removed,,https://find-and-update.company-information.service.gov.uk/company/07784342
+497,Melrose Industries,09800044,2018-04-24,2023-04-20,added,removed,Melrose Industries,https://find-and-update.company-information.service.gov.uk/company/09800044
+508,Ocado Group,07098618,2018-06-18,2024-06-24,added,removed,,https://find-and-update.company-information.service.gov.uk/company/07098618
+602,Rightmove,06426485,2018-06-28,,added,exit_unresolved,,https://find-and-update.company-information.service.gov.uk/company/06426485
+459,Hiscox,02837811,2018-12-24,2019-12-23,added,removed,,https://find-and-update.company-information.service.gov.uk/company/02837811
+604,Auto Trader Group,09439967,2018-12-31,,added,current,,https://find-and-update.company-information.service.gov.uk/company/09439967
+605,Phoenix Group Holdings,10691596,2019-03-18,,added,exit_unresolved,,https://find-and-update.company-information.service.gov.uk/company/10691596
+496,Aveva Group,02937296,2019-06-24,2023-01-18,added,removed,,https://find-and-update.company-information.service.gov.uk/company/02937296
+606,JD Sports Fashion,01888425,2019-06-24,,added,current,,https://find-and-update.company-information.service.gov.uk/company/01888425
+466,Meggitt,00432989,2019-09-23,2020-06-22,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00432989
+465,Easyjet,03959649,2019-12-23,2020-06-22,added,removed,,https://find-and-update.company-information.service.gov.uk/company/03959649
+460,Just Eat,06947854,2019-12-23,2020-02-05,added,removed,,https://find-and-update.company-information.service.gov.uk/company/06947854
+475,Just Eat Takeaway.com,06947854,2020-02-05,2021-09-20,added,removed,Just Eat Takeaway.com*,https://find-and-update.company-information.service.gov.uk/company/06947854
+608,Fresnillo,06344120,2020-03-23,,added,current,,https://find-and-update.company-information.service.gov.uk/company/06344120
+472,Pennon Group,02366640,2020-03-23,2021-03-22,added,removed,,https://find-and-update.company-information.service.gov.uk/company/02366640
+487,Avast,07118170,2020-06-22,2022-09-12,added,removed,,https://find-and-update.company-information.service.gov.uk/company/07118170
+470,Homeserve,02648297,2020-06-22,2020-12-21,added,removed,,https://find-and-update.company-information.service.gov.uk/company/02648297
+610,Kingfisher,01664812,2020-06-22,,added,current,,https://find-and-update.company-information.service.gov.uk/company/01664812
+474,Reinshaw,06716899,2021-03-22,2021-06-21,added,removed,,https://find-and-update.company-information.service.gov.uk/company/06716899
+476,Weir Group,SC002934,2021-03-22,2021-09-20,added,removed,,https://find-and-update.company-information.service.gov.uk/company/SC002934
+484,ITV,04967001,2021-06-21,2022-06-20,added,removed,,https://find-and-update.company-information.service.gov.uk/company/04967001
+488,Meggitt,00432989,2021-09-20,2022-09-13,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00432989
+477,Morrison (Wm) Supermarkets,00358949,2021-09-20,2021-10-27,added,removed,Morrison,https://find-and-update.company-information.service.gov.uk/company/00358949
+478,Darktrace,13264637,2021-10-27,2021-12-20,added,removed,,https://find-and-update.company-information.service.gov.uk/company/13264637
+492,Dechra Pharmaceuticals,03369634,2021-12-20,2022-12-19,added,removed,,https://find-and-update.company-information.service.gov.uk/company/03369634
+509,Electrocomponents,00647788,2021-12-20,2024-06-24,added,removed,RS Group,https://find-and-update.company-information.service.gov.uk/company/00647788
+612,Airtel Africa,11462215,2022-01-31,,added,current,,https://find-and-update.company-information.service.gov.uk/company/11462215
+506,Endeavour Mining,13280545,2022-03-21,2024-03-18,added,removed,,https://find-and-update.company-information.service.gov.uk/company/13280545
+491,Howden Joinery Group,02128710,2022-03-21,2022-09-19,added,removed,,https://find-and-update.company-information.service.gov.uk/company/02128710
+486,Harbour Energy,SC234781,2022-05-12,2022-07-21,added,removed,,https://find-and-update.company-information.service.gov.uk/company/SC234781
+613,Centrica,03033654,2022-06-20,,added,current,,https://find-and-update.company-information.service.gov.uk/company/03033654
+614,Haleon,13691224,2022-07-18,,added,current,,https://find-and-update.company-information.service.gov.uk/company/13691224
+495,Homeserve,02648297,2022-09-12,2023-01-04,added,removed,,https://find-and-update.company-information.service.gov.uk/company/02648297
+515,Frasers Group,06035106,2022-09-13,2024-12-23,added,removed,,https://find-and-update.company-information.service.gov.uk/company/06035106
+615,ConvaTec Group,10361298,2022-09-19,,added,current,,https://find-and-update.company-information.service.gov.uk/company/10361298
+616,F&C Investment Trust,00012901,2022-09-19,,added,current,,https://find-and-update.company-information.service.gov.uk/company/00012901
+493,Harbour Energy,SC234781,2022-09-19,2022-12-19,added,removed,,https://find-and-update.company-information.service.gov.uk/company/SC234781
+617,Beazley,09763575,2022-12-19,,added,current,,https://find-and-update.company-information.service.gov.uk/company/09763575
+618,Weir Group,SC002934,2022-12-19,,added,current,,https://find-and-update.company-information.service.gov.uk/company/SC002934
+501,Johnson Matthey,00033774,2023-01-04,2023-09-18,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00033774
+500,Hiscox,02837811,2023-01-18,2023-09-18,added,removed,,https://find-and-update.company-information.service.gov.uk/company/02837811
+620,IMI,00714275,2023-06-19,,added,current,,https://find-and-update.company-information.service.gov.uk/company/00714275
+505,Dechra Pharmaceuticals,03369634,2023-09-18,2024-01-16,added,removed,,https://find-and-update.company-information.service.gov.uk/company/03369634
+621,Diploma,03899848,2023-09-18,,added,current,,https://find-and-update.company-information.service.gov.uk/company/03899848
+622,Marks & Spencer Group,04256886,2023-09-18,,added,current,,https://find-and-update.company-information.service.gov.uk/company/04256886
+623,Howden Joinery Group,02128710,2023-09-25,,added,current,,https://find-and-update.company-information.service.gov.uk/company/02128710
+624,Persimmon,05525338,2024-01-16,,added,current,,https://find-and-update.company-information.service.gov.uk/company/05525338
+522,Easyjet,03959649,2024-03-18,2026-03-23,added,removed,,https://find-and-update.company-information.service.gov.uk/company/03959649
+625,Hargreaves Lansdown,02122142,2024-05-31,,added,exit_unresolved,,https://find-and-update.company-information.service.gov.uk/company/02122142
+513,Darktrace,13264637,2024-06-24,2024-10-01,added,removed,,https://find-and-update.company-information.service.gov.uk/company/13264637
+626,LondonMetric Property,07124797,2024-06-24,,added,current,,https://find-and-update.company-information.service.gov.uk/company/07124797
+516,Vistry Group,00306718,2024-06-24,2024-12-23,added,removed,,https://find-and-update.company-information.service.gov.uk/company/00306718
+627,Endeavour Mining,13280545,2024-07-08,,added,current,,https://find-and-update.company-information.service.gov.uk/company/13280545
+628,Hiscox,02837811,2024-09-23,,added,current,,https://find-and-update.company-information.service.gov.uk/company/02837811
+520,British Land Co.,00621920,2024-10-01,2025-12-22,added,renamed_to,British Land Co,https://find-and-update.company-information.service.gov.uk/company/00621920
+629,Alliance Witan,SC001731,2024-12-23,,added,current,,https://find-and-update.company-information.service.gov.uk/company/SC001731
+630,Games Workshop Group,02670969,2024-12-23,,added,current,,https://find-and-update.company-information.service.gov.uk/company/02670969
+631,St. James's Place,03183415,2024-12-23,,added,current,,https://find-and-update.company-information.service.gov.uk/company/03183415
+632,Coca-Cola Europacific,09717350,2025-03-24,,added,current,,https://find-and-update.company-information.service.gov.uk/company/09717350
+633,Burberry Group,03458224,2025-09-22,,added,current,,https://find-and-update.company-information.service.gov.uk/company/03458224
+634,Metlen Energy & Metals,15944520,2025-09-22,,added,current,,https://find-and-update.company-information.service.gov.uk/company/15944520
+635,British Land Co,00621920,2025-12-22,,added,current,,https://find-and-update.company-information.service.gov.uk/company/00621920
+636,Tritax Big Box REIT,08215888,2026-03-02,,added,current,,https://find-and-update.company-information.service.gov.uk/company/08215888
+637,IG Group Holdings,04677092,2026-03-23,,added,current,,https://find-and-update.company-information.service.gov.uk/company/04677092;https://www.londonstockexchange.com/stock/IGG/ig-group-holdings-plc/company-page
+638,Lion Finance Group,10917019,2026-03-23,,added,current,,https://find-and-update.company-information.service.gov.uk/company/10917019;https://www.londonstockexchange.com/stock/BGEO/lion-finance-group-plc/company-page
+92,Hawker Siddeley,00068237,1984-01-02,1991-11-26,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/00068237
+29,Imperial Group,00511276,1984-01-02,,founding,current,,https://find-and-update.company-information.service.gov.uk/company/00511276
+9,Johnson Matthey,00033774,1984-01-02,1984-12-04,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/00033774
+37,Northern Foods,00471864,1984-01-02,1986-12-09,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/00471864
+98,Royal Insurance,01516396,1984-01-02,1992-04-01,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/01516396
+7,Scottish & Newcastle Breweries,SC016288,1984-01-02,1984-10-01,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/SC016288
+56,Standard Chartered,00966425,1984-01-02,1988-04-05,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/00966425
+26,Sun Life Assurance Society,00776273,1984-01-02,1986-04-01,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/00776273
+22,Rothschild (J) Holdings,01455051,1984-01-02,1986-01-02,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/01455051
+194,Safeway,01299733,1984-01-02,1999-03-22,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/01299733
+186,Southern Electric,SC117119,1998-09-21,1998-12-16,added,removed,Southern Electric Plc,https://find-and-update.company-information.service.gov.uk/company/SC117119
+155,Southern Electric,SC117119,1993-10-25,1996-09-30,added,removed,,https://find-and-update.company-information.service.gov.uk/company/SC117119
+147,Foreign & Col Inv Trust,00012901,1984-01-02,2009-09-21,founding,removed,,https://find-and-update.company-information.service.gov.uk/company/00012901
+126,Schroders,03909886,1993-09-20,1994-03-21,added,removed,,https://find-and-update.company-information.service.gov.uk/company/03909886
+644,Polar Capital Technology Trust,03224867,1984-01-02,,founding,current,,https://find-and-update.company-information.service.gov.uk/company/03224867

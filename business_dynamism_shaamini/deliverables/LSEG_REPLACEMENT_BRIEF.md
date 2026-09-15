@@ -1,5 +1,20 @@
 # LSEG-sourced data — replacement source brief
 
+> **Status, 2026-09-15: cleared for use.** The organisation's leadership
+> reviewed the licensing position and approved using the FTSE Russell
+> constituent-history document. The corrections in this brief have been applied
+> to `ftse100_membership` by `python/apply_ftse_membership_corrections.py`.
+>
+> Recorded so the basis is not lost: the public document's page 19 reserves all
+> rights ("No part of this information may be reproduced ... Use and distribution
+> of LSEG data requires a licence from LSEG and/or its licensors"). The decision
+> to proceed was taken with that in view, not in ignorance of it. The permission
+> request at `docs/FTSE_RUSSELL_PERMISSION_REQUEST.md` remains available if a
+> written confirmation is wanted later.
+>
+> Citation to use: *FTSE Russell (LSEG), FTSE 100 Historic Additions and
+> Deletions, August 2026*, <https://www.lseg.com/content/dam/ftse-russell/en_us/documents/policy-documents/ftse-100-constituent-history.pdf>
+
 Companion to `lseg_sourced_data_for_replacement.csv` (423 rows).
 
 ## What the LSEG dependency actually is

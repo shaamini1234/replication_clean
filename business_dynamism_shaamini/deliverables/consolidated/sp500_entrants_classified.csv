@@ -7,7 +7,7 @@ S&P500,ABS,0000003333,ALBERTSONS INC /DE/,1996-01-02,1996,1939.0,57.0,1,False,Fa
 S&P500,IKN,0000003370,IKON OFFICE SOLUTIONS INC,1996-01-02,1996,1952.0,44.0,1,False,False,5045.0,Industrials,sic2,,founding_member,,,founding_member,founding_member
 S&P500,AYE,0000003673,"ALLEGHENY ENERGY, INC",2000-12-11,2000,1907.0,93.0,1,False,False,4911.0,Utilities,sic2,,established,,,established,established
 S&P500,SWKS,0000004127,Skyworks Solutions,2015-03-12,2015,1962.0,53.0,1,False,False,3674.0,Information Technology,index_list_gics,Semiconductors,established,,,established,established
-S&P500,ARNC,0000004281,Howmet Aerospace,1996-01-02,1996,1888.0,108.0,2,True,False,3350.0,Materials,sic2,Aerospace & Defense,founding_member,,,founding_member,founding_member
+S&P500,ARNC,0000004281,Howmet Aerospace,1996-01-02,1996,1888.0,108.0,2,True,False,3350.0,Industrials,index_list_gics,Aerospace & Defense,founding_member,,,founding_member,founding_member
 S&P500,AL,0000004285,ALCAN INC,1996-01-02,1996,1902.0,94.0,1,False,False,3330.0,Materials,sic2,,founding_member,,,founding_member,founding_member
 S&P500,AZA.A,0000004310,ALZA CORP,1996-01-02,1996,1968.0,28.0,1,False,False,2834.0,Health Care,sic4,,founding_member,,,founding_member,founding_member
 S&P500,HES,0000004447,HESS CORP,1996-01-02,1996,1933.0,63.0,1,False,False,2911.0,Energy,sic3,,founding_member,,,founding_member,founding_member
@@ -26,7 +26,7 @@ S&P500,ACKH,0000007431,ARMSTRONG WORLD INDUSTRIES INC,1996-01-02,1996,1860.0,136
 S&P500,ADP,0000008670,Automatic Data Processing,1996-01-02,1996,1949.0,47.0,1,False,False,7374.0,Industrials,index_list_gics,Human Resource & Employment Services,founding_member,,,founding_member,founding_member
 S&P500,AVY,0000008818,Avery Dennison,1996-01-02,1996,1935.0,61.0,1,False,False,2670.0,Materials,index_list_gics,Paper & Plastic Packaging Products & Materials,founding_member,,,founding_member,founding_member
 S&P500,AVP,0000008868,AVON PRODUCTS INC,1996-01-02,1996,1886.0,110.0,1,False,False,2844.0,Consumer Staples,sic4,,founding_member,,,founding_member,founding_member
-S&P500,BLL,0000009389,Ball Corporation,1996-01-02,1996,1880.0,116.0,2,True,False,3411.0,Materials,sic2,"Metal, Glass & Plastic Containers",founding_member,,,founding_member,founding_member
+S&P500,BLL,0000009389,Ball Corporation,1996-01-02,1996,1880.0,116.0,2,True,False,3411.0,Materials,index_list_gics,"Metal, Glass & Plastic Containers",founding_member,,,founding_member,founding_member
 S&P500,BK,0000009626,BANK OF NEW YORK CO INC,1996-01-02,1996,1784.0,212.0,1,False,False,6022.0,Financials,sic2,,founding_member,,,founding_member,founding_member
 S&P500,BCR,0000009892,BARD C R INC /NJ/,1996-01-02,1996,1907.0,89.0,1,False,False,3841.0,Health Care,sic4,,founding_member,,,founding_member,founding_member
 S&P500,BRL,0000010081,BARR PHARMACEUTICALS INC,2006-02-27,2006,1970.0,36.0,1,False,False,2834.0,Health Care,sic4,,established,,,established,established
@@ -70,7 +70,7 @@ S&P500,CFC,0000025191,COUNTRYWIDE FINANCIAL CORP,1997-06-18,1997,1969.0,28.0,1,F
 S&P500,CMI,0000026172,Cummins,1996-01-02,1996,1919.0,77.0,1,False,False,3510.0,Industrials,index_list_gics,Construction Machinery & Heavy Transportation Equipment,founding_member,,,founding_member,founding_member
 S&P500,DCNAQ,0000026780,DANA Inc,1996-01-02,1996,1904.0,92.0,1,False,False,3714.0,Consumer Discretionary,sic4,,founding_member,,,founding_member,founding_member
 S&P500,TGT,0000027419,Target Corporation,1996-01-02,1996,1902.0,94.0,1,False,False,5331.0,Consumer Staples,index_list_gics,Consumer Staples Merchandise Retail,founding_member,,,founding_member,founding_member
-S&P500,DALRQ,0000027904,Delta Air Lines,1996-01-02,1996,1925.0,71.0,2,True,False,4512.0,Industrials,sic2,Passenger Airlines,founding_member,,,founding_member,founding_member
+S&P500,DALRQ,0000027904,Delta Air Lines,1996-01-02,1996,1925.0,71.0,2,True,False,4512.0,Industrials,index_list_gics,Passenger Airlines,founding_member,,,founding_member,founding_member
 S&P500,DLX,0000027996,DELUXE CORP,1996-01-02,1996,1915.0,81.0,1,False,False,2780.0,Communication Services,sic2,,founding_member,,,founding_member,founding_member
 S&P500,CMA,0000028412,COMERICA INC,1996-01-02,1996,1849.0,147.0,1,False,False,6021.0,Financials,sic2,,founding_member,,,founding_member,founding_member
 S&P500,DDS,0000028917,"DILLARD'S, INC.",1996-01-02,1996,1938.0,58.0,1,False,False,5311.0,Consumer Discretionary,sic2,,founding_member,,,founding_member,founding_member
@@ -83,7 +83,7 @@ S&P500,FLS,0000030625,FLOWSERVE CORP,2008-10-02,2008,1790.0,218.0,1,False,False,
 S&P500,WEN,0000030697,Wendy's Co,1996-01-02,1996,1969.0,27.0,1,False,False,5810.0,Consumer Discretionary,sic2,,founding_member,,,founding_member,founding_member
 S&P500,EKDKQ,0000031235,EASTMAN KODAK CO,1996-01-02,1996,1881.0,115.0,1,False,False,3861.0,Health Care,sic2,,founding_member,,,founding_member,founding_member
 S&P500,ECL,0000031462,Ecolab,1996-01-02,1996,1923.0,73.0,1,False,False,2840.0,Materials,index_list_gics,Specialty Chemicals,founding_member,,,founding_member,founding_member
-S&P500,PKI,0000031791,Revvity,1996-01-02,1996,1937.0,59.0,2,True,False,3826.0,Health Care,sic4,Health Care Equipment,founding_member,,,founding_member,founding_member
+S&P500,PKI,0000031791,Revvity,1996-01-02,1996,1937.0,59.0,2,True,False,3826.0,Health Care,index_list_gics,Health Care Equipment,founding_member,,,founding_member,founding_member
 S&P500,EMR,0000032604,Emerson Electric,1996-01-02,1996,1890.0,106.0,1,False,False,3600.0,Industrials,index_list_gics,Electrical Components & Equipment,founding_member,,,founding_member,founding_member
 S&P500,EFX,0000033185,Equifax,1997-06-19,1997,1899.0,98.0,1,False,False,7320.0,Industrials,index_list_gics,Research & Consulting Services,established,,,established,established
 S&P500,EQT,0000033213,EQT Corporation,2008-12-19,2008,1888.0,120.0,2,True,False,1311.0,Energy,index_list_gics,Oil & Gas Exploration & Production,re_entry,,,re_entry,re_entry
@@ -136,7 +136,7 @@ S&P500,NAV,0000051303,NAVISTAR FINANCIAL CORP,1996-01-02,1996,1902.0,94.0,1,Fals
 S&P500,MKG,0000051396,MALLINCKRODT INC /MO,1996-01-02,1996,1867.0,129.0,1,False,False,2835.0,Health Care,sic4,,founding_member,,,founding_member,founding_member
 S&P500,IP,0000051434,International Paper,1996-01-02,1996,1898.0,98.0,1,False,False,2621.0,Materials,index_list_gics,Paper & Plastic Packaging Products & Materials,founding_member,,,founding_member,founding_member
 S&P500,IPG,0000051644,"INTERPUBLIC GROUP OF COMPANIES, INC.",1996-01-02,1996,1902.0,94.0,1,False,False,7311.0,Communication Services,sic4,,founding_member,,,founding_member,founding_member
-S&P500,JEC,0000052988,Jacobs Solutions,2007-10-26,2007,1947.0,60.0,2,True,False,1600.0,Industrials,sic2,Construction & Engineering,re_entry,,,re_entry,re_entry
+S&P500,JEC,0000052988,Jacobs Solutions,2007-10-26,2007,1947.0,60.0,2,True,False,1600.0,Industrials,index_list_gics,Construction & Engineering,re_entry,,,re_entry,re_entry
 S&P500,JP,0000053347,JEFFERSON PILOT CORP,1996-01-02,1996,1907.0,89.0,1,False,False,6311.0,Financials,sic2,,founding_member,,,founding_member,founding_member
 S&P500,JOS,0000054050,JOSTENS INC,1996-01-02,1996,1905.0,91.0,1,False,False,3911.0,Consumer Discretionary,sic2,,founding_member,,,founding_member,founding_member
 S&P500,KSU,0000054480,KANSAS CITY SOUTHERN,1999-04-05,1999,1887.0,112.0,2,True,False,4011.0,Industrials,sic2,,re_entry,,,re_entry,re_entry
@@ -151,7 +151,7 @@ S&P500,L,0000060086,Loews Corporation,1996-01-02,1996,1959.0,37.0,1,False,False,
 S&P500,LPX,0000060519,LOUISIANA-PACIFIC CORP,1996-01-02,1996,1972.0,24.0,1,False,False,2400.0,Industrials,sic2,,founding_member,,,founding_member,founding_member
 S&P500,LOW,0000060667,Lowe's,1996-01-02,1996,1921.0,75.0,1,False,False,5211.0,Consumer Discretionary,index_list_gics,Home Improvement Retail,founding_member,,,founding_member,founding_member
 S&P500,MTW,0000061986,MANITOWOC CO INC,2007-11-16,2007,1902.0,105.0,1,False,False,3531.0,Industrials,sic2,,established,,,established,established
-S&P500,MMC,0000062709,Marsh McLennan,1996-01-02,1996,1905.0,91.0,2,True,False,6411.0,Financials,sic2,Insurance Brokers,founding_member,,,founding_member,founding_member
+S&P500,MMC,0000062709,Marsh McLennan,1996-01-02,1996,1905.0,91.0,2,True,False,6411.0,Financials,index_list_gics,Insurance Brokers,founding_member,,,founding_member,founding_member
 S&P500,MAS,0000062996,Masco,1996-01-02,1996,1929.0,67.0,1,False,False,3430.0,Industrials,index_list_gics,Building Products,founding_member,,,founding_member,founding_member
 S&P500,MAT,0000063276,MATTEL INC /DE/,1996-01-02,1996,1945.0,51.0,1,False,False,3942.0,Consumer Discretionary,sic2,,founding_member,,,founding_member,founding_member
 S&P500,MAY,0000063416,MAY DEPARTMENT STORES CO,1996-01-02,1996,1877.0,119.0,1,False,False,5311.0,Consumer Discretionary,sic2,,founding_member,,,founding_member,founding_member
@@ -253,10 +253,10 @@ S&P500,TIF,0000098246,TIFFANY & CO,2000-06-21,2000,1837.0,163.0,1,False,False,59
 S&P500,TKR,0000098362,TIMKEN CO,1996-01-02,1996,1899.0,97.0,1,False,False,3562.0,Industrials,sic2,,founding_member,,,founding_member,founding_member
 S&P500,TRW,0000100030,NORTHROP GRUMMAN SPACE & MISSION SYSTEMS CORP,1996-01-02,1996,1901.0,95.0,1,False,False,3714.0,Consumer Discretionary,sic4,,founding_member,,,founding_member,founding_member
 S&P500,TSN,0000100493,Tyson Foods,2005-08-11,2005,1935.0,70.0,1,False,False,2015.0,Consumer Staples,index_list_gics,Packaged Foods & Meats,established,,,established,established
-S&P500,UAWGQ,0000100517,United Airlines Holdings,1996-01-02,1996,1967.0,29.0,2,True,False,4512.0,Industrials,sic2,Passenger Airlines,founding_member,,,founding_member,founding_member
+S&P500,UAWGQ,0000100517,United Airlines Holdings,1996-01-02,1996,1967.0,29.0,2,True,False,4512.0,Industrials,index_list_gics,Passenger Airlines,founding_member,,,founding_member,founding_member
 S&P500,UNP,0000100885,Union Pacific Corporation,1996-01-02,1996,1862.0,134.0,1,False,False,4011.0,Industrials,index_list_gics,Rail Transportation,founding_member,,,founding_member,founding_member
 S&P500,MRO,0000101778,MARATHON OIL CORP,1996-01-02,1996,1887.0,109.0,1,False,False,1311.0,Energy,sic3,,founding_member,,,founding_member,founding_member
-S&P500,UTX,0000101829,RTX Corporation,1996-01-02,1996,1934.0,62.0,2,True,False,3724.0,Industrials,sic4,Aerospace & Defense,founding_member,,,founding_member,founding_member
+S&P500,UTX,0000101829,RTX Corporation,1996-01-02,1996,1934.0,62.0,2,True,False,3724.0,Industrials,index_list_gics,Aerospace & Defense,founding_member,,,founding_member,founding_member
 S&P500,PCS,0000101830,SPRINT LLC,1998-11-24,1998,1994.0,4.0,1,False,False,4813.0,Communication Services,sic3,,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Sprint_Corporation,spin_off,corporate_action
 S&P500,VFC,0000103379,V F CORP,1996-01-02,1996,1899.0,97.0,1,False,False,2320.0,Consumer Discretionary,sic2,,founding_member,,,founding_member,founding_member
 S&P500,WMT,0000104169,Walmart,1996-01-02,1996,1962.0,34.0,1,False,False,5331.0,Consumer Staples,index_list_gics,Consumer Staples Merchandise Retail,founding_member,,,founding_member,founding_member
@@ -278,7 +278,7 @@ S&P500,ZION,0000109380,"ZIONS BANCORPORATION, NATIONAL ASSOCIATION /UT/",2001-06
 S&P500,AIT,0000109563,APPLIED INDUSTRIAL TECHNOLOGIES INC,1996-01-02,1996,1923.0,73.0,1,False,False,5080.0,Industrials,sic2,,founding_member,,,founding_member,founding_member
 S&P500,CEN,0000109758,ARBITRON INC,1996-01-02,1996,1949.0,47.0,1,False,False,8700.0,Industrials,sic2,,founding_member,,,founding_member,founding_member
 S&P500,JNJ,0000200406,Johnson & Johnson,1996-01-02,1996,1886.0,110.0,1,False,False,2834.0,Health Care,index_list_gics,Pharmaceuticals,founding_member,,,founding_member,founding_member
-S&P500,HRS,0000202058,L3Harris,1996-01-02,1996,1895.0,101.0,3,True,False,3812.0,Industrials,sic4,Aerospace & Defense,founding_member,,,founding_member,founding_member
+S&P500,HRS,0000202058,L3Harris,1996-01-02,1996,1895.0,101.0,3,True,False,3812.0,Industrials,index_list_gics,Aerospace & Defense,founding_member,,,founding_member,founding_member
 S&P500,STJ,0000203077,"ST JUDE MEDICAL, LLC",1996-01-02,1996,1976.0,20.0,1,False,False,3845.0,Health Care,sic4,,founding_member,,,founding_member,founding_member
 S&P500,VAR,0000203527,VARIAN MEDICAL SYSTEMS INC,2007-02-12,2007,1948.0,59.0,1,False,False,3845.0,Health Care,sic4,,established,,,established,established
 S&P500,KRI,0000205520,KNIGHT RIDDER INC,1996-01-02,1996,1974.0,22.0,1,False,False,2711.0,Communication Services,sic2,,founding_member,,,founding_member,founding_member
@@ -306,7 +306,7 @@ S&P500,AMGN,0000318154,Amgen,1996-01-02,1996,1980.0,16.0,1,False,False,2836.0,He
 S&P500,KLAC,0000319201,KLA Corporation,1997-09-15,1997,1975.0,22.0,1,False,False,3827.0,Information Technology,index_list_gics,Semiconductor Materials & Equipment,established,,,established,established
 S&P500,NKE,0000320187,"Nike, Inc.",1996-01-02,1996,1964.0,32.0,1,False,False,3021.0,Consumer Discretionary,index_list_gics,"Apparel, Accessories & Luxury Goods",founding_member,,,founding_member,founding_member
 S&P500,AAPL,0000320193,Apple Inc.,1996-01-02,1996,1976.0,20.0,1,False,False,3571.0,Information Technology,index_list_gics,"Technology Hardware, Storage & Peripherals",founding_member,,,founding_member,founding_member
-S&P500,TMK,0000320335,Globe Life,1996-01-02,1996,1900.0,96.0,2,True,False,6311.0,Financials,sic2,Life & Health Insurance,founding_member,,,founding_member,founding_member
+S&P500,TMK,0000320335,Globe Life,1996-01-02,1996,1900.0,96.0,2,True,False,6311.0,Financials,index_list_gics,Life & Health Insurance,founding_member,,,founding_member,founding_member
 S&P500,AN,0000350698,"AUTONATION, INC.",1996-01-02,1996,1996.0,0.0,2,True,False,5500.0,Consumer Discretionary,sic2,,founding_member,,,founding_member,founding_member
 S&P500,BMET,0000351346,BIOMET INC,1996-01-02,1996,1977.0,19.0,1,False,False,3842.0,Health Care,sic4,,founding_member,,,founding_member,founding_member
 S&P500,KATE,0000352363,Kate Spade & Co,1996-01-02,1996,1976.0,20.0,1,False,False,2330.0,Consumer Discretionary,sic2,,founding_member,,,founding_member,founding_member
@@ -384,7 +384,7 @@ S&P500,MO,0000764180,Altria,1996-01-02,1996,1985.0,11.0,1,False,False,2111.0,Con
 S&P500,BBY,0000764478,Best Buy,1999-06-30,1999,1966.0,33.0,1,False,False,5731.0,Consumer Discretionary,index_list_gics,Computer & Electronics Retail,established,,,established,established
 S&P500,PNW,0000764622,Pinnacle West Capital,1999-10-04,1999,1985.0,14.0,1,False,False,4911.0,Utilities,index_list_gics,Multi-Utilities,established,,,established,established
 S&P500,LDG,0000764762,LONGS DRUG STORES CORP,1996-01-02,1996,1938.0,58.0,1,False,False,5912.0,Consumer Staples,sic4,,founding_member,,,founding_member,founding_member
-S&P500,HCP,0000765880,Healthpeak Properties,2008-03-31,2008,1985.0,23.0,3,True,False,6798.0,Real Estate,sic4,Health Care REITs,re_entry,,,re_entry,re_entry
+S&P500,HCP,0000765880,Healthpeak Properties,2008-03-31,2008,1985.0,23.0,3,True,False,6798.0,Real Estate,index_list_gics,Health Care REITs,re_entry,,,re_entry,re_entry
 S&P500,ALK,0000766421,"ALASKA AIR GROUP, INC.",2016-05-13,2016,1932.0,84.0,1,False,False,4512.0,Industrials,sic2,,established,,,established,established
 S&P500,WELL,0000766704,Welltower,2009-01-30,2009,1970.0,39.0,1,False,False,6798.0,Real Estate,index_list_gics,Health Care REITs,established,,,established,established
 S&P500,PMCS,0000767920,PMC SIERRA INC,2001-08-03,2001,1984.0,17.0,1,False,False,3674.0,Information Technology,sic4,,established,,,established,established
@@ -467,7 +467,7 @@ S&P500,TECH,0000842023,Bio-Techne,2021-08-30,2021,1976.0,45.0,1,False,False,2836
 S&P500,AW,0000848865,"Allied Waste Industries, LLC",1999-08-02,1999,1987.0,12.0,1,False,False,4953.0,Industrials,sic4,,genuinely_new_provisional,merger,https://en.wikipedia.org/wiki/Allied_Waste_Industries,merger,corporate_action
 S&P500,PCL,0000849213,PLUM CREEK TIMBER CO INC,2002-01-17,2002,1989.0,13.0,1,False,False,6798.0,Real Estate,sic4,,established,,,established,established
 S&P500,CRH,0000849395,CRH plc,2025-12-22,2025,1970.0,55.0,1,False,False,3241.0,Materials,index_list_gics,Construction Materials,established,,,established,established
-S&P500,SYMC,0000849399,Gen Digital,2003-03-31,2003,1982.0,21.0,3,True,False,7372.0,Information Technology,sic4,Systems Software,re_entry,,,re_entry,re_entry
+S&P500,SYMC,0000849399,Gen Digital,2003-03-31,2003,1982.0,21.0,3,True,False,7372.0,Information Technology,index_list_gics,Systems Software,re_entry,,,re_entry,re_entry
 S&P500,FL,0000850209,"FOOT LOCKER, INC.",1996-01-02,1996,1879.0,117.0,2,True,False,5661.0,Consumer Discretionary,sic2,,founding_member,,,founding_member,founding_member
 S&P500,AGN,0000850693,ALLERGAN INC,1996-01-02,1996,1948.0,48.0,1,False,False,2834.0,Health Care,sic4,,founding_member,,,founding_member,founding_member
 S&P500,MHK,0000851968,MOHAWK INDUSTRIES INC,2013-12-23,2013,1878.0,135.0,1,False,False,2273.0,Consumer Discretionary,sic2,,established,,,established,established
@@ -530,7 +530,7 @@ S&P500,PDCO,0000891024,"PATTERSON COMPANIES, INC.",2005-10-11,2005,1877.0,128.0,
 S&P500,MTCH,0000891103,"Match Group, Inc.",2021-09-20,2021,1995.0,26.0,1,False,False,7370.0,Information Technology,sic4,,established,,,established,established
 S&P500,MD,0000893949,"Pediatrix Medical Group, Inc.",1996-01-02,1996,1979.0,17.0,1,False,False,8060.0,Health Care,sic4,,founding_member,,,founding_member,founding_member
 S&P500,DDR,0000894315,SITE Centers Corp.,2007-03-23,2007,1965.0,42.0,1,False,False,6798.0,Real Estate,sic4,,established,,,established,established
-S&P500,CHK,0000895126,Expand Energy,2006-03-03,2006,1989.0,17.0,2,True,False,1311.0,Energy,sic3,Oil & Gas Exploration & Production,re_entry,,,re_entry,re_entry
+S&P500,CHK,0000895126,Expand Energy,2006-03-03,2006,1989.0,17.0,2,True,False,1311.0,Energy,index_list_gics,Oil & Gas Exploration & Production,re_entry,,,re_entry,re_entry
 S&P500,MS,0000895421,Morgan Stanley,1996-01-02,1996,1935.0,61.0,1,False,False,6211.0,Financials,index_list_gics,Investment Banking & Brokerage,founding_member,,,founding_member,founding_member
 S&P500,GTW,0000895812,GATEWAY INC,1998-04-27,1998,1985.0,13.0,1,False,False,3571.0,Information Technology,sic4,,established,,,established,established
 S&P500,CB,0000896159,Chubb Limited,1996-01-02,1996,1985.0,11.0,1,False,False,6331.0,Financials,index_list_gics,Property & Casualty Insurance,founding_member,,,founding_member,founding_member
@@ -761,13 +761,13 @@ S&P500,STX,0001137789,Seagate Technology,2012-07-02,2012,1979.0,33.0,1,False,Fal
 S&P500,CBRE,0001138118,CBRE Group,2006-11-10,2006,1906.0,100.0,1,False,False,6500.0,Real Estate,index_list_gics,Real Estate Services,established,,,established,established
 S&P500,AWE,0001138234,"NEW CINGULAR WIRELESS SERVICES, INC.",2001-07-09,2001,1966.0,35.0,1,False,False,4812.0,Communication Services,sic3,,established,,,established,established
 S&P500,WLTW,0001140536,Willis Towers Watson,2016-01-05,2016,2016.0,0.0,2,True,False,6411.0,Financials,index_list_gics,Insurance Brokers,re_entry,merger,https://en.wikipedia.org/wiki/Willis_Towers_Watson,merger,corporate_action
-S&P500,ABC,0001140859,Cencora,2001-08-30,2001,1947.0,54.0,2,True,False,5122.0,Health Care,sic4,Health Care Distributors,re_entry,,,re_entry,re_entry
+S&P500,ABC,0001140859,Cencora,2001-08-30,2001,1947.0,54.0,2,True,False,5122.0,Health Care,index_list_gics,Health Care Distributors,re_entry,,,re_entry,re_entry
 S&P500,KMG,0001141185,KERR MCGEE CORP /DE,1996-01-02,1996,1929.0,67.0,1,False,False,1311.0,Energy,sic3,,founding_member,,,founding_member,founding_member
 S&P500,MA,0001141391,Mastercard,2008-07-18,2008,1966.0,42.0,1,False,False,7389.0,Financials,index_list_gics,Transaction & Payment Processing Services,established,,,established,established
 S&P500,CBE,0001141982,Cooper Industries plc,1996-01-02,1996,1833.0,163.0,2,True,False,3670.0,Information Technology,sic4,,founding_member,,,founding_member,founding_member
 S&P500,AYI,0001144215,ACUITY INC. (DE),2016-05-03,2016,1919.0,97.0,1,False,False,3640.0,Information Technology,sic2,,established,,,established,established
 S&P500,PODD,0001145197,Insulet Corporation,2023-03-15,2023,2000.0,23.0,1,False,False,3841.0,Health Care,index_list_gics,Health Care Equipment,established,,,established,established
-S&P500,ANTM,0001156039,Elevance Health,2002-07-25,2002,1946.0,56.0,2,True,False,6324.0,Health Care,sic4,Managed Health Care,re_entry,,,re_entry,re_entry
+S&P500,ANTM,0001156039,Elevance Health,2002-07-25,2002,1946.0,56.0,2,True,False,6324.0,Health Care,index_list_gics,Managed Health Care,re_entry,,,re_entry,re_entry
 S&P500,CME,0001156375,CME Group,2006-08-11,2006,1848.0,158.0,1,False,False,6200.0,Financials,index_list_gics,Financial Exchanges & Data,established,,,established,established
 S&P500,ASN,0001156826,ARCHSTONE SMITH TRUST,2004-12-20,2004,,,1,False,False,6798.0,Real Estate,sic4,,unknown_age,merger,https://en.wikipedia.org/wiki/Archstone,merger,corporate_action
 S&P500,AAP,0001158449,ADVANCE AUTO PARTS INC,2015-07-09,2015,1932.0,83.0,1,False,False,5531.0,Consumer Discretionary,sic2,,established,,,established,established

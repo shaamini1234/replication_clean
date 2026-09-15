@@ -33,7 +33,9 @@ def src_one(pattern):
     if not hits:
         raise SystemExit(f"no source input matching {pattern!r} under {SRC}")
     return hits[0]
-con  = duckdb.connect(DB, read_only=True)
+# read-write: this script also refreshes the materialised consolidated tables
+# the site reads, so that CSVs and tables cannot drift apart
+con  = duckdb.connect(DB, read_only=False)
 
 def norm(x):
     if pd.isna(x): return None
@@ -196,6 +198,13 @@ spc_s = spc.rename(columns={"symbol":"symbol","security":"company_name","cik":"c
         "sic":"sic","sic_description":"sic_description","state_of_inc":"state_of_inc"})[
         ["symbol","company_name","cik","sector","sub_industry","hq","index_date_added",
          "founded","sic","sic_description","state_of_inc"]]
+# sector_basis records where each sector came from (index_list_gics vs an
+# EDGAR-SIC mapping); without it the CSV cannot be told apart from observed data
+try:
+    _sb = t("sp500_companies_full")[["symbol","sector_basis"]].dropna(subset=["symbol"]).drop_duplicates("symbol")
+    spc_s = spc_s.merge(_sb, on="symbol", how="left")
+except Exception as _e:
+    print(f"  note: sector_basis unavailable ({_e}); CSV will omit it)")
 spc_s = with_cik(spc_s)
 
 def one_per_cik(df, prefer=None):
@@ -253,7 +262,7 @@ fin = spf.rename(columns={"symbol":"symbol","fiscal_year":"fiscal_year","period_
 
 fin = with_cik(fin)
 sp = fin.merge(spine_sp.drop(columns=["symbol"], errors="ignore"), on="cik", how="left")
-order_sp = ["symbol","company_name","former_company_name","cik","sector","sub_industry","hq",
+order_sp = ["symbol","company_name","former_company_name","cik","sector","sector_basis","sub_industry","hq",
             "founded","state_of_inc","sic","sic_description","index_date_added",
             "sp_entry_date","sp_entry_precision","sp_exit_date","sp_exit_precision",
             "fiscal_year","period_end","revenue","net_income","total_assets","market_cap",
@@ -261,6 +270,39 @@ order_sp = ["symbol","company_name","former_company_name","cik","sector","sub_in
             "revenue_source_url","net_income_source_url","total_assets_source_url","membership_source_urls"]
 sp = sp[[c for c in order_sp if c in sp.columns]].sort_values(["symbol","fiscal_year"]).reset_index(drop=True)
 sp.to_csv(os.path.join(OUT,"SP500_consolidated.csv"), index=False)
+
+# ---- refresh the materialised tables the site reads ----
+# These are separate copies inside the DuckDB; rebuilding only the CSVs used to
+# leave ftse100_consolidated stale, so the site mixed corrected and uncorrected
+# figures. Columns the table has but the CSV does not (sector_basis) are
+# preserved by re-joining them after the reload.
+def _refresh(table, df, keep_from_old=()):
+    try:
+        old_cols = {r[0] for r in con.execute(
+            "select column_name from information_schema.columns where table_name = ?", [table]).fetchall()}
+        carry = [c for c in keep_from_old if c in old_cols and c not in df.columns]
+        if carry:
+            key = "symbol" if "symbol" in df.columns else "company_number"
+            # ONE row per key. A plain DISTINCT fans out whenever a carried
+            # column varies within the key (shares_source_url does), which
+            # multiplies the table instead of enriching it.
+            agg = ", ".join(f"max({c}) as {c}" for c in carry)
+            prev = con.execute(
+                f"select {key}, {agg} from {table} where {key} is not null group by {key}"
+            ).fetchdf()
+            before = len(df)
+            df = df.merge(prev, on=key, how="left")
+            if len(df) != before:
+                raise RuntimeError(f"{table}: carry-merge changed row count {before} -> {len(df)}")
+        con.register("_refresh_df", df)
+        con.execute(f"create or replace table {table} as select * from _refresh_df")
+        con.unregister("_refresh_df")
+        print(f"  refreshed table {table}: {len(df):,} rows")
+    except Exception as e:
+        print(f"  WARNING: could not refresh {table}: {e}")
+
+_refresh("ftse100_consolidated", ftse)
+_refresh("sp500_consolidated", sp, keep_from_old=("sector_basis", "shares_source_url"))
 print(f"SP500_consolidated.csv: {len(sp):,} rows, {sp['symbol'].nunique()} symbols, "
       f"years {int(sp['fiscal_year'].min())}-{int(sp['fiscal_year'].max())}")
 con.close()

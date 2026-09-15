@@ -41,9 +41,23 @@ for val,url,fn in [("year_end_price_pence","price_source_url","ftse_share_price.
     dump(d,"ftse",fn,"value")
 
 # ---------- FTSE spine + birth ----------
-sp=con.execute("""SELECT DISTINCT company_number, company_name, ticker, former_names,
-   ftse_entry_date, ftse_exit_date, incorporation_date, company_status, sic_1, region
-   FROM ftse100_consolidated""").fetchdf().drop_duplicates("company_number")
+# entry/exit dates carry their source from ftse100_membership, which is the
+# authoritative record. Since the FTSE Russell corrections that is the public
+# constituent-history document, so every date on the spine has a followable link.
+sp=con.execute("""
+   WITH src AS (
+     SELECT company_number,
+            max(source_url) AS source_url
+     FROM ftse100_membership WHERE company_number IS NOT NULL
+     GROUP BY company_number)
+   SELECT DISTINCT f.company_number, f.company_name, f.ticker, f.former_names,
+     f.ftse_entry_date, f.ftse_exit_date, f.incorporation_date, f.company_status,
+     f.sic_1, f.region,
+     src.source_url AS entry_source, src.source_url AS exit_source
+   FROM ftse100_consolidated f
+   LEFT JOIN src USING (company_number)
+   WHERE f.company_number IS NOT NULL AND f.company_number <> ''
+   """).fetchdf().drop_duplicates("company_number")
 sp.to_csv(os.path.join(OUT,"ftse","ftse_spine.csv"),index=False); print(f"  ftse/ftse_spine.csv                  {len(sp):>6} rows")
 ba=con.execute("SELECT * FROM ftse_birth_audited").fetchdf()
 ba.to_csv(os.path.join(OUT,"ftse","ftse_birth.csv"),index=False); print(f"  ftse/ftse_birth.csv                  {len(ba):>6} rows")

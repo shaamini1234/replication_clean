@@ -220,7 +220,7 @@ JPM,0000019617,2021,48334000000,https://www.sec.gov/Archives/edgar/data/19617/00
 JPM,0000019617,2022,37676000000,https://www.sec.gov/Archives/edgar/data/19617/000001961723000231/0000019617-23-000231-index.htm
 JPM,0000019617,2023,49552000000,https://www.sec.gov/Archives/edgar/data/19617/000001961724000225/0000019617-24-000225-index.htm
 CPWR,0000827099,2017,-14591675,https://www.sec.gov/Archives/edgar/data/827099/000165495418003464/0001654954-18-003464-index.htm
-KMG,1141185,2001,486000000,https://www.sec.gov/Archives/edgar/data/1141185/000114118502000011/exh13annrpt2001.txt
+KMG,0001141185,2001,486000000,https://www.sec.gov/Archives/edgar/data/1141185/000114118502000011/exh13annrpt2001.txt
 JPM,0000019617,2024,58471000000,https://www.sec.gov/Archives/edgar/data/19617/000001961725000270/0000019617-25-000270-index.htm
 CINF,0000020286,2009,432000000,https://www.sec.gov/Archives/edgar/data/20286/000114420412011957/
 TROW,0001113169,2011,773200000,https://www.sec.gov/Archives/edgar/data/1113169/000111316914000007/
@@ -228,8 +228,8 @@ TROW,0001113169,2013,1047700000,https://www.sec.gov/Archives/edgar/data/1113169/
 TROW,0001113169,2014,1229600000,https://www.sec.gov/Archives/edgar/data/1113169/000111316916000033/
 TROW,0001113169,2015,1223000000,https://www.sec.gov/Archives/edgar/data/1113169/000111316916000033/
 COF,0000927628,2018,6015000000,https://www.sec.gov/Archives/edgar/data/927628/000092762821000094/
-ARNC,4281,2007,2564000000,https://data.sec.gov/api/xbrl/companyfacts/CIK0000004281.json
-UTX,101829,2007,4224000000,https://data.sec.gov/api/xbrl/companyfacts/CIK0000101829.json
+ARNC,0000004281,2007,2564000000,https://data.sec.gov/api/xbrl/companyfacts/CIK0000004281.json
+UTX,0000101829,2007,4224000000,https://data.sec.gov/api/xbrl/companyfacts/CIK0000101829.json
 BF.B,0000014693,2000,202000000,https://www.sec.gov/Archives/edgar/data/14693/0000014693-00-000016.txt
 BLL,0000009389,2000,68000000,https://www.sec.gov/Archives/edgar/data/9389/0000009389-01-500003.txt
 CPWR,0000827099,2018,-7880013,https://www.sec.gov/Archives/edgar/data/827099/000165495419003067/0001654954-19-003067-index.htm
@@ -477,7 +477,7 @@ HOT,0000316206,2004,34000000,https://www.sec.gov/Archives/edgar/data/316206/0000
 HRB,0000012659,2004,704256000,https://www.sec.gov/Archives/edgar/data/12659/000095013704005468/c86302e10vk.htm
 IGT,0000353944,2004,488677000,https://www.sec.gov/Archives/edgar/data/353944/000095013704010954/a03698e10vk.htm
 JWN,0000072333,2004,242841000,https://www.sec.gov/Archives/edgar/data/72333/000095012404001345/v96844exv13w1.htm
-KMG,1141185,2004,465000000,https://www.sec.gov/Archives/edgar/data/1141185/000114118505000024/form10k2004.htm
+KMG,0001141185,2004,465000000,https://www.sec.gov/Archives/edgar/data/1141185/000114118505000024/form10k2004.htm
 LEG,0000058492,2004,285400000,https://www.sec.gov/Archives/edgar/data/58492/000119312505038718/d10k.htm
 LEHMQ,0000806085,2004,1722000000,https://www.sec.gov/Archives/edgar/data/806085/000104746905003763/a2151908z10-k.htm
 MAT,0000063276,2004,572723000,https://www.sec.gov/Archives/edgar/data/63276/000119312505044603/d10k.htm
@@ -495,7 +495,7 @@ PMCS,0000767920,2004,51681000,https://www.sec.gov/Archives/edgar/data/767920/000
 PRU,0001137774,2004,2256000000,https://www.sec.gov/Archives/edgar/data/1137774/000119312505045535/d10k.htm
 QCOM,0000804328,2004,352000000,https://www.sec.gov/Archives/edgar/data/804328/000093639204000858/a02900e10vk.htm
 QLGC,0000918386,2004,133673000,https://www.sec.gov/Archives/edgar/data/918386/000089256904000694/a99157e10vk.htm
-RAI,1275283,2004,758000000,https://www.sec.gov/Archives/edgar/data/1275283/000095014405002273/g93533e10vk.htm
+RAI,0001275283,2004,758000000,https://www.sec.gov/Archives/edgar/data/1275283/000095014405002273/g93533e10vk.htm
 RBK,0000770949,2004,192425000,https://www.sec.gov/Archives/edgar/data/770949/000104746905005743/a2153119z10-k.htm
 RHI,0000315213,2004,140604000,https://www.sec.gov/Archives/edgar/data/315213/000119312505035210/d10k.htm
 RRD,0000029669,2004,163400000,https://www.sec.gov/Archives/edgar/data/29669/000119312505049522/d10k.htm
@@ -567,7 +567,7 @@ IGT,0000353944,2005,436500000,https://www.sec.gov/Archives/edgar/data/353944/000
 INTU,0000896878,2005,374983000,https://www.sec.gov/Archives/edgar/data/896878/000095013405018355/f10990e10vk.htm
 JNY,0000874016,2005,274300000,https://www.sec.gov/Archives/edgar/data/874016/000087401606000010/form10k_2005.htm
 JWN,0000072333,2005,393450000,https://www.sec.gov/Archives/edgar/data/72333/000089102005000104/v07697exv13w1.htm
-KMG,1141185,2005,3211000000,https://www.sec.gov/Archives/edgar/data/1141185/000114118506000039/annualreport2005.htm
+KMG,0001141185,2005,3211000000,https://www.sec.gov/Archives/edgar/data/1141185/000114118506000039/annualreport2005.htm
 LXK,0001001288,2005,356300000,https://www.sec.gov/Archives/edgar/data/1001288/000095015206001859/j1702701e10vk.htm
 MAT,0000063276,2005,417019000,https://www.sec.gov/Archives/edgar/data/63276/000119312506039887/d10k.htm
 MBI,0000814585,2005,1207651000,https://www.sec.gov/Archives/edgar/data/814585/000119312506048353/d10k.htm
@@ -589,7 +589,7 @@ PMCS,0000767920,2005,27986000,https://www.sec.gov/Archives/edgar/data/767920/000
 PRU,0001137774,2005,3540000000,https://www.sec.gov/Archives/edgar/data/1137774/000119312506041378/d10k.htm
 QCOM,0000804328,2005,513000000,https://www.sec.gov/Archives/edgar/data/804328/000093639205000362/a14009e10vk.htm
 R,0000085961,2005,226929000,https://www.sec.gov/Archives/edgar/data/85961/000095014406001313/g99593e10vk.htm
-RAI,1275283,2005,1042000000,https://www.sec.gov/Archives/edgar/data/1275283/000095014406001530/g99749e10vk.htm
+RAI,0001275283,2005,1042000000,https://www.sec.gov/Archives/edgar/data/1275283/000095014406001530/g99749e10vk.htm
 RHI,0000315213,2005,237870000,https://www.sec.gov/Archives/edgar/data/315213/000119312506046180/d10k.htm
 SCHW,0000316709,2005,187000000,https://www.sec.gov/Archives/edgar/data/316709/000119312506039674/d10k.htm
 SRE,0001032208,2005,920000000,https://www.sec.gov/Archives/edgar/data/1032208/000008652106000008/exhibit13.htm
@@ -689,7 +689,7 @@ PLD,0001045609,2006,223879000,https://www.sec.gov/Archives/edgar/data/1045609/00
 PRU,0001137774,2006,3428000000,https://www.sec.gov/Archives/edgar/data/1137774/000119312507042867/d10k.htm
 QCOM,0000804328,2006,2470000000,https://www.sec.gov/Archives/edgar/data/804328/000093639206000996/a24679e10vk.htm
 R,0000085961,2006,248959000,https://www.sec.gov/Archives/edgar/data/85961/000095014407001288/g05335e10vk.htm
-RAI,1275283,2006,1140000000,https://www.sec.gov/Archives/edgar/data/1275283/000095014407001653/g05637e10vk.htm
+RAI,0001275283,2006,1140000000,https://www.sec.gov/Archives/edgar/data/1275283/000095014407001653/g05637e10vk.htm
 FNMA,0000310522,2024,16978000000,https://www.sec.gov/Archives/edgar/data/310522/000031052225000199/0000310522-25-000199-index.htm
 RHI,0000315213,2006,283178000,https://www.sec.gov/Archives/edgar/data/315213/000119312507038451/d10k.htm
 RX,0001058083,2006,315511000,https://www.sec.gov/Archives/edgar/data/1058083/000110465907013890/a07-4945_110k.htm
@@ -717,19 +717,19 @@ XLNX,0000743988,2006,354149000,https://www.sec.gov/Archives/edgar/data/743988/00
 XTO,0000868809,2006,1860000000,https://www.sec.gov/Archives/edgar/data/868809/000119312507044381/d10k.htm
 ZBH,0001136869,2006,834500000,https://www.sec.gov/Archives/edgar/data/1136869/000095013707002904/c12593e10vk.htm
 ZION,0000109380,2006,191800000,https://www.sec.gov/Archives/edgar/data/109380/000119312507044275/d10k.htm
-ABC,1140859,2007,469167000,https://data.sec.gov/api/xbrl/companyfacts/CIK0001140859.json
+ABC,0001140859,2007,469167000,https://data.sec.gov/api/xbrl/companyfacts/CIK0001140859.json
 ADI,0000006281,2007,496907000,https://data.sec.gov/api/xbrl/companyfacts/CIK0000006281.json
 AES,0000874761,2007,-95000000,https://data.sec.gov/api/xbrl/companyfacts/CIK0000874761.json
 AKAM,0001086222,2007,100967000,https://data.sec.gov/api/xbrl/companyfacts/CIK0001086222.json
 AMP,0000820027,2007,814000000,https://data.sec.gov/api/xbrl/companyfacts/CIK0000820027.json
 AMT,0001053507,2007,56316000,https://data.sec.gov/api/xbrl/companyfacts/CIK0001053507.json
 AMZN,0001018724,2007,476000000,https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json
-ANTM,1156039,2007,3345400000,https://data.sec.gov/api/xbrl/companyfacts/CIK0001156039.json
+ANTM,0001156039,2007,3345400000,https://data.sec.gov/api/xbrl/companyfacts/CIK0001156039.json
 AVB,0000915912,2007,358160000,https://data.sec.gov/api/xbrl/companyfacts/CIK0000915912.json
 BBT,0001108134,2007,13535000,https://data.sec.gov/api/xbrl/companyfacts/CIK0000092230.json
 BEN,0000038777,2007,1772938000,https://data.sec.gov/api/xbrl/companyfacts/CIK0000038777.json
 BIIB,0000875045,2007,638172000,https://data.sec.gov/api/xbrl/companyfacts/CIK0000875045.json
-CHK,895126,2007,1455000000,https://data.sec.gov/api/xbrl/companyfacts/CIK0000895126.json
+CHK,0000895126,2007,1455000000,https://data.sec.gov/api/xbrl/companyfacts/CIK0000895126.json
 CHRW,0001043277,2007,324261000,https://data.sec.gov/api/xbrl/companyfacts/CIK0001043277.json
 CNX,0001070412,2007,267782000,https://data.sec.gov/api/xbrl/companyfacts/CIK0001070412.json
 COF,0000927628,2007,1570332000,https://data.sec.gov/api/xbrl/companyfacts/CIK0000927628.json
@@ -757,7 +757,7 @@ NFX,0000912750,2014,900000000,https://www.sec.gov/Archives/edgar/data/912750/000
 NFX,0000912750,2015,-3362000000,https://www.sec.gov/Archives/edgar/data/912750/000091275016000053/0000912750-16-000053-index.htm
 NFX,0000912750,2016,-1230000000,https://www.sec.gov/Archives/edgar/data/912750/000091275017000003/0000912750-17-000003-index.htm
 NFX,0000912750,2017,427000000,https://www.sec.gov/Archives/edgar/data/912750/000091275018000004/0000912750-18-000004-index.htm
-MMC,62709,2007,2475000000,https://www.sec.gov/Archives/edgar/data/62709/000119312508043337/d10k.htm
+MMC,0000062709,2007,2475000000,https://www.sec.gov/Archives/edgar/data/62709/000119312508043337/d10k.htm
 MTB,0000036270,2007,654259000,https://data.sec.gov/api/xbrl/companyfacts/CIK0000036270.json
 NBR,0001163739,2007,865702000,https://data.sec.gov/api/xbrl/companyfacts/CIK0001163739.json
 PFG,0001126328,2007,860300000,https://data.sec.gov/api/xbrl/companyfacts/CIK0001126328.json
@@ -771,7 +771,7 @@ SLM,0001032033,2007,-896394000,https://data.sec.gov/api/xbrl/companyfacts/CIK000
 SPG,0001063761,2007,639236000,https://data.sec.gov/api/xbrl/companyfacts/CIK0001063761.json
 STT,0000093751,2007,1261000000,https://data.sec.gov/api/xbrl/companyfacts/CIK0000093751.json
 SYK,0000310764,2007,1017400000,https://data.sec.gov/api/xbrl/companyfacts/CIK0000310764.json
-TMK,320335,2007,527535000,https://data.sec.gov/api/xbrl/companyfacts/CIK0000320335.json
+TMK,0000320335,2007,527535000,https://data.sec.gov/api/xbrl/companyfacts/CIK0000320335.json
 TROW,0001113169,2007,670600000,https://data.sec.gov/api/xbrl/companyfacts/CIK0001113169.json
 UPS,0001090727,2007,382000000,https://data.sec.gov/api/xbrl/companyfacts/CIK0001090727.json
 VFC,0000103379,2007,591621000,https://data.sec.gov/api/xbrl/companyfacts/CIK0000103379.json
@@ -5864,7 +5864,7 @@ UNM,0000005513,2004,-253000000,https://www.sec.gov/Archives/edgar/data/5513/0001
 WHR,0000106640,2004,406000000,https://www.sec.gov/Archives/edgar/data/106640/000119312505042422/d10k.htm
 GT,0000042582,2005,228000000,https://www.sec.gov/Archives/edgar/data/42582/000095015206001296/l17860ae10vk.htm
 LNC,0000059558,2005,831055000,https://www.sec.gov/Archives/edgar/data/59558/000095015906000400/lincoln10k.htm
-FD,794367,2005,689000000,https://www.sec.gov/Archives/edgar/data/794367/000095015205002623/l12973ae10vk.htm
+FD,0000794367,2005,689000000,https://www.sec.gov/Archives/edgar/data/794367/000095015205002623/l12973ae10vk.htm
 PBI,0000078814,2005,526578000,https://www.sec.gov/Archives/edgar/data/78814/000120677406000420/d18625_10k.htm
 UNM,0000005513,2005,513600000,https://www.sec.gov/Archives/edgar/data/5513/000119312506044828/d10k.htm
 WHR,0000106640,2005,422000000,https://www.sec.gov/Archives/edgar/data/106640/000104746906002674/a2167791z10-k.htm
