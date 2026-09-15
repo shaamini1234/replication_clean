@@ -1,0 +1,4 @@
+symbol,cik,company_name,basis,source_url,resolved_on
+FB,0001326801,"Meta Platforms, Inc.","Facebook's ticker before the 2022-06-09 rename to META; same registrant, same CIK",https://data.sec.gov/submissions/CIK0001326801.json,2026-09-15
+SEBL,0001006835,SIEBEL SYSTEMS INC,"Delisted 2006 (acquired by Oracle); CIK from EDGAR company search, absent from every project table",https://data.sec.gov/submissions/CIK0001006835.json,2026-09-15
+WLTW,0001140536,Willis Towers Watson,"Ticker used before the 2023 change to WTW; same registrant, same CIK",https://data.sec.gov/submissions/CIK0001140536.json,2026-09-15

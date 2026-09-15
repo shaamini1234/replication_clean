@@ -18,8 +18,21 @@ where we have one. Estimated/precision flags are carried through, not hidden.
 import os, glob, re, duckdb, pandas as pd, numpy as np
 
 HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DB   = os.path.join(HERE, "business_dynamism_v1_20260820.duckdb")
-OUT  = HERE
+# Canonical DB + output locations. Both used to point at files that do not exist
+# (a v1 DB at the repo root, outputs written beside it), so this script could not
+# run at all; the committed CSVs came from an older copy of it.
+DB   = os.environ.get("BD_DUCKDB") or os.path.join(
+    HERE, "database", "business_dynamism_v2_20260824d.duckdb")
+OUT  = os.path.join(HERE, "deliverables", "consolidated")
+SRC  = os.path.join(HERE, "source_inputs")   # hand-curated inputs live here
+os.makedirs(OUT, exist_ok=True)
+
+def src_one(pattern):
+    """The single source CSV matching `pattern`, or a clear error naming it."""
+    hits = sorted(glob.glob(os.path.join(SRC, pattern)))
+    if not hits:
+        raise SystemExit(f"no source input matching {pattern!r} under {SRC}")
+    return hits[0]
 con  = duckdb.connect(DB, read_only=True)
 
 def norm(x):
@@ -37,7 +50,7 @@ def t(name):  # duckdb table -> df
 # ============================== FTSE ==============================
 comp = t("ftse100_compositions"); fund = t("ftse100_fundamentals")
 memb = t("ftse100_membership");   mapg = t("ftse100_mapping")
-canon = pd.read_csv(glob.glob(os.path.join(HERE,"FTSE100_CANONICAL*.csv"))[0], low_memory=False)
+canon = pd.read_csv(src_one("FTSE100_CANONICAL*.csv"), low_memory=False)
 
 for d in (comp,fund,memb,mapg): d["cn"] = d["company_number"].map(norm)
 canon["cn"] = canon["company_number"].map(norm)
@@ -159,16 +172,61 @@ print(f"FTSE100_consolidated.csv: {len(ftse):,} rows, {ftse['company_number'].nu
 
 # ============================== S&P ==============================
 spf = t("sp500_financials"); spc = t("sp500_companies_full"); spm = t("sp500_membership")
-amend = pd.read_csv(glob.glob(os.path.join(HERE,"sp500_amended*.csv"))[0], low_memory=False)
+amend = pd.read_csv(src_one("sp500_amended*.csv"), low_memory=False)
 
 # spine per symbol
+# Identity is CIK, never ticker. Tickers are reused after a delisting, so a
+# ticker merge attaches one company's membership dates or financials to another's
+# — build_identity_crosswalk.py documents seven live cases (Compuware/Ocean
+# Thermal, Anadarko/ARKO, ...). sp500_identity is the canonical crosswalk and
+# supplies the CIK wherever a source table lacks one.
+ident = t("sp500_identity")[["symbol", "cik"]].dropna(subset=["cik"]).drop_duplicates("symbol")
+
+def with_cik(df, key="symbol"):
+    """Attach the canonical CIK, using `key` ONLY to look it up — never to merge on."""
+    d = df.copy()
+    if key != "symbol":
+        d = d.rename(columns={key: "symbol"})
+    if "cik" in d.columns:
+        d = d.drop(columns=["cik"])
+    return d.merge(ident, on="symbol", how="left")
+
 spc_s = spc.rename(columns={"symbol":"symbol","security":"company_name","cik":"cik","sector":"sector",
         "sub_industry":"sub_industry","hq":"hq","date_added":"index_date_added","founded":"founded",
         "sic":"sic","sic_description":"sic_description","state_of_inc":"state_of_inc"})[
         ["symbol","company_name","cik","sector","sub_industry","hq","index_date_added",
          "founded","sic","sic_description","state_of_inc"]]
-mem = spm.sort_values("start_date").groupby("ticker").agg(
-        sp_entry_date=("start_date","min"), sp_exit_date=("end_date","max")).reset_index().rename(columns={"ticker":"symbol"})
+spc_s = with_cik(spc_s)
+
+def one_per_cik(df, prefer=None):
+    """Collapse to a single row per CIK.
+
+    Necessary before any CIK merge: each source still holds one row per TICKER,
+    and one company can hold several (GOOG/GOOGL, FB/META, share classes). Left
+    un-collapsed, a CIK merge multiplies rows instead of matching them.
+    Rows with no CIK are passed through untouched — they cannot collide.
+    """
+    d = df.copy()
+    has, missing = d[d["cik"].notna()], d[d["cik"].isna()]
+    if prefer:
+        has = has.sort_values(prefer, na_position="last")
+    has = has.drop_duplicates(subset=["cik"], keep="first")
+    return pd.concat([has, missing], ignore_index=True)
+
+# Most-complete row wins where a company appears under several tickers.
+spc_s["_fill"] = spc_s.notna().sum(axis=1)
+spc_s = one_per_cik(spc_s.sort_values("_fill", ascending=False)).drop(columns=["_fill"])
+
+# Membership: aggregate episodes per COMPANY, not per ticker, so a rename
+# (BSY -> SKY) is one span rather than two.
+mem = spm.rename(columns={"ticker": "symbol"})
+mem = with_cik(mem)
+mem["_key"] = mem["cik"].fillna("TICKER:" + mem["symbol"].astype(str))
+mem = (mem.sort_values("start_date")
+          .groupby("_key")
+          .agg(symbol=("symbol", "first"), cik=("cik", "first"),
+               sp_entry_date=("start_date", "min"), sp_exit_date=("end_date", "max"))
+          .reset_index(drop=True))
 # entry/exit precision + source urls from amended (one per ticker)
 am = (amend.dropna(subset=["ticker"]).sort_values("fiscal_year")
       .groupby("ticker").agg(
@@ -177,7 +235,11 @@ am = (amend.dropna(subset=["ticker"]).sort_values("fiscal_year")
         sp_exit_precision=("sp_exit_precision","last"),
         membership_source_urls=("membership_source_urls","first")).reset_index().rename(columns={"ticker":"symbol"}))
 
-spine_sp = spc_s.merge(mem, on="symbol", how="outer").merge(am, on="symbol", how="left")
+am = one_per_cik(with_cik(am))
+# Merge on CIK. Rows with no CIK cannot be safely matched and are kept, unmerged,
+# rather than guessed at via ticker.
+spine_sp = (spc_s.merge(mem.drop(columns=["symbol"]), on="cik", how="outer")
+                 .merge(am.drop(columns=["symbol"]), on="cik", how="left"))
 
 fin = spf.rename(columns={"symbol":"symbol","fiscal_year":"fiscal_year","period_end":"period_end",
         "revenue":"revenue","net_income":"net_income","total_assets":"total_assets",
@@ -189,7 +251,8 @@ fin = spf.rename(columns={"symbol":"symbol","fiscal_year":"fiscal_year","period_
          "shares_outstanding","employees","revenue_grade","net_income_grade","total_assets_grade",
          "revenue_source_url","net_income_source_url","total_assets_source_url"]]
 
-sp = fin.merge(spine_sp, on="symbol", how="left")
+fin = with_cik(fin)
+sp = fin.merge(spine_sp.drop(columns=["symbol"], errors="ignore"), on="cik", how="left")
 order_sp = ["symbol","company_name","former_company_name","cik","sector","sub_industry","hq",
             "founded","state_of_inc","sic","sic_description","index_date_added",
             "sp_entry_date","sp_entry_precision","sp_exit_date","sp_exit_precision",

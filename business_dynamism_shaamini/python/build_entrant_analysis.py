@@ -22,8 +22,13 @@ Definitions / flags:
     established(older) | unknown_age
 """
 import os, re, duckdb, pandas as pd, numpy as np
-HERE=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DB=os.path.join(HERE,"business_dynamism_v2_20260820.duckdb")
+REPO=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# Canonical DB + output locations — both previously pointed at paths that do not
+# exist, so this script could not run; the committed CSVs came from an older copy.
+DB=os.environ.get("BD_DUCKDB") or os.path.join(
+    REPO,"database","business_dynamism_v2_20260824d.duckdb")
+HERE=os.path.join(REPO,"deliverables","consolidated")
+os.makedirs(HERE, exist_ok=True)
 NEW_MAX=12          # business younger than this at entry = candidate "genuinely new"
 VERY_NEW=3          # younger than this yet index-sized = wrapper/spin-off/hypergrowth (adjudicate)
 con=duckdb.connect(DB, read_only=True)
@@ -76,21 +81,84 @@ f.loc[bad,["incorp_year","age_at_entry"]]=np.nan
 f["ch_match_status"]=np.where(bad,"historical_no_reliable_ch_number","ok")
 f["wrapper_suspect"]=(f["age_at_entry"]<=5)&(f["has_former_names"]|f["holdco"])
 f["index"]="FTSE100"
+# FTSE sector, joined on company_number (the sector file is ticker-keyed, so it
+# is resolved to company_number first — see build_ftse_sector_crosswalk.py).
+try:
+    fsec=con.execute(f"""
+        SELECT company_number, max(sector) AS sector
+        FROM read_csv_auto('{os.path.join(REPO,"source_inputs","ftse100_sector_classification_keyed.csv")}',
+                           header=true, all_varchar=true)
+        WHERE company_number IS NOT NULL AND company_number <> '' GROUP BY company_number
+    """).fetchdf().set_index("company_number")
+    f=f.join(fsec)
+except Exception as exc:
+    print(f"  note: FTSE sector crosswalk unavailable ({exc}); sector column left empty")
+    f["sector"]=np.nan
+
 f=f.reset_index().rename(columns={"company_number":"id"})
 fcols=["index","id","company_name","entry_date","entry_year","incorp_year","age_at_entry",
-       "episodes","re_entry","has_former_names","holdco","inv_trust","wrapper_suspect",
+       "episodes","re_entry","has_former_names","holdco","inv_trust","wrapper_suspect","sector",
        "ch_match_status","company_category","sic_1","former_names","provisional_class"]
 f[fcols].to_csv(os.path.join(HERE,"ftse_entrants_classified.csv"), index=False)
 
 # ============================== S&P ==============================
-spm=con.execute("SELECT ticker,start_date FROM sp500_membership").fetchdf()
+# Identity is CIK, never ticker: London and US tickers are both reused after a
+# delisting, so grouping membership episodes by ticker merges two different
+# companies into one "re-entry". sp500_membership now carries a CIK from
+# sp500_identity; rows it could not resolve keep a TICKER: key, are flagged, and
+# are never silently merged with a resolved company.
+spm=con.execute("SELECT ticker,cik,start_date FROM sp500_membership").fetchdf()
 spm["entry_year"]=spm["start_date"].map(yr)
-spep=spm.groupby("ticker").size().rename("episodes")
-spf=spm.sort_values("start_date").groupby("ticker").agg(
+spm["key"]=np.where(spm["cik"].notna(), spm["cik"], "TICKER:"+spm["ticker"].astype(str))
+spep=spm.groupby("key").size().rename("episodes")
+spf=spm.sort_values("start_date").groupby("key").agg(
+    ticker=("ticker","first"), cik=("cik","first"),
     entry_date=("start_date","min"), entry_year=("entry_year","min")).join(spep)
-comp=con.execute("SELECT symbol,security,founded,date_added,sic,sub_industry FROM sp500_companies_full").fetchdf().drop_duplicates("symbol").set_index("symbol")
-s=spf.join(comp)
-s["founded_year"]=s["founded"].map(yr)
+n_unres=int(spf["cik"].isna().sum())
+if n_unres:
+    print(f"  note: {n_unres} S&P entrants have no CIK; kept under a TICKER: key, not merged")
+
+# Company attributes joined ON CIK. sector comes from sp500_consolidated, which
+# carries the EDGAR-recovered sector for companies that have left the index —
+# sp500_companies_full only ever had it for current members.
+comp=con.execute("""
+    SELECT cik,
+           max(security)      AS security,
+           max(founded)       AS founded,
+           max(date_added)    AS date_added,
+           max(sic)           AS sic,
+           max(sub_industry)  AS sub_industry
+    FROM sp500_companies_full WHERE cik IS NOT NULL GROUP BY cik
+""").fetchdf().set_index("cik")
+secs=con.execute("""
+    SELECT cik, max(sector) AS sector, max(sector_basis) AS sector_basis
+    FROM sp500_consolidated WHERE cik IS NOT NULL GROUP BY cik
+""").fetchdf().set_index("cik")
+
+# Founding year from sp500_founding, NOT sp500_companies_full.founded: the latter
+# is populated only for CURRENT index members (503 of 1202), the same
+# survivorship bias that afflicted sector, and using it puts every delisted
+# company into unknown_age. sp500_founding covers 1,147.
+fnd=con.execute("""
+    SELECT cik, max(try_cast(founded_year AS INTEGER)) AS founded_year_src
+    FROM sp500_founding WHERE cik IS NOT NULL GROUP BY cik
+""").fetchdf().set_index("cik")
+
+# Company name for delisted constituents: sp500_companies_full.security only
+# covers current members, so recovered entrants would show blank on a public
+# page. sp500_sector_enriched carries the registrant name EDGAR still holds.
+try:
+    enm=con.execute("""
+        SELECT cik, max(edgar_name) AS edgar_name
+        FROM sp500_sector_enriched WHERE cik IS NOT NULL GROUP BY cik
+    """).fetchdf().set_index("cik")
+except Exception:
+    enm=pd.DataFrame(columns=["edgar_name"]).rename_axis("cik")
+
+s=spf.join(comp, on="cik").join(secs, on="cik").join(fnd, on="cik").join(enm, on="cik")
+s["security"]=s["security"].fillna(s["edgar_name"])
+# prefer the dedicated founding research; fall back to the index-list value
+s["founded_year"]=s["founded_year_src"].fillna(s["founded"].map(yr))
 s["age_at_entry"]=s["entry_year"]-s["founded_year"]
 SP_START=int(np.nanmin(s["entry_year"])) if s["entry_year"].notna().any() else 1957
 s["re_entry"]=s["episodes"]>1
@@ -108,9 +176,13 @@ def classify_sp(r):
     return "established"
 s["provisional_class"]=s.apply(classify_sp, axis=1)
 s["index"]="S&P500"
-s=s.reset_index().rename(columns={"ticker":"id","security":"company_name"})
-scols=["index","id","company_name","entry_date","entry_year","founded_year","age_at_entry",
-       "episodes","re_entry","spac_shell","sic","sub_industry","provisional_class"]
+s=s.reset_index(drop=True).rename(columns={"ticker":"id","security":"company_name"})
+# keep CIK a zero-padded 10-character string on the way out; a bare integer
+# would lose the leading zeros and stop joining against the database
+s["cik"]=s["cik"].apply(lambda v: f"{int(v):010d}" if pd.notna(v) and str(v).strip() not in ("","nan") else "")
+scols=["index","id","cik","company_name","entry_date","entry_year","founded_year","age_at_entry",
+       "episodes","re_entry","spac_shell","sic","sector","sector_basis","sub_industry",
+       "provisional_class"]
 s[scols].to_csv(os.path.join(HERE,"sp500_entrants_classified.csv"), index=False)
 
 # ============================== trend summary ==============================

@@ -61,6 +61,58 @@ chart spec, or if any number has been hardcoded into the prose). Deploy notes: `
 (CH scanned-accounts OCR), `fmp_fetch.py`, `04_export_parquet.py`. `sync_and_rebuild.sh` pulls
 Neon→local and rebuilds; `deploy_ch_server.sh` deploys the CH extractor to a cloud VM.
 
+### 4a. Identity: join on CIK / company number, never ticker
+
+Tickers are reused once a company delists, so a ticker join attaches one
+company's data to another's. This is not theoretical here: `sp500_companies_full`
+held the wrong company for seven symbols (Compuware/Ocean Thermal,
+Anadarko/ARKO, El Paso/Empire Petroleum, ...), and in the FTSE composition record
+`RSA` maps to three different companies and `GAA` to three. CIK was also stored in
+four different types across five tables (`'0000875570'`, `875570`, `875570.0`), so
+CIK joins matched nothing and everything silently fell back to the ticker.
+
+Three scripts fix and maintain this; run them in this order after any
+`build_duckdb.py neon`, which re-imports the raw tables and drops the repairs:
+
+```bash
+python python/build_identity_crosswalk.py     # CIK -> VARCHAR(10) everywhere; builds sp500_identity
+python python/sp500_edgar_sector_fetch.py     # EDGAR sector/SIC for delisted constituents
+python python/apply_sector_enrichment.py      # lands it, joining on CIK
+python python/build_ftse_sector_crosswalk.py  # FTSE sector file -> company_number
+python python/build_consolidated_csvs.py
+python python/build_entrant_analysis.py
+python python/merge_adjudication.py
+python python/build_site_data.py --verify
+```
+
+Rules that follow from this:
+
+- **Join on `cik` (S&P) or `company_number` (FTSE).** A ticker may be used to
+  *look up* an identifier via `sp500_identity`, never as the join key itself.
+- **Read identifiers as strings.** `cik` and `company_number` are zero-padded;
+  `pd.read_csv` turns `0000773910` into `773910` and the join then silently
+  matches nothing. Pass `dtype={"cik": str, "company_number": str}`.
+- **Collapse to one row per identifier before merging.** One company can hold
+  several tickers (GOOG/GOOGL, FB/META, BSY/SKY), so an uncollapsed CIK merge
+  multiplies rows instead of matching them.
+- **Hand-resolved CIKs** live in `source_inputs/sp500_manual_cik_resolution.csv`,
+  one row per company with the EDGAR record cited.
+
+### 4b. Sector provenance
+
+`sector` used to come only from the live constituent list, so it was present for
+100% of current members and 27% of those that had left — survivorship bias in the
+field the whole sector analysis rests on, worst for the dot-com cohort. It is now
+backfilled from each company's SEC SIC code via `python/sic_gics_map.py`, taking
+coverage to 1,048 of 1,049 symbols.
+
+Every row records where its sector came from in `sector_basis`:
+`index_list_gics` (authoritative, never overwritten), or `company_override` /
+`sic4` / `sic3` / `sic2` from the mapping. Validated against the 503 symbols
+holding both a real GICS sector and a SIC, the mapping agrees 86.7% of the time;
+SIC cannot separate Visa from Accenture, so the residual is irreducible and the
+`sector_basis` column is what lets a reader weight it.
+
 ## 5. Active task briefs (handed to other agents — kept as standalone files)
 - `SP500_MARKETDATA_HANDOFF.md` + `SP500_marketdata_worklist.csv` — fill S&P market cap / shares /
   employees (15.6k symbol-years) from SEC, with URLs.

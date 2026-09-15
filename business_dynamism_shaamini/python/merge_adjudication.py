@@ -2,8 +2,11 @@
 """Fold the source-based adjudication of the amber bucket into the entrant analysis.
 Produces final_class + is_genuinely_new + source URL on each entrant, a coarse-bucket
 summary, and regenerates entrant_analysis.html mapped over time."""
-import os, json, pandas as pd, numpy as np
-HERE=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+import os, json, duckdb, pandas as pd, numpy as np
+REPO=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+HERE=os.path.join(REPO,"deliverables","consolidated")   # where the entrant CSVs live
+DB=os.environ.get("BD_DUCKDB") or os.path.join(
+    REPO,"database","business_dynamism_v2_20260824d.duckdb")
 adj=pd.read_csv(os.path.join(HERE,"adjudication_results.csv"), sep="|")
 adj["entry_year"]=pd.to_numeric(adj["entry_year"],errors="coerce")
 akey=adj.set_index(["company_name","entry_year"])
@@ -31,23 +34,43 @@ def coarse(fc):
     if fc=="founding_member": return "founding_member"
     return fc
 
-f=apply_adj(pd.read_csv(os.path.join(HERE,"ftse_entrants_classified.csv")))
-s=apply_adj(pd.read_csv(os.path.join(HERE,"sp500_entrants_classified.csv")))
-# S&P also adjudicated by TICKER (historical names are blank) — apply where still provisional
+# CIK and company_number MUST be read as strings: both are zero-padded
+# identifiers, and pandas would parse "0000773910" as the integer 773910,
+# silently breaking every join against the database's VARCHAR(10) CIK.
+IDSTR={"cik":str,"company_number":str,"id":str}
+f=apply_adj(pd.read_csv(os.path.join(HERE,"ftse_entrants_classified.csv"), dtype=IDSTR))
+s=apply_adj(pd.read_csv(os.path.join(HERE,"sp500_entrants_classified.csv"), dtype=IDSTR))
+# The S&P adjudication file is keyed on TICKER (historical names are blank in the
+# source). Tickers are reused, so the ticker is resolved to a CIK through
+# sp500_identity FIRST and the merge itself is done on CIK — the ticker is a
+# lookup, never a join key. Adjudications whose ticker will not resolve are
+# reported rather than applied on the ticker alone.
 tk=os.path.join(HERE,"adjudication_by_ticker.csv")
 if os.path.exists(tk):
     t=pd.read_csv(tk,sep="|"); t["entry_year"]=pd.to_numeric(t["entry_year"],errors="coerce")
-    tkey=t.set_index(["id" if "id" in t else "ticker"]) if False else t.set_index("ticker")
+    con=duckdb.connect(DB, read_only=True)
+    ident=con.execute(
+        "select symbol, cik from sp500_identity where cik is not null"
+    ).fetchdf(); con.close()
+    t=t.merge(ident, left_on="ticker", right_on="symbol", how="left")
+    unresolved=int(t["cik"].isna().sum())
+    if unresolved:
+        print(f"  {unresolved} of {len(t)} ticker-keyed adjudications have no CIK "
+              f"and were NOT applied: {sorted(t.loc[t['cik'].isna(),'ticker'].astype(str))}")
+    tkey=t.dropna(subset=["cik"]).drop_duplicates("cik").set_index("cik")
     def tlook(r,c):
-        try: return tkey.at[r["id"],c]
-        except: return np.nan
+        try: return tkey.at[r["cik"],c]
+        except Exception: return np.nan
+    applied=0
     for i,r in s.iterrows():
-        if pd.isna(r.get("adjudicated_class")):
+        if pd.isna(r.get("adjudicated_class")) and pd.notna(r.get("cik")):
             ac=tlook(r,"adjudicated_class")
             if pd.notna(ac):
                 s.at[i,"adjudicated_class"]=ac
                 s.at[i,"adjudication_source_url"]=tlook(r,"source_url")
                 s.at[i,"final_class"]=ac
+                applied+=1
+    print(f"  ticker-keyed adjudications applied via CIK: {applied}")
 for df,name in [(f,"ftse_entrants_classified.csv"),(s,"sp500_entrants_classified.csv")]:
     df["coarse_class"]=df["final_class"].map(coarse)
     df.to_csv(os.path.join(HERE,name),index=False)

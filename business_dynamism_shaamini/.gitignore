@@ -11,6 +11,10 @@ database/*.wal
 #    python/fetch_ons_geography.py — ~235 MB zip + boundaries) ──
 source_inputs/ons/
 
+# ── EDGAR submissions cache (rebuildable: python/sp500_edgar_sector_fetch.py
+#    refetches it. The RESULT — sp500_edgar_sector_enrichment.csv — IS committed) ──
+source_inputs/.edgar_cache/
+
 # ── Secrets: the Neon credential lives here, never in git ──
 .env
 

@@ -1,0 +1,392 @@
+code,company_name,sector,basis,first_year,last_year,company_number,match_basis,match_years
+AAF,AIRTEL AFRICA PLC,Communication Services,"GICS-style classification, reconstructed 2026-08-26",2022,2024,11462215,code_unique,2022-2024
+AAL,ANGLO AMERICAN PLC,Materials,"GICS-style classification, reconstructed 2026-08-26",1999,2024,03564138,code_unique,1999-2024
+AB.,Alliance Boots,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",2006,2006,04452715,code_unique,2006-2006
+ABDN,Abrdn,Financials,"GICS-style classification, reconstructed 2026-08-26",2017,2022,16133984,code_unique,2017-2022
+ABF,ASSOCIATED BRITISH FOODS PLC,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1983,2024,00293262,code_unique,1983-2024
+ABG,African Barrick Gold,Materials,"GICS-style classification, reconstructed 2026-08-26",2010,2010,,unresolved_no_composition_record,
+ABL,Abbey Life,Financials,"GICS-style classification, reconstructed 2026-08-26",1985,1985,00710383,code_unique,1985-1985
+ADM,ADMIRAL GROUP PLC,Financials,"GICS-style classification, reconstructed 2026-08-26",2007,2024,03849958,code_unique,2007-2024
+ADN,Aberdeen Asset Management,Financials,"GICS-style classification, reconstructed 2026-08-26",2012,2015,16133984,code_unique,2012-2015
+AGK,Aggreko,Industrials,"GICS-style classification, reconstructed 2026-08-26",2009,2014,SC177553,code_unique,2009-2014
+AHM,Amersham,Health Care,"GICS-style classification, reconstructed 2026-08-26",1997,2003,09406669,code_unique,2001-2003
+AHT,ASHTEAD GROUP PLC,Industrials,"GICS-style classification, reconstructed 2026-08-26",2013,2024,01807982,code_unique,2013-2024
+AL,Alliance & Leicester,Financials,"GICS-style classification, reconstructed 2026-08-26",1997,2007,03263713,code_unique,1997-2007
+ALLD,Allied Domecq,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1994,2004,03771147,code_unique,1994-2004
+ALW,ALLIANCE WITAN PLC,Financials,"GICS-style classification, reconstructed 2026-08-26",2024,2024,SC001731,code_unique,2024-2024
+ALY,Allied-Lyons,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1983,1993,,unresolved_no_composition_record,
+AMEC,Amec,Industrials,"GICS-style classification, reconstructed 2026-08-26",2007,2013,09496208,code_unique,2007-2013
+AML,Amlin,Financials,"GICS-style classification, reconstructed 2026-08-26",2008,2008,,unresolved_no_composition_record,
+AMT,Amstrad,Information Technology,"GICS-style classification, reconstructed 2026-08-26",1986,1988,15698920,code_unique,1986-1988
+ANL,Abbey National,Financials,"GICS-style classification, reconstructed 2026-08-26",1989,2003,02294747,code_unique,1989-2003
+ANTO,ANTOFAGASTA PLC,Materials,"GICS-style classification, reconstructed 2026-08-26",2004,2024,01627889,code_unique,2004-2024
+ANW,Anglian Water,Utilities,"GICS-style classification, reconstructed 2026-08-26",1990,1993,07476767,code_unique,1990-1993
+ARG.L,Argyll Group,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1985,1995,SC544125,code_unique,1985-1995
+ARM,ARM Holdings,Information Technology,"GICS-style classification, reconstructed 2026-08-26",1999,2015,11299879,code_unique,1999-2015
+ASDA,Asda Group Plc,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1983,1998,01396513,code_unique,1983-1998
+ASHM,Ashmore Group,Financials,"GICS-style classification, reconstructed 2026-08-26",2011,2011,03675683,code_unique,2011-2011
+ATST,Alliance Trust,Financials,"GICS-style classification, reconstructed 2026-08-26",2008,2010,SC001731,code_unique,2008-2010
+AU.,Autonomy Corporation,Information Technology,"GICS-style classification, reconstructed 2026-08-26",2000,2010,,unresolved_no_composition_record,
+AUN,Alliance Unichem,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",2002,2005,,unresolved_no_composition_record,
+AUTO,AUTO TRADER GROUP PLC,Communication Services,"GICS-style classification, reconstructed 2026-08-26",2018,2024,09439967,code_unique,2018-2024
+AV.,AVIVA PLC,Financials,"GICS-style classification, reconstructed 2026-08-26",1998,2024,02468686,code_unique,2002-2024
+AVST,Avast,Information Technology,"GICS-style classification, reconstructed 2026-08-26",2020,2021,07118170,code_unique,2020-2021
+AVV,Aveva Group,Information Technology,"GICS-style classification, reconstructed 2026-08-26",2019,2022,02937296,code_unique,2019-2022
+AVZ,Amvescap,Financials,"GICS-style classification, reconstructed 2026-08-26",1997,2006,00308372,code_unique,1997-2006
+AWAP,Arjo Wiggins Appleton plc,Materials,"GICS-style classification, reconstructed 2026-08-26",1990,1994,00961440,code_plus_year_overlap,1991-1994
+AZN,ASTRAZENECA PLC,Health Care,"GICS-style classification, reconstructed 2026-08-26",1999,2024,02723534,code_unique,1999-2024
+AZU,Allied Zurich,Financials,"GICS-style classification, reconstructed 2026-08-26",1998,1999,03525388,code_unique,1998-1999
+BA.,BAE SYSTEMS PLC,Industrials,"GICS-style classification, reconstructed 2026-08-26",1983,2024,01470151,code_unique,1983-2024
+BAA,BAA,Industrials,"GICS-style classification, reconstructed 2026-08-26",1987,2005,05757208,code_unique,1987-2005
+BAB,Babcock International Group,Industrials,"GICS-style classification, reconstructed 2026-08-26",2012,2016,02342138,code_unique,2012-2016
+BARC,BARCLAYS PLC,Financials,"GICS-style classification, reconstructed 2026-08-26",1983,2024,00048839,code_unique,1983-2024
+BASS,Bass,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1983,2000,,unresolved_no_composition_record,
+BATS,BRITISH AMERICAN TOBACCO PLC,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1983,2024,03407696,code_plus_year_overlap,1998-2024
+BAW,Blue Arrow,Industrials,"GICS-style classification, reconstructed 2026-08-26",1987,1987,07767799,code_unique,1987-1987
+BAY,British Airways,Industrials,"GICS-style classification, reconstructed 2026-08-26",1987,2010,01777777,code_unique,1987-2010
+BBY,Bradford & Bingley,Financials,"GICS-style classification, reconstructed 2026-08-26",2002,2006,03938288,code_unique,2002-2006
+BCH,Beecham Group,Health Care,"GICS-style classification, reconstructed 2026-08-26",1983,1988,00227531,code_unique,1983-1988
+BCH.L,British & Commonwealth,Financials,"GICS-style classification, reconstructed 2026-08-26",1983,1988,,unresolved_no_composition_record,
+BCL,Blue Circle Industries,Materials,"GICS-style classification, reconstructed 2026-08-26",1983,2000,,unresolved_no_composition_record,
+BDEV,Barratt Developments,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",1983,2020,15998687,code_unique,1983-2020
+BERI.L,Berisford (S & W),Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1983,1984,02707046,code_unique,1983-1984
+BET,BET,Industrials,"GICS-style classification, reconstructed 2026-08-26",1985,1991,,unresolved_no_composition_record,
+BET.L,British Elect. Traction Co.,Industrials,"GICS-style classification, reconstructed 2026-08-26",1983,1984,,unresolved_no_composition_record,
+BEZ,BEAZLEY PLC,Financials,"GICS-style classification, reconstructed 2026-08-26",2022,2024,09763575,code_unique,2022-2024
+BG.,BG Group,Energy,"GICS-style classification, reconstructed 2026-08-26",2001,2015,03690065,code_unique,2001-2015
+BGAS,British Gas,Utilities,"GICS-style classification, reconstructed 2026-08-26",1986,1996,08811254,code_unique,1986-1996
+BGY,British Energy Group,Utilities,"GICS-style classification, reconstructed 2026-08-26",1997,2008,SC270184,code_unique,1997-2008
+BHP,BHP Group Plc,Materials,"GICS-style classification, reconstructed 2026-08-26",2001,2021,03196209,code_unique,2018-2021
+BHS,British Home Stores,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",1983,1985,,unresolved_no_composition_record,
+BI.,Brambles Industries,Industrials,"GICS-style classification, reconstructed 2026-08-26",2001,2005,,unresolved_no_composition_record,
+BICC,BICC,Industrials,"GICS-style classification, reconstructed 2026-08-26",1983,1991,16237399,code_unique,1983-1991
+BKG,BERKELEY GROUP HOLDINGS (THE) PLC,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",2015,2024,05172586,code_unique,2015-2024
+BLND,British Land Co,Real Estate,"GICS-style classification, reconstructed 2026-08-26",1997,2024,00621920,code_unique,1997-2024
+BLT,Billiton,Materials,"GICS-style classification, reconstructed 2026-08-26",1997,2000,,unresolved_no_composition_record,
+BME,B&M European Value Retail,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",2021,2023,,unresolved_no_composition_record,
+BMEB,B&M European Value Retail,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",2020,2020,,unresolved_no_composition_record,
+BNZL,BUNZL PLC,Industrials,"GICS-style classification, reconstructed 2026-08-26",1986,2024,00358948,code_unique,1986-2024
+BOC,BOC,Materials,"GICS-style classification, reconstructed 2026-08-26",1983,2005,00337663,code_unique,1983-2005
+BOOT,Boots Group PLC,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1983,2005,,unresolved_no_composition_record,
+BOS,Bank of Scotland,Financials,"GICS-style classification, reconstructed 2026-08-26",1985,2000,SC327000,code_unique,1985-2000
+BP.,BP PLC,Energy,"GICS-style classification, reconstructed 2026-08-26",1983,2024,00102498,code_unique,1983-2024
+BPB,BPB Industries,Materials,"GICS-style classification, reconstructed 2026-08-26",1983,1990,00147271,code_unique,1983-1990
+BPC,British Printing & Communications Corp,Communication Services,"GICS-style classification, reconstructed 2026-08-26",1986,1986,,unresolved_no_composition_record,
+BRBY,Burberry Group,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",2009,2023,03458224,code_unique,2009-2023
+BRIT,Britoil,Energy,"GICS-style classification, reconstructed 2026-08-26",1983,1987,SC077750,code_unique,1983-1987
+BST,British Steel,Materials,"GICS-style classification, reconstructed 2026-08-26",1988,1997,12303256,code_unique,1988-1997
+BSY,British Sky Broadcasting Group,Communication Services,"GICS-style classification, reconstructed 2026-08-26",1995,2013,02247735,code_unique,1995-2013
+BT-A,BT GROUP PLC,Communication Services,"GICS-style classification, reconstructed 2026-08-26",2021,2024,04190816,code_unique,2021-2024
+BT.A,BT GROUP PLC,Communication Services,"GICS-style classification, reconstructed 2026-08-26",1984,2020,04190816,code_plus_year_overlap,1997-2020
+BTR,BTR,Industrials,"GICS-style classification, reconstructed 2026-08-26",1983,1998,,unresolved_no_composition_record,
+BTRW,BARRATT REDROW PLC,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",2021,2024,15998687,code_plus_year_overlap,2021-2023
+BUR,Burmah Castrol,Energy,"GICS-style classification, reconstructed 2026-08-26",1983,1996,06208775,code_unique,1986-1989
+BWTR,Bowater,Materials,"GICS-style classification, reconstructed 2026-08-26",1983,1994,09876996,code_unique,1992-1994
+CBRY,Cadbury Plc,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1983,2009,06497379,code_unique,2008-2009
+CCH,COCA-COLA HBC AG,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",2013,2024,,unresolved_no_composition_record,
+CCL,Carnival,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",2003,2019,14072248,code_unique,2003-2019
+CCM,Carlton Communication,Communication Services,"GICS-style classification, reconstructed 2026-08-26",1989,2000,00348312,code_unique,1989-2000
+CGFD,Consolidated Gold Fields,Materials,"GICS-style classification, reconstructed 2026-08-26",1983,1988,,unresolved_no_composition_record,
+CJR,CHARTERHOUSE J. ROTHSCHILD PLC,Financials,"GICS-style classification, reconstructed 2026-08-26",1984,1984,,unresolved_no_composition_record,
+CKSN,Cookson Group plc,Industrials,"GICS-style classification, reconstructed 2026-08-26",1986,1995,16793203,code_unique,1986-1995
+CMCS,Capital Shopping Centres Group,Real Estate,"GICS-style classification, reconstructed 2026-08-26",2010,2012,,unresolved_no_composition_record,
+CMG,CMG,Information Technology,"GICS-style classification, reconstructed 2026-08-26",1999,2000,00930965,code_unique,1999-2000
+CNA,CENTRICA PLC,Utilities,"GICS-style classification, reconstructed 2026-08-26",1997,2024,03033654,code_unique,1997-2024
+CNE,Cairn Energy,Energy,"GICS-style classification, reconstructed 2026-08-26",2004,2011,SC787001,code_unique,2004-2011
+COA,Coats Viyella,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",1986,1993,,unresolved_no_composition_record,
+COB,Cobham,Industrials,"GICS-style classification, reconstructed 2026-08-26",2008,2009,00030470,code_unique,2008-2009
+COLT,Colt Telecom Group,Communication Services,"GICS-style classification, reconstructed 2026-08-26",1998,2000,,unresolved_no_composition_record,
+CORU,Corus Group,Materials,"GICS-style classification, reconstructed 2026-08-26",1999,2006,03811373,code_unique,1999-2006
+CPG,COMPASS GROUP PLC,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",1998,2024,04083914,code_unique,1998-2024
+CPI,Capita Group,Industrials,"GICS-style classification, reconstructed 2026-08-26",2000,2016,02081330,code_unique,2000-2016
+CPW,Carphone Warehouse Group,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",2007,2007,06534088,code_unique,2007-2007
+CRDA,CRODA INTERNATIONAL PLC,Materials,"GICS-style classification, reconstructed 2026-08-26",2012,2024,00206132,code_unique,2012-2024
+CRDN.L,MB-Caradon,Industrials,"GICS-style classification, reconstructed 2026-08-26",1992,1992,,unresolved_no_composition_record,
+CRH,CRH,Materials,"GICS-style classification, reconstructed 2026-08-26",2011,2022,,unresolved_no_composition_record,
+CRN,Caradon,Industrials,"GICS-style classification, reconstructed 2026-08-26",1993,1994,12966997,code_unique,1993-1994
+CTE,Celltech Group,Health Care,"GICS-style classification, reconstructed 2026-08-26",2000,2001,02159282,code_unique,2000-2001
+CTEC,CONVATEC GROUP PLC,Health Care,"GICS-style classification, reconstructed 2026-08-26",2016,2024,10361298,code_unique,2016-2024
+CTLD,Coutaulds,Materials,"GICS-style classification, reconstructed 2026-08-26",1983,1995,SC003388,code_unique,1983-1995
+CU.L,Commercial Union Assurance,Financials,"GICS-style classification, reconstructed 2026-08-26",1983,1997,,unresolved_no_composition_record,
+CURY,Dixons Carphone,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",2014,2016,,unresolved_no_composition_record,
+CW.,Cable and Wireless,Communication Services,"GICS-style classification, reconstructed 2026-08-26",1983,2009,00238525,code_unique,1983-2009
+CWG,Canary Wharf Group,Real Estate,"GICS-style classification, reconstructed 2026-08-26",2000,2002,04191122,code_unique,2000-2002
+DCC,DCC PLC,Industrials,"GICS-style classification, reconstructed 2026-08-26",2015,2024,04709270,code_unique,2015-2024
+DDT,Dimension Data Holdings,Information Technology,"GICS-style classification, reconstructed 2026-08-26",2000,2000,03704278,code_unique,2000-2000
+DEE,Dee Corporation,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1985,1988,,unresolved_no_composition_record,
+DGE,DIAGEO PLC,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1997,2024,00023307,code_unique,1997-2024
+DIST,Distillers Company,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1983,1985,,unresolved_no_composition_record,
+DLAR,De La Rue plc,Industrials,"GICS-style classification, reconstructed 2026-08-26",1992,1994,03834125,code_unique,1992-1994
+DLG,Direct Line Insurance Group,Financials,"GICS-style classification, reconstructed 2026-08-26",1983,2018,10274117,code_plus_year_overlap,1983-1990
+DMGT,Daily Mail & General Trust,Communication Services,"GICS-style classification, reconstructed 2026-08-26",1999,2005,00184594,code_unique,1999-2005
+DPH,Dechra Pharmaceuticals,Health Care,"GICS-style classification, reconstructed 2026-08-26",2021,2023,03369634,code_unique,2021-2023
+DPLM,DIPLOMA PLC,Industrials,"GICS-style classification, reconstructed 2026-08-26",2023,2024,03899848,code_unique,2023-2024
+DRX,Drax Group,Utilities,"GICS-style classification, reconstructed 2026-08-26",2006,2008,05562053,code_unique,2006-2008
+DSG,Dixons Group,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",1985,2004,12620781,code_unique,1985-2004
+DSGI,DSG International,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",2005,2006,,unresolved_no_composition_record,
+DWTY,Dowty Group,Industrials,"GICS-style classification, reconstructed 2026-08-26",1984,1984,,unresolved_no_composition_record,
+ECC,English China Clays,Materials,"GICS-style classification, reconstructed 2026-08-26",1983,1992,00154236,code_unique,1983-1992
+ECM,Electrocomponents,Industrials,"GICS-style classification, reconstructed 2026-08-26",2000,2001,,unresolved_no_composition_record,
+EDIN,Edinburgh Investment Trust,Financials,"GICS-style classification, reconstructed 2026-08-26",1983,1983,SC034993,code_unique,1983-1983
+EDV,ENDEAVOUR MINING PLC,Materials,"GICS-style classification, reconstructed 2026-08-26",2022,2024,13280545,code_unique,2022-2024
+ELY,Eastern Electricity,Utilities,"GICS-style classification, reconstructed 2026-08-26",1993,1994,,unresolved_no_composition_record,
+EMA,Emap,Communication Services,"GICS-style classification, reconstructed 2026-08-26",2002,2004,14696069,code_unique,2002-2004
+EMG,Man Group,Financials,"GICS-style classification, reconstructed 2026-08-26",2001,2011,,unresolved_no_composition_record,
+EMI,EMI Group,Communication Services,"GICS-style classification, reconstructed 2026-08-26",1983,2001,03158105,code_plus_year_overlap,1983-1995
+ENG,Energis,Communication Services,"GICS-style classification, reconstructed 2026-08-26",1999,2000,03438871,code_unique,1999-2000
+ENRC,Eurasian Natural Resources Corporation,Materials,"GICS-style classification, reconstructed 2026-08-26",2008,2012,06023510,code_unique,2008-2012
+ENT,ENTAIN PLC,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",2018,2024,FC037925,code_unique,2018-2024
+ESSR,Essar Energy,Energy,"GICS-style classification, reconstructed 2026-08-26",2010,2011,07108619,code_unique,2010-2011
+EST,Eagle Star,Financials,"GICS-style classification, reconstructed 2026-08-26",1983,1983,,unresolved_no_composition_record,
+ETI,Enterprise Inns,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",2004,2007,10517727,code_unique,2004-2007
+ETLN,Eurotunnel,Industrials,"GICS-style classification, reconstructed 2026-08-26",1991,1991,03583610,code_unique,1991-1991
+ETP,Enterprise Oil,Energy,"GICS-style classification, reconstructed 2026-08-26",1984,2001,01682048,code_unique,1984-2001
+EVR,Evraz,Materials,"GICS-style classification, reconstructed 2026-08-26",2011,2021,07784342,code_unique,2011-2021
+EXCO,Exco International,Financials,"GICS-style classification, reconstructed 2026-08-26",1983,1985,,unresolved_no_composition_record,
+EXL,Exel,Industrials,"GICS-style classification, reconstructed 2026-08-26",2000,2004,00073975,code_unique,2000-2004
+EXPN,EXPERIAN PLC,Industrials,"GICS-style classification, reconstructed 2026-08-26",2006,2024,03720393,code_unique,2006-2024
+EZJ,EASYJET PLC,Industrials,"GICS-style classification, reconstructed 2026-08-26",2013,2024,03959649,code_unique,2013-2024
+FCIT,F&C INVESTMENT TRUST PLC,Financials,"GICS-style classification, reconstructed 2026-08-26",1995,2024,00012901,code_unique,1995-2024
+FER,Ferranti International,Industrials,"GICS-style classification, reconstructed 2026-08-26",1983,1985,,unresolved_no_composition_record,
+FERG,Ferguson,Industrials,"GICS-style classification, reconstructed 2026-08-26",2017,2021,SC246627,code_unique,2017-2021
+FGP,First Group,Industrials,"GICS-style classification, reconstructed 2026-08-26",2007,2008,,unresolved_no_composition_record,
+FISO,Fisons,Health Care,"GICS-style classification, reconstructed 2026-08-26",1983,1992,00044687,code_unique,1983-1992
+FLG,Friends Life Group Limited,Financials,"GICS-style classification, reconstructed 2026-08-26",2014,2014,,unresolved_no_composition_record,
+FLTR,Flutter Entertainment,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",2019,2023,,unresolved_no_composition_record,
+FOR,Forte plc,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",1983,1995,,unresolved_no_composition_record,
+FP.,Friends Provident,Financials,"GICS-style classification, reconstructed 2026-08-26",2001,2007,,unresolved_no_composition_record,
+FRAS,Frasers Group,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",2013,2023,11775757,code_plus_year_overlap,2013-2015
+FRES,FRESNILLO PLC,Materials,"GICS-style classification, reconstructed 2026-08-26",2009,2024,06344120,code_unique,2009-2024
+GAA,Granada,Communication Services,"GICS-style classification, reconstructed 2026-08-26",1984,2003,00290076,code_plus_year_overlap,1984-1999
+GAC,General Accident,Financials,"GICS-style classification, reconstructed 2026-08-26",1983,1997,SC119505,code_unique,1990-1997
+GAW,GAMES WORKSHOP GROUP PLC,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",2024,2024,02670969,code_unique,2024-2024
+GBT,Globe Investment Trust,Financials,"GICS-style classification, reconstructed 2026-08-26",1983,1987,,unresolved_no_composition_record,
+GEC,General Electric Company,Industrials,"GICS-style classification, reconstructed 2026-08-26",1983,1998,12657712,code_unique,1983-1998
+GFS,G4S,Industrials,"GICS-style classification, reconstructed 2026-08-26",2007,2017,04992207,code_unique,2007-2017
+GKN,GKN,Industrials,"GICS-style classification, reconstructed 2026-08-26",1983,2017,04191106,code_unique,1986-2017
+GLEN,GLENCORE PLC,Materials,"GICS-style classification, reconstructed 2026-08-26",2011,2024,,unresolved_no_composition_record,
+GLH,Gallaher Group,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1998,2006,03299793,code_unique,1998-2006
+GLXO,Glaxo Wellcome,Health Care,"GICS-style classification, reconstructed 2026-08-26",1983,1999,00480080,code_unique,1995-1999
+GMT,Grand Metropolitan,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1983,1996,00291848,code_unique,1983-1996
+GNS,Guinness,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1985,1996,00510607,code_unique,1985-1996
+GRE,Guardian Royal Exchange Plc,Financials,"GICS-style classification, reconstructed 2026-08-26",1983,1998,,unresolved_no_composition_record,
+GSK,GSK PLC,Health Care,"GICS-style classification, reconstructed 2026-08-26",2000,2024,03888792,code_unique,2000-2024
+GUS,GUS,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",1983,2005,,unresolved_no_composition_record,
+HARC,Harrisons & Crosfield,Materials,"GICS-style classification, reconstructed 2026-08-26",1983,1990,05998739,code_unique,1983-1990
+HAS,Hays,Industrials,"GICS-style classification, reconstructed 2026-08-26",1996,2004,02150950,code_unique,1996-2004
+HAWK,Hawker Siddeley Group,Industrials,"GICS-style classification, reconstructed 2026-08-26",1983,1990,00068237,code_unique,1983-1990
+HBL.L,Allied Hambro,Financials,"GICS-style classification, reconstructed 2026-08-26",1983,1984,,unresolved_no_composition_record,
+HBOS,HBOS,Financials,"GICS-style classification, reconstructed 2026-08-26",1997,2008,SC218813,code_unique,2001-2008
+HIK,HIKMA PHARMACEUTICALS PLC,Health Care,"GICS-style classification, reconstructed 2026-08-26",2015,2024,,unresolved_no_composition_record,
+HILL,Hillsdown Holdings,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1987,1991,11408139,code_unique,1987-1991
+HL.,Hargreaves Lansdown,Financials,"GICS-style classification, reconstructed 2026-08-26",2011,2024,02122142,code_unique,2011-2024
+HLMA,HALMA PLC,Information Technology,"GICS-style classification, reconstructed 2026-08-26",2017,2024,00040932,code_unique,2017-2024
+HLN,HALEON PLC,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",2022,2024,13691224,code_unique,2022-2024
+HMSO,Hammerson Property,Real Estate,"GICS-style classification, reconstructed 2026-08-26",1983,2017,00360632,code_unique,2005-2017
+HNS,Hanson,Materials,"GICS-style classification, reconstructed 2026-08-26",1983,2006,00110768,code_unique,1983-1985
+HOF,House of Fraser,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",1983,1984,10686681,code_unique,1983-1984
+HOME,Home Retail Group,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",1995,2009,05863533,code_plus_year_overlap,2006-2009
+HSBA,HSBC HLDGS PLC,Financials,"GICS-style classification, reconstructed 2026-08-26",1992,2024,00617987,code_unique,1992-2024
+HSV,Homeserve,Industrials,"GICS-style classification, reconstructed 2026-08-26",2022,2022,02648297,code_unique,2022-2022
+HSX,HISCOX LD,Financials,"GICS-style classification, reconstructed 2026-08-26",2018,2024,02837811,code_unique,2018-2024
+HWDN,HOWDEN JOINERY GROUP PLC,Industrials,"GICS-style classification, reconstructed 2026-08-26",2023,2024,02128710,code_unique,2023-2024
+IAG,INTL CONSOLIDATED AIRLINES GROUP SA,Industrials,"GICS-style classification, reconstructed 2026-08-26",2011,2024,FC029884,code_unique,2011-2024
+IAP,ICAP,Financials,"GICS-style classification, reconstructed 2026-08-26",2006,2011,,unresolved_no_composition_record,
+ICG,INTERMEDIATE CAPITAL GROUP PLC,Financials,"GICS-style classification, reconstructed 2026-08-26",2020,2024,14840880,code_unique,2020-2024
+ICGS,Imperial Continental Gas Ass.,Utilities,"GICS-style classification, reconstructed 2026-08-26",1983,1984,,unresolved_no_composition_record,
+ICI,Imperial Chemical Industries,Materials,"GICS-style classification, reconstructed 2026-08-26",1983,2006,00218019,code_unique,1983-2006
+IHG,INTERCONTINENTAL HOTELS GROUP PLC,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",2003,2024,05134420,code_unique,2003-2024
+III,3I GROUP PLC,Financials,"GICS-style classification, reconstructed 2026-08-26",1994,2024,01142830,code_unique,1994-2024
+IMB,IMPERIAL BRANDS PLC,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",2016,2024,00511276,code_unique,2016-2024
+IMI,IMI PLC,Industrials,"GICS-style classification, reconstructed 2026-08-26",2010,2024,00714275,code_unique,2010-2024
+IMT,Imperial Tobacco Group,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1983,2015,00073800,code_plus_year_overlap,1996-2015
+INCH,Inchcape plc,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",1991,1994,00609782,code_unique,1991-1994
+INF,INFORMA PLC,Communication Services,"GICS-style classification, reconstructed 2026-08-26",2016,2024,08860726,code_unique,2016-2024
+INTU,Intu Properties,Real Estate,"GICS-style classification, reconstructed 2026-08-26",2014,2016,03685527,code_unique,2014-2016
+INVP,Investec,Financials,"GICS-style classification, reconstructed 2026-08-26",2010,2010,03633621,code_unique,2010-2010
+IOG,Innogy Hldgs,Utilities,"GICS-style classification, reconstructed 2026-08-26",2001,2001,,unresolved_no_composition_record,
+IPR,International Power,Utilities,"GICS-style classification, reconstructed 2026-08-26",2000,2011,05186841,code_unique,2000-2011
+ISAT,Inmarsat,Communication Services,"GICS-style classification, reconstructed 2026-08-26",2008,2015,04886115,code_unique,2008-2015
+ISYS,Invensys,Industrials,"GICS-style classification, reconstructed 2026-08-26",1999,2010,00166023,code_unique,1999-2010
+ITRK,INTERTEK GROUP PLC,Industrials,"GICS-style classification, reconstructed 2026-08-26",2009,2024,04267576,code_unique,2009-2024
+ITV,ITV,Communication Services,"GICS-style classification, reconstructed 2026-08-26",2004,2021,04967001,code_unique,2004-2021
+JAG,Jaguar,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",1985,1987,15049410,code_unique,1985-1987
+JD.,JD SPORTS FASHION PLC,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",2019,2024,01888425,code_unique,2019-2024
+JE.,Just Eat,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",2017,2019,06947854,code_unique,2017-2019
+JET,Just Eat Takeaway.com,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",2020,2020,06947854,code_unique,2020-2020
+JMAT,Johnson Matthey,Materials,"GICS-style classification, reconstructed 2026-08-26",1983,2020,00033774,code_unique,1983-2020
+JRH,J. ROTHSCHILD HOLDINGS PLC,Financials,"GICS-style classification, reconstructed 2026-08-26",1985,1985,,unresolved_no_composition_record,
+KAZ,Kazakhmys,Materials,"GICS-style classification, reconstructed 2026-08-26",2005,2012,09132358,code_unique,2005-2012
+KEL,Kelda Group,Utilities,"GICS-style classification, reconstructed 2026-08-26",2005,2007,02366627,code_unique,2005-2007
+KGF,KINGFISHER PLC,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",1989,2024,01664812,code_unique,1989-2024
+KWIK.L,Kwik Save Group,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1992,1992,,unresolved_no_composition_record,
+LAD,Hilton Group,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",1983,2005,,unresolved_no_composition_record,
+LAND,LAND SECURITIES GROUP PLC,Real Estate,"GICS-style classification, reconstructed 2026-08-26",1983,2024,04369054,code_plus_year_overlap,2002-2024
+LGEN,LEGAL & GENERAL GROUP PLC,Financials,"GICS-style classification, reconstructed 2026-08-26",1983,2024,01417162,code_unique,1983-2024
+LII,Liberty International,Real Estate,"GICS-style classification, reconstructed 2026-08-26",2002,2009,14236527,code_unique,2002-2009
+LLOY,LLOYDS BANKING GROUP PLC,Financials,"GICS-style classification, reconstructed 2026-08-26",1983,2024,SC095000,code_unique,1983-2024
+LMI,Lonmin,Materials,"GICS-style classification, reconstructed 2026-08-26",2006,2010,,unresolved_no_composition_record,
+LMP,LONDONMETRIC PROPERTY PLC,Real Estate,"GICS-style classification, reconstructed 2026-08-26",2024,2024,07124797,code_unique,2024-2024
+LOG,Logica,Information Technology,"GICS-style classification, reconstructed 2026-08-26",1999,2001,01631639,code_unique,1999-2001
+LONR,Lonrho,Industrials,"GICS-style classification, reconstructed 2026-08-26",1984,1991,02805337,code_unique,1984-1991
+LSEG,LONDON STOCK EXCHANGE GROUP PLC,Financials,"GICS-style classification, reconstructed 2026-08-26",2007,2024,05369106,code_unique,2007-2024
+LSO,London and Scottish Marine Oil,Energy,"GICS-style classification, reconstructed 2026-08-26",1988,1997,01008965,code_unique,1988-1997
+LUCS,Lucus Industries,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",1986,1991,,unresolved_no_composition_record,
+LVA,LucasVarity,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",1996,1998,03207774,code_unique,1996-1998
+MAG,Magnet & Southerns,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",1983,1983,02953047,code_unique,1983-1983
+MAM,Mercury Asset Management,Financials,"GICS-style classification, reconstructed 2026-08-26",1996,1996,,unresolved_no_composition_record,
+MAX,Maxwell Communications,Communication Services,"GICS-style classification, reconstructed 2026-08-26",1987,1990,,unresolved_no_composition_record,
+MCRO,Micro Focus International,Information Technology,"GICS-style classification, reconstructed 2026-08-26",2016,2018,05134647,code_unique,2016-2018
+MDC,Mediclinic International,Health Care,"GICS-style classification, reconstructed 2026-08-26",2016,2017,08338604,code_unique,2016-2017
+MEPC,MEPC,Real Estate,"GICS-style classification, reconstructed 2026-08-26",1983,1994,05514581,code_unique,1983-1994
+MERL,Merlin Entertainments,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",2015,2016,08700412,code_unique,2015-2016
+MFI,MFI Furniture Group,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",1983,1983,,unresolved_no_composition_record,
+MGGT,Meggitt,Industrials,"GICS-style classification, reconstructed 2026-08-26",2011,2021,00432989,code_unique,2011-2021
+MID,Midland Bank,Financials,"GICS-style classification, reconstructed 2026-08-26",1983,1991,,unresolved_no_composition_record,
+MKS,MARKS & SPENCER GROUP PLC,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1983,2024,04256886,code_plus_year_overlap,2002-2024
+MNDI,MONDI PLC,Materials,"GICS-style classification, reconstructed 2026-08-26",2013,2024,06209386,code_unique,2013-2024
+MNG,M&G PLC,Financials,"GICS-style classification, reconstructed 2026-08-26",2019,2024,11444019,code_unique,2019-2024
+MONI,Marconi,Information Technology,"GICS-style classification, reconstructed 2026-08-26",1999,2000,SC639139,code_unique,1999-2000
+MRO,MELROSE INDUSTRIES PLC,Industrials,"GICS-style classification, reconstructed 2026-08-26",2012,2024,09800044,code_unique,2012-2024
+MRW,Morrison Supermarkets,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",2001,2020,00358949,code_unique,2001-2020
+MSY,Misys,Information Technology,"GICS-style classification, reconstructed 2026-08-26",1999,2000,,unresolved_no_composition_record,
+NFC,NFC,Industrials,"GICS-style classification, reconstructed 2026-08-26",1991,1992,16271657,code_unique,1991-1992
+NFDS,Northern Foods,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1983,1992,00471864,code_unique,1983-1992
+NG.,NATIONAL GRID PLC,Utilities,"GICS-style classification, reconstructed 2026-08-26",1995,2024,04031152,code_unique,1995-2024
+NGG,Lattice Group,Utilities,"GICS-style classification, reconstructed 2026-08-26",2000,2001,03900804,code_unique,2000-2001
+NMC,NMC Health,Health Care,"GICS-style classification, reconstructed 2026-08-26",2017,2019,07712220,code_unique,2017-2019
+NPR,National Power,Utilities,"GICS-style classification, reconstructed 2026-08-26",1991,1999,12818602,code_unique,1991-1999
+NRK,Northern Rock,Financials,"GICS-style classification, reconstructed 2026-08-26",2001,2006,16351760,code_unique,2001-2006
+NU.,Norwich Union Plc,Financials,"GICS-style classification, reconstructed 2026-08-26",1997,1999,02468686,code_unique,1997-1999
+NWG,NATWEST GROUP PLC,Financials,"GICS-style classification, reconstructed 2026-08-26",1983,2024,SC045551,code_plus_year_overlap,1983-2024
+NXT,NEXT PLC,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",1987,2024,00035161,code_unique,1987-2024
+OCDO,Ocado Group,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",2018,2023,07098618,code_unique,2018-2023
+OML,Old Mutual,Financials,"GICS-style classification, reconstructed 2026-08-26",1999,2017,,unresolved_no_composition_record,
+OOM,O2,Communication Services,"GICS-style classification, reconstructed 2026-08-26",2001,2005,04190833,code_unique,2001-2005
+ORA,Orange Plc,Communication Services,"GICS-style classification, reconstructed 2026-08-26",1996,1998,12670975,code_unique,1996-1998
+PFC,Petrofac,Energy,"GICS-style classification, reconstructed 2026-08-26",2009,2013,16051356,code_unique,2009-2013
+PFG,Provident Financial,Financials,"GICS-style classification, reconstructed 2026-08-26",2015,2016,,unresolved_no_composition_record,
+PHNX,PHOENIX GROUP HOLDINGS PLC,Financials,"GICS-style classification, reconstructed 2026-08-26",2019,2024,10691596,code_unique,2019-2024
+PILK,Pilkington,Industrials,"GICS-style classification, reconstructed 2026-08-26",1983,1995,00041495,code_unique,1983-1995
+PNN,Pennon Group,Utilities,"GICS-style classification, reconstructed 2026-08-26",2020,2020,02366640,code_unique,2020-2020
+PNO,P&O,Industrials,"GICS-style classification, reconstructed 2026-08-26",1983,2005,03902746,code_plus_year_overlap,2001-2002
+POLY,Polymetal International,Materials,"GICS-style classification, reconstructed 2026-08-26",2011,2021,,unresolved_no_composition_record,
+PPB,Paddy Power Betfair,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",2016,2018,,unresolved_no_composition_record,
+PPI,Polly Peck International,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1989,1989,,unresolved_no_composition_record,
+PRTY,Partygaming,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",2005,2005,,unresolved_no_composition_record,
+PRU,PRUDENTIAL PLC,Financials,"GICS-style classification, reconstructed 2026-08-26",1983,2024,01397169,code_unique,1983-2024
+PSH,PERSHING SQUARE HOLDINGS LTD,Financials,"GICS-style classification, reconstructed 2026-08-26",2020,2024,,unresolved_no_composition_record,
+PSN,PERSIMMON PLC,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",2005,2024,05525338,code_unique,2005-2024
+PSON,PEARSON PLC,Communication Services,"GICS-style classification, reconstructed 2026-08-26",1983,2024,00053723,code_unique,1983-2024
+PSY,Plessey Co,Information Technology,"GICS-style classification, reconstructed 2026-08-26",1983,1988,,unresolved_no_composition_record,
+PWG,Powergen,Utilities,"GICS-style classification, reconstructed 2026-08-26",1991,2001,03586615,code_unique,1991-2001
+RAL,Racal Electronics,Industrials,"GICS-style classification, reconstructed 2026-08-26",1983,1990,09220362,code_unique,1983-1990
+RED,Redland,Materials,"GICS-style classification, reconstructed 2026-08-26",1983,1996,00137294,code_unique,1983-1996
+REL,RELX PLC,Industrials,"GICS-style classification, reconstructed 2026-08-26",1983,2024,00077536,code_unique,1983-2024
+RELX,RELX PLC,Industrials,"GICS-style classification, reconstructed 2026-08-26",2015,2020,00077536,code_unique,2015-2020
+RES,Resolution Limited,Financials,"GICS-style classification, reconstructed 2026-08-26",2008,2013,06722436,code_unique,2008-2013
+REX,Rexam,Materials,"GICS-style classification, reconstructed 2026-08-26",1995,2013,00191285,code_unique,1995-2013
+RHM,Ranks Hovis McDougall,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1986,1990,,unresolved_no_composition_record,
+RINS,Royal Insurance,Financials,"GICS-style classification, reconstructed 2026-08-26",1983,1995,01516396,code_unique,1983-1995
+RIO,RIO TINTO PLC,Materials,"GICS-style classification, reconstructed 2026-08-26",1987,2024,00719885,code_unique,1987-2024
+RKT,RECKITT BENCKISER GROUP PLC,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1983,2024,06270876,code_unique,1983-2024
+RMC,RMC Group,Materials,"GICS-style classification, reconstructed 2026-08-26",1983,1996,09909380,code_unique,1983-1996
+RMG,Royal Mail,Industrials,"GICS-style classification, reconstructed 2026-08-26",2013,2021,14240638,code_unique,2013-2021
+RMV,RIGHTMOVE PLC,Communication Services,"GICS-style classification, reconstructed 2026-08-26",2018,2024,06426485,code_unique,2018-2024
+RNK,The Rank Group,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",1983,1997,03140769,code_unique,1996-1997
+ROW,Rowntree Mackintosh PLC,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1983,1987,,unresolved_no_composition_record,
+RR,ROLLS ROYCE HOLDINGS PLC,Industrials,"GICS-style classification, reconstructed 2026-08-26",1987,2002,01003142,code_unique,1987-2002
+RR.,ROLLS-ROYCE HOLDINGS PLC,Industrials,"GICS-style classification, reconstructed 2026-08-26",2003,2024,01003142,code_unique,2003-2024
+RRS,Randgold Resources,Materials,"GICS-style classification, reconstructed 2026-08-26",2008,2017,,unresolved_no_composition_record,
+RS1,RS Group,Industrials,"GICS-style classification, reconstructed 2026-08-26",2021,2023,00647788,code_unique,2022-2023
+RSA,RSA Insurance Group,Financials,"GICS-style classification, reconstructed 2026-08-26",1983,2020,02339826,code_plus_year_overlap,2008-2020
+RSL,Resolution Plc,Financials,"GICS-style classification, reconstructed 2026-08-26",2006,2007,,unresolved_no_composition_record,
+RTK,Railtrack Group,Industrials,"GICS-style classification, reconstructed 2026-08-26",1996,2000,16791102,code_unique,1996-2000
+RTM,Rothmans International,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1987,1992,03045251,code_unique,1987-1992
+RTO,RENTOKIL INITIAL PLC,Industrials,"GICS-style classification, reconstructed 2026-08-26",1991,2024,05393279,code_plus_year_overlap,2007-2024
+RTR,Reuters,Communication Services,"GICS-style classification, reconstructed 2026-08-26",1984,2007,03477402,code_unique,1984-2007
+RTZ,Rio Tinto-Zinc Corporation,Materials,"GICS-style classification, reconstructed 2026-08-26",1983,1986,00719885,code_unique,1983-1986
+SAA,Saatchi & Saatchi,Communication Services,"GICS-style classification, reconstructed 2026-08-26",1986,1986,00231824,code_unique,1986-1986
+SAB,SABMiller,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1999,2015,,unresolved_no_composition_record,
+SB.,SmithKline Beecham,Health Care,"GICS-style classification, reconstructed 2026-08-26",1989,1999,02337959,code_unique,1989-1999
+SBE,Siebe,Industrials,"GICS-style classification, reconstructed 2026-08-26",1989,1998,,unresolved_no_composition_record,
+SBRY,SAINSBURY(J) PLC,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1983,2024,00185647,code_unique,1983-2024
+SCR,Securicor Plc,Industrials,"GICS-style classification, reconstructed 2026-08-26",1998,1998,00057379,code_unique,1998-1998
+SDR,SCHRODERS PLC,Financials,"GICS-style classification, reconstructed 2026-08-26",1993,2024,03909886,code_unique,1993-2024
+SED,Sedgwick Group,Financials,"GICS-style classification, reconstructed 2026-08-26",1983,1987,,unresolved_no_composition_record,
+SEMA,Sema Group,Information Technology,"GICS-style classification, reconstructed 2026-08-26",1999,1999,16640835,code_unique,1999-1999
+SFW,Safeway,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1996,2003,01299733,code_unique,1996-2003
+SGC,Stagecoach Holdings,Industrials,"GICS-style classification, reconstructed 2026-08-26",1998,1998,SC212093,code_unique,1998-1998
+SGE,THE SAGE GROUP PLC,Information Technology,"GICS-style classification, reconstructed 2026-08-26",1999,2024,02231246,code_unique,1999-2024
+SGRO,SEGRO PLC,Real Estate,"GICS-style classification, reconstructed 2026-08-26",2009,2024,13246881,code_unique,2009-2024
+SHEL,SHELL PLC,Energy,"GICS-style classification, reconstructed 2026-08-26",1983,2024,00054485,code_unique,1983-2024
+SHP,Shire,Health Care,"GICS-style classification, reconstructed 2026-08-26",2000,2017,,unresolved_no_composition_record,
+SIX,Six Continents Hotel Group,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",2001,2002,,unresolved_no_composition_record,
+SKG,Smufit Kappa Group,Materials,"GICS-style classification, reconstructed 2026-08-26",2016,2023,,unresolved_no_composition_record,
+SKY,Sky,Communication Services,"GICS-style classification, reconstructed 2026-08-26",2014,2017,02247735,code_unique,2014-2017
+SL.,Standard Life,Financials,"GICS-style classification, reconstructed 2026-08-26",2006,2016,11606773,code_unique,2006-2016
+SLOU,Slough Estates,Real Estate,"GICS-style classification, reconstructed 2026-08-26",2006,2006,08577185,code_unique,2006-2006
+SLP,Sun Life & Provincial Holdings,Financials,"GICS-style classification, reconstructed 2026-08-26",1983,1999,00776273,code_unique,1983-1985
+SMDS,Smith (DS),Materials,"GICS-style classification, reconstructed 2026-08-26",2017,2024,01377658,code_unique,2017-2024
+SMIN,SMITHS GROUP PLC,Industrials,"GICS-style classification, reconstructed 2026-08-26",1985,2024,00137013,code_unique,1985-2024
+SMT,SCOTTISH MORTGAGE INV TST PLC,Financials,"GICS-style classification, reconstructed 2026-08-26",2017,2024,SC007058,code_unique,2017-2024
+SMWH,Smith (W.H.),Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",1991,1992,05202036,code_unique,1991-1992
+SN,Scottish & Newcastle Plc,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1983,2007,00324357,code_unique,1983-2007
+SN.,SMITH & NEPHEW PLC,Health Care,"GICS-style classification, reconstructed 2026-08-26",1983,2024,00324357,code_unique,1989-2024
+SPT,Spirent,Information Technology,"GICS-style classification, reconstructed 2026-08-26",2000,2000,00720989,code_unique,2000-2000
+SPW,Scottish Power,Utilities,"GICS-style classification, reconstructed 2026-08-26",1991,2006,SC117120,code_unique,1991-2006
+SPX,SPIRAX GROUP PLC,Industrials,"GICS-style classification, reconstructed 2026-08-26",2018,2024,15436803,code_plus_year_overlap,2018-2023
+SRP,Serco Group,Industrials,"GICS-style classification, reconstructed 2026-08-26",2008,2012,02048608,code_unique,2008-2012
+SRS.L,Sears Holdings plc,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",1983,1994,00120271,code_unique,1983-1994
+SSE,SSE PLC,Utilities,"GICS-style classification, reconstructed 2026-08-26",1992,2024,SC117119,code_unique,1992-2024
+STAN,STANDARD CHARTERED PLC,Financials,"GICS-style classification, reconstructed 2026-08-26",1983,2024,00966425,code_unique,1983-2024
+STC,STC PLC,Information Technology,"GICS-style classification, reconstructed 2026-08-26",1983,1990,,unresolved_no_composition_record,
+STH,Storehouse,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",1985,1988,07034919,code_unique,1985-1985
+STJ,ST.JAMES'S PLACE PLC,Financials,"GICS-style classification, reconstructed 2026-08-26",2014,2024,03183415,code_unique,2014-2024
+SVT,SEVERN TRENT PLC,Utilities,"GICS-style classification, reconstructed 2026-08-26",1990,2024,02366619,code_unique,1990-2024
+TARM,Tarmac,Materials,"GICS-style classification, reconstructed 2026-08-26",1983,1991,,unresolved_no_composition_record,
+TATE,Tate & Lyle,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1991,2013,00076535,code_unique,1991-2013
+TCG,Thomas Cook Group,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",2007,2009,06091951,code_unique,2007-2009
+TEG.L,The Energy Group,Utilities,"GICS-style classification, reconstructed 2026-08-26",1997,1997,03613919,code_unique,1997-1997
+TI,TI Group,Industrials,"GICS-style classification, reconstructed 2026-08-26",1992,1996,,unresolved_no_composition_record,
+TLW,Tullow Oil,Energy,"GICS-style classification, reconstructed 2026-08-26",2007,2014,03919249,code_unique,2007-2014
+TOMK,Tomkins,Industrials,"GICS-style classification, reconstructed 2026-08-26",1992,2003,12664251,code_unique,1992-2003
+TPK,Travis Perkins,Industrials,"GICS-style classification, reconstructed 2026-08-26",2013,2015,00824821,code_unique,2013-2015
+TRAF,Trafalgar House,Industrials,"GICS-style classification, reconstructed 2026-08-26",1983,1991,16570860,code_unique,1983-1991
+TRI,Thomson Reuters,Industrials,"GICS-style classification, reconstructed 2026-08-26",2008,2008,01679046,code_unique,2008-2008
+TSB,TSB Group,Financials,"GICS-style classification, reconstructed 2026-08-26",1987,1994,,unresolved_no_composition_record,
+TSCO,TESCO PLC,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1983,2024,00445790,code_unique,1983-2024
+TT.,TUI Travel,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",2007,2013,06072876,code_unique,2007-2013
+TUI,TUI AG,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",2014,2019,,unresolved_no_composition_record,
+TW.,TAYLOR WIMPEY PLC,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",2007,2024,00296805,code_unique,2007-2024
+TW.L,Thames Water,Utilities,"GICS-style classification, reconstructed 2026-08-26",1990,1999,02366623,code_unique,1990-1999
+TWOD,Taylor Woodrow,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",1989,1989,,unresolved_no_composition_record,
+TWT,Telewest Communications,Communication Services,"GICS-style classification, reconstructed 2026-08-26",1998,2000,SC080891,code_unique,1998-2000
+UB,United Biscuits,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1983,1994,08169000,code_unique,1983-1994
+UBM,United Business Media,Communication Services,"GICS-style classification, reconstructed 2026-08-26",2000,2000,,unresolved_no_composition_record,
+ULVR,UNILEVER PLC,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1983,2024,00041424,code_unique,1983-2024
+UMA,Ultramar,Energy,"GICS-style classification, reconstructed 2026-08-26",1983,1990,,unresolved_no_composition_record,
+UNIG,Unigate,Consumer Staples,"GICS-style classification, reconstructed 2026-08-26",1986,1986,,unresolved_no_composition_record,
+UNM,United News & Media,Communication Services,"GICS-style classification, reconstructed 2026-08-26",1996,1999,,unresolved_no_composition_record,
+UTG,UNITE GROUP PLC,Real Estate,"GICS-style classification, reconstructed 2026-08-26",2022,2024,03199160,code_unique,2022-2024
+UU.,UNITED UTILITIES GROUP PLC,Utilities,"GICS-style classification, reconstructed 2026-08-26",1990,2024,03528619,code_unique,1990-1995
+VED,Vedanta Resources,Materials,"GICS-style classification, reconstructed 2026-08-26",2006,2012,04740415,code_unique,2006-2012
+VOD,VODAFONE GROUP PLC,Communication Services,"GICS-style classification, reconstructed 2026-08-26",1991,2024,01833679,code_unique,1991-2024
+WARB.L,Warburg SG Group,Financials,"GICS-style classification, reconstructed 2026-08-26",1993,1994,,unresolved_no_composition_record,
+WCG,Willis Corroon,Financials,"GICS-style classification, reconstructed 2026-08-26",1991,1991,,unresolved_no_composition_record,
+WEIR,WEIR GROUP PLC,Industrials,"GICS-style classification, reconstructed 2026-08-26",2010,2024,SC002934,code_unique,2010-2024
+WEL,Wellcome,Health Care,"GICS-style classification, reconstructed 2026-08-26",1986,1994,01955498,code_unique,1986-1994
+WFC,Willis Faber,Financials,"GICS-style classification, reconstructed 2026-08-26",1984,1986,01386469,code_unique,1984-1986
+WG,Wood Group (John),Energy,"GICS-style classification, reconstructed 2026-08-26",2012,2018,SC278251,code_unique,2012-2018
+WLMS,Williams,Industrials,"GICS-style classification, reconstructed 2026-08-26",1988,1998,,unresolved_no_composition_record,
+WLW,Woolwich,Financials,"GICS-style classification, reconstructed 2026-08-26",1997,1999,15712439,code_unique,1997-1999
+WMH,William Hill,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",2004,2013,04212563,code_unique,2004-2013
+WMP,Wimpey (George) & Co,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",1983,1983,,unresolved_no_composition_record,
+WOOL,Woolworths,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",1984,1988,06732228,code_unique,1984-1988
+WOS,Wolseley,Industrials,"GICS-style classification, reconstructed 2026-08-26",1993,2016,00029846,code_unique,1993-2016
+WPG,Worldpay Group,Financials,"GICS-style classification, reconstructed 2026-08-26",2015,2017,08762327,code_unique,2015-2017
+WPP,WPP PLC,Communication Services,"GICS-style classification, reconstructed 2026-08-26",1998,2024,02670617,code_plus_year_overlap,1998-2011
+WTB,WHITBREAD PLC,Consumer Discretionary,"GICS-style classification, reconstructed 2026-08-26",1983,2024,00029423,code_plus_year_overlap,1983-2008
+XTA,Xstrata,Materials,"GICS-style classification, reconstructed 2026-08-26",2002,2012,04345939,code_unique,2002-2012
+YELL,Yell Group,Communication Services,"GICS-style classification, reconstructed 2026-08-26",2003,2007,08815102,code_unique,2003-2007
+ZEN,Zeneca Group,Health Care,"GICS-style classification, reconstructed 2026-08-26",1993,1998,02723534,code_unique,1993-1998

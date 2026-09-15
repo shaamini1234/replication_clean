@@ -445,7 +445,7 @@ class Build:
         from the event_type token, so a new type appears without a code change."""
         rows = self.rows(
             "select event_type, count(*) n from gazette_events "
-            "where event_type is not null and event_type <> 'unknown' group by 1 order by 2 desc"
+            "where event_type is not null and event_type <> 'unknown' group by 1 order by 2 desc, 1"
         )
         skip = ("restored_to_register", "removed_from_register")
         out = []
@@ -479,15 +479,19 @@ class Build:
         live = self.rows(
             f"select pcr.region, count(*) n from companies c "
             f"join pcr on pcr.area = {PC_AREA.format(col='c.\"RegAddress_PostCode\"')} "
-            f"group by 1 order by 2 desc"
+            f"group by 1 order by 2 desc, 1"
         )
         ins = self.rows(
-            f"with n as (select company_number, any_value({PC_IN_TEXT}) area from gazette_events "
+            # min(), not any_value(): any_value picks an arbitrary row per group, so the
+        # same query returned different areas between identical runs and c_geo's
+        # counts moved. Where a company has several Gazette notices with different
+        # registered offices, min() picks the same one every time.
+        f"with n as (select company_number, min({PC_IN_TEXT}) area from gazette_events "
             f"          where company_number is not null group by 1) "
             f"select pcr.region, count(*) c from exit_events e "
             f"join n on n.company_number = e.company_number_norm "
             f"join pcr on pcr.area = n.area "
-            f"where e.exit_class='insolvent' group by 1 order by 2 desc"
+            f"where e.exit_class='insolvent' group by 1 order by 2 desc, 1"
         )
         mapped = sum(n for _, n in ins)
         total_ins = self.val("select count(*) from exit_events where exit_class='insolvent'")
@@ -533,7 +537,7 @@ class Build:
         rows = self.rows(
             f"select sic_desc, round(100.0*count(*) filter(where exit_class='insolvent')"
             f"/count(*), 1) p, count(*) n from firm_master where sic_desc is not null "
-            f"group by 1 having count(*) > {MIN_INDUSTRY_FIRMS} order by p desc"
+            f"group by 1 having count(*) > {MIN_INDUSTRY_FIRMS} order by p desc, sic_desc"
         )
         rates = sorted(float(p) for _, p, _ in rows)
         median = rates[len(rates) // 2]
@@ -573,14 +577,53 @@ class Build:
 
     # -- Part III: listed firms ---------------------------------------------
     def sector_table(self):
-        """Register the committed classification as `ftse100_sector_manual`, the
-        name the rest of the queries use."""
-        if not FTSE_SECTORS.exists():
-            sys.exit(f"Missing {FTSE_SECTORS.relative_to(REPO)} — the FTSE sector classification.")
+        """Register the committed classification as `ftse100_sector_manual`.
+
+        Keyed on company_number, not ticker. London tickers are reused — RSA maps
+        to three different companies, GAA to three, WPP to two — so a ticker join
+        hands one company's sector to another's index membership. The keyed file
+        (build_ftse_sector_crosswalk.py) resolves each row to a company_number
+        using the ticker AND the year span, which separates the claimants.
+
+        One company can still appear twice, under an old and a new ticker
+        (BSY/SKY, REL/RELX). Those agree on sector in every case but one, so the
+        view keeps the row backed by more composition observations and the
+        disagreement is reported by --verify rather than silently resolved.
+        """
+        if not FTSE_SECTORS_KEYED.exists():
+            sys.exit(
+                f"Missing {FTSE_SECTORS_KEYED.relative_to(REPO)} — "
+                f"run python/build_ftse_sector_crosswalk.py first."
+            )
+        self.con.execute(
+            "create or replace temp view ftse100_sector_keyed_raw as "
+            f"select code, company_number, company_name, sector as sector_manual, "
+            f"basis as source_note, match_basis, match_years "
+            f"from read_csv_auto('{FTSE_SECTORS_KEYED}', header=true, all_varchar=true) "
+            f"where company_number is not null and company_number <> ''"
+        )
+        # one sector per company: prefer the ticker observed over more years
         self.con.execute(
             "create or replace temp view ftse100_sector_manual as "
-            f"select code, company_name, sector as sector_manual, basis as source_note "
-            f"from read_csv_auto('{FTSE_SECTORS}', header=true)"
+            "select company_number, code, company_name, sector_manual, source_note "
+            "from ("
+            "  select *, row_number() over ("
+            "    partition by company_number "
+            "    order by try_cast(split_part(match_years,'-',2) as integer) "
+            "           - try_cast(split_part(match_years,'-',1) as integer) desc, code"
+            "  ) rn from ftse100_sector_keyed_raw"
+            ") where rn = 1"
+        )
+
+    def sector_conflicts(self) -> list[tuple]:
+        """Companies whose duplicate sector rows disagree — a signal that the
+        underlying ticker -> company_number record is wrong, not that the sector
+        is ambiguous."""
+        return self.rows(
+            "select company_number, string_agg(distinct code, '/'), "
+            "string_agg(distinct sector_manual, ' vs ') "
+            "from ftse100_sector_keyed_raw group by 1 "
+            "having count(distinct sector_manual) > 1"
         )
 
     def ftse_sector_view(self):
@@ -589,7 +632,8 @@ class Build:
         self.con.execute(
             "create or replace temp view ftse_sector as "
             "select distinct cp.company_number cn, sm.sector_manual sector "
-            "from ftse100_compositions cp join ftse100_sector_manual sm on sm.code = cp.code "
+            "from ftse100_compositions cp join ftse100_sector_manual sm "
+            "  on sm.company_number = cp.company_number "
             "where cp.company_number is not null"
         )
 
@@ -771,33 +815,62 @@ class Build:
             s: float(p)
             for s, p in self.rows(
                 f"select sm.sector_manual, 100.0*sum(cp.market_cap_gbp)/sum(sum(cp.market_cap_gbp)) over() "
-                f"from ftse100_compositions cp join ftse100_sector_manual sm on sm.code = cp.code "
+                f"from ftse100_compositions cp join ftse100_sector_manual sm "
+                f"  on sm.company_number = cp.company_number "
                 f"where cp.year = {year} and cp.market_cap_gbp is not null group by 1"
             )
         }
         return {"sp": sp, "ftse": ftse}
 
     def sp_sector_share_series(self, sector: str) -> list[tuple]:
+        """One sector's share of S&P market value, per year.
+
+        Denominator is market value that CARRIES a sector, not all market value.
+        The two differ whenever sector coverage is incomplete, and the numerator
+        can only ever count classified rows — so mixing them understates the
+        share by exactly the unclassified fraction. That fraction used to be
+        huge in early years (sector came from the live constituent list, so every
+        company that had since exited was unclassified) which pushed the early
+        part of this series down and manufactured a spurious upward trend.
+        """
         years, _, _ = self.usable_market_cap_years(
             "sp500_consolidated", "fiscal_year", "market_cap", "sp", PARTIAL_YEAR_RATIO
         )
         y0, y1 = min(years), max(years)
+        sectors = self.gics_sectors()
+        lst = "','".join(sectors)
         return [
             (int(y), float(p))
             for y, p in self.rows(
                 f"select fiscal_year, 100.0*sum(case when sector = '{sector}' then market_cap else 0 end)"
-                f"/sum(market_cap) from sp500_consolidated where fiscal_year between {y0} and {y1} "
-                f"and market_cap is not null group by 1 order by 1"
+                f"/nullif(sum(market_cap), 0) from sp500_consolidated "
+                f"where fiscal_year between {y0} and {y1} "
+                f"and market_cap is not null and sector in ('{lst}') group by 1 order by 1"
             )
             if int(y) in years
         ]
+
+    def sp_sector_coverage(self, year: int) -> float:
+        """Share of that year's S&P market value that carries a GICS sector.
+
+        The honesty check on every sector chart: a share computed over 47% of
+        index value is not a share of the index. Surfaced as a figure so the
+        page can state it rather than imply full coverage.
+        """
+        lst = "','".join(self.gics_sectors())
+        v = self.val(
+            f"select 100.0*sum(case when sector in ('{lst}') then market_cap else 0 end)"
+            f"/nullif(sum(market_cap), 0) from sp500_consolidated "
+            f"where fiscal_year = {year} and market_cap is not null"
+        )
+        return float(v or 0.0)
 
     def ftse_membership_sectors(self) -> dict:
         """Sector shares of FTSE 100 membership (count-based), every year the
         composition record covers at least half an index."""
         rows = self.rows(
             "select cp.year, sm.sector_manual, count(*) n from ftse100_compositions cp "
-            "join ftse100_sector_manual sm on sm.code = cp.code group by 1, 2"
+            "join ftse100_sector_manual sm on sm.company_number = cp.company_number group by 1, 2"
         )
         per_year: dict[int, dict[str, float]] = {}
         for y, s, n in rows:
@@ -827,7 +900,7 @@ class Build:
         ftse_ex = float(self.val(
             f"select median(f.market_cap_gbp/nullif(f.total_assets,0)) from ftse100_consolidated f "
             f"left join ftse_sector s on s.cn = f.company_number "
-            f"left join ftse100_sector_manual t on t.code = f.ticker "
+            f"left join ftse100_sector_manual t on t.company_number = f.company_number "
             f"where f.year = {year} and coalesce(s.sector, t.sector_manual) <> 'Financials' "
             f"and f.market_cap_gbp is not null and f.total_assets > 0"
         ))
@@ -852,7 +925,7 @@ class Build:
             (int(y), float(p))
             for y, p in self.rows(
                 "with r as (select fiscal_year y, market_cap mc, row_number() over "
-                "(partition by fiscal_year order by market_cap desc) rn from sp500_consolidated "
+                "(partition by fiscal_year order by market_cap desc, cik) rn from sp500_consolidated "
                 "where market_cap is not null) select y, 100.0*sum(mc) filter(where rn<=10)/sum(mc) "
                 "from r group by 1 order by 1"
             )
@@ -865,7 +938,8 @@ class Build:
             (int(y), float(p))
             for y, p in self.rows(
                 "with r as (select year y, market_cap_gbp mc, row_number() over "
-                "(partition by year order by market_cap_gbp desc) rn from ftse100_compositions "
+                "(partition by year order by market_cap_gbp desc, coalesce(company_number, code)) rn "
+                "from ftse100_compositions "
                 "where market_cap_gbp is not null) select y, 100.0*sum(mc) filter(where rn<=10)/sum(mc) "
                 "from r group by 1 order by 1"
             )
@@ -1261,6 +1335,9 @@ def build_listed(b: Build, F: dict, T: dict, C: dict) -> None:
     tech = "Information Technology"
     it_series = b.sp_sector_share_series(tech)
     F["sec_year"] = str(sec_year)
+    # How much of that year's index value is actually classified. Before the
+    # EDGAR sector backfill this sat near 47% and nothing on the page said so.
+    F["sec_coverage"] = pct(b.sp_sector_coverage(sec_year))
     F["sec_sp_it_pct"] = pct(shares["sp"].get(tech, 0))
     F["sec_ftse_it_pct"] = pct(shares["ftse"].get(tech, 0))
     ftse_order = sorted(sectors, key=lambda s: shares["ftse"].get(s, 0), reverse=True)
@@ -1554,6 +1631,9 @@ def main() -> int:
 # It previously existed only as a DuckDB table and was lost when that file was
 # deleted; a committed CSV cannot be lost the same way.
 FTSE_SECTORS = REPO / "source_inputs" / "ftse100_sector_classification.csv"
+# Same classification, resolved to company_number by build_ftse_sector_crosswalk.py.
+# Tickers are reused in London, so company_number is the only safe join key.
+FTSE_SECTORS_KEYED = REPO / "source_inputs" / "ftse100_sector_classification_keyed.csv"
 
 ONS_CACHE = REPO / "source_inputs" / "ons"
 PC_LOOKUP = ONS_CACHE / "postcode_lookup.parquet"
@@ -1704,7 +1784,8 @@ class Maps:
             f"""create or replace temp view insolvency_area as
                 with n as (
                   select company_number,
-                         any_value(upper(replace({PC_FULL_IN_TEXT}, ' ', ''))) as pc_norm
+                         -- min(), not any_value(): deterministic pick per company
+                         min(upper(replace({PC_FULL_IN_TEXT}, ' ', ''))) as pc_norm
                   from gazette_events where company_number is not null group by 1)
                 select pc.lad, pc.msoa
                 from exit_events e
@@ -1816,7 +1897,10 @@ class Maps:
                 join pc on pc.pc = upper(replace(c."RegAddress_PostCode", ' ', ''))
                 where pc.lat is not null and pc.lat between 49 and 61
                   and pc.lon between -9 and 2
-                group by 1, 2"""
+                group by 1, 2
+                -- ordered so the rendered cell array, and the file's bytes,
+                -- are identical between runs
+                order by 1, 2"""
         )
         return {
             "cells": [(int(gx), int(gy), int(n)) for gx, gy, n in rows],
@@ -2463,14 +2547,21 @@ def build_lifecycle(b: Build, F: dict, T: dict, C: dict, ctx: dict) -> None:
     nextlist = ",".join(str(y + 1) for y in qyears)
     quart = dict(
         (int(q), int(n)) for q, n in b.rows(
-            "with r as (select year, code, "
-            "  ntile(4) over (partition by year order by market_cap_gbp desc) q "
+            # Identity is company_number, not the ticker: a company that renames its
+            # ticker between years would otherwise look like a departure and a new
+            # arrival at once, and a reused ticker would hide a real departure.
+            # Rows the composition record leaves without a company_number fall back
+            # to the ticker so they are counted rather than dropped.
+            "with r as (select year, coalesce(company_number, 'CODE:' || code) as id, "
+            "  ntile(4) over (partition by year order by market_cap_gbp desc, "
+            "                 coalesce(company_number, 'CODE:' || code)) q "
             "  from ftse100_compositions "
             f"  where market_cap_gbp is not null and year in ({ylist})) "
             "select r.q, count(*) from r "
             f"where r.year + 1 in ({nextlist}) "
             "  and not exists (select 1 from ftse100_compositions n "
-            "                  where n.year = r.year + 1 and n.code = r.code) "
+            "                  where n.year = r.year + 1 "
+            "                    and coalesce(n.company_number, 'CODE:' || n.code) = r.id) "
             "group by 1 order by 1"
         )
     )
