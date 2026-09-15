@@ -2,3 +2,11 @@ symbol,cik,company_name,basis,source_url,resolved_on
 FB,0001326801,"Meta Platforms, Inc.","Facebook's ticker before the 2022-06-09 rename to META; same registrant, same CIK",https://data.sec.gov/submissions/CIK0001326801.json,2026-09-15
 SEBL,0001006835,SIEBEL SYSTEMS INC,"Delisted 2006 (acquired by Oracle); CIK from EDGAR company search, absent from every project table",https://data.sec.gov/submissions/CIK0001006835.json,2026-09-15
 WLTW,0001140536,Willis Towers Watson,"Ticker used before the 2023 change to WTW; same registrant, same CIK",https://data.sec.gov/submissions/CIK0001140536.json,2026-09-15
+CMCSK,0001166691,Comcast Corp,"Comcast Class K special; same registrant as CMCSA. EDGAR former name: AT&T COMCAST CORP",https://data.sec.gov/submissions/CIK0001166691.json,2026-09-15
+DWDP,0001666700,"DuPont de Nemours, Inc.","Ticker used while the company was DowDuPont; EDGAR former name: DowDuPont Inc.",https://data.sec.gov/submissions/CIK0001666700.json,2026-09-15
+FI,0000798354,Fiserv Inc,"Fiserv's ticker after the 2023 change from FISV; same registrant",https://data.sec.gov/submissions/CIK0000798354.json,2026-09-15
+NLOK,0000849399,Gen Digital Inc.,"EDGAR former names: NortonLifeLock Inc.; SYMANTEC CORP",https://data.sec.gov/submissions/CIK0000849399.json,2026-09-15
+FLT,0001175454,"Corpay, Inc.","EDGAR former name: FLEETCOR TECHNOLOGIES INC",https://data.sec.gov/submissions/CIK0001175454.json,2026-09-15
+DAY,0001725057,"Dayforce, Inc.","EDGAR former name: Ceridian HCM Holding Inc.",https://data.sec.gov/submissions/CIK0001725057.json,2026-09-15
+PEAK,0000765880,"Healthpeak Properties, Inc.","EDGAR former names: HCP, INC.; HEALTH CARE PROPERTY INVESTORS INC",https://data.sec.gov/submissions/CIK0000765880.json,2026-09-15
+RE,0001095073,"Everest Group, Ltd.","EDGAR former names: EVEREST RE GROUP LTD; EVEREST REINSURANCE GROUP LTD",https://data.sec.gov/submissions/CIK0001095073.json,2026-09-15

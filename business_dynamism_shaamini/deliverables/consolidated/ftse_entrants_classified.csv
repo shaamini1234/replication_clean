@@ -71,6 +71,7 @@ FTSE100,00968654,Wiggins Teape Appleton,1990-07-13,1990,1969.0,21.0,1,False,Fals
 FTSE100,01003142,Rolls Royce,1987-07-01,1987,1971.0,16.0,4,True,False,False,False,False,Industrials,ok,Public Limited Company,"25300 - Manufacture of steam generators, except central heating hot water boilers",,re_entry,,,re_entry,re_entry
 FTSE100,01008965,London and Scottish Marine,1988-10-03,1988,1971.0,17.0,2,True,False,False,False,False,Energy,ok,Public Limited Company,06100 - Extraction of crude petroleum,,re_entry,,,re_entry,re_entry
 FTSE100,01081551,Argos plc,1995-12-18,1995,1972.0,23.0,1,False,False,False,False,False,,ok,Private Limited Company,47190 - Other retail sale in non-specialised stores,,established,,,established,established
+FTSE100,01106260,Reinshaw,2021-03-22,2021,1973.0,48.0,1,False,False,False,False,False,,ok,,,,established,,,established,established
 FTSE100,01142830,3i Group,1994-09-19,1994,1973.0,21.0,3,True,False,False,True,False,Financials,ok,Public Limited Company,64999 - Financial intermediation not elsewhere classified,,re_entry,,,re_entry,re_entry
 FTSE100,01299733,Safeway,1984-01-02,1984,1977.0,7.0,2,True,True,False,False,False,Consumer Staples,ok,Private Limited Company,"47110 - Retail sale in non-specialised stores with food, beverages or tobacco predominating",Argyll Group,founding_member,,,founding_member,founding_member
 FTSE100,01377658,Smith (DS),2017-12-18,2017,1978.0,39.0,1,False,False,True,False,False,Materials,ok,Private Limited Company,70100 - Activities of head offices,,established,,,established,established
@@ -212,7 +213,6 @@ FTSE100,06344120,Fresnillo,2008-09-22,2008,2007.0,1.0,3,True,False,False,False,F
 FTSE100,06426485,Rightmove,2018-06-28,2018,2007.0,11.0,1,False,False,False,False,False,Communication Services,ok,Public Limited Company,62090 - Other information technology service activities,,genuinely_new_provisional,genuinely_new,https://en.wikipedia.org/wiki/Rightmove,genuinely_new,genuinely_new_verified
 FTSE100,06534088,Carphone Warehouse,2007-09-24,2007,,,1,False,False,True,False,False,Consumer Discretionary,historical_no_reliable_ch_number,Private Limited Company,70100 - Activities of head offices,,historical_unmatched,,,historical_unmatched,historical_no_ch_number
 FTSE100,06559020,United Utilities,1984-01-02,1984,2008.0,-24.0,1,False,False,True,False,True,,ok,Public Limited Company,70100 - Activities of head offices,,founding_member,,,founding_member,founding_member
-FTSE100,06716899,Reinshaw,2021-03-22,2021,,,1,False,False,False,False,False,,ok,,,,unknown_age,,,unknown_age,unknown_age
 FTSE100,06732228,Woolworths,1984-07-02,1984,2008.0,-24.0,1,False,False,False,False,False,Consumer Discretionary,ok,Private Limited Company,74990 - Non-trading company,,founding_member,,,founding_member,founding_member
 FTSE100,06798969,Thus,2000-03-20,2000,,,1,False,False,False,False,False,,ok,,,,unknown_age,,,unknown_age,unknown_age
 FTSE100,06947854,Just Eat,2017-12-18,2017,2009.0,8.0,3,True,False,False,False,False,Consumer Discretionary,ok,Private Limited Company,63120 - Web portals,,re_entry,,,re_entry,re_entry
@@ -273,7 +273,7 @@ FTSE100,12670975,Orange,1996-06-24,1996,,,1,False,False,False,False,False,Commun
 FTSE100,12818602,National Power,1991-04-02,1991,,,1,False,False,False,False,False,Utilities,historical_no_reliable_ch_number,Private Limited Company,96090 - Other service activities n.e.c.,,historical_unmatched,,,historical_unmatched,historical_no_ch_number
 FTSE100,12966997,Caradon PLC,1993-11-05,1993,,,1,False,False,False,False,False,Industrials,historical_no_reliable_ch_number,Private Limited Company,"08110 - Quarrying of ornamental and building stone, limestone, gypsum, chalk and slate",,historical_unmatched,,,historical_unmatched,historical_no_ch_number
 FTSE100,13246881,Segro,1984-01-02,1984,2021.0,-37.0,3,True,False,False,False,False,Real Estate,ok,Private Limited Company,68100 - Buying and selling of own real estate,,founding_member,,,founding_member,founding_member
-FTSE100,13264637,Darktrace,2021-10-27,2021,,,2,True,False,False,False,False,,ok,,,,unknown_age,,,unknown_age,unknown_age
+FTSE100,13264637,Darktrace,2021-10-27,2021,2013.0,8.0,2,True,False,False,False,False,,ok,,,,re_entry,,,re_entry,re_entry
 FTSE100,13280545,Endeavour Mining,2022-03-21,2022,2021.0,1.0,2,True,False,False,False,False,Materials,ok,Public Limited Company,07290 - Mining of other non-ferrous metal ores,,re_entry,,,re_entry,re_entry
 FTSE100,13595866,Sedgwick,1984-01-02,1984,,,1,False,False,False,False,False,,ok,,,,founding_member,,,founding_member,founding_member
 FTSE100,13691224,Haleon,2022-07-18,2022,2021.0,1.0,1,False,False,True,False,True,Consumer Staples,ok,Public Limited Company,70100 - Activities of head offices,,wrapper_reincorp,spin_off,https://en.wikipedia.org/wiki/Haleon,spin_off,corporate_action

@@ -384,7 +384,7 @@ S&P500,MO,0000764180,Altria,1996-01-02,1996,1985.0,11.0,1,False,False,2111.0,Con
 S&P500,BBY,0000764478,Best Buy,1999-06-30,1999,1966.0,33.0,1,False,False,5731.0,Consumer Discretionary,index_list_gics,Computer & Electronics Retail,established,,,established,established
 S&P500,PNW,0000764622,Pinnacle West Capital,1999-10-04,1999,1985.0,14.0,1,False,False,4911.0,Utilities,index_list_gics,Multi-Utilities,established,,,established,established
 S&P500,LDG,0000764762,LONGS DRUG STORES CORP,1996-01-02,1996,1938.0,58.0,1,False,False,5912.0,Consumer Staples,sic4,,founding_member,,,founding_member,founding_member
-S&P500,HCP,0000765880,Healthpeak Properties,2008-03-31,2008,1985.0,23.0,2,True,False,6798.0,Real Estate,sic4,Health Care REITs,re_entry,,,re_entry,re_entry
+S&P500,HCP,0000765880,Healthpeak Properties,2008-03-31,2008,1985.0,23.0,3,True,False,6798.0,Real Estate,sic4,Health Care REITs,re_entry,,,re_entry,re_entry
 S&P500,ALK,0000766421,"ALASKA AIR GROUP, INC.",2016-05-13,2016,1932.0,84.0,1,False,False,4512.0,Industrials,sic2,,established,,,established,established
 S&P500,WELL,0000766704,Welltower,2009-01-30,2009,1970.0,39.0,1,False,False,6798.0,Real Estate,index_list_gics,Health Care REITs,established,,,established,established
 S&P500,PMCS,0000767920,PMC SIERRA INC,2001-08-03,2001,1984.0,17.0,1,False,False,3674.0,Information Technology,sic4,,established,,,established,established
@@ -415,7 +415,7 @@ S&P500,M,0000794367,"Macy's, Inc.",1996-01-02,1996,1929.0,67.0,1,False,False,531
 S&P500,KBH,0000795266,KB HOME,1996-01-02,1996,1957.0,39.0,1,False,False,1531.0,Consumer Discretionary,sic4,,founding_member,,,founding_member,founding_member
 S&P500,ADBE,0000796343,Adobe Inc.,1997-05-06,1997,1982.0,15.0,1,False,False,7372.0,Information Technology,index_list_gics,Application Software,established,,,established,established
 S&P500,OXY,0000797468,Occidental Petroleum,1996-01-02,1996,1920.0,76.0,1,False,False,1311.0,Energy,index_list_gics,Oil & Gas Exploration & Production,founding_member,,,founding_member,founding_member
-S&P500,FISV,0000798354,Fiserv,2001-04-02,2001,1984.0,17.0,2,True,False,7389.0,Financials,index_list_gics,Transaction & Payment Processing Services,re_entry,,,re_entry,re_entry
+S&P500,FISV,0000798354,Fiserv,2001-04-02,2001,1984.0,17.0,3,True,False,7389.0,Financials,index_list_gics,Transaction & Payment Processing Services,re_entry,,,re_entry,re_entry
 S&P500,CSR,0000798359,CENTERSPACE,1996-01-02,1996,,,1,False,False,6798.0,Real Estate,sic4,,founding_member,,,founding_member,founding_member
 S&P500,ODP,0000800240,ODP Corp,1999-06-24,1999,1986.0,13.0,1,False,False,5940.0,Consumer Discretionary,sic2,,established,,,established,established
 S&P500,HAR,0000800459,HARMAN INTERNATIONAL INDUSTRIES INC /DE/,2006-02-01,2006,1980.0,26.0,1,False,False,3651.0,Consumer Discretionary,sic4,,established,,,established,established
@@ -467,7 +467,7 @@ S&P500,TECH,0000842023,Bio-Techne,2021-08-30,2021,1976.0,45.0,1,False,False,2836
 S&P500,AW,0000848865,"Allied Waste Industries, LLC",1999-08-02,1999,1987.0,12.0,1,False,False,4953.0,Industrials,sic4,,genuinely_new_provisional,merger,https://en.wikipedia.org/wiki/Allied_Waste_Industries,merger,corporate_action
 S&P500,PCL,0000849213,PLUM CREEK TIMBER CO INC,2002-01-17,2002,1989.0,13.0,1,False,False,6798.0,Real Estate,sic4,,established,,,established,established
 S&P500,CRH,0000849395,CRH plc,2025-12-22,2025,1970.0,55.0,1,False,False,3241.0,Materials,index_list_gics,Construction Materials,established,,,established,established
-S&P500,SYMC,0000849399,Gen Digital,2003-03-31,2003,1982.0,21.0,2,True,False,7372.0,Information Technology,sic4,Systems Software,re_entry,,,re_entry,re_entry
+S&P500,SYMC,0000849399,Gen Digital,2003-03-31,2003,1982.0,21.0,3,True,False,7372.0,Information Technology,sic4,Systems Software,re_entry,,,re_entry,re_entry
 S&P500,FL,0000850209,"FOOT LOCKER, INC.",1996-01-02,1996,1879.0,117.0,2,True,False,5661.0,Consumer Discretionary,sic2,,founding_member,,,founding_member,founding_member
 S&P500,AGN,0000850693,ALLERGAN INC,1996-01-02,1996,1948.0,48.0,1,False,False,2834.0,Health Care,sic4,,founding_member,,,founding_member,founding_member
 S&P500,MHK,0000851968,MOHAWK INDUSTRIES INC,2013-12-23,2013,1878.0,135.0,1,False,False,2273.0,Consumer Discretionary,sic2,,established,,,established,established
@@ -719,7 +719,7 @@ S&P500,CHTR,0001091667,Charter Communications,2016-09-08,2016,1993.0,23.0,1,Fals
 S&P500,DXCM,0001093557,Dexcom,2020-05-12,2020,1999.0,21.0,1,False,False,3841.0,Health Care,index_list_gics,Health Care Equipment,established,,,established,established
 S&P500,PGN,0001094093,PROGRESS ENERGY INC,1996-01-02,1996,,,1,False,False,4911.0,Utilities,sic2,,founding_member,,,founding_member,founding_member
 S&P500,TDY,0001094285,Teledyne Technologies,2020-06-22,2020,1960.0,60.0,1,False,False,3812.0,Information Technology,index_list_gics,Electronic Equipment & Instruments,established,,,established,established
-S&P500,EG,0001095073,Everest Group,2023-07-10,2023,1973.0,50.0,1,False,False,6331.0,Financials,index_list_gics,Reinsurance,established,,,established,established
+S&P500,RE,0001095073,Everest Group,2017-06-19,2017,1973.0,44.0,2,True,False,6331.0,Financials,index_list_gics,Reinsurance,re_entry,,,re_entry,re_entry
 S&P500,ALGN,0001097149,Align Technology,2017-06-19,2017,1997.0,20.0,1,False,False,3842.0,Health Care,index_list_gics,Health Care Supplies,established,,,established,established
 S&P500,ON,0001097864,ON Semiconductor,2022-06-21,2022,1999.0,23.0,1,False,False,3674.0,Information Technology,index_list_gics,Semiconductors,established,,,established,established
 S&P500,MET,0001099219,MetLife,2000-12-11,2000,1868.0,132.0,1,False,False,6311.0,Financials,index_list_gics,Life & Health Insurance,established,,,established,established
@@ -778,14 +778,14 @@ S&P500,NBR,0001163739,NABORS INDUSTRIES LTD,2000-10-18,2000,1952.0,48.0,1,False,
 S&P500,NEM,0001164727,Newmont,1996-01-02,1996,1921.0,75.0,1,False,False,1040.0,Materials,index_list_gics,Gold,founding_member,,,founding_member,founding_member
 S&P500,JCP,0001166126,"Old COPPER Company, Inc.",1996-01-02,1996,1902.0,94.0,1,False,False,5311.0,Consumer Discretionary,sic2,,founding_member,,,founding_member,founding_member
 S&P500,TEN,0001166663,TSAKOS ENERGY NAVIGATION LTD,1996-01-02,1996,1993.0,3.0,1,False,False,4412.0,,,,founding_member,,,founding_member,founding_member
-S&P500,CMCSA,0001166691,Comcast,1996-01-02,1996,1963.0,33.0,1,False,False,4841.0,Communication Services,index_list_gics,Cable & Satellite,founding_member,,,founding_member,founding_member
+S&P500,CMCSA,0001166691,Comcast,1996-01-02,1996,1963.0,33.0,2,True,False,4841.0,Communication Services,index_list_gics,Cable & Satellite,founding_member,,,founding_member,founding_member
 S&P500,XEC,0001168054,CIMAREX ENERGY CO,2014-06-20,2014,2002.0,12.0,1,False,False,1311.0,Energy,sic3,,genuinely_new_provisional,spin_off,https://en.wikipedia.org/wiki/Cimarex_Energy,spin_off,corporate_action
 S&P500,KMX,0001170010,CARMAX INC,2010-06-28,2010,1993.0,17.0,1,False,False,5500.0,Consumer Discretionary,sic2,,established,,,established,established
 S&P500,WFT,0001170565,WEATHERFORD INTERNATIONAL LTD,2005-07-22,2005,,,1,False,False,1381.0,Energy,sic3,,unknown_age,,,unknown_age,unknown_age
 S&P500,MHS,0001170650,MEDCO HEALTH SOLUTIONS INC,2003-08-20,2003,1983.0,20.0,1,False,False,5912.0,Consumer Staples,sic4,,established,,,established,established
 S&P500,CITGQ,0001171825,CIT GROUP INC,2004-10-27,2004,1908.0,96.0,1,False,False,6021.0,Financials,sic2,,established,,,established,established
 S&P500,WYNN,0001174922,Wynn Resorts,2008-11-14,2008,2002.0,6.0,1,False,False,7011.0,Consumer Discretionary,index_list_gics,Casinos & Gaming,genuinely_new_provisional,genuinely_new,https://en.wikipedia.org/wiki/Wynn_Resorts,genuinely_new,genuinely_new_verified
-S&P500,CPAY,0001175454,Corpay,2024-03-25,2024,2000.0,24.0,1,False,False,7389.0,Financials,index_list_gics,Transaction & Payment Processing Services,established,,,established,established
+S&P500,FLT,0001175454,Corpay,2018-06-20,2018,2000.0,18.0,2,True,False,7389.0,Financials,index_list_gics,Transaction & Payment Processing Services,re_entry,,,re_entry,re_entry
 S&P500,ARES,0001176948,Ares Management,2025-12-11,2025,1977.0,48.0,1,False,False,6282.0,Financials,index_list_gics,Asset Management & Custody Banks,established,,,established,established
 S&P500,MOH,0001179929,"MOLINA HEALTHCARE, INC.",2022-03-02,2022,1980.0,42.0,1,False,False,6324.0,Health Care,sic4,,established,,,established,established
 S&P500,CCK,0001219601,"CROWN HOLDINGS, INC.",1996-01-02,1996,1892.0,104.0,1,False,False,3411.0,Industrials,sic2,,founding_member,,,founding_member,founding_member
@@ -960,7 +960,7 @@ S&P500,CCEP,0001650107,COCA-COLA EUROPACIFIC PARTNERS plc,2016-01-04,2016,2016.0
 S&P500,FCPT,0001650132,"Four Corners Property Trust, Inc.",2015-11-10,2015,2015.0,0.0,1,False,False,6798.0,Real Estate,sic4,,very_new_adjudicate,spin_off,https://en.wikipedia.org/wiki/Four_Corners_Property_Trust,spin_off,corporate_action
 S&P500,GOOGL,0001652044,Alphabet Inc. (Class C),2006-04-03,2006,1998.0,8.0,2,True,False,7370.0,Communication Services,index_list_gics,Interactive Media & Services,re_entry,,,re_entry,re_entry
 S&P500,FTV,0001659166,Fortive,2016-07-05,2016,2015.0,1.0,1,False,False,3823.0,Industrials,index_list_gics,Industrial Machinery & Supplies & Components,very_new_adjudicate,spin_off,https://en.wikipedia.org/wiki/Fortive,spin_off,corporate_action
-S&P500,DD,0001666700,DuPont,1996-01-02,1996,1802.0,194.0,2,True,False,2821.0,Materials,index_list_gics,Specialty Chemicals,founding_member,,,founding_member,founding_member
+S&P500,DD,0001666700,DuPont,1996-01-02,1996,1802.0,194.0,3,True,False,2821.0,Materials,index_list_gics,Specialty Chemicals,founding_member,,,founding_member,founding_member
 S&P500,BUD,0001668717,Anheuser-Busch InBev SA/NV,1996-01-02,1996,1852.0,144.0,1,False,False,2082.0,,,,founding_member,,,founding_member,founding_member
 S&P500,TTD,0001671933,Trade Desk (The),2025-07-18,2025,2009.0,16.0,1,False,False,7370.0,Communication Services,index_list_gics,Advertising,established,,,established,established
 S&P500,VRT,0001674101,Vertiv,2026-03-23,2026,2016.0,10.0,1,False,False,3679.0,Industrials,index_list_gics,Electrical Components & Equipment,genuinely_new_provisional,ipo_established,https://en.wikipedia.org/wiki/Vertiv,ipo_established,corporate_action
@@ -982,7 +982,7 @@ S&P500,VICI,0001705696,Vici Properties,2022-06-08,2022,2016.0,6.0,1,False,False,
 S&P500,LIN,0001707925,Linde plc,2018-11-06,2018,1879.0,139.0,1,False,False,2810.0,Materials,index_list_gics,Industrial Gases,established,,,established,established
 S&P500,GFS.A,0001709048,GLOBALFOUNDRIES Inc.,1996-01-02,1996,2009.0,-13.0,1,False,False,3674.0,,,,founding_member,,,founding_member,founding_member
 S&P500,EVRG,0001711269,Evergy,2018-06-05,2018,1909.0,109.0,1,False,False,4931.0,Utilities,index_list_gics,Electric Utilities,established,,,established,established
-S&P500,CDAY,0001725057,"Dayforce, Inc.",2021-09-20,2021,1957.0,64.0,1,False,False,7372.0,Information Technology,sic4,,established,,,established,established
+S&P500,CDAY,0001725057,"Dayforce, Inc.",2021-09-20,2021,1992.0,29.0,2,True,False,7372.0,Information Technology,sic4,,re_entry,,,re_entry,re_entry
 S&P500,AVGO,0001730168,Broadcom,2014-05-08,2014,1961.0,53.0,1,False,False,3674.0,Information Technology,index_list_gics,Semiconductors,established,,,established,established
 S&P500,WRK,0001732845,WestRock Co,2015-07-02,2015,2015.0,0.0,1,False,False,2650.0,Materials,sic2,,very_new_adjudicate,merger,https://en.wikipedia.org/wiki/WestRock,merger,corporate_action
 S&P500,CI,0001739940,Cigna,1996-01-02,1996,1982.0,14.0,1,False,False,6324.0,Health Care,index_list_gics,Health Care Services,founding_member,,,founding_member,founding_member
@@ -1075,27 +1075,22 @@ S&P500,BT,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_membe
 S&P500,CBB,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
 S&P500,CFL,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
 S&P500,CMB,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
-S&P500,CMCSK,,,2015-09-21,2015,,,1,False,False,,,,,unknown_age,,,unknown_age,unknown_age
 S&P500,CNW,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
 S&P500,CRR,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
 S&P500,CSE,,,1996-01-22,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
 S&P500,CYM,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
 S&P500,CYR,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
-S&P500,DAY,,,2024-02-01,2024,,,1,False,False,,,,,unknown_age,,,unknown_age,unknown_age
 S&P500,DGN,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
 S&P500,DI,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
 S&P500,DIGI,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
 S&P500,DISCA,,,2010-03-01,2010,,,1,False,False,,,,,unknown_age,,,unknown_age,unknown_age
 S&P500,DISCK,,,2014-08-07,2014,,,1,False,False,,,,,unknown_age,,,unknown_age,unknown_age
 S&P500,DWD,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
-S&P500,DWDP,,,2017-09-01,2017,,,1,False,False,,,,,unknown_age,,,unknown_age,unknown_age
 S&P500,ECH,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
 S&P500,EFU,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
 S&P500,FBO,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
-S&P500,FI,,,2023-06-07,2023,,,1,False,False,,,,,unknown_age,,,unknown_age,unknown_age
 S&P500,FJ,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
 S&P500,FLMIQ,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
-S&P500,FLT,,,2018-06-20,2018,,,1,False,False,,,,,unknown_age,,,unknown_age,unknown_age
 S&P500,FPC,,,1999-06-22,1999,,,1,False,False,,,,,unknown_age,,,unknown_age,unknown_age
 S&P500,FRC,,,2019-01-02,2019,,,1,False,False,,,,,unknown_age,,,unknown_age,unknown_age
 S&P500,FTL.A,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
@@ -1123,7 +1118,6 @@ S&P500,NAE,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_memb
 S&P500,NCE,,,1998-11-03,1998,,,1,False,False,,,,,unknown_age,,,unknown_age,unknown_age
 S&P500,NGH,,,1998-09-16,1998,,,1,False,False,,,,,unknown_age,,,unknown_age,unknown_age
 S&P500,NLC,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
-S&P500,NLOK,,,2019-11-05,2019,,,1,False,False,,,,,unknown_age,,,unknown_age,unknown_age
 S&P500,NLV,,,1996-04-01,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
 S&P500,NYN,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
 S&P500,OAT,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
@@ -1131,7 +1125,6 @@ S&P500,OK,,,1999-12-02,1999,,,1,False,False,,,,,unknown_age,,,unknown_age,unknow
 S&P500,ORX,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
 S&P500,PAS,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
 S&P500,PDG,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
-S&P500,PEAK,,,2019-11-05,2019,,,1,False,False,,,,,unknown_age,,,unknown_age,unknown_age
 S&P500,PEL,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
 S&P500,PET,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
 S&P500,PHB,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
@@ -1142,7 +1135,6 @@ S&P500,PWJ,,,1999-06-04,1999,,,1,False,False,,,,,unknown_age,,,unknown_age,unkno
 S&P500,PZE,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
 S&P500,RBD,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
 S&P500,RDS.A,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
-S&P500,RE,,,2017-06-19,2017,,,1,False,False,,,,,unknown_age,,,unknown_age,unknown_age
 S&P500,RLM,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
 S&P500,RNB,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member
 S&P500,RYC,,,1996-01-02,1996,,,1,False,False,,,,,founding_member,,,founding_member,founding_member

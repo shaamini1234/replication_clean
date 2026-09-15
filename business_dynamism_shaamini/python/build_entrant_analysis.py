@@ -40,17 +40,41 @@ def yr(x):
     return int(m.group(1)) if m else np.nan
 
 # ============================== FTSE ==============================
+# Hand-verified identity / birth corrections, applied before classification.
+# Two classes: a company_number that matched the WRONG company (the FTSE record
+# spells Renishaw "Reinshaw", which matched a cake-icing manufacturer), and an
+# operating birth year where the registered entity is an IPO holding company
+# younger than the business it holds (Darktrace incorporated its listco in 2021;
+# the business dates from 2013, so age at entry is 8, not 0).
+FTSE_FIX=os.path.join(REPO,"source_inputs","ftse_manual_identity_corrections.csv")
+fix=pd.read_csv(FTSE_FIX, dtype=str) if os.path.exists(FTSE_FIX) else pd.DataFrame(
+    columns=["company_number","correct_company_number","operating_birth_year"])
+remap={r["company_number"]: r["correct_company_number"]
+       for _,r in fix.iterrows() if isinstance(r.get("correct_company_number"),str) and r["correct_company_number"].strip()}
+opbirth={(remap.get(r["company_number"], r["company_number"])): int(float(r["operating_birth_year"]))
+         for _,r in fix.iterrows()
+         if pd.notna(r.get("operating_birth_year")) and str(r["operating_birth_year"]).strip()}
+if remap: print(f"  FTSE identity remaps applied: {remap}")
+if opbirth: print(f"  FTSE operating-birth overrides: {opbirth}")
+
 mem=con.execute("SELECT company_number,company_name,start_date FROM ftse100_membership "
                 "WHERE company_number IS NOT NULL").fetchdf()
+mem["company_number"]=mem["company_number"].replace(remap)
 mem["entry_year"]=mem["start_date"].map(yr)
 ep=mem.groupby("company_number").size().rename("episodes")
 first=mem.sort_values("start_date").groupby("company_number").agg(
     company_name=("company_name","first"), entry_date=("start_date","min"),
     entry_year=("entry_year","min")).join(ep)
 info=con.execute("""SELECT DISTINCT company_number, incorporation_date, company_category, sic_1, former_names
-    FROM ftse100_consolidated""").fetchdf().drop_duplicates("company_number").set_index("company_number")
+    FROM ftse100_consolidated""").fetchdf()
+info["company_number"]=info["company_number"].replace(remap)
+info=info.drop_duplicates("company_number").set_index("company_number")
 f=first.join(info)
 f["incorp_year"]=f["incorporation_date"].map(yr)
+# An operating-birth override wins over the registered incorporation date: the
+# question is how old the BUSINESS was at index entry, not its current holdco.
+if opbirth:
+    f["incorp_year"]=[opbirth.get(cn, v) for cn, v in zip(f.index, f["incorp_year"])]
 f["age_at_entry"]=f["entry_year"]-f["incorp_year"]
 INDEX_START=1984
 def sic_flag(row):
