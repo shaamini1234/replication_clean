@@ -97,7 +97,14 @@ def connect():
         if wait:
             log.warning("DB connect retry in %ds", wait); time.sleep(wait)
         try:
-            return psycopg2.connect(NEON, options="-c search_path=public")
+            # TCP keepalives matter here: the feeder's server-side cursor sits
+            # idle for minutes between fetches while workers drain the queue,
+            # and an idle Neon connection gets closed under us ("SSL connection
+            # has been closed unexpectedly" killed a run on 2026-09-15).
+            return psycopg2.connect(NEON, options="-c search_path=public",
+                                    connect_timeout=30,
+                                    keepalives=1, keepalives_idle=30,
+                                    keepalives_interval=10, keepalives_count=5)
         except psycopg2.OperationalError as e:
             log.warning("DB connect failed: %s", str(e).splitlines()[0])
     raise RuntimeError("DB unreachable")
@@ -142,17 +149,48 @@ FEED_PHASES = [
 def feeder():
     """Stream not-yet-done numbers into the bounded queue via server-side
     cursors, so we never hold millions of rows in RAM and never sort them all."""
-    conn = connect()
     try:
         for i, sql in enumerate(FEED_PHASES):
-            cur = conn.cursor(name=f"todo_pass_{i}")  # server-side streaming cursor
-            cur.itersize = 10000
+            if not _stream_pass(i, sql):
+                return          # shutdown requested mid-pass
+        _drained.set()          # every row streamed — this was a clean finish
+    finally:
+        # ALWAYS signal the workers, even if this thread is dying. Without this
+        # a dead feeder leaves every worker blocked on an empty queue and the
+        # process looks alive while doing nothing (2026-09-15: a dropped Neon
+        # connection killed the feeder and the run idled for three hours).
+        for _ in KEYS:
+            try:
+                todo_q.put(SENTINEL, timeout=5)
+            except queue.Full:
+                log.warning("could not deliver stop signal — queue full")
+
+
+def _stream_pass(i, sql):
+    """Stream one query into the queue. Returns False if shutdown was asked for.
+
+    Reconnects and resumes if the connection drops: the query excludes rows
+    already in ch_company_profile, so re-running it simply skips finished work.
+    """
+    delivered = 0
+    for attempt, wait in enumerate([0] + DB_BACKOFF):
+        if wait:
+            log.warning("feeder reconnecting in %ds (pass %d, %d rows delivered)",
+                        wait, i, delivered)
+            if _shutdown.wait(wait):
+                return False
+        conn = connect()
+        try:
+            cur = conn.cursor(name=f"todo_pass_{i}_{attempt}")  # server-side cursor
+            # Small itersize keeps the connection busy. At 10000 the cursor sat
+            # idle ~40 minutes between fetches while workers drained the queue,
+            # which is precisely when Neon closed it.
+            cur.itersize = 1000
             cur.execute(sql)
             for (num,) in cur:
                 # Offer with a timeout rather than blocking forever: if every
                 # worker has stopped, nothing drains the queue and an
-                # unconditional put() would hang the process (it did, on
-                # 2026-09-15 — the run sat idle for 17 minutes).
+                # unconditional put() would hang the process.
                 while not _shutdown.is_set():
                     try:
                         todo_q.put(num, timeout=5)
@@ -162,16 +200,19 @@ def feeder():
                 if _shutdown.is_set():
                     log.info("feeder stopping — no workers left")
                     cur.close()
-                    return
+                    return False
+                delivered += 1
             cur.close()
-    finally:
-        conn.close()
-    _drained.set()               # every row streamed — this was a clean finish
-    for _ in KEYS:               # one sentinel per worker to signal end
-        try:
-            todo_q.put(SENTINEL, timeout=5)
-        except queue.Full:
-            log.warning("could not deliver stop signal — queue full")
+            return True
+        except (psycopg2.OperationalError, psycopg2.InterfaceError) as feed_err:
+            log.warning("feeder connection lost after %d rows: %s",
+                        delivered, str(feed_err).splitlines()[0])
+        finally:
+            try:
+                conn.close()
+            except (psycopg2.OperationalError, psycopg2.InterfaceError) as close_err:
+                log.warning("closing dead feeder connection failed: %s", close_err)
+    raise RuntimeError(f"feeder could not stream pass {i} after retries")
 
 
 def _limits(r):
