@@ -47,9 +47,15 @@ GVA-computable, so firm_gva is contaminated unless they are excluded too.
 
 Rows are FLAGGED, never deleted, so the decision stays visible and reversible.
 
+Both stores are flagged. sql/12_gva.sql runs against local Postgres while the
+analysis scripts read DuckDB, so a flag present in only one of them leaves the
+other silently contaminated -- and, worse, makes 12_gva.sql reference a column
+that does not exist there.
+
 Usage:
     python python/flag_implausible_filings.py --dry-run
     python python/flag_implausible_filings.py
+    python python/flag_implausible_filings.py --skip-postgres
 """
 from __future__ import annotations
 import argparse, os, sys
@@ -87,6 +93,8 @@ def suspects(con, table: str):
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--skip-postgres", action="store_true",
+                    help="flag DuckDB only (use when local Postgres is unavailable)")
     args = ap.parse_args()
     con = duckdb.connect(DB, read_only=args.dry_run)
 
@@ -106,12 +114,14 @@ def main() -> int:
         if "filing_suspect" not in cols:
             con.execute(f"alter table {t} add column filing_suspect BOOLEAN")
             con.execute(f"alter table {t} add column filing_suspect_reason VARCHAR")
-        con.execute(f"update {t} set filing_suspect = false where filing_suspect is null")
         for cn, pe, _ in s:
             con.execute(
                 f"update {t} set filing_suspect = true, filing_suspect_reason = "
                 f"'turnover above £{CEILING/1e9:.0f}bn with no corroborating filing from the same company; every monetary figure in the filing is unreliable' "
                 f"where company_number = ? and cast(period_end as varchar) = ?", [cn, pe])
+
+    if not args.dry_run and not args.skip_postgres:
+        _flag_postgres()
 
     if args.dry_run:
         print("\n--dry-run: nothing written")
@@ -120,6 +130,58 @@ def main() -> int:
         print("consumers should filter on `filing_suspect is not true`")
     con.close()
     return 0
+
+
+def _flag_postgres() -> None:
+    """Mirror the flag into local Postgres, where sql/12_gva.sql runs."""
+    pg = os.environ.get("BD_PG_DSN", "dbname=business_dynamism")
+    try:
+        import subprocess
+        def psql(sql: str) -> str:
+            """Statements go in on stdin, not via -c.
+
+            A multi-line statement passed to `psql -tAc` is mangled -- the
+            UPDATE silently matched nothing and the script reported success
+            while flagging zero rows. ON_ERROR_STOP makes a failure loud.
+            """
+            r = subprocess.run(["psql", pg.replace("dbname=", ""), "-tA",
+                                "-v", "ON_ERROR_STOP=1", "-f", "-"],
+                               input=sql, capture_output=True, text=True, timeout=180)
+            if r.returncode != 0:
+                raise RuntimeError(r.stderr.strip()[:200])
+            return r.stdout.strip()
+
+        # DEFAULT false is metadata-only in Postgres 11+. A backfill UPDATE here
+        # rewrites all 39M rows, holds an exclusive lock for minutes and blocks
+        # every other query -- and buys nothing, because consumers read this
+        # through COALESCE(filing_suspect, false).
+        psql("alter table financial_filings "
+             "add column if not exists filing_suspect boolean default false;")
+        psql("alter table financial_filings "
+             "add column if not exists filing_suspect_reason varchar;")
+        # same rule, expressed once in SQL against the same data
+        psql(f"""
+            with big as (select company_number, period_end, turnover from financial_filings
+                         where turnover is not null and turnover > {CEILING}),
+                 corroborated as (
+                   select b.company_number, b.period_end from big b join financial_filings f
+                     on f.company_number = b.company_number
+                    and f.period_end is distinct from b.period_end
+                    and f.turnover is not null
+                    and f.turnover between b.turnover / {TOLERANCE} and b.turnover * {TOLERANCE})
+            update financial_filings t set filing_suspect = true,
+                   filing_suspect_reason = 'turnover above GBP {CEILING/1e9:.0f}bn with no corroborating filing from the same company; every monetary figure in the filing is unreliable'
+            from big b
+            where t.company_number = b.company_number and t.period_end = b.period_end
+              and not exists (select 1 from corroborated c
+                              where c.company_number = b.company_number
+                                and c.period_end is not distinct from b.period_end);""")
+        n = psql("select count(*) from financial_filings where filing_suspect")
+        print(f"\n  postgres financial_filings: {n} filing(s) flagged")
+    except Exception as e:
+        print(f"\n  WARNING: could not flag Postgres ({e}); sql/12_gva.sql will fail there "
+              f"until this is applied. Re-run without --skip-postgres when it is reachable.",
+              file=sys.stderr)
 
 
 if __name__ == "__main__":
