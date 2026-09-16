@@ -1825,7 +1825,8 @@ class Maps:
                 f"""select ca.{level}, sum(f.staff_costs + f.operating_profit), count(*)
                     from combined_firm_year f
                     join company_area ca on ca.cn = f.company_number
-                    where f.staff_costs is not null and f.operating_profit is not null
+                    where coalesce(f.filing_suspect, false) = false
+                      and f.staff_costs is not null and f.operating_profit is not null
                       and abs(f.staff_costs) < 10e9 and abs(f.operating_profit) < 10e9
                       and ca.{level} is not null
                     group by 1 having count(*) >= {MIN_FIRMS_FOR_GVA}"""
@@ -1838,7 +1839,8 @@ class Maps:
                            count(*)
                     from combined_firm_year f
                     join company_area ca on ca.cn = f.company_number
-                    where f.staff_costs is not null and f.operating_profit is not null
+                    where coalesce(f.filing_suspect, false) = false
+                      and f.staff_costs is not null and f.operating_profit is not null
                       and abs(f.staff_costs) < 10e9 and abs(f.operating_profit) < 10e9
                       and f.employees > 0 and ca.{level} is not null
                     group by 1 having count(*) >= {MIN_FIRMS_FOR_GVA}"""

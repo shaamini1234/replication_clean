@@ -22,6 +22,11 @@ SELECT DISTINCT ON (company_number, extract(year from period_end)::int)
 FROM financial_filings
 WHERE period_end BETWEEN '2008-01-01' AND '2027-12-31'
   AND staff_costs IS NOT NULL AND operating_profit IS NOT NULL AND depreciation IS NOT NULL
+  -- Exclude filings flagged as false by flag_implausible_filings.py. Three
+  -- companies filed returns in which every monetary figure is absurd (one
+  -- reports staff costs of GBP 239.6bn and an operating loss of GBP 354.4bn);
+  -- all three are GVA-computable and would otherwise dominate the aggregates.
+  AND COALESCE(filing_suspect, false) = false
 ORDER BY company_number, extract(year from period_end)::int, period_end DESC;
 
 CREATE INDEX ON firm_gva (company_number, fiscal_year);
