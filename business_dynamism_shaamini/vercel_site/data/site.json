@@ -4377,7 +4377,7 @@
   "geo_unmapped_pct": "44 per cent",
   "gva_ceiling": "£10bn",
   "gva_computable_pct": "0.17 per cent",
-  "gva_excluded": "two",
+  "gva_excluded": "zero",
   "head_constituents": "1,634",
   "head_firm_years": "39.4M",
   "head_gazette": "1.0M",
@@ -4495,7 +4495,7 @@
   "young_trough_year": "2020"
  },
  "meta": {
-  "built_at": "2026-09-16T14:07:21+01:00",
+  "built_at": "2026-09-16T14:19:54+01:00",
   "complete_years": {
    "gazette": [
     1999,

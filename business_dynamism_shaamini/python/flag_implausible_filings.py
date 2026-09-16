@@ -47,6 +47,16 @@ GVA-computable, so firm_gva is contaminated unless they are excluded too.
 
 Rows are FLAGGED, never deleted, so the decision stays visible and reversible.
 
+The flagged monetary values are then NULLED. Flagging alone left every false
+figure in place and made correctness depend on each consumer remembering to
+filter -- which is how PARAGLIDE's GBP 540bn reached a GVA total in the first
+place. There is nothing to correct them to: each of the three companies has
+exactly one filing carrying turnover, so no other year exists to recover a true
+value from, and the figure is not a scale error but a false return. Originals go
+to data_quality_corrections first, so nothing is lost and the decision can be
+reversed. employees is left alone -- it is flagged, and 13,060 is not itself
+impossible.
+
 Both stores are flagged. sql/12_gva.sql runs against local Postgres while the
 analysis scripts read DuckDB, so a flag present in only one of them leaves the
 other silently contaminated -- and, worse, makes 12_gva.sql reference a column
@@ -123,6 +133,9 @@ def main() -> int:
     if not args.dry_run and not args.skip_postgres:
         _flag_postgres()
 
+    if not args.dry_run:
+        _null_flagged(duckdb.connect(DB, read_only=False))
+
     if args.dry_run:
         print("\n--dry-run: nothing written")
     else:
@@ -130,6 +143,38 @@ def main() -> int:
         print("consumers should filter on `filing_suspect is not true`")
     con.close()
     return 0
+
+
+MONEY = ("turnover", "staff_costs", "operating_profit", "depreciation", "gross_profit",
+         "total_assets", "net_assets", "profit_loss")
+
+
+def _null_flagged(con) -> None:
+    """Null every monetary figure on a flagged filing, preserving the originals."""
+    con.execute("""create table if not exists data_quality_corrections(
+                     source_table varchar, company_number varchar, period_end date,
+                     field varchar, original_value bigint, reason varchar, corrected_on date)""")
+    total = 0
+    for t in TABLES:
+        cols = {r[0] for r in con.execute(
+            "select column_name from information_schema.columns where table_name = ?", [t]).fetchall()}
+        if "filing_suspect" not in cols:
+            continue
+        for f in MONEY:
+            if f not in cols:
+                continue
+            n = con.execute(f"select count(*) from {t} where filing_suspect and {f} is not null").fetchone()[0]
+            if not n:
+                continue
+            con.execute(f"""insert into data_quality_corrections
+                            select '{t}', company_number, period_end, '{f}',
+                                   try_cast({f} as bigint),
+                                   'false filing: every monetary figure unreliable', current_date
+                            from {t} where filing_suspect and {f} is not null""")
+            con.execute(f"update {t} set {f} = null where filing_suspect")
+            total += n
+    print(f"  nulled {total} monetary values on flagged filings (originals preserved)")
+    con.close()
 
 
 def _flag_postgres() -> None:
