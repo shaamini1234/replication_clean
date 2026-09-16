@@ -1,0 +1,60 @@
+ftse_name,company_number,resolution_source,source_status,basis
+Abrdn,SC082015,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+African Barrick Gold,07123187,prior:ch_crosswalk_adjudicated.csv,ACCEPTED_BATCH_A,adjudicated name-to-number match carried from prior review
+Alliance Unichem,02517178,prior:ch_crosswalk_adjudicated.csv,ACCEPTED_BATCH_A,adjudicated name-to-number match carried from prior review
+Amlin,02854310,prior:ch_crosswalk_adjudicated.csv,ACCEPTED_BATCH_A,adjudicated name-to-number match carried from prior review
+Autonomy Corporation,03175909,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+BET,00049855,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+BG Group,03690065,canonical_database,UNRESOLVED,matched on company_name or former_names in the project's own curated record
+BPB Industries,00147271,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+BTR,00057410,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+Berkeley Group Holdings,05172586,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+Blue Circle Industries,00066558,prior:ch_crosswalk_adjudicated.csv,ACCEPTED_BATCH_A,adjudicated name-to-number match carried from prior review
+Bowater Corporation,00191285,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+Brambles Industries,04134697,prior:ch_crosswalk_adjudicated.csv,ACCEPTED_BATCH_A,adjudicated name-to-number match carried from prior review
+British & Commonwealth,00556729,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+British Home Stores,00229606,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+Burmah Castrol,SC005098,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+Burton Group,00237511,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+Cobham,00030470,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+Colt Telecom Group,03232904,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+DSG International,03847921,prior:ch_crosswalk_adjudicated.csv,ACCEPTED_BATCH_A,adjudicated name-to-number match carried from prior review
+Dixons Carphone,07105905,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+Electrocomponents,00647788,prior:ch_map.csv,CONFIRMED,adjudicated name-to-number match carried from prior review
+Energy Group,03613919,ftse100_consolidated,,matched on company_name or former_names in the project's own curated record
+Eurasian Natural Resources,06023510,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+Ferranti International,00083718,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+First Group,SC157176,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+Friends Provident,04113107,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+GUS,00146575,prior:ch_crosswalk_adjudicated.csv,ACCEPTED_BATCH_B,adjudicated name-to-number match carried from prior review
+GVC Holdings,FC037925,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+Granada Compass,04083914,prior:ch_map.csv,CONFIRMED,adjudicated name-to-number match carried from prior review
+Hambro Life,00865292,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+Hanson,00488067,prior:ch_crosswalk_adjudicated.csv,ACCEPTED_BATCH_B,adjudicated name-to-number match carried from prior review
+Hikma Pharmaceuticals,05557934,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+ICAP,03611426,prior:ch_crosswalk_adjudicated.csv,ACCEPTED_BATCH_B,adjudicated name-to-number match carried from prior review
+Innogy Holdings,03892782,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+Invesco Plc,00308372,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+Ladbrokes,00566221,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+Lonmin,00103002,prior:ch_crosswalk_adjudicated.csv,ACCEPTED_BATCH_B,adjudicated name-to-number match carried from prior review
+Man Group,02921462,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+Misys,01360027,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+Nycomed Amersham,01002610,prior:ch_crosswalk_adjudicated.csv,ACCEPTED_BATCH_B,adjudicated name-to-number match carried from prior review
+Old Mutual,03591559,prior:ch_crosswalk_adjudicated.csv,ACCEPTED_BATCH_B,adjudicated name-to-number match carried from prior review
+Paddy Power Betfair,06489716,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+Plessey Co,00203848,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+Polymetal International,,NOT_UK,Agent 2026-07-20; Jersey reg 106196 (AIX prospectus: 'incorporated und,no UK Companies House registration exists for this constituent
+Provident Financial,00668987,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+Randgold Resources,,NOT_UK,Agent 2026-07-20; Jersey reg 62686 (SEC 6-K header states 'Incorporate,no UK Companies House registration exists for this constituent
+Resolution,,NOT_UK,Agent 2026-07-20; DIFFERENT company from Resolution Plc: Guernsey reg ,no UK Companies House registration exists for this constituent
+Rowntree,00051491,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+Scottish & Southern Energy,SC117119,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+Siebe,00166023,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+South African Breweries,03528416,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+TSB Group,SC095000,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+Taylor Woodrow,00296805,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+Unite Group,03199160,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+United News & Media,00152298,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+Willis Corroon,01386469,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+Wimpey (George) & Co,01397926,canonical_database,verified,matched on company_name or former_names in the project's own curated record
+Worldpay Group,08762327,canonical_database,verified,matched on company_name or former_names in the project's own curated record

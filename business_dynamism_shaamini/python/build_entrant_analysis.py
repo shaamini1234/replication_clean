@@ -70,6 +70,16 @@ info=con.execute("""SELECT DISTINCT company_number, incorporation_date, company_
 info["company_number"]=info["company_number"].replace(remap)
 info=info.drop_duplicates("company_number").set_index("company_number")
 f=first.join(info)
+# ftse100_consolidated covers 316 companies; ftse100_membership has 372, so 78
+# constituents can never receive an incorporation date from that join and fall
+# out as unknown_age. Those dates were fetched directly from Companies House
+# (fetch_ftse_incorporation_dates.py) and are read here as well.
+_INC=os.path.join(REPO,"source_inputs","ftse_incorporation_dates.csv")
+if os.path.exists(_INC):
+    _d=pd.read_csv(_INC, dtype=str).drop_duplicates("company_number").set_index("company_number")
+    _fill=_d["incorporation_date"].to_dict()
+    f["incorporation_date"]=[cur if pd.notna(cur) else _fill.get(cn)
+                             for cn, cur in zip(f.index, f["incorporation_date"])]
 f["incorp_year"]=f["incorporation_date"].map(yr)
 # An operating-birth override wins over the registered incorporation date: the
 # question is how old the BUSINESS was at index entry, not its current holdco.

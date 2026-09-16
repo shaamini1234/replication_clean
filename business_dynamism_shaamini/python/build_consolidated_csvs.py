@@ -122,6 +122,23 @@ spine = (pd.DataFrame({"cn": ftse_cns})
          .merge(reg, on="cn", how="left"))
 # fill primary spine fields from the register where firm_master lacked them
 spine["incorporation_date"] = spine["incorporation_date"].fillna(spine["reg_incorporation_date"])
+
+# Third source: incorporation dates fetched directly from Companies House for
+# constituents that appear in neither firm_master nor the bulk register --
+# mostly companies dissolved long before the current snapshot. Without these
+# they carry an identity but no birth date, so age at index entry is
+# incomputable and they fall out of the entrant classification as unknown_age.
+_inc = os.path.join(SRC, "ftse_incorporation_dates.csv")
+if os.path.exists(_inc):
+    _d = pd.read_csv(_inc, dtype=str)[["company_number", "incorporation_date"]]
+    _d = _d.rename(columns={"company_number": "cn", "incorporation_date": "ch_incorporation_date"})
+    _d["ch_incorporation_date"] = pd.to_datetime(_d["ch_incorporation_date"], errors="coerce")
+    spine = spine.merge(_d.drop_duplicates("cn"), on="cn", how="left")
+    _before = spine["incorporation_date"].isna().sum()
+    spine["incorporation_date"] = spine["incorporation_date"].fillna(spine["ch_incorporation_date"])
+    print(f"  incorporation dates filled from Companies House: "
+          f"{_before - spine['incorporation_date'].isna().sum()}")
+    spine = spine.drop(columns=["ch_incorporation_date"])
 spine["company_status"]     = spine["company_status"].fillna(spine["reg_company_status"])
 spine["death_date"]         = spine["death_date"].fillna(spine["reg_dissolution_date"])
 spine["sic_desc"]           = spine["sic_desc"].fillna(spine["sic_1"])
